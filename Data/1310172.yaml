@@ -1,0 +1,2170 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2022-05-10'
+  gender: male
+  match_type: T20
+  match_type_number: 1524
+  outcome:
+    winner: Hungary
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - HV Mandhyan
+  players:
+    Gibraltar:
+    - BA Pai
+    - M Gouws
+    - L Bruce
+    - KJ Ferrary
+    - A Reyes
+    - K Nestor
+    - M Whelan
+    - RJ Hatchman
+    - S Bodha
+    - J Marples
+    - N Advani
+    Hungary:
+    - Khaibar Deldar
+    - Abhijeet Ahuja
+    - Zahir Mohammed
+    - Abhishek Ahuja
+    - HV Mandhyan
+    - A Kheterpal
+    - Ali Farasat
+    - AG Weligamage
+    - Akramullah Malikzada
+    - SA Mohandas
+    - BP Adapaka
+  registry:
+    people:
+      A Kheterpal: 2deb4082
+      A Reyes: fd2b8c06
+      AG Weligamage: 747209e0
+      Abhijeet Ahuja: b91083bd
+      Abhishek Ahuja: 65cf74b4
+      Akramullah Malikzada: dd3df124
+      Ali Farasat: 5845b99b
+      BA Pai: 716bf559
+      BP Adapaka: e6082b10
+      HV Mandhyan: 11f56b14
+      J Marples: 9d75aec7
+      K Nestor: b89cde87
+      KJ Ferrary: 81898acc
+      Khaibar Deldar: 032c7eab
+      L Bruce: 2a03bd2f
+      M Gouws: '018f6488'
+      M Whelan: d613f046
+      N Advani: e4f6147b
+      R Sivanadian: 6100086b
+      RJ Hatchman: 01c05b6c
+      S Bodha: 00467a76
+      SA Mohandas: 8b0b3bba
+      SN Anand: ab3d6059
+      T Wheeler: f4d1ecae
+      Zahir Mohammed: 7c38942a
+  teams:
+  - Gibraltar
+  - Hungary
+  toss:
+    winner: Hungary
+    decision: field
+  umpires:
+  - SN Anand
+  - T Wheeler
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Gouws
+        batsman: BA Pai
+    - 0.2:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Gouws
+        batsman: BA Pai
+    - 0.3:
+        non_striker: BA Pai
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 0.4:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 0.5:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 0.6:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - Abhishek Ahuja
+          kind: caught
+    - 1.1:
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: L Bruce
+        batsman: M Gouws
+    - 1.2:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.3:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.4:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.5:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 1.6:
+        non_striker: L Bruce
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gouws
+    - 2.1:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.2:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 2.3:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.4:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.5:
+        non_striker: M Gouws
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.6:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 3.1:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 3.2:
+        non_striker: L Bruce
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 3.3:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 3.4:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 3.5:
+        non_striker: L Bruce
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Gouws
+    - 3.6:
+        non_striker: M Gouws
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 4.1:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gouws
+    - 4.2:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 4.3:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gouws
+    - 4.4:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gouws
+    - 4.5:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 4.6:
+        non_striker: L Bruce
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+        wicket:
+          player_out: M Gouws
+          fielders:
+          - Akramullah Malikzada
+          kind: caught
+    - 5.1:
+        bowler: A Kheterpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: KJ Ferrary
+        batsman: L Bruce
+    - 5.2:
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ Ferrary
+        batsman: L Bruce
+    - 5.3:
+        non_striker: L Bruce
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 5.4:
+        non_striker: L Bruce
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 5.5:
+        non_striker: L Bruce
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 5.6:
+        non_striker: L Bruce
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 5.7:
+        non_striker: L Bruce
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 6.1:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - Abhijeet Ahuja
+          kind: caught
+    - 6.2:
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Reyes
+        batsman: KJ Ferrary
+    - 6.3:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 6.4:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 6.5:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 6.6:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 6.7:
+        non_striker: A Reyes
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 7.1:
+        non_striker: KJ Ferrary
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 7.2:
+        non_striker: A Reyes
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 7.3:
+        non_striker: A Reyes
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 7.4:
+        non_striker: A Reyes
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 7.5:
+        non_striker: A Reyes
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 7.6:
+        non_striker: KJ Ferrary
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 8.1:
+        non_striker: A Reyes
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 8.2:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Reyes
+    - 8.3:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Reyes
+    - 8.4:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 8.5:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 8.6:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 8.7:
+        non_striker: KJ Ferrary
+        bowler: Khaibar Deldar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 9.1:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Ferrary
+    - 9.2:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 9.3:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 9.4:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 9.5:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 9.6:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 9.7:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.1:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 10.2:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 10.3:
+        non_striker: KJ Ferrary
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 10.4:
+        non_striker: KJ Ferrary
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 10.5:
+        non_striker: KJ Ferrary
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 10.6:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 10.7:
+        non_striker: KJ Ferrary
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 11.1:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 11.2:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 11.3:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 11.4:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 11.5:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Reyes
+    - 11.6:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 11.7:
+        non_striker: KJ Ferrary
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 11.8:
+        non_striker: A Reyes
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+        wicket:
+          player_out: KJ Ferrary
+          fielders:
+          - Zahir Mohammed
+          kind: caught
+    - 12.1:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 12.2:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 12.3:
+        non_striker: K Nestor
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 12.4:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 12.5:
+        non_striker: K Nestor
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 12.6:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 13.1:
+        non_striker: K Nestor
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 13.2:
+        non_striker: K Nestor
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 13.3:
+        non_striker: K Nestor
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 13.4:
+        non_striker: A Reyes
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 13.5:
+        non_striker: K Nestor
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 13.6:
+        non_striker: K Nestor
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Reyes
+    - 14.1:
+        non_striker: K Nestor
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 14.2:
+        non_striker: K Nestor
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 14.3:
+        non_striker: K Nestor
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 14.4:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          kind: lbw
+    - 14.5:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Whelan
+    - 14.6:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Whelan
+    - 14.7:
+        non_striker: A Reyes
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 15.1:
+        non_striker: A Reyes
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Whelan
+    - 15.2:
+        non_striker: M Whelan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 15.3:
+        non_striker: A Reyes
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 15.4:
+        non_striker: M Whelan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 15.5:
+        non_striker: A Reyes
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Whelan
+    - 15.6:
+        non_striker: A Reyes
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Whelan
+        wicket:
+          player_out: M Whelan
+          fielders:
+          - Abhishek Ahuja
+          kind: caught
+    - 16.1:
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RJ Hatchman
+        batsman: A Reyes
+    - 16.2:
+        non_striker: A Reyes
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 16.3:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+        wicket:
+          player_out: A Reyes
+          kind: bowled
+    - 16.4:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bodha
+    - 16.5:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+    - 16.6:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.1:
+        non_striker: RJ Hatchman
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bodha
+    - 17.2:
+        non_striker: S Bodha
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Hatchman
+    - 17.3:
+        non_striker: S Bodha
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Hatchman
+    - 17.4:
+        non_striker: S Bodha
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RJ Hatchman
+    - 17.5:
+        non_striker: RJ Hatchman
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bodha
+        wicket:
+          player_out: S Bodha
+          fielders:
+          - HV Mandhyan
+          kind: caught
+    - 17.6:
+        non_striker: J Marples
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 18.1:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Marples
+    - 18.2:
+        non_striker: J Marples
+        bowler: A Kheterpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RJ Hatchman
+    - 18.3:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 18.4:
+        non_striker: J Marples
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 18.5:
+        non_striker: RJ Hatchman
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 18.6:
+        non_striker: J Marples
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 19.1:
+        non_striker: J Marples
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Hatchman
+    - 19.2:
+        non_striker: RJ Hatchman
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Marples
+    - 19.3:
+        non_striker: J Marples
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 19.4:
+        non_striker: J Marples
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RJ Hatchman
+    - 19.5:
+        non_striker: J Marples
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RJ Hatchman
+    - 19.6:
+        non_striker: RJ Hatchman
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Marples
+- 2nd innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.2:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.3:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.4:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.5:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhijeet Ahuja
+    - 0.6:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 1.1:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 1.2:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khaibar Deldar
+    - 1.3:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 1.4:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 1.5:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 1.6:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 1.7:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 2.1:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 2.2:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhijeet Ahuja
+    - 2.3:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 2.4:
+        non_striker: Khaibar Deldar
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 2.5:
+        non_striker: Abhijeet Ahuja
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 2.6:
+        non_striker: Abhijeet Ahuja
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaibar Deldar
+    - 2.7:
+        non_striker: Abhijeet Ahuja
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 3.1:
+        non_striker: Khaibar Deldar
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 3.2:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 3.3:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+        wicket:
+          player_out: Khaibar Deldar
+          fielders:
+          - K Nestor
+          kind: caught
+    - 3.4:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 3.5:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 3.6:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 4.1:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 4.2:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 4.3:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zahir Mohammed
+    - 4.4:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 4.5:
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 4.6:
+        non_striker: Abhijeet Ahuja
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 5.1:
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.2:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.3:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.4:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.5:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.6:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 5.7:
+        non_striker: Abhijeet Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 6.1:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zahir Mohammed
+        batsman: Abhijeet Ahuja
+    - 6.2:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          fielders:
+          - M Whelan
+          kind: caught
+    - 6.3:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 6.4:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 6.5:
+        non_striker: Abhijeet Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 6.6:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 7.1:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 7.2:
+        non_striker: Abhijeet Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 7.3:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhijeet Ahuja
+    - 7.4:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 7.5:
+        non_striker: Abhijeet Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 7.6:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 7.7:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 8.1:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 8.2:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+        wicket:
+          player_out: Abhijeet Ahuja
+          fielders:
+          - BA Pai
+          kind: caught
+    - 8.3:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Mandhyan
+    - 8.4:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 8.5:
+        non_striker: Abhishek Ahuja
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 8.6:
+        non_striker: HV Mandhyan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 9.1:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 9.2:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 9.3:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 9.4:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 9.5:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 9.6:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 10.1:
+        non_striker: HV Mandhyan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Ahuja
+    - 10.2:
+        non_striker: HV Mandhyan
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 10.3:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Mandhyan
+    - 10.4:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 10.5:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 10.6:
+        non_striker: Abhishek Ahuja
+        bowler: BA Pai
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: HV Mandhyan
+    - 11.1:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 11.2:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 11.3:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Mandhyan
+    - 11.4:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 11.5:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 11.6:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 12.1:
+        non_striker: Abhishek Ahuja
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 12.2:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 12.3:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 12.4:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 12.5:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 12.6:
+        non_striker: Abhishek Ahuja
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 13.1:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 13.2:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Ahuja
+    - 13.3:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Ahuja
+    - 13.4:
+        non_striker: HV Mandhyan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 13.5:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Mandhyan
+    - 13.6:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 13.7:
+        non_striker: Abhishek Ahuja
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 14.1:
+        non_striker: Abhishek Ahuja
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 14.2:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 14.3:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Ahuja
+    - 14.4:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 14.5:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Ahuja
+    - 14.6:
+        non_striker: Abhishek Ahuja
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 15.1:
+        non_striker: HV Mandhyan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+        wicket:
+          player_out: Abhishek Ahuja
+          fielders:
+          - M Whelan
+          kind: caught
+    - 15.2:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kheterpal
+        batsman: HV Mandhyan
+    - 15.3:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Kheterpal
+        batsman: HV Mandhyan
+    - 15.4:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kheterpal
+        batsman: HV Mandhyan
+    - 15.5:
+        non_striker: HV Mandhyan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 15.6:
+        non_striker: HV Mandhyan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 16.1:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 16.2:
+        non_striker: HV Mandhyan
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 16.3:
+        non_striker: A Kheterpal
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+        wicket:
+          player_out: HV Mandhyan
+          fielders:
+          - J Marples
+          kind: caught
+    - 16.4:
+        non_striker: A Kheterpal
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 16.5:
+        non_striker: A Kheterpal
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 16.6:
+        non_striker: Ali Farasat
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 17.1:
+        non_striker: Ali Farasat
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kheterpal
+    - 17.2:
+        non_striker: Ali Farasat
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 17.3:
+        non_striker: Ali Farasat
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 17.4:
+        non_striker: A Kheterpal
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 17.5:
+        non_striker: Ali Farasat
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+        wicket:
+          player_out: Ali Farasat
+          fielders:
+          - L Bruce
+          - KJ Ferrary
+          kind: run out
+    - 17.6:
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AG Weligamage
+        batsman: A Kheterpal
+    - 17.7:
+        non_striker: AG Weligamage
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 18.1:
+        non_striker: AG Weligamage
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 18.2:
+        non_striker: A Kheterpal
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 18.3:
+        non_striker: AG Weligamage
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kheterpal
+    - 18.4:
+        non_striker: AG Weligamage
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal

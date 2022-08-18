@@ -1,0 +1,2068 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Almeria
+  dates:
+  - '2021-10-16'
+  gender: male
+  match_type: T20
+  match_type_number: 1303
+  outcome:
+    winner: Jersey
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - B Ward
+  players:
+    Jersey:
+    - H Carlyon
+    - NJ Ferraby
+    - ZM Tribe
+    - JW Jenner
+    - AM Tribe
+    - B Ward
+    - J Sumerauer
+    - DG Blampied
+    - JE Dunford
+    - RJG Palmer
+    - CW Perchard
+    Italy:
+    - NL Smith
+    - BBJL Perera
+    - GP Meade
+    - J Grassi
+    - GK Berg
+    - G Stewart
+    - Manpreet Singh
+    - MGSM Fernando
+    - JW Dernbach
+    - Jaspreet Singh
+    - DKD Warnakulasuriya
+  registry:
+    people:
+      AM Tribe: 86f84b37
+      B Ward: 9e0bd203
+      BBJL Perera: c8c9d60b
+      CW Perchard: 9f998ed8
+      DA Haggo: e6789a88
+      DG Blampied: d8976cb7
+      DKD Warnakulasuriya: 832b77c6
+      G McCrea: 46f4a901
+      G Stewart: a77472dc
+      GK Berg: '42151725'
+      GP Meade: 3957a70a
+      H Carlyon: 42bf1b7d
+      HE Kearns: fd4959c8
+      J Grassi: 913b4b9f
+      J Sumerauer: 0b581ed6
+      JE Dunford: 89a7dd4a
+      JW Dernbach: 7be8a0ed
+      JW Jenner: 32a8161e
+      Jaspreet Singh: d76ab352
+      MGSM Fernando: 658c2e71
+      Manpreet Singh: e9d6a2ce
+      N Bathi: 96a0edf9
+      NJ Ferraby: c149b9ca
+      NL Smith: 547408c8
+      RJG Palmer: bc6f8328
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Italy
+  toss:
+    winner: Jersey
+    decision: bat
+  umpires:
+  - DA Haggo
+  - HE Kearns
+  venue: Desert Springs Cricket Ground, Almeria
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NJ Ferraby
+        batsman: H Carlyon
+    - 0.2:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Ferraby
+    - 0.3:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NJ Ferraby
+    - 0.4:
+        non_striker: NJ Ferraby
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 0.5:
+        non_striker: NJ Ferraby
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 0.6:
+        non_striker: NJ Ferraby
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.1:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Ferraby
+    - 1.2:
+        non_striker: NJ Ferraby
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 1.3:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Ferraby
+    - 1.4:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Ferraby
+        wicket:
+          player_out: NJ Ferraby
+          fielders:
+          - DKD Warnakulasuriya
+          kind: caught
+    - 1.5:
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: ZM Tribe
+        batsman: H Carlyon
+    - 1.6:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 2.1:
+        non_striker: ZM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 2.2:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 2.3:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 2.4:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 2.5:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 2.6:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 3.1:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 3.2:
+        non_striker: ZM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 3.3:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 3.4:
+        non_striker: ZM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.5:
+        non_striker: ZM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.6:
+        non_striker: ZM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 4.1:
+        non_striker: ZM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 4.2:
+        non_striker: ZM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 4.3:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 4.4:
+        non_striker: ZM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 4.5:
+        non_striker: ZM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Carlyon
+    - 4.6:
+        non_striker: H Carlyon
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.1:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.2:
+        non_striker: ZM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Carlyon
+    - 5.3:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 5.4:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 5.5:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 5.6:
+        non_striker: H Carlyon
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.1:
+        non_striker: ZM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 6.2:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 6.3:
+        non_striker: ZM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 6.4:
+        non_striker: ZM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 6.5:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZM Tribe
+    - 6.6:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 6.7:
+        non_striker: ZM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Carlyon
+    - 7.1:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 7.2:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 7.3:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.4:
+        non_striker: ZM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.5:
+        non_striker: ZM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 7.6:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.1:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.2:
+        non_striker: ZM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 8.3:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZM Tribe
+    - 8.4:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 8.5:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 8.6:
+        non_striker: H Carlyon
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          fielders:
+          - NL Smith
+          kind: caught
+    - 8.7:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 9.1:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 9.2:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 9.3:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 9.4:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 9.5:
+        non_striker: H Carlyon
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 9.6:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 10.1:
+        non_striker: JW Jenner
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 10.2:
+        non_striker: H Carlyon
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 10.3:
+        non_striker: JW Jenner
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 10.4:
+        non_striker: JW Jenner
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 10.5:
+        non_striker: JW Jenner
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - NL Smith
+          kind: caught
+    - 10.6:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.1:
+        non_striker: AM Tribe
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Jenner
+    - 11.2:
+        non_striker: AM Tribe
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.3:
+        non_striker: JW Jenner
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 11.4:
+        non_striker: JW Jenner
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 11.5:
+        non_striker: AM Tribe
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 11.6:
+        non_striker: AM Tribe
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.1:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 12.2:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.3:
+        non_striker: JW Jenner
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 12.4:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 12.5:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 12.6:
+        non_striker: AM Tribe
+        bowler: MGSM Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 13.1:
+        non_striker: AM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 13.2:
+        non_striker: AM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 13.3:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 13.4:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 13.5:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Tribe
+    - 13.6:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 13.7:
+        non_striker: JW Jenner
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.1:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.2:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 14.3:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 14.4:
+        non_striker: JW Jenner
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 14.5:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 14.6:
+        non_striker: AM Tribe
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          kind: bowled
+    - 15.1:
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Ward
+        batsman: AM Tribe
+    - 15.2:
+        non_striker: AM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.3:
+        non_striker: B Ward
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 15.4:
+        non_striker: B Ward
+        bowler: GP Meade
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Tribe
+    - 15.5:
+        non_striker: AM Tribe
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.6:
+        non_striker: B Ward
+        bowler: GP Meade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 16.1:
+        non_striker: AM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 16.2:
+        non_striker: AM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 16.3:
+        non_striker: B Ward
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 16.4:
+        non_striker: AM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 16.5:
+        non_striker: B Ward
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 16.6:
+        non_striker: AM Tribe
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 17.1:
+        non_striker: AM Tribe
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Ward
+    - 17.2:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - Jaspreet Singh
+          kind: caught
+    - 17.3:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Sumerauer
+        batsman: B Ward
+    - 17.4:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Sumerauer
+        batsman: B Ward
+    - 17.5:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Sumerauer
+        batsman: B Ward
+    - 17.6:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 18.1:
+        non_striker: J Sumerauer
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 18.2:
+        non_striker: J Sumerauer
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 18.3:
+        non_striker: B Ward
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 18.4:
+        non_striker: J Sumerauer
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 18.5:
+        non_striker: J Sumerauer
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 18.6:
+        non_striker: J Sumerauer
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 19.1:
+        non_striker: J Sumerauer
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 19.2:
+        non_striker: J Sumerauer
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 19.3:
+        non_striker: J Sumerauer
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 19.4:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 19.5:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 19.6:
+        non_striker: B Ward
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BBJL Perera
+        batsman: NL Smith
+    - 0.2:
+        non_striker: NL Smith
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BBJL Perera
+    - 0.3:
+        non_striker: NL Smith
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 0.4:
+        non_striker: NL Smith
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 0.5:
+        non_striker: NL Smith
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 0.6:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Smith
+    - 1.1:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Smith
+    - 1.2:
+        non_striker: NL Smith
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 1.3:
+        non_striker: NL Smith
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 1.4:
+        non_striker: NL Smith
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 1.5:
+        non_striker: NL Smith
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 1.6:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Smith
+    - 2.1:
+        non_striker: NL Smith
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 2.2:
+        non_striker: NL Smith
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 2.3:
+        non_striker: NL Smith
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 2.4:
+        non_striker: NL Smith
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 2.5:
+        non_striker: BBJL Perera
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NL Smith
+    - 2.6:
+        non_striker: BBJL Perera
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Smith
+    - 3.1:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NL Smith
+        wicket:
+          player_out: NL Smith
+          kind: lbw
+    - 3.2:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 3.3:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 3.4:
+        non_striker: GP Meade
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 3.5:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 3.6:
+        non_striker: GP Meade
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 4.1:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 4.2:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 4.3:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 4.4:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 4.5:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          kind: caught and bowled
+    - 4.6:
+        non_striker: BBJL Perera
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 5.1:
+        non_striker: J Grassi
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 5.2:
+        non_striker: J Grassi
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 5.3:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 5.4:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 5.5:
+        non_striker: BBJL Perera
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 5.6:
+        non_striker: J Grassi
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 6.1:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Grassi
+    - 6.2:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Grassi
+    - 6.3:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 6.4:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 6.5:
+        non_striker: J Grassi
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BBJL Perera
+    - 6.6:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 6.7:
+        non_striker: BBJL Perera
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 7.1:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+    - 7.2:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BBJL Perera
+    - 7.3:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BBJL Perera
+        wicket:
+          player_out: BBJL Perera
+          kind: bowled
+    - 7.4:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 7.5:
+        non_striker: GK Berg
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 7.6:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 8.1:
+        non_striker: J Grassi
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+    - 8.2:
+        non_striker: J Grassi
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Berg
+    - 8.3:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+    - 8.4:
+        non_striker: GK Berg
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 8.5:
+        non_striker: J Grassi
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GK Berg
+    - 8.6:
+        non_striker: J Grassi
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Berg
+        wicket:
+          player_out: GK Berg
+          fielders:
+          - H Carlyon
+          kind: caught
+    - 9.1:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Stewart
+        batsman: J Grassi
+    - 9.2:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Stewart
+        batsman: J Grassi
+    - 9.3:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          kind: bowled
+    - 9.4:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 9.5:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 9.6:
+        non_striker: J Grassi
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 10.2:
+        non_striker: J Grassi
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.3:
+        non_striker: J Grassi
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.4:
+        non_striker: Manpreet Singh
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 10.5:
+        non_striker: J Grassi
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.6:
+        non_striker: Manpreet Singh
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Grassi
+    - 11.1:
+        non_striker: J Grassi
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.2:
+        non_striker: Manpreet Singh
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 11.3:
+        non_striker: J Grassi
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: Manpreet Singh
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 11.5:
+        non_striker: J Grassi
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.6:
+        non_striker: J Grassi
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 12.1:
+        non_striker: Manpreet Singh
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Grassi
+    - 12.2:
+        non_striker: Manpreet Singh
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grassi
+    - 12.3:
+        non_striker: J Grassi
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.4:
+        non_striker: Manpreet Singh
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+        wicket:
+          player_out: J Grassi
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 12.5:
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MGSM Fernando
+        batsman: Manpreet Singh
+    - 12.6:
+        non_striker: MGSM Fernando
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 13.1:
+        non_striker: Manpreet Singh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MGSM Fernando
+    - 13.2:
+        non_striker: Manpreet Singh
+        bowler: B Ward
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MGSM Fernando
+    - 13.3:
+        non_striker: Manpreet Singh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGSM Fernando
+    - 13.4:
+        non_striker: MGSM Fernando
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 13.5:
+        non_striker: Manpreet Singh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MGSM Fernando
+    - 13.6:
+        non_striker: Manpreet Singh
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGSM Fernando
+    - 14.1:
+        non_striker: Manpreet Singh
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGSM Fernando
+    - 14.2:
+        non_striker: MGSM Fernando
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 14.3:
+        non_striker: MGSM Fernando
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 14.4:
+        non_striker: Manpreet Singh
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MGSM Fernando
+        wicket:
+          player_out: MGSM Fernando
+          fielders:
+          - B Ward
+          - JE Dunford
+          kind: run out
+    - 14.5:
+        non_striker: Manpreet Singh
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Dernbach
+    - 14.6:
+        non_striker: Manpreet Singh
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Dernbach
+    - 15.1:
+        non_striker: JW Dernbach
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.2:
+        non_striker: JW Dernbach
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.3:
+        non_striker: Manpreet Singh
+        bowler: RJG Palmer
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JW Dernbach
+    - 15.4:
+        non_striker: JW Dernbach
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 15.5:
+        non_striker: Manpreet Singh
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Dernbach
+    - 15.6:
+        non_striker: Manpreet Singh
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Dernbach
+    - 15.7:
+        non_striker: JW Dernbach
+        bowler: RJG Palmer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 16.1:
+        non_striker: JW Dernbach
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 16.2:
+        non_striker: JW Dernbach
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - J Sumerauer
+          kind: run out
+    - 16.3:
+        non_striker: JW Dernbach
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 16.4:
+        non_striker: JW Dernbach
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 16.5:
+        non_striker: JW Dernbach
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+        wicket:
+          player_out: Jaspreet Singh
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 16.6:
+        non_striker: DKD Warnakulasuriya
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Dernbach
+    - 17.1:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKD Warnakulasuriya
+    - 17.2:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKD Warnakulasuriya
+    - 17.3:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DKD Warnakulasuriya
+    - 17.4:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DKD Warnakulasuriya
+    - 17.5:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKD Warnakulasuriya
+    - 17.6:
+        non_striker: JW Dernbach
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DKD Warnakulasuriya
+    - 17.7:
+        non_striker: DKD Warnakulasuriya
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Dernbach
+    - 18.1:
+        non_striker: JW Dernbach
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DKD Warnakulasuriya
+    - 18.2:
+        non_striker: DKD Warnakulasuriya
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Dernbach
+        wicket:
+          player_out: JW Dernbach
+          kind: bowled

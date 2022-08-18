@@ -1,0 +1,1623 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-06-09'
+  gender: female
+  match_type: T20
+  match_type_number: 1095
+  outcome:
+    winner: Nigeria
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - F Eseigbe
+  players:
+    Brazil:
+    - D Staddon
+    - E de Souza
+    - LV Boas
+    - RMAM Avery
+    - L Agatha
+    - RD de Sousa
+    - M Artur
+    - MLG Silva
+    - NC Monteiro
+    - M Ribeiro
+    - CS Nascimento
+    Nigeria:
+    - K Abdulquadri
+    - E Sandy
+    - A Obulor
+    - S Sunday
+    - A Igbobie
+    - F Eseigbe
+    - R Samson
+    - M Imimole
+    - B Etim
+    - L Udeh
+    - R Abdulrasak
+  registry:
+    people:
+      A Igbobie: 8e75f2c7
+      A Obulor: abba64cd
+      B Etim: 11d0079f
+      CS Nascimento: df997334
+      D Staddon: 4a28527d
+      E Sandy: 59063d6b
+      E de Souza: 7c68aac4
+      F Eseigbe: 292d11ee
+      Gaston Niyibizi: eb99c84c
+      Itangishaka Olivier: 0ee3bb49
+      K Abdulquadri: 87dcd3ee
+      L Agatha: 1aebb2fa
+      L Udeh: 8451562a
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Imimole: 15d6ef32
+      M Ribeiro: 38424a4d
+      MLG Silva: 3b62a6b4
+      NC Monteiro: 752af5a4
+      R Abdulrasak: 65c9fc31
+      R Samson: e63c08e9
+      RD de Sousa: 2901e489
+      RMAM Avery: 4cf645c9
+      S Sunday: 594a0dec
+      Vicky Prajapati: 8926ed4e
+  teams:
+  - Brazil
+  - Nigeria
+  toss:
+    winner: Nigeria
+    decision: field
+  umpires:
+  - Gaston Niyibizi
+  - Vicky Prajapati
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.2:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.3:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.4:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.5:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.6:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.7:
+        non_striker: D Staddon
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 1.1:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 1.2:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+        wicket:
+          player_out: D Staddon
+          kind: bowled
+    - 1.3:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 1.4:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 1.5:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 1.6:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.1:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E de Souza
+    - 2.2:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.3:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.4:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.5:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 2.6:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          kind: lbw
+    - 3.1:
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: E de Souza
+    - 3.2:
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: E de Souza
+    - 3.3:
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: E de Souza
+    - 3.4:
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RMAM Avery
+        batsman: E de Souza
+    - 3.5:
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RMAM Avery
+        batsman: E de Souza
+    - 3.6:
+        non_striker: E de Souza
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 4.1:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E de Souza
+    - 4.2:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 4.3:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: E de Souza
+    - 4.4:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 4.5:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E de Souza
+    - 4.6:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E de Souza
+    - 4.7:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 4.8:
+        non_striker: E de Souza
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 5.1:
+        non_striker: RMAM Avery
+        bowler: R Samson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E de Souza
+    - 5.2:
+        non_striker: RMAM Avery
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E de Souza
+    - 5.3:
+        non_striker: E de Souza
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          kind: lbw
+    - 5.4:
+        non_striker: E de Souza
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 5.5:
+        non_striker: E de Souza
+        bowler: R Samson
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: L Agatha
+    - 5.6:
+        non_striker: E de Souza
+        bowler: R Samson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Agatha
+    - 5.7:
+        non_striker: L Agatha
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 5.8:
+        non_striker: L Agatha
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 6.1:
+        non_striker: E de Souza
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 6.2:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 6.3:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 6.4:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 6.5:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E de Souza
+    - 6.6:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E de Souza
+    - 6.7:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 6.8:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+        wicket:
+          player_out: E de Souza
+          fielders:
+          - A Obulor
+          kind: caught
+    - 7.1:
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RD de Sousa
+        batsman: L Agatha
+    - 7.2:
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RD de Sousa
+        batsman: L Agatha
+    - 7.3:
+        non_striker: RD de Sousa
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          kind: bowled
+    - 7.4:
+        non_striker: RD de Sousa
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 7.5:
+        non_striker: RD de Sousa
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 7.6:
+        non_striker: RD de Sousa
+        bowler: R Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Artur
+    - 8.1:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 8.2:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 8.3:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+        wicket:
+          player_out: M Artur
+          kind: bowled
+    - 8.4:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 8.5:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 8.6:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+    - 9.1:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 9.2:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 9.3:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 9.4:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 9.5:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 9.6:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 9.7:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 9.8:
+        non_striker: MLG Silva
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 10.1:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MLG Silva
+    - 10.2:
+        non_striker: MLG Silva
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 10.3:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          fielders:
+          - E Sandy
+          kind: caught
+    - 10.4:
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NC Monteiro
+        batsman: RD de Sousa
+    - 10.5:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 10.6:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 11.1:
+        non_striker: RD de Sousa
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 11.2:
+        non_striker: RD de Sousa
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 11.3:
+        non_striker: RD de Sousa
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 11.4:
+        non_striker: RD de Sousa
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 11.5:
+        non_striker: NC Monteiro
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 11.6:
+        non_striker: NC Monteiro
+        bowler: M Imimole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 11.7:
+        non_striker: NC Monteiro
+        bowler: M Imimole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 12.1:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 12.2:
+        non_striker: NC Monteiro
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 12.3:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 12.4:
+        non_striker: NC Monteiro
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 12.5:
+        non_striker: NC Monteiro
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 12.6:
+        non_striker: RD de Sousa
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 13.1:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NC Monteiro
+    - 13.2:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 13.3:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 13.4:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 13.5:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 13.6:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+        wicket:
+          player_out: NC Monteiro
+          kind: lbw
+    - 14.1:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.2:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.3:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.4:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.5:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.6:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.7:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.8:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Ribeiro
+        batsman: RD de Sousa
+    - 14.9:
+        non_striker: M Ribeiro
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 15.1:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ribeiro
+        wicket:
+          player_out: M Ribeiro
+          kind: bowled
+    - 15.2:
+        non_striker: RD de Sousa
+        bowler: R Abdulrasak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Nascimento
+        wicket:
+          player_out: CS Nascimento
+          kind: bowled
+- 2nd innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Sandy
+        batsman: K Abdulquadri
+    - 0.2:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 0.3:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Sandy
+    - 0.4:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Sandy
+    - 0.5:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 0.6:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Sandy
+    - 0.7:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 0.8:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 1.1:
+        non_striker: K Abdulquadri
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 1.2:
+        non_striker: K Abdulquadri
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 1.3:
+        non_striker: K Abdulquadri
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Sandy
+    - 1.4:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 1.5:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Abdulquadri
+    - 1.6:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 2.1:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Sandy
+    - 2.2:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Sandy
+    - 2.3:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: E Sandy
+    - 2.4:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 2.5:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Sandy
+    - 2.6:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 2.7:
+        non_striker: K Abdulquadri
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Sandy
+    - 2.8:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Abdulquadri
+    - 3.1:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 3.2:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Abdulquadri
+    - 3.3:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 3.4:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 3.5:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 3.6:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Abdulquadri
+    - 3.7:
+        non_striker: K Abdulquadri
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 4.1:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+    - 4.2:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Abdulquadri
+        wicket:
+          player_out: K Abdulquadri
+          fielders:
+          - E de Souza
+          kind: caught
+    - 4.3:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 4.4:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Obulor
+    - 4.5:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 4.6:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 4.7:
+        non_striker: E Sandy
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Obulor
+    - 5.1:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 5.2:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 5.3:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 5.4:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 5.5:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+    - 5.6:
+        non_striker: A Obulor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Sandy
+        wicket:
+          player_out: E Sandy
+          kind: bowled
+    - 6.1:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sunday
+        batsman: A Obulor
+    - 6.2:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Sunday
+        batsman: A Obulor
+    - 6.3:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sunday
+        batsman: A Obulor
+    - 6.4:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 6.5:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 6.6:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sunday
+    - 7.1:
+        non_striker: S Sunday
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Obulor
+    - 7.2:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 7.3:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sunday
+    - 7.4:
+        non_striker: S Sunday
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 7.5:
+        non_striker: S Sunday
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 7.6:
+        non_striker: S Sunday
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 8.1:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sunday
+    - 8.2:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Obulor
+    - 8.3:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sunday
+    - 8.4:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 8.5:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 8.6:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Obulor
+    - 9.1:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sunday
+    - 9.2:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 9.3:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sunday
+    - 9.4:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sunday
+    - 9.5:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sunday
+    - 9.6:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 9.7:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sunday
+    - 9.8:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 9.9:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: S Sunday
+    - 9.10:
+        non_striker: A Obulor
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sunday
+    - 10.1:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Obulor
+    - 10.2:
+        non_striker: S Sunday
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Obulor
+    - 10.3:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sunday
+    - 10.4:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sunday
+    - 10.5:
+        non_striker: A Obulor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sunday

@@ -1,0 +1,2334 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Belgrade
+  dates:
+  - '2022-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 1627
+  outcome:
+    winner: Bulgaria
+    by:
+      runs: 95
+  overs: 20
+  player_of_match:
+  - Omar Rassol
+  players:
+    Bulgaria:
+    - H Lakov
+    - Fayaz Mohammad
+    - Omar Rassol
+    - KC D'Souza
+    - M Kadyan
+    - P Mishra
+    - IA De Silva
+    - J Albin
+    - DV Varghese
+    - Sandeep Nair
+    - Tarun Yadav
+    Serbia:
+    - WAE Burton
+    - MV Pavlovic
+    - ML Kostic
+    - S Ivetic
+    - A Mene-Ejegi
+    - SG Shinde (2)
+    - N Zimonjic
+    - S Tosic
+    - M Sarenac
+    - A Djorovic
+    - B Dugic
+  registry:
+    people:
+      A Djorovic: 677c18f9
+      A Mene-Ejegi: e4f13acd
+      B Dugic: 5edaa34d
+      D Djokic: 8d2330ff
+      DV Varghese: 26f98ea3
+      Fayaz Mohammad: 67fedcb4
+      H Lakov: 87a6f411
+      I Dimitrov: '62724040'
+      IA De Silva: 58973aaf
+      J Albin: a4a53adf
+      KC D'Souza: 2687fff2
+      M Kadyan: c7aae1f0
+      M Sarenac: f5ba4611
+      ML Kostic: 79e23cc5
+      MV Pavlovic: 2809b390
+      N Zimonjic: 638f451b
+      Omar Rassol: 6caae2dc
+      P Mishra: 3fa5672e
+      S Ivetic: 04ab1575
+      S Tosic: 1c40f69f
+      Sachin Ganpat Shinde: ddc2613d
+      Sandeep Nair: 6ceec40d
+      Tarun Yadav: 865d671f
+      WAE Burton: b0358c6d
+  teams:
+  - Bulgaria
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  umpires:
+  - D Djokic
+  - I Dimitrov
+  venue: Lisicji Jarak Cricket Ground
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fayaz Mohammad
+        batsman: H Lakov
+    - 0.2:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Fayaz Mohammad
+        batsman: H Lakov
+    - 0.3:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fayaz Mohammad
+        batsman: H Lakov
+    - 0.4:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fayaz Mohammad
+        batsman: H Lakov
+    - 0.5:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fayaz Mohammad
+        batsman: H Lakov
+    - 0.6:
+        non_striker: Fayaz Mohammad
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 1.1:
+        non_striker: H Lakov
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Mohammad
+    - 1.2:
+        non_striker: H Lakov
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Mohammad
+    - 1.3:
+        non_striker: Fayaz Mohammad
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 1.4:
+        non_striker: H Lakov
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayaz Mohammad
+    - 1.5:
+        non_striker: H Lakov
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Mohammad
+        wicket:
+          player_out: Fayaz Mohammad
+          fielders:
+          - WAE Burton
+          kind: caught
+    - 1.6:
+        non_striker: H Lakov
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 2.1:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - WAE Burton
+          - B Dugic
+          kind: run out
+    - 2.2:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+        wicket:
+          player_out: KC D'Souza
+          kind: bowled
+    - 2.3:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 2.4:
+        non_striker: M Kadyan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 2.5:
+        non_striker: M Kadyan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 2.6:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 3.1:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 3.2:
+        non_striker: Omar Rassol
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 3.3:
+        non_striker: Omar Rassol
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 3.4:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 3.5:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 3.6:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 4.1:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 4.2:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 4.3:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 4.4:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kadyan
+    - 4.5:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kadyan
+    - 4.6:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 5.1:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 5.2:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 5.3:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 5.4:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 5.5:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 5.6:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 5.7:
+        non_striker: M Kadyan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 6.1:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 6.2:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 6.3:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 6.4:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 6.5:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kadyan
+    - 6.6:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 7.1:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 7.2:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 7.3:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 7.4:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 7.5:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 7.6:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 7.7:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kadyan
+    - 7.8:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 7.9:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 8.1:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 8.2:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 8.3:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 8.4:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 8.5:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 8.6:
+        non_striker: M Kadyan
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 9.1:
+        non_striker: M Kadyan
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 9.2:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kadyan
+    - 9.3:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 9.4:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 9.5:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kadyan
+    - 9.6:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 9.7:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kadyan
+    - 9.8:
+        non_striker: Omar Rassol
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kadyan
+    - 10.1:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 10.2:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 10.3:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 10.4:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 10.5:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 10.6:
+        non_striker: Omar Rassol
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 11.1:
+        non_striker: M Kadyan
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 11.2:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 11.3:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kadyan
+    - 11.4:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 11.5:
+        non_striker: M Kadyan
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 11.6:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kadyan
+    - 12.1:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 12.2:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 12.3:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 12.4:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 12.5:
+        non_striker: Omar Rassol
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kadyan
+    - 12.6:
+        non_striker: Omar Rassol
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kadyan
+    - 12.7:
+        non_striker: M Kadyan
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 13.1:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kadyan
+    - 13.2:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kadyan
+    - 13.3:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+    - 13.4:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kadyan
+        wicket:
+          player_out: M Kadyan
+          fielders:
+          - M Sarenac
+          kind: caught
+    - 13.5:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 13.6:
+        non_striker: Omar Rassol
+        bowler: ML Kostic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 14.1:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Omar Rassol
+    - 14.2:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 14.3:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 14.4:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 14.5:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 14.6:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 14.7:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 14.8:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 14.9:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 15.1:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 15.2:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 15.3:
+        non_striker: Omar Rassol
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Mishra
+    - 15.4:
+        non_striker: Omar Rassol
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 15.5:
+        non_striker: Omar Rassol
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 15.6:
+        non_striker: Omar Rassol
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 16.1:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Omar Rassol
+    - 16.2:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mishra
+    - 16.3:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Mishra
+    - 16.4:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 16.5:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 16.6:
+        non_striker: Omar Rassol
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 16.7:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 16.8:
+        non_striker: P Mishra
+        bowler: B Dugic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 17.1:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 17.2:
+        non_striker: Omar Rassol
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 17.3:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 17.4:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Omar Rassol
+    - 17.5:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 17.6:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 17.7:
+        non_striker: P Mishra
+        bowler: SG Shinde (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 18.1:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 18.2:
+        non_striker: P Mishra
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 18.3:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 18.4:
+        non_striker: P Mishra
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 18.5:
+        non_striker: P Mishra
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 18.6:
+        non_striker: Omar Rassol
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 19.1:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mishra
+    - 19.2:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 19.3:
+        non_striker: P Mishra
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 19.4:
+        non_striker: P Mishra
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 19.5:
+        non_striker: P Mishra
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 19.6:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          fielders:
+          - WAE Burton
+          kind: stumped
+    - 19.7:
+        non_striker: Omar Rassol
+        bowler: N Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          fielders:
+          - Omar Rassol
+          kind: caught
+    - 0.2:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 0.3:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 0.4:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 0.5:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 0.6:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Kostic
+    - 0.7:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Kostic
+    - 1.1:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Kostic
+    - 1.2:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 1.3:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 1.4:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+        wicket:
+          player_out: ML Kostic
+          kind: bowled
+    - 1.5:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 1.6:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 2.1:
+        non_striker: S Ivetic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 2.2:
+        non_striker: S Ivetic
+        bowler: DV Varghese
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: MV Pavlovic
+    - 2.3:
+        non_striker: S Ivetic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 2.4:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 2.5:
+        non_striker: S Ivetic
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: MV Pavlovic
+    - 2.6:
+        non_striker: S Ivetic
+        bowler: DV Varghese
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MV Pavlovic
+    - 2.7:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ivetic
+    - 2.8:
+        non_striker: MV Pavlovic
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ivetic
+    - 3.1:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 3.2:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 3.3:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 3.4:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.5:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ivetic
+    - 3.6:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ivetic
+    - 4.1:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 4.2:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+    - 4.3:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 4.4:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 4.5:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 4.6:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 4.7:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 5.1:
+        non_striker: MV Pavlovic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 5.2:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 5.3:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+        wicket:
+          player_out: MV Pavlovic
+          kind: bowled
+    - 5.4:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mene-Ejegi
+    - 5.5:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+    - 5.6:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+    - 5.7:
+        non_striker: S Ivetic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 6.1:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mene-Ejegi
+    - 6.2:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+        wicket:
+          player_out: A Mene-Ejegi
+          fielders:
+          - H Lakov
+          kind: caught
+    - 6.3:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Shinde (2)
+    - 6.4:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Shinde (2)
+    - 6.5:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 6.6:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Shinde (2)
+    - 6.7:
+        non_striker: SG Shinde (2)
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.8:
+        non_striker: S Ivetic
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 7.1:
+        non_striker: SG Shinde (2)
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 7.2:
+        non_striker: SG Shinde (2)
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: S Ivetic
+          kind: lbw
+    - 7.3:
+        non_striker: SG Shinde (2)
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Zimonjic
+    - 7.4:
+        non_striker: N Zimonjic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 7.5:
+        non_striker: N Zimonjic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 7.6:
+        non_striker: N Zimonjic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 7.7:
+        non_striker: N Zimonjic
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Shinde (2)
+    - 8.1:
+        non_striker: N Zimonjic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 8.2:
+        non_striker: N Zimonjic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Shinde (2)
+    - 8.3:
+        non_striker: SG Shinde (2)
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Zimonjic
+    - 8.4:
+        non_striker: SG Shinde (2)
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Zimonjic
+    - 8.5:
+        non_striker: SG Shinde (2)
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+    - 8.6:
+        non_striker: SG Shinde (2)
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Zimonjic
+    - 8.7:
+        non_striker: SG Shinde (2)
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Zimonjic
+    - 9.1:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 9.2:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Shinde (2)
+    - 9.3:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 9.4:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 9.5:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+    - 9.6:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Shinde (2)
+    - 9.7:
+        non_striker: N Zimonjic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Shinde (2)
+    - 9.8:
+        non_striker: SG Shinde (2)
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Zimonjic
+        wicket:
+          player_out: N Zimonjic
+          fielders:
+          - H Lakov
+          kind: caught
+    - 10.1:
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Tosic
+        batsman: SG Shinde (2)
+    - 10.2:
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Tosic
+        batsman: SG Shinde (2)
+    - 10.3:
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Tosic
+        batsman: SG Shinde (2)
+    - 10.4:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Shinde (2)
+        wicket:
+          player_out: SG Shinde (2)
+          fielders:
+          - KC D'Souza
+          kind: caught
+    - 10.5:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 10.6:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 10.7:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+    - 11.1:
+        non_striker: M Sarenac
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 11.2:
+        non_striker: M Sarenac
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 11.3:
+        non_striker: M Sarenac
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 11.4:
+        non_striker: M Sarenac
+        bowler: Sandeep Nair
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Tosic
+    - 11.5:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sarenac
+        wicket:
+          player_out: M Sarenac
+          fielders:
+          - H Lakov
+          kind: caught
+    - 11.6:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 11.7:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Djorovic
+    - 11.8:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 12.1:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Tosic
+    - 12.2:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 12.3:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 12.4:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 12.5:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 12.6:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 12.7:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 13.1:
+        non_striker: A Djorovic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 13.2:
+        non_striker: A Djorovic
+        bowler: KC D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Tosic
+    - 13.3:
+        non_striker: A Djorovic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 13.4:
+        non_striker: A Djorovic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 13.5:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 13.6:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 13.7:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 14.1:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 14.2:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 14.3:
+        non_striker: S Tosic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Djorovic
+    - 14.4:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 14.5:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 14.6:
+        non_striker: A Djorovic
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 15.1:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 15.2:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 15.3:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Djorovic
+    - 15.4:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 15.5:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 15.6:
+        non_striker: S Tosic
+        bowler: KC D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 16.1:
+        non_striker: A Djorovic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 16.2:
+        non_striker: A Djorovic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 16.3:
+        non_striker: A Djorovic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 16.4:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 16.5:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Djorovic
+    - 16.6:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 17.1:
+        non_striker: A Djorovic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 17.2:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Djorovic
+    - 17.3:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Djorovic
+    - 17.4:
+        non_striker: A Djorovic
+        bowler: Sandeep Nair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Tosic
+    - 17.5:
+        non_striker: A Djorovic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 17.6:
+        non_striker: A Djorovic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 17.7:
+        non_striker: S Tosic
+        bowler: Sandeep Nair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+    - 18.1:
+        non_striker: A Djorovic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 18.2:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Djorovic
+    - 18.3:
+        non_striker: A Djorovic
+        bowler: Tarun Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Tosic
+    - 18.4:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Djorovic
+        wicket:
+          player_out: A Djorovic
+          kind: bowled
+    - 18.5:
+        non_striker: S Tosic
+        bowler: Tarun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Dugic
+        wicket:
+          player_out: B Dugic
+          kind: lbw

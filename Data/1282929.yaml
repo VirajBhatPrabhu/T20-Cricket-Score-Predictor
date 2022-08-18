@@ -1,0 +1,934 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-19'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Naucalpan
+  dates:
+  - '2021-10-19'
+  gender: female
+  match_type: T20
+  match_type_number: 986
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - RD de Sousa
+  players:
+    Argentina:
+    - V Vasquez
+    - M Castineiras
+    - A Stocks
+    - L Taylor
+    - M Martinez
+    - CA Greloni
+    - M Esquivel
+    - JC Cullen
+    - T Basile
+    - C Sosa
+    - L Iglesias
+    Brazil:
+    - L Agatha
+    - M Artur
+    - RMAM Avery
+    - L Cardoso
+    - D Staddon
+    - L Moises
+    - RD de Sousa
+    - AT Nascimento
+    - M Ribeiro
+    - NC Monteiro
+    - E de Souza
+  registry:
+    people:
+      A Stocks: c999c416
+      AT Nascimento: fb65aa49
+      C Sosa: b2f4cb0d
+      CA Greloni: f758a37b
+      D Staddon: 4a28527d
+      E de Souza: 7c68aac4
+      JC Cullen: 22595a2d
+      Jermaine Lindo: 1154bf4f
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Iglesias: 289a1cf1
+      L Moises: b27f9716
+      L Taylor: 8af91a3e
+      M Artur: 400b36cd
+      M Castineiras: b9094958
+      M Esquivel: 9a14a211
+      M Martinez: f0ddeafb
+      M Ribeiro: 38424a4d
+      N Duguid: '64495506'
+      NC Monteiro: 752af5a4
+      RD de Sousa: 2901e489
+      RMAM Avery: 4cf645c9
+      Reon King: 20fbf68c
+      SN Bandekar: 350528bb
+      T Basile: 7a640d66
+      V Vasquez: f898a2c6
+  teams:
+  - Argentina
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  umpires:
+  - Jermaine Lindo
+  - SN Bandekar
+  venue: Reforma Athletic Club, Naucalpan
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Castineiras
+        batsman: V Vasquez
+    - 0.2:
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Castineiras
+        batsman: V Vasquez
+    - 0.3:
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Castineiras
+        batsman: V Vasquez
+    - 0.4:
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Castineiras
+        batsman: V Vasquez
+    - 0.5:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 0.6:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 0.7:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Castineiras
+    - 1.1:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 1.2:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 1.3:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+    - 1.4:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Castineiras
+        wicket:
+          player_out: M Castineiras
+          fielders:
+          - RMAM Avery
+          kind: caught
+    - 1.5:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 1.6:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Stocks
+    - 2.1:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 2.2:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 2.3:
+        non_striker: A Stocks
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+        wicket:
+          player_out: A Stocks
+          fielders:
+          - L Cardoso
+          - E de Souza
+          kind: run out
+    - 2.4:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 2.5:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 2.6:
+        non_striker: V Vasquez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 3.1:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vasquez
+    - 3.2:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.3:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.4:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.5:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 3.6:
+        non_striker: L Taylor
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vasquez
+    - 3.7:
+        non_striker: V Vasquez
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 4.1:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+    - 4.2:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vasquez
+        wicket:
+          player_out: V Vasquez
+          kind: caught and bowled
+    - 4.3:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+    - 4.4:
+        non_striker: L Taylor
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Martinez
+    - 4.5:
+        non_striker: M Martinez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 4.6:
+        non_striker: M Martinez
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 5.1:
+        non_striker: L Taylor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Martinez
+        wicket:
+          player_out: M Martinez
+          kind: lbw
+    - 5.2:
+        non_striker: L Taylor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 5.3:
+        non_striker: L Taylor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 5.4:
+        non_striker: L Taylor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 5.5:
+        non_striker: L Taylor
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Greloni
+    - 5.6:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Taylor
+    - 6.1:
+        non_striker: L Taylor
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+        wicket:
+          player_out: L Taylor
+          fielders:
+          - L Cardoso
+          - E de Souza
+          kind: run out
+    - 6.2:
+        non_striker: CA Greloni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Esquivel
+        wicket:
+          player_out: M Esquivel
+          fielders:
+          - RD de Sousa
+          kind: caught
+    - 6.3:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JC Cullen
+        batsman: CA Greloni
+    - 6.4:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JC Cullen
+        batsman: CA Greloni
+    - 6.5:
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JC Cullen
+        batsman: CA Greloni
+    - 6.6:
+        non_striker: JC Cullen
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 7.1:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Cullen
+        wicket:
+          player_out: JC Cullen
+          kind: bowled
+    - 7.2:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 7.3:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 7.4:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 7.5:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 7.6:
+        non_striker: CA Greloni
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 8.1:
+        non_striker: T Basile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 8.2:
+        non_striker: T Basile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 8.3:
+        non_striker: T Basile
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Greloni
+    - 8.4:
+        non_striker: CA Greloni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+    - 8.5:
+        non_striker: CA Greloni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Basile
+    - 8.6:
+        non_striker: CA Greloni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Basile
+        wicket:
+          player_out: T Basile
+          kind: bowled
+    - 9.1:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Sosa
+        batsman: CA Greloni
+    - 9.2:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Sosa
+        batsman: CA Greloni
+    - 9.3:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Sosa
+        batsman: CA Greloni
+    - 9.4:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Sosa
+        batsman: CA Greloni
+    - 9.5:
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Sosa
+        batsman: CA Greloni
+    - 9.6:
+        non_striker: C Sosa
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 10.1:
+        non_striker: CA Greloni
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sosa
+    - 10.2:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Greloni
+    - 10.3:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 10.4:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+    - 10.5:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Greloni
+        wicket:
+          player_out: CA Greloni
+          kind: bowled
+    - 10.6:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Iglesias
+    - 10.7:
+        non_striker: C Sosa
+        bowler: D Staddon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Iglesias
+    - 11.1:
+        non_striker: L Iglesias
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+    - 11.2:
+        non_striker: L Iglesias
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sosa
+        wicket:
+          player_out: C Sosa
+          fielders:
+          - RD de Sousa
+          kind: caught
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Artur
+        batsman: L Agatha
+    - 0.2:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Artur
+        batsman: L Agatha
+    - 0.3:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Artur
+        batsman: L Agatha
+    - 0.4:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Artur
+        batsman: L Agatha
+    - 0.5:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Artur
+        batsman: L Agatha
+    - 0.6:
+        non_striker: M Artur
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 1.1:
+        non_striker: M Artur
+        bowler: T Basile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Agatha
+    - 1.2:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 1.3:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 1.4:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+    - 1.5:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Artur
+    - 1.6:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Artur
+        wicket:
+          player_out: M Artur
+          kind: bowled
+    - 1.7:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 1.8:
+        non_striker: L Agatha
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          kind: lbw
+    - 2.1:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 2.2:
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 2.3:
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: L Cardoso
+        batsman: L Agatha
+    - 2.4:
+        non_striker: L Agatha
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.5:
+        non_striker: L Agatha
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cardoso
+    - 2.6:
+        non_striker: L Agatha
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Cardoso
+    - 2.7:
+        non_striker: L Agatha
+        bowler: M Martinez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Cardoso
+    - 2.8:
+        non_striker: L Agatha
+        bowler: M Martinez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Cardoso
+    - 3.1:
+        non_striker: L Cardoso
+        bowler: T Basile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 3.2:
+        non_striker: L Cardoso
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 3.3:
+        non_striker: L Cardoso
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 3.4:
+        non_striker: L Cardoso
+        bowler: T Basile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha

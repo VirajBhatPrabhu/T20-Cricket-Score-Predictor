@@ -1,0 +1,2208 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-10'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Coolidge
+  dates:
+  - '2021-11-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1411
+  outcome:
+    winner: Belize
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - BS Stephenson
+  players:
+    Belize:
+    - AK Muslar
+    - AA Banner
+    - ML Castillo
+    - BS Stephenson
+    - GG Banner
+    - KJ Young
+    - TW Samuels
+    - Garret Banner
+    - NN Banner
+    - KK Tillett
+    - TJ Stephenson
+    Panama:
+    - SP Guzman
+    - Yusuf Bhoola
+    - A Natubhai Ahir
+    - Yusuf Ebrahim
+    - Irfan Hafejee
+    - M Sohel Patel
+    - D Ahir
+    - Mahmud Jasat
+    - Abdullah Jasat
+    - KB Ahir
+    - N Ahir
+  registry:
+    people:
+      A Natubhai Ahir: 9c91218d
+      AA Banner: 02d11602
+      AK Muslar: 93f72fdc
+      Abdullah Jasat: 5a42db78
+      BS Stephenson: db571b24
+      D Ahir: 424a646f
+      Denavon Hayles: 5cbeeb02
+      GG Banner: aeb893b4
+      Garret Banner: ac1ddea1
+      H Grewal: 1172f36e
+      Irfan Hafejee: 244009ae
+      JM Williams: b61d9d70
+      KB Ahir: 214cf493
+      KJ Young: 8bba9ec2
+      KK Tillett: 55fedd51
+      M Sohel Patel: 40a5bcf9
+      ML Castillo: 9853b404
+      Mahmud Jasat: 97e36a0f
+      N Ahir: c2ecd4a7
+      NN Banner: '0697b5a1'
+      SP Guzman: 37a1766e
+      TJ Stephenson: 82340b9d
+      TW Samuels: df3438ae
+      Vijaya Mallela: 85b6244a
+      Yusuf Bhoola: 5afc0b37
+      Yusuf Ebrahim: 2d5c6e88
+  teams:
+  - Belize
+  - Panama
+  toss:
+    winner: Belize
+    decision: bat
+  umpires:
+  - H Grewal
+  - JM Williams
+  venue: Coolidge Cricket Ground, Antigua
+innings:
+- 1st innings:
+    team: Belize
+    deliveries:
+    - 0.1:
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AA Banner
+        batsman: AK Muslar
+    - 0.2:
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AA Banner
+        batsman: AK Muslar
+    - 0.3:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Banner
+    - 0.4:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Banner
+    - 0.5:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Banner
+    - 0.6:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Banner
+        wicket:
+          player_out: AA Banner
+          fielders:
+          - N Ahir
+          kind: caught
+    - 1.1:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 1.2:
+        non_striker: ML Castillo
+        bowler: Abdullah Jasat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Muslar
+    - 1.3:
+        non_striker: ML Castillo
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 1.4:
+        non_striker: ML Castillo
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 1.5:
+        non_striker: ML Castillo
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 1.6:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+        wicket:
+          player_out: ML Castillo
+          fielders:
+          - A Natubhai Ahir
+          kind: caught
+    - 1.7:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 2.1:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 2.2:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 2.3:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BS Stephenson
+    - 2.4:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 2.5:
+        non_striker: AK Muslar
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 2.6:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 3.1:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 3.2:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 3.3:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 3.4:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 3.5:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 3.6:
+        non_striker: AK Muslar
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Stephenson
+    - 4.1:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Muslar
+    - 4.2:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 4.3:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Muslar
+    - 4.4:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 4.5:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Muslar
+    - 4.6:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 4.7:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 5.1:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 5.2:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 5.3:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 5.4:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 5.5:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 5.6:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 6.1:
+        non_striker: AK Muslar
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 6.2:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 6.3:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 6.4:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 6.5:
+        non_striker: AK Muslar
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 6.6:
+        non_striker: AK Muslar
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 7.1:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Stephenson
+    - 7.2:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 7.3:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 7.4:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 7.5:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: AK Muslar
+    - 7.6:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Muslar
+    - 7.7:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 7.8:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 8.1:
+        non_striker: AK Muslar
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Stephenson
+    - 8.2:
+        non_striker: AK Muslar
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 8.3:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 8.4:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 8.5:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Muslar
+    - 8.6:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 8.7:
+        non_striker: AK Muslar
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Stephenson
+    - 8.8:
+        non_striker: AK Muslar
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 9.1:
+        non_striker: AK Muslar
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 9.2:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 9.3:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+        wicket:
+          player_out: AK Muslar
+          kind: bowled
+    - 9.4:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GG Banner
+    - 9.5:
+        non_striker: GG Banner
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 9.6:
+        non_striker: BS Stephenson
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 10.1:
+        non_striker: GG Banner
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 10.2:
+        non_striker: GG Banner
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 10.3:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GG Banner
+    - 10.4:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GG Banner
+    - 10.5:
+        non_striker: BS Stephenson
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 10.6:
+        non_striker: GG Banner
+        bowler: Yusuf Ebrahim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Stephenson
+    - 11.1:
+        non_striker: BS Stephenson
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 11.2:
+        non_striker: GG Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 11.3:
+        non_striker: GG Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 11.4:
+        non_striker: GG Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 11.5:
+        non_striker: GG Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 11.6:
+        non_striker: BS Stephenson
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 12.1:
+        non_striker: GG Banner
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 12.2:
+        non_striker: GG Banner
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 12.3:
+        non_striker: GG Banner
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 12.4:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+        wicket:
+          player_out: GG Banner
+          fielders:
+          - Mahmud Jasat
+          kind: caught
+    - 12.5:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 12.6:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Young
+    - 13.1:
+        non_striker: KJ Young
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 13.2:
+        non_striker: KJ Young
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 13.3:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 13.4:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Young
+    - 13.5:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KJ Young
+    - 13.6:
+        non_striker: KJ Young
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+    - 14.1:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Young
+    - 14.2:
+        non_striker: KJ Young
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 14.3:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 14.4:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 14.5:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Young
+    - 14.6:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Young
+    - 15.1:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 15.2:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+    - 15.3:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Young
+    - 15.4:
+        non_striker: KJ Young
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Stephenson
+    - 15.5:
+        non_striker: KJ Young
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 15.6:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Young
+    - 16.1:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+        wicket:
+          player_out: KJ Young
+          kind: bowled
+    - 16.2:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 16.3:
+        non_striker: TW Samuels
+        bowler: N Ahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BS Stephenson
+    - 16.4:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 16.5:
+        non_striker: TW Samuels
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 16.6:
+        non_striker: BS Stephenson
+        bowler: N Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 17.1:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TW Samuels
+    - 17.2:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TW Samuels
+    - 17.3:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 17.4:
+        non_striker: TW Samuels
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 17.5:
+        non_striker: BS Stephenson
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 17.6:
+        non_striker: TW Samuels
+        bowler: D Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Stephenson
+    - 18.1:
+        non_striker: BS Stephenson
+        bowler: KB Ahir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TW Samuels
+    - 18.2:
+        non_striker: TW Samuels
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Stephenson
+    - 18.3:
+        non_striker: TW Samuels
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+        wicket:
+          player_out: BS Stephenson
+          fielders:
+          - A Natubhai Ahir
+          kind: stumped
+    - 18.4:
+        non_striker: TW Samuels
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 18.5:
+        non_striker: Garret Banner
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Samuels
+    - 18.6:
+        non_striker: Garret Banner
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 18.7:
+        non_striker: TW Samuels
+        bowler: KB Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Garret Banner
+    - 19.1:
+        non_striker: Garret Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 19.2:
+        non_striker: TW Samuels
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 19.3:
+        non_striker: Garret Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TW Samuels
+    - 19.4:
+        non_striker: Garret Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 19.5:
+        non_striker: TW Samuels
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+        wicket:
+          player_out: Garret Banner
+          fielders:
+          - D Ahir
+          kind: caught
+    - 19.6:
+        non_striker: NN Banner
+        bowler: Abdullah Jasat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+        wicket:
+          player_out: TW Samuels
+          fielders:
+          - D Ahir
+          kind: run out
+- 2nd innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.2:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.3:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.4:
+        bowler: Garret Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.5:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.6:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.7:
+        bowler: Garret Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yusuf Bhoola
+        batsman: SP Guzman
+    - 0.8:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Guzman
+    - 1.1:
+        non_striker: SP Guzman
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Bhoola
+    - 1.2:
+        non_striker: Yusuf Bhoola
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Guzman
+    - 1.3:
+        non_striker: Yusuf Bhoola
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Guzman
+    - 1.4:
+        non_striker: Yusuf Bhoola
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Guzman
+    - 1.5:
+        non_striker: Yusuf Bhoola
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Guzman
+    - 1.6:
+        non_striker: SP Guzman
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 2.1:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Guzman
+        wicket:
+          player_out: SP Guzman
+          kind: bowled
+    - 2.2:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 2.3:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 2.4:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 2.5:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 2.6:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 3.1:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 3.2:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Yusuf Bhoola
+    - 3.3:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Yusuf Bhoola
+    - 3.4:
+        non_striker: Yusuf Bhoola
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 3.5:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 3.6:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Bhoola
+    - 3.7:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 3.8:
+        non_striker: A Natubhai Ahir
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 4.1:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 4.2:
+        non_striker: Yusuf Bhoola
+        bowler: Garret Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Natubhai Ahir
+    - 4.3:
+        non_striker: A Natubhai Ahir
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 4.4:
+        non_striker: A Natubhai Ahir
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Bhoola
+    - 4.5:
+        non_striker: A Natubhai Ahir
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 4.6:
+        non_striker: A Natubhai Ahir
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 5.1:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 5.2:
+        non_striker: A Natubhai Ahir
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Bhoola
+    - 5.3:
+        non_striker: A Natubhai Ahir
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Bhoola
+    - 5.4:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 5.5:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 5.6:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 6.1:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 6.2:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Bhoola
+    - 6.3:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 6.4:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Yusuf Bhoola
+    - 6.5:
+        non_striker: Yusuf Bhoola
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 6.6:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 7.1:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 7.2:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 7.3:
+        non_striker: A Natubhai Ahir
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Bhoola
+    - 7.4:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Natubhai Ahir
+    - 7.5:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+    - 7.6:
+        non_striker: Yusuf Bhoola
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Natubhai Ahir
+    - 8.1:
+        non_striker: A Natubhai Ahir
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Bhoola
+    - 8.2:
+        non_striker: Yusuf Bhoola
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Natubhai Ahir
+        wicket:
+          player_out: A Natubhai Ahir
+          fielders:
+          - GG Banner
+          kind: caught
+    - 8.3:
+        non_striker: Yusuf Bhoola
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 8.4:
+        non_striker: Yusuf Ebrahim
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+    - 8.5:
+        non_striker: Yusuf Ebrahim
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Bhoola
+        wicket:
+          player_out: Yusuf Bhoola
+          kind: bowled
+    - 8.6:
+        non_striker: Yusuf Ebrahim
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.1:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.2:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.3:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 9.4:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 9.5:
+        non_striker: Yusuf Ebrahim
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 9.6:
+        non_striker: Yusuf Ebrahim
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 10.1:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.2:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.3:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.4:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.5:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 10.6:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 11.1:
+        non_striker: Yusuf Ebrahim
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 11.2:
+        non_striker: Yusuf Ebrahim
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 11.3:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+    - 11.4:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 11.5:
+        non_striker: Yusuf Ebrahim
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 11.6:
+        non_striker: Irfan Hafejee
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 12.1:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Ebrahim
+    - 12.2:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yusuf Ebrahim
+    - 12.3:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Ebrahim
+    - 12.4:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yusuf Ebrahim
+    - 12.5:
+        non_striker: Irfan Hafejee
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yusuf Ebrahim
+    - 12.6:
+        non_striker: Yusuf Ebrahim
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 13.1:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusuf Ebrahim
+        wicket:
+          player_out: Yusuf Ebrahim
+          fielders:
+          - ML Castillo
+          kind: caught
+    - 13.2:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sohel Patel
+    - 13.3:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sohel Patel
+    - 13.4:
+        non_striker: M Sohel Patel
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 13.5:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Sohel Patel
+        wicket:
+          player_out: M Sohel Patel
+          fielders:
+          - AK Muslar
+          kind: stumped
+    - 13.6:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: D Ahir
+    - 14.1:
+        non_striker: D Ahir
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 14.2:
+        non_striker: D Ahir
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+    - 14.3:
+        non_striker: D Ahir
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 14.4:
+        non_striker: D Ahir
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 14.5:
+        non_striker: Irfan Hafejee
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ahir
+    - 14.6:
+        non_striker: Irfan Hafejee
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ahir
+    - 15.1:
+        non_striker: D Ahir
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Hafejee
+    - 15.2:
+        non_striker: D Ahir
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 15.3:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ahir
+    - 15.4:
+        non_striker: D Ahir
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Hafejee
+    - 15.5:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ahir
+    - 15.6:
+        non_striker: Irfan Hafejee
+        bowler: TJ Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ahir
+    - 16.1:
+        non_striker: Irfan Hafejee
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ahir
+    - 16.2:
+        non_striker: Irfan Hafejee
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ahir
+        wicket:
+          player_out: D Ahir
+          kind: bowled
+    - 16.3:
+        non_striker: Irfan Hafejee
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 16.4:
+        non_striker: Mahmud Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Hafejee
+    - 16.5:
+        non_striker: Mahmud Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          fielders:
+          - KJ Young
+          kind: caught
+    - 16.6:
+        non_striker: Abdullah Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 17.1:
+        non_striker: Abdullah Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmud Jasat
+    - 17.2:
+        non_striker: Abdullah Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 17.3:
+        non_striker: Mahmud Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Jasat
+    - 17.4:
+        non_striker: Abdullah Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 17.5:
+        non_striker: Mahmud Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Jasat
+    - 17.6:
+        non_striker: Abdullah Jasat
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat
+    - 18.1:
+        non_striker: Abdullah Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmud Jasat
+    - 18.2:
+        non_striker: Abdullah Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mahmud Jasat
+    - 18.3:
+        non_striker: Mahmud Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdullah Jasat
+    - 18.4:
+        non_striker: Mahmud Jasat
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Jasat
+        wicket:
+          player_out: Abdullah Jasat
+          fielders:
+          - GG Banner
+          kind: caught
+    - 18.5:
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KB Ahir
+        batsman: Mahmud Jasat
+    - 18.6:
+        non_striker: KB Ahir
+        bowler: BS Stephenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmud Jasat
+    - 19.1:
+        non_striker: Mahmud Jasat
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Ahir
+    - 19.2:
+        non_striker: Mahmud Jasat
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Ahir
+    - 19.3:
+        non_striker: KB Ahir
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmud Jasat
+    - 19.4:
+        non_striker: KB Ahir
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmud Jasat
+    - 19.5:
+        non_striker: KB Ahir
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmud Jasat
+    - 19.6:
+        non_striker: KB Ahir
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmud Jasat

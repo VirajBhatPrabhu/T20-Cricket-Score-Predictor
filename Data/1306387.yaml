@@ -1,0 +1,2457 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2022-03-21'
+  gender: female
+  match_type: T20
+  match_type_number: 1031
+  outcome:
+    winner: Oman
+    by:
+      runs: 182
+  overs: 20
+  player_of_match:
+  - Fiza
+  players:
+    Oman:
+    - SV Shetty
+    - Fiza
+    - NM Anil
+    - PE Mendonca
+    - KD Jayawant
+    - B Shetty
+    - Afida Afthab
+    - A Dcosta
+    - S Channa
+    - SA Sathiya
+    - Sameera Khan
+    Saudi Arabia:
+    - C Sewsunker
+    - Najwa Akram
+    - Rida Syeda
+    - Maira Khan
+    - Amna Khan
+    - Abeer Maryam
+    - Ruba Rashid
+    - Khazaima
+    - Zoha Irfan
+    - Mah Noor Amir
+    - Emaan Ejaz
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      Abeer Maryam: 8067b378
+      Afida Afthab: 9446598e
+      Amna Khan: 604b19e3
+      Azad KR: d620b86a
+      B Shetty: 58c16165
+      C Sewsunker: f82a0b02
+      Emaan Ejaz: 81d5afce
+      Fiza: c7c60bc5
+      Jamil Zaidi: 3402e067
+      KD Jayawant: 42aaf21c
+      Khazaima: 706df49c
+      Mah Noor Amir: e95cf4f8
+      Maira Khan: 32832dc8
+      N Krishnan: b317852e
+      NM Anil: cbd69f04
+      Najwa Akram: a1cb1472
+      PE Mendonca: 70bab30b
+      Rida Syeda: f802485d
+      Ruba Rashid: 221ba3f5
+      S Channa: c30d7608
+      S Sattar: 7bbd13cb
+      SA Sathiya: 1ba007d8
+      SV Shetty: db7a7301
+      Sameera Khan: 237baa2c
+      Zoha Irfan: 7d70dc87
+  teams:
+  - Oman
+  - Saudi Arabia
+  toss:
+    winner: Saudi Arabia
+    decision: field
+  umpires:
+  - Azad KR
+  - S Sattar
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiza
+        batsman: SV Shetty
+    - 0.2:
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fiza
+        batsman: SV Shetty
+    - 0.3:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Fiza
+    - 0.4:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 0.5:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 0.6:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 0.7:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 0.8:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Fiza
+    - 0.9:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 0.10:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 1.1:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Shetty
+    - 1.2:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 1.3:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Shetty
+    - 1.4:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 1.5:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Shetty
+    - 1.6:
+        non_striker: SV Shetty
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 1.7:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 2.1:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 2.2:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 2.3:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 2.4:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 2.5:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 2.6:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 2.7:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 2.8:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 2.9:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.1:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 3.2:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SV Shetty
+    - 3.3:
+        non_striker: SV Shetty
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 3.4:
+        non_striker: SV Shetty
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 3.5:
+        non_striker: SV Shetty
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 3.6:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Shetty
+    - 4.1:
+        non_striker: SV Shetty
+        bowler: C Sewsunker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Fiza
+    - 4.2:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 4.3:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 4.4:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Shetty
+    - 4.5:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Shetty
+    - 4.6:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Shetty
+    - 4.7:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Shetty
+        wicket:
+          player_out: SV Shetty
+          fielders:
+          - C Sewsunker
+          - Ruba Rashid
+          kind: run out
+    - 4.8:
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: NM Anil
+        batsman: Fiza
+    - 4.9:
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NM Anil
+        batsman: Fiza
+    - 4.10:
+        non_striker: NM Anil
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 5.1:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 5.2:
+        non_striker: NM Anil
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 5.3:
+        non_striker: NM Anil
+        bowler: Maira Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 5.4:
+        non_striker: NM Anil
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 5.5:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 5.6:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 5.7:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 5.8:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Anil
+    - 6.1:
+        non_striker: NM Anil
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 6.2:
+        non_striker: NM Anil
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 6.3:
+        non_striker: NM Anil
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 6.4:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 6.5:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 6.6:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 6.7:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Anil
+    - 6.8:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 7.1:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 7.2:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 7.3:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: NM Anil
+    - 7.4:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 7.5:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 7.6:
+        non_striker: NM Anil
+        bowler: Rida Syeda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Fiza
+    - 7.7:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NM Anil
+    - 7.8:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 7.9:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 7.10:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 7.11:
+        non_striker: NM Anil
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 8.1:
+        non_striker: NM Anil
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 8.2:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NM Anil
+    - 8.3:
+        non_striker: NM Anil
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 8.4:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Anil
+    - 8.5:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 8.6:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 8.7:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 8.8:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 9.1:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Anil
+    - 9.2:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 9.3:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NM Anil
+    - 9.4:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NM Anil
+    - 9.5:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 9.6:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NM Anil
+    - 9.7:
+        non_striker: Fiza
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 9.8:
+        non_striker: NM Anil
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 9.9:
+        non_striker: NM Anil
+        bowler: Rida Syeda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 10.1:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 10.2:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 10.3:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NM Anil
+    - 10.4:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 10.5:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 10.6:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 11.1:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NM Anil
+    - 11.2:
+        non_striker: NM Anil
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 11.3:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 11.4:
+        non_striker: NM Anil
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 11.5:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 11.6:
+        non_striker: NM Anil
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fiza
+    - 11.7:
+        non_striker: NM Anil
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 12.1:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 12.2:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 12.3:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NM Anil
+    - 12.4:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 12.5:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 12.6:
+        non_striker: NM Anil
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiza
+    - 13.1:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NM Anil
+        wicket:
+          player_out: NM Anil
+          kind: lbw
+    - 13.2:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 13.3:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 13.4:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 13.5:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 13.6:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 13.7:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PE Mendonca
+    - 14.1:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 14.2:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 14.3:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 14.4:
+        non_striker: PE Mendonca
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 14.5:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 14.6:
+        non_striker: PE Mendonca
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 14.7:
+        non_striker: Fiza
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 14.8:
+        non_striker: PE Mendonca
+        bowler: C Sewsunker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 15.1:
+        non_striker: PE Mendonca
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 15.2:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 15.3:
+        non_striker: PE Mendonca
+        bowler: Maira Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 15.4:
+        non_striker: PE Mendonca
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 15.5:
+        non_striker: Fiza
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 15.6:
+        non_striker: PE Mendonca
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 15.7:
+        non_striker: PE Mendonca
+        bowler: Maira Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 16.1:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 16.2:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 16.3:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Mendonca
+    - 16.4:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 16.5:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PE Mendonca
+    - 16.6:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+    - 16.7:
+        non_striker: Fiza
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 16.8:
+        non_striker: PE Mendonca
+        bowler: Mah Noor Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 17.1:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 17.2:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Fiza
+    - 17.3:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 17.4:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiza
+    - 17.5:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Fiza
+    - 17.6:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 17.7:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 17.8:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 17.9:
+        non_striker: PE Mendonca
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 18.1:
+        non_striker: PE Mendonca
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fiza
+    - 18.2:
+        non_striker: PE Mendonca
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 18.3:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Mendonca
+    - 18.4:
+        non_striker: PE Mendonca
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 18.5:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Mendonca
+    - 18.6:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Mendonca
+        wicket:
+          player_out: PE Mendonca
+          fielders:
+          - Ruba Rashid
+          kind: caught
+    - 18.7:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Jayawant
+    - 18.8:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Jayawant
+    - 18.9:
+        non_striker: Fiza
+        bowler: Emaan Ejaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Jayawant
+    - 19.1:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Jayawant
+    - 19.2:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KD Jayawant
+    - 19.3:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Jayawant
+    - 19.4:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Jayawant
+    - 19.5:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KD Jayawant
+    - 19.6:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Jayawant
+    - 19.7:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Jayawant
+    - 19.8:
+        non_striker: KD Jayawant
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiza
+    - 19.9:
+        non_striker: KD Jayawant
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiza
+    - 19.10:
+        non_striker: Fiza
+        bowler: Amna Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Jayawant
+- 2nd innings:
+    team: Saudi Arabia
+    deliveries:
+    - 0.1:
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Najwa Akram
+        batsman: C Sewsunker
+    - 0.2:
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Najwa Akram
+        batsman: C Sewsunker
+    - 0.3:
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Najwa Akram
+        batsman: C Sewsunker
+    - 0.4:
+        non_striker: C Sewsunker
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 0.5:
+        non_striker: C Sewsunker
+        bowler: B Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 0.6:
+        non_striker: C Sewsunker
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 0.7:
+        non_striker: C Sewsunker
+        bowler: B Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+        wicket:
+          player_out: Najwa Akram
+          fielders:
+          - SV Shetty
+          kind: run out
+    - 0.8:
+        non_striker: C Sewsunker
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 1.1:
+        non_striker: Rida Syeda
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Sewsunker
+    - 1.2:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 1.3:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rida Syeda
+    - 1.4:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 1.5:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 1.6:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 1.7:
+        non_striker: C Sewsunker
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 2.1:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sewsunker
+    - 2.2:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Sewsunker
+    - 2.3:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sewsunker
+    - 2.4:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Sewsunker
+    - 2.5:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sewsunker
+    - 2.6:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Sewsunker
+    - 2.7:
+        non_striker: Rida Syeda
+        bowler: B Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Sewsunker
+        wicket:
+          player_out: C Sewsunker
+          fielders:
+          - A Dcosta
+          kind: caught
+    - 3.1:
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Maira Khan
+        batsman: Rida Syeda
+    - 3.2:
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Maira Khan
+        batsman: Rida Syeda
+    - 3.3:
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Maira Khan
+        batsman: Rida Syeda
+    - 3.4:
+        non_striker: Rida Syeda
+        bowler: S Channa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maira Khan
+    - 3.5:
+        non_striker: Rida Syeda
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 3.6:
+        non_striker: Rida Syeda
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 3.7:
+        non_striker: Rida Syeda
+        bowler: S Channa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 4.1:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rida Syeda
+    - 4.2:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 4.3:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 4.4:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rida Syeda
+    - 4.5:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rida Syeda
+    - 4.6:
+        non_striker: Rida Syeda
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 4.7:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rida Syeda
+    - 4.8:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rida Syeda
+    - 5.1:
+        non_striker: Rida Syeda
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 5.2:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rida Syeda
+    - 5.3:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rida Syeda
+    - 5.4:
+        non_striker: Rida Syeda
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 5.5:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rida Syeda
+    - 5.6:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 5.7:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 6.1:
+        non_striker: Rida Syeda
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 6.2:
+        non_striker: Rida Syeda
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 6.3:
+        non_striker: Rida Syeda
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 6.4:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rida Syeda
+    - 6.5:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+    - 6.6:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rida Syeda
+        wicket:
+          player_out: Rida Syeda
+          kind: bowled
+    - 6.7:
+        non_striker: Maira Khan
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Khan
+    - 7.1:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amna Khan
+    - 7.2:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Khan
+    - 7.3:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Khan
+    - 7.4:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amna Khan
+    - 7.5:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Khan
+        wicket:
+          player_out: Amna Khan
+          kind: lbw
+    - 7.6:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 7.7:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 7.8:
+        non_striker: Maira Khan
+        bowler: Sameera Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+        wicket:
+          player_out: Abeer Maryam
+          fielders:
+          - Fiza
+          kind: run out
+    - 8.1:
+        non_striker: Maira Khan
+        bowler: A Dcosta
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Ruba Rashid
+    - 8.2:
+        non_striker: Maira Khan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ruba Rashid
+    - 8.3:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maira Khan
+    - 8.4:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 8.5:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 8.6:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 8.7:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 8.8:
+        non_striker: Ruba Rashid
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+        wicket:
+          player_out: Ruba Rashid
+          fielders:
+          - SV Shetty
+          - B Shetty
+          kind: run out
+    - 9.1:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khazaima
+        batsman: Maira Khan
+    - 9.2:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khazaima
+        batsman: Maira Khan
+    - 9.3:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khazaima
+        batsman: Maira Khan
+    - 9.4:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khazaima
+        batsman: Maira Khan
+    - 9.5:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Khazaima
+        batsman: Maira Khan
+    - 9.6:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khazaima
+        wicket:
+          player_out: Khazaima
+          kind: bowled
+    - 10.1:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zoha Irfan
+        batsman: Maira Khan
+    - 10.2:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zoha Irfan
+        batsman: Maira Khan
+    - 10.3:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zoha Irfan
+        batsman: Maira Khan
+    - 10.4:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zoha Irfan
+        batsman: Maira Khan
+    - 10.5:
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zoha Irfan
+        batsman: Maira Khan
+    - 10.6:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 11.1:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 11.2:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 11.3:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 11.4:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 11.5:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 11.6:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 12.1:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 12.2:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 12.3:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 12.4:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 12.5:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 12.6:
+        non_striker: Zoha Irfan
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 13.1:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 13.2:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 13.3:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 13.4:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 13.5:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 13.6:
+        non_striker: Maira Khan
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 14.1:
+        non_striker: Zoha Irfan
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Maira Khan
+    - 14.2:
+        non_striker: Zoha Irfan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 14.3:
+        non_striker: Zoha Irfan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 14.4:
+        non_striker: Zoha Irfan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+    - 14.5:
+        non_striker: Zoha Irfan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maira Khan
+    - 14.6:
+        non_striker: Maira Khan
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zoha Irfan
+    - 14.7:
+        non_striker: Maira Khan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+    - 14.8:
+        non_striker: Maira Khan
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zoha Irfan
+        wicket:
+          player_out: Zoha Irfan
+          kind: lbw
+    - 15.1:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mah Noor Amir
+        batsman: Maira Khan
+    - 15.2:
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mah Noor Amir
+        batsman: Maira Khan
+    - 15.3:
+        non_striker: Mah Noor Amir
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maira Khan
+        wicket:
+          player_out: Maira Khan
+          kind: bowled
+    - 15.4:
+        non_striker: Mah Noor Amir
+        bowler: KD Jayawant
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Emaan Ejaz
+    - 15.5:
+        non_striker: Mah Noor Amir
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emaan Ejaz
+    - 15.6:
+        non_striker: Mah Noor Amir
+        bowler: KD Jayawant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Emaan Ejaz
+        wicket:
+          player_out: Emaan Ejaz
+          kind: lbw

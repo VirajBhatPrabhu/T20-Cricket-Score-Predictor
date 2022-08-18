@@ -1,0 +1,2237 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2022-07-13'
+  gender: male
+  match_type: T20
+  match_type_number: 1648
+  outcome:
+    winner: Isle of Man
+    by:
+      runs: 68
+  overs: 20
+  player_of_match:
+  - G Burrows
+  players:
+    Isle of Man:
+    - A McAuley
+    - N Knights
+    - G Burrows
+    - C Hartmann
+    - EF Beard
+    - JA Burrows
+    - D Jansen
+    - MJ Ansell
+    - CJ Langford
+    - J Butler
+    - K Cawte
+    Serbia:
+    - WAE Burton
+    - A Dizija
+    - S Ivetic
+    - LA Dunbar
+    - MV Pavlovic
+    - A Mene-Ejegi
+    - RL Vitas
+    - V Zimonjic
+    - NR Johns-Wickberg
+    - AA Gajic
+    - A Djorovic
+  registry:
+    people:
+      A Dizija: 6483c062
+      A Djorovic: 677c18f9
+      A McAuley: 39e599c8
+      A Mene-Ejegi: e4f13acd
+      A Paleker: 634b11ac
+      AA Gajic: a768a762
+      Adnan Khan: 45ec7a99
+      C Hartmann: 467c28f9
+      CJ Langford: 3967b66f
+      D Jansen: c90346a0
+      EF Beard: 68019a70
+      G Burrows: 8bee668b
+      GH Pienaar: 3516e46b
+      J Butler: efcb778e
+      JA Burrows: dba54d8e
+      K Cawte: a2dd9236
+      LA Dunbar: f50433e9
+      MJ Ansell: 6e60a792
+      MV Pavlovic: 2809b390
+      N Knights: b0aadf4f
+      NR Johns-Wickberg: 3924b2ee
+      RL Vitas: 869f61bc
+      S Ivetic: 04ab1575
+      SB Ravindra: 394ba7a8
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+  teams:
+  - Isle of Man
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  umpires:
+  - Adnan Khan
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.2:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.3:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.4:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.5:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.6:
+        non_striker: N Knights
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McAuley
+    - 1.1:
+        non_striker: A McAuley
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Knights
+    - 1.2:
+        non_striker: N Knights
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+        wicket:
+          player_out: A McAuley
+          fielders:
+          - A Djorovic
+          kind: caught
+    - 1.3:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Burrows
+        batsman: N Knights
+    - 1.4:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Burrows
+        batsman: N Knights
+    - 1.5:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Burrows
+        batsman: N Knights
+    - 1.6:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: G Burrows
+        batsman: N Knights
+    - 1.7:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Burrows
+        batsman: N Knights
+    - 1.8:
+        non_striker: N Knights
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 2.1:
+        non_striker: G Burrows
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Knights
+    - 2.2:
+        non_striker: G Burrows
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 2.3:
+        non_striker: N Knights
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 2.4:
+        non_striker: N Knights
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 2.5:
+        non_striker: N Knights
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 2.6:
+        non_striker: G Burrows
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 3.1:
+        non_striker: N Knights
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 3.2:
+        non_striker: N Knights
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 3.3:
+        non_striker: N Knights
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 3.4:
+        non_striker: G Burrows
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Knights
+    - 3.5:
+        non_striker: G Burrows
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Knights
+    - 3.6:
+        non_striker: G Burrows
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Knights
+    - 4.1:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Knights
+    - 4.2:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Knights
+    - 4.3:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Knights
+    - 4.4:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Knights
+    - 4.5:
+        non_striker: N Knights
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 4.6:
+        non_striker: N Knights
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 4.7:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 5.1:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 5.2:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+        wicket:
+          player_out: N Knights
+          kind: bowled
+    - 5.3:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 5.4:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 5.5:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 5.6:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Burrows
+    - 6.1:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 6.2:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Hartmann
+    - 6.3:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 6.4:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 6.5:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 6.6:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 6.7:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 6.8:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 7.1:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 7.2:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 7.3:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 7.4:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 7.5:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Hartmann
+    - 7.6:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 8.1:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 8.2:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 8.3:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 8.4:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Burrows
+    - 8.5:
+        non_striker: C Hartmann
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 8.6:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Hartmann
+    - 8.7:
+        non_striker: G Burrows
+        bowler: A Djorovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 9.1:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 9.2:
+        non_striker: G Burrows
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 9.3:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 9.4:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 9.5:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 9.6:
+        non_striker: C Hartmann
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 10.1:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 10.2:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 10.3:
+        non_striker: G Burrows
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 10.4:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 10.5:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 10.6:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 11.1:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 11.2:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 11.3:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 11.4:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 11.5:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 11.6:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 12.1:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Burrows
+    - 12.2:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 12.3:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 12.4:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 12.5:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 12.6:
+        non_striker: C Hartmann
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 13.1:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 13.2:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 13.3:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 13.4:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Burrows
+    - 13.5:
+        non_striker: C Hartmann
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Burrows
+    - 13.6:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Hartmann
+    - 13.7:
+        non_striker: G Burrows
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+        wicket:
+          player_out: C Hartmann
+          fielders:
+          - S Ivetic
+          kind: caught
+    - 14.1:
+        non_striker: G Burrows
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 14.2:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 14.3:
+        non_striker: G Burrows
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 14.4:
+        non_striker: G Burrows
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 14.5:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Burrows
+    - 14.6:
+        non_striker: G Burrows
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 15.1:
+        non_striker: G Burrows
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 15.2:
+        non_striker: G Burrows
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 15.3:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+        wicket:
+          player_out: G Burrows
+          kind: bowled
+    - 15.4:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burrows
+        wicket:
+          player_out: JA Burrows
+          kind: bowled
+    - 15.5:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jansen
+    - 15.6:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jansen
+        wicket:
+          player_out: D Jansen
+          kind: caught and bowled
+    - 16.1:
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Ansell
+        batsman: EF Beard
+    - 16.2:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ansell
+    - 16.3:
+        non_striker: MJ Ansell
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 16.4:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Ansell
+    - 16.5:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Ansell
+        wicket:
+          player_out: MJ Ansell
+          fielders:
+          - LA Dunbar
+          - A Mene-Ejegi
+          kind: run out
+    - 16.6:
+        non_striker: EF Beard
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 17.1:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Langford
+    - 17.2:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 17.3:
+        non_striker: CJ Langford
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 17.4:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Langford
+    - 17.5:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 17.6:
+        non_striker: EF Beard
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 17.7:
+        non_striker: CJ Langford
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EF Beard
+    - 18.1:
+        non_striker: EF Beard
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 18.2:
+        non_striker: EF Beard
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CJ Langford
+    - 18.3:
+        non_striker: CJ Langford
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 18.4:
+        non_striker: CJ Langford
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EF Beard
+    - 18.5:
+        non_striker: CJ Langford
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 18.6:
+        non_striker: CJ Langford
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 18.7:
+        non_striker: EF Beard
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 19.1:
+        non_striker: EF Beard
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Langford
+    - 19.2:
+        non_striker: EF Beard
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Langford
+    - 19.3:
+        non_striker: CJ Langford
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EF Beard
+    - 19.4:
+        non_striker: CJ Langford
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EF Beard
+    - 19.5:
+        non_striker: CJ Langford
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: EF Beard
+    - 19.6:
+        non_striker: EF Beard
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CJ Langford
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.2:
+        non_striker: A Dizija
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          kind: bowled
+    - 0.3:
+        non_striker: A Dizija
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 0.4:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 0.5:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 0.6:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.1:
+        non_striker: A Dizija
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 1.2:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.3:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.4:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.5:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 1.6:
+        non_striker: A Dizija
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 2.1:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.2:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.3:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          fielders:
+          - C Hartmann
+          kind: stumped
+    - 2.4:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.5:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.6:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.1:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 3.2:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 3.3:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.4:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 3.5:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.6:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 3.7:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 4.1:
+        non_striker: LA Dunbar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 4.2:
+        non_striker: LA Dunbar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.3:
+        non_striker: LA Dunbar
+        bowler: MJ Ansell
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Ivetic
+    - 4.4:
+        non_striker: LA Dunbar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 4.5:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 4.6:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 4.7:
+        non_striker: S Ivetic
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 5.1:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 5.2:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ivetic
+    - 5.3:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 5.4:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 5.5:
+        non_striker: S Ivetic
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 5.6:
+        non_striker: LA Dunbar
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.1:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 6.2:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ivetic
+    - 6.3:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 6.4:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.5:
+        non_striker: S Ivetic
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 6.6:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.7:
+        non_striker: S Ivetic
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dunbar
+    - 7.1:
+        non_striker: LA Dunbar
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 7.2:
+        non_striker: LA Dunbar
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 7.3:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LA Dunbar
+    - 7.4:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 7.5:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 7.6:
+        non_striker: LA Dunbar
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 8.1:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 8.2:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 8.3:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 8.4:
+        non_striker: LA Dunbar
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 8.5:
+        non_striker: S Ivetic
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.6:
+        non_striker: S Ivetic
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 9.1:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+        wicket:
+          player_out: LA Dunbar
+          fielders:
+          - EF Beard
+          kind: caught
+    - 9.2:
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Pavlovic
+        batsman: S Ivetic
+    - 9.3:
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Pavlovic
+        batsman: S Ivetic
+    - 9.4:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 9.5:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+    - 9.6:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 9.7:
+        non_striker: S Ivetic
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 10.1:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.2:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.3:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 10.4:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.5:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 10.6:
+        non_striker: S Ivetic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MV Pavlovic
+    - 11.1:
+        non_striker: MV Pavlovic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: S Ivetic
+          fielders:
+          - D Jansen
+          kind: caught
+    - 11.2:
+        bowler: J Butler
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: A Mene-Ejegi
+        batsman: MV Pavlovic
+    - 11.3:
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mene-Ejegi
+        batsman: MV Pavlovic
+    - 11.4:
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mene-Ejegi
+        batsman: MV Pavlovic
+    - 11.5:
+        non_striker: MV Pavlovic
+        bowler: J Butler
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Mene-Ejegi
+    - 11.6:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 11.7:
+        non_striker: MV Pavlovic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 11.8:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 12.1:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 12.2:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 12.3:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+    - 12.4:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 12.5:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 12.6:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+    - 13.1:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Pavlovic
+    - 13.2:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 13.3:
+        non_striker: MV Pavlovic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 13.4:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 13.5:
+        non_striker: A Mene-Ejegi
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 13.6:
+        non_striker: MV Pavlovic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 14.1:
+        non_striker: MV Pavlovic
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mene-Ejegi
+    - 14.2:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MV Pavlovic
+    - 14.3:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+        wicket:
+          player_out: MV Pavlovic
+          fielders:
+          - JA Burrows
+          kind: caught
+    - 14.4:
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Vitas
+        batsman: A Mene-Ejegi
+    - 14.5:
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RL Vitas
+        batsman: A Mene-Ejegi
+    - 14.6:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 14.7:
+        non_striker: A Mene-Ejegi
+        bowler: K Cawte
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 15.1:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mene-Ejegi
+    - 15.2:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+        wicket:
+          player_out: A Mene-Ejegi
+          fielders:
+          - K Cawte
+          kind: caught
+    - 15.3:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+    - 15.4:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+        wicket:
+          player_out: V Zimonjic
+          kind: bowled
+    - 15.5:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 15.6:
+        non_striker: RL Vitas
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 16.1:
+        non_striker: NR Johns-Wickberg
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 16.2:
+        non_striker: NR Johns-Wickberg
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Vitas
+    - 16.3:
+        non_striker: RL Vitas
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 16.4:
+        non_striker: RL Vitas
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 16.5:
+        non_striker: RL Vitas
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 16.6:
+        non_striker: RL Vitas
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 17.1:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 17.2:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Vitas
+    - 17.3:
+        non_striker: RL Vitas
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 17.4:
+        non_striker: RL Vitas
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 17.5:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 17.6:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 18.1:
+        non_striker: RL Vitas
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 18.2:
+        non_striker: NR Johns-Wickberg
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 18.3:
+        non_striker: NR Johns-Wickberg
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Vitas
+    - 18.4:
+        non_striker: RL Vitas
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 18.5:
+        non_striker: NR Johns-Wickberg
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 18.6:
+        non_striker: NR Johns-Wickberg
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 19.1:
+        non_striker: RL Vitas
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 19.2:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Vitas
+    - 19.3:
+        non_striker: RL Vitas
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 19.4:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Vitas
+    - 19.5:
+        non_striker: NR Johns-Wickberg
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Vitas
+    - 19.6:
+        non_striker: RL Vitas
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg

@@ -1,0 +1,1975 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Waterloo
+  dates:
+  - '2022-07-02'
+  gender: male
+  match_type: T20
+  match_type_number: 1600
+  outcome:
+    winner: Denmark
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - HAM Shah
+  players:
+    Denmark:
+    - ND Laegsgaard
+    - HAM Shah
+    - T Bharaj
+    - S Thanikaithasan
+    - SA Ahmad
+    - Musa Shaheen
+    - Saran Aslam
+    - OD Hald
+    - FA Klokker
+    - Surya Anand
+    - Saud Munir
+    Spain:
+    - D Doyle-Calle
+    - Awais Ahmed
+    - Yasir Ali
+    - J Trembeath-Moro
+    - Hamza Dar
+    - LA Burns
+    - C Munoz-Mills
+    - Mohammad Kamran
+    - Zulqarnain Haider (2)
+    - Atif Mehmood
+    - Raja Adeel
+  registry:
+    people:
+      Adriaan van den Dries: 94b5ec3b
+      Atif Mehmood: 7fcc57bf
+      Awais Ahmed: f9f857dc
+      C Munoz-Mills: 17bc032c
+      D Doyle-Calle: 74be2916
+      FA Klokker: 821a412e
+      HAM Shah: 007113d7
+      Hamza Dar: 557550a4
+      J Trembeath-Moro: 788d661c
+      Jonathan Kennedy: f7ad4494
+      LA Burns: 5b616bf0
+      Mohammad Kamran: 1a628a92
+      Musa Shaheen: 6709b2de
+      ND Laegsgaard: b0f2d3bd
+      OD Hald: 38189be1
+      Phil Whitticase: 99d5f6fa
+      Raja Adeel: 7ee25c46
+      S Thanikaithasan: 498aacac
+      SA Ahmad: 8de618ab
+      Saran Aslam: 2a00735b
+      Saud Munir: 5902f2eb
+      Surya Anand: ef141f36
+      T Bharaj: 49556abb
+      Vinay Malhotra: 452837d1
+      Yasir Ali: '79209272'
+      Zulqarnain Haider: 2d46e8ed
+  teams:
+  - Denmark
+  - Spain
+  toss:
+    winner: Spain
+    decision: field
+  umpires:
+  - Adriaan van den Dries
+  - Vinay Malhotra
+  venue: Royal Brussels Cricket Club Ground, Waterloo
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.2:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.3:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.4:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.5:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        batsman: ND Laegsgaard
+    - 0.6:
+        non_striker: HAM Shah
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.1:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 1.2:
+        non_striker: HAM Shah
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.3:
+        non_striker: HAM Shah
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 1.4:
+        non_striker: HAM Shah
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 1.5:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 1.6:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 2.1:
+        non_striker: HAM Shah
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 2.2:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.3:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 2.4:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 2.5:
+        non_striker: HAM Shah
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 2.6:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 3.1:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.2:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 3.3:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 3.4:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 3.5:
+        non_striker: ND Laegsgaard
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 3.6:
+        non_striker: HAM Shah
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ND Laegsgaard
+    - 4.1:
+        non_striker: ND Laegsgaard
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 4.2:
+        non_striker: HAM Shah
+        bowler: Atif Mehmood
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: ND Laegsgaard
+    - 4.3:
+        non_striker: HAM Shah
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 4.4:
+        non_striker: HAM Shah
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 4.5:
+        non_striker: ND Laegsgaard
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HAM Shah
+    - 4.6:
+        non_striker: ND Laegsgaard
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 5.1:
+        non_striker: ND Laegsgaard
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 5.2:
+        non_striker: HAM Shah
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 5.3:
+        non_striker: ND Laegsgaard
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.4:
+        non_striker: ND Laegsgaard
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 5.5:
+        non_striker: ND Laegsgaard
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HAM Shah
+    - 5.6:
+        non_striker: HAM Shah
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 6.1:
+        non_striker: HAM Shah
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 6.2:
+        non_striker: ND Laegsgaard
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.3:
+        non_striker: ND Laegsgaard
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+    - 6.4:
+        non_striker: ND Laegsgaard
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: HAM Shah
+    - 6.5:
+        non_striker: ND Laegsgaard
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          fielders:
+          - J Trembeath-Moro
+          kind: caught
+    - 6.6:
+        non_striker: ND Laegsgaard
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 7.1:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ND Laegsgaard
+    - 7.2:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ND Laegsgaard
+    - 7.3:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ND Laegsgaard
+    - 7.4:
+        non_striker: ND Laegsgaard
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 7.5:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 7.6:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 8.1:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 8.2:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 8.3:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ND Laegsgaard
+    - 8.4:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ND Laegsgaard
+    - 8.5:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 8.6:
+        non_striker: T Bharaj
+        bowler: Zulqarnain Haider (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ND Laegsgaard
+    - 9.1:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 9.2:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 9.3:
+        non_striker: T Bharaj
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ND Laegsgaard
+    - 9.4:
+        non_striker: ND Laegsgaard
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 9.5:
+        non_striker: T Bharaj
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+    - 9.6:
+        non_striker: T Bharaj
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ND Laegsgaard
+        wicket:
+          player_out: ND Laegsgaard
+          fielders:
+          - C Munoz-Mills
+          kind: caught
+    - 10.1:
+        non_striker: T Bharaj
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Thanikaithasan
+    - 10.2:
+        non_striker: T Bharaj
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 10.3:
+        non_striker: S Thanikaithasan
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 10.4:
+        non_striker: S Thanikaithasan
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 10.5:
+        non_striker: T Bharaj
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 10.6:
+        non_striker: T Bharaj
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+    - 11.1:
+        non_striker: S Thanikaithasan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 11.2:
+        non_striker: T Bharaj
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 11.3:
+        non_striker: S Thanikaithasan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 11.4:
+        non_striker: T Bharaj
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 11.5:
+        non_striker: S Thanikaithasan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+    - 11.6:
+        non_striker: S Thanikaithasan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 12.1:
+        non_striker: S Thanikaithasan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bharaj
+    - 12.2:
+        non_striker: S Thanikaithasan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Bharaj
+    - 12.3:
+        non_striker: S Thanikaithasan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 12.4:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thanikaithasan
+    - 12.5:
+        non_striker: S Thanikaithasan
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bharaj
+    - 12.6:
+        non_striker: T Bharaj
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thanikaithasan
+        wicket:
+          player_out: S Thanikaithasan
+          kind: lbw
+    - 13.1:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SA Ahmad
+        batsman: T Bharaj
+    - 13.2:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SA Ahmad
+        batsman: T Bharaj
+    - 13.3:
+        non_striker: SA Ahmad
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bharaj
+        wicket:
+          player_out: T Bharaj
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 13.4:
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Musa Shaheen
+        batsman: SA Ahmad
+    - 13.5:
+        non_striker: SA Ahmad
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 13.6:
+        non_striker: SA Ahmad
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 14.1:
+        non_striker: SA Ahmad
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 14.2:
+        non_striker: Musa Shaheen
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Ahmad
+    - 14.3:
+        non_striker: Musa Shaheen
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 14.4:
+        non_striker: SA Ahmad
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Musa Shaheen
+    - 14.5:
+        non_striker: Musa Shaheen
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 14.6:
+        non_striker: Musa Shaheen
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 14.7:
+        non_striker: SA Ahmad
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Musa Shaheen
+    - 14.8:
+        non_striker: SA Ahmad
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 15.1:
+        non_striker: Musa Shaheen
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 15.2:
+        non_striker: SA Ahmad
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 15.3:
+        non_striker: SA Ahmad
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 15.4:
+        non_striker: Musa Shaheen
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 15.5:
+        non_striker: Musa Shaheen
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Ahmad
+    - 15.6:
+        non_striker: Musa Shaheen
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 16.1:
+        non_striker: Musa Shaheen
+        bowler: Atif Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Ahmad
+    - 16.2:
+        non_striker: SA Ahmad
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 16.3:
+        non_striker: Musa Shaheen
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 16.4:
+        non_striker: SA Ahmad
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 16.5:
+        non_striker: Musa Shaheen
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 16.6:
+        non_striker: Musa Shaheen
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 17.1:
+        non_striker: SA Ahmad
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 17.2:
+        non_striker: SA Ahmad
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 17.3:
+        non_striker: Musa Shaheen
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Ahmad
+    - 17.4:
+        non_striker: SA Ahmad
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+    - 17.5:
+        non_striker: SA Ahmad
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 17.6:
+        non_striker: Musa Shaheen
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Ahmad
+    - 18.1:
+        non_striker: SA Ahmad
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Shaheen
+    - 18.2:
+        non_striker: Musa Shaheen
+        bowler: Atif Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Ahmad
+    - 18.3:
+        non_striker: SA Ahmad
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 18.4:
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saran Aslam
+        batsman: SA Ahmad
+    - 18.5:
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saran Aslam
+        batsman: SA Ahmad
+    - 18.6:
+        non_striker: SA Ahmad
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saran Aslam
+    - 19.1:
+        non_striker: Saran Aslam
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+    - 19.2:
+        non_striker: Saran Aslam
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Ahmad
+        wicket:
+          player_out: SA Ahmad
+          fielders:
+          - J Trembeath-Moro
+          kind: caught
+    - 19.3:
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: OD Hald
+        batsman: Saran Aslam
+    - 19.4:
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: OD Hald
+        batsman: Saran Aslam
+    - 19.5:
+        non_striker: OD Hald
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saran Aslam
+        wicket:
+          player_out: Saran Aslam
+          fielders:
+          - Mohammad Kamran
+          kind: caught
+    - 19.6:
+        non_striker: OD Hald
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Klokker
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.2:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.3:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.4:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.5:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.6:
+        non_striker: Awais Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 1.1:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 1.2:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmed
+    - 1.3:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 1.4:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+        wicket:
+          player_out: Awais Ahmed
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 1.5:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 1.6:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 2.1:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.2:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.3:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.4:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 2.5:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.6:
+        non_striker: Yasir Ali
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 3.1:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali
+    - 3.2:
+        non_striker: D Doyle-Calle
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 3.3:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+        wicket:
+          player_out: D Doyle-Calle
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 3.4:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Trembeath-Moro
+    - 3.5:
+        non_striker: J Trembeath-Moro
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 3.6:
+        non_striker: J Trembeath-Moro
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 4.1:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali
+    - 4.2:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 4.3:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali
+    - 4.4:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 4.5:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 4.6:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 5.1:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Trembeath-Moro
+    - 5.2:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 5.3:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Trembeath-Moro
+    - 5.4:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 5.5:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 5.6:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 5.7:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Trembeath-Moro
+    - 5.8:
+        non_striker: Yasir Ali
+        bowler: OD Hald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 6.1:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 6.2:
+        non_striker: J Trembeath-Moro
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 6.3:
+        non_striker: Yasir Ali
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 6.4:
+        non_striker: Yasir Ali
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 6.5:
+        non_striker: Yasir Ali
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 6.6:
+        non_striker: Yasir Ali
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Trembeath-Moro
+    - 7.1:
+        non_striker: Yasir Ali
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Trembeath-Moro
+    - 7.2:
+        non_striker: Yasir Ali
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Trembeath-Moro
+    - 7.3:
+        non_striker: Yasir Ali
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Trembeath-Moro
+    - 7.4:
+        non_striker: Yasir Ali
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Trembeath-Moro
+    - 7.5:
+        non_striker: J Trembeath-Moro
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali
+    - 7.6:
+        non_striker: J Trembeath-Moro
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 8.1:
+        non_striker: J Trembeath-Moro
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 8.2:
+        non_striker: Yasir Ali
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Trembeath-Moro
+    - 8.3:
+        non_striker: J Trembeath-Moro
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali
+    - 8.4:
+        non_striker: Yasir Ali
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 8.5:
+        non_striker: Yasir Ali
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+    - 8.6:
+        non_striker: Yasir Ali
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Trembeath-Moro
+        wicket:
+          player_out: J Trembeath-Moro
+          fielders:
+          - Surya Anand
+          kind: caught
+    - 9.1:
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Dar
+        batsman: Yasir Ali
+        wicket:
+          player_out: Yasir Ali
+          fielders:
+          - HAM Shah
+          kind: run out
+    - 9.2:
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LA Burns
+        batsman: Hamza Dar
+    - 9.3:
+        non_striker: Hamza Dar
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Burns
+        wicket:
+          player_out: LA Burns
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 9.4:
+        non_striker: Hamza Dar
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 9.5:
+        non_striker: Hamza Dar
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 9.6:
+        non_striker: C Munoz-Mills
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 10.1:
+        non_striker: Hamza Dar
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills
+    - 10.2:
+        non_striker: Hamza Dar
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 10.3:
+        non_striker: C Munoz-Mills
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Dar
+    - 10.4:
+        non_striker: C Munoz-Mills
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 10.5:
+        non_striker: C Munoz-Mills
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+    - 10.6:
+        non_striker: C Munoz-Mills
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Dar
+        wicket:
+          player_out: Hamza Dar
+          fielders:
+          - Saud Munir
+          kind: caught
+    - 11.1:
+        bowler: Saud Munir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: Mohammad Kamran
+        batsman: C Munoz-Mills
+    - 11.2:
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Kamran
+        batsman: C Munoz-Mills
+    - 11.3:
+        non_striker: C Munoz-Mills
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Kamran
+    - 11.4:
+        non_striker: C Munoz-Mills
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+        wicket:
+          player_out: Mohammad Kamran
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 11.5:
+        non_striker: C Munoz-Mills
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zulqarnain Haider (2)
+    - 11.6:
+        non_striker: C Munoz-Mills
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zulqarnain Haider (2)
+    - 12.1:
+        non_striker: Zulqarnain Haider (2)
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munoz-Mills
+    - 12.2:
+        non_striker: Zulqarnain Haider (2)
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills
+    - 12.3:
+        non_striker: Zulqarnain Haider (2)
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 12.4:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zulqarnain Haider (2)
+    - 12.5:
+        non_striker: Zulqarnain Haider (2)
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 12.6:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zulqarnain Haider (2)
+    - 12.7:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zulqarnain Haider (2)
+    - 13.1:
+        non_striker: C Munoz-Mills
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zulqarnain Haider (2)
+    - 13.2:
+        non_striker: Zulqarnain Haider (2)
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 13.3:
+        non_striker: C Munoz-Mills
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zulqarnain Haider (2)
+        wicket:
+          player_out: Zulqarnain Haider (2)
+          fielders:
+          - T Bharaj
+          kind: caught
+    - 13.4:
+        non_striker: C Munoz-Mills
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Mehmood
+    - 13.5:
+        non_striker: Atif Mehmood
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills
+    - 13.6:
+        non_striker: Atif Mehmood
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 14.1:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Atif Mehmood
+    - 14.2:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Mehmood
+    - 14.3:
+        non_striker: Atif Mehmood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 14.4:
+        non_striker: Atif Mehmood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munoz-Mills
+    - 14.5:
+        non_striker: Atif Mehmood
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munoz-Mills
+    - 14.6:
+        non_striker: C Munoz-Mills
+        bowler: ND Laegsgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Mehmood
+    - 15.1:
+        non_striker: C Munoz-Mills
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Mehmood
+    - 15.2:
+        non_striker: Atif Mehmood
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+        wicket:
+          player_out: C Munoz-Mills
+          fielders:
+          - FA Klokker
+          kind: caught
+    - 15.3:
+        non_striker: Atif Mehmood
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raja Adeel
+    - 15.4:
+        non_striker: Raja Adeel
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Atif Mehmood
+    - 15.5:
+        non_striker: Raja Adeel
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Atif Mehmood
+    - 15.6:
+        non_striker: Raja Adeel
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Atif Mehmood
+    - 16.1:
+        non_striker: Atif Mehmood
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raja Adeel
+        wicket:
+          player_out: Raja Adeel
+          fielders:
+          - T Bharaj
+          kind: caught

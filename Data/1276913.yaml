@@ -1,0 +1,2189 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bristol
+  dates:
+  - '2022-07-27'
+  gender: male
+  match_type: T20
+  match_type_number: 1693
+  outcome:
+    winner: England
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - MM Ali
+  players:
+    England:
+    - JJ Roy
+    - JC Buttler
+    - DJ Malan
+    - JM Bairstow
+    - MM Ali
+    - LS Livingstone
+    - SM Curran
+    - CJ Jordan
+    - AU Rashid
+    - RJW Topley
+    - RJ Gleeson
+    South Africa:
+    - Q de Kock
+    - RR Hendricks
+    - RR Rossouw
+    - H Klaasen
+    - DA Miller
+    - T Stubbs
+    - AL Phehlukwayo
+    - K Rabada
+    - KA Maharaj
+    - L Ngidi
+    - T Shamsi
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      AL Phehlukwayo: ab6b1c45
+      AU Rashid: 249d60c9
+      BC Broad: d6a7dd38
+      CJ Jordan: ffe699c0
+      DA Miller: d67d5f00
+      DJ Malan: ad9c32a2
+      DJ Millns: 46ecfe40
+      H Klaasen: 235c2bb6
+      JC Buttler: 99b75528
+      JJ Roy: d1c36f5c
+      JM Bairstow: abb83e27
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      L Ngidi: f834dcfc
+      LS Livingstone: 50c6bc2b
+      M Burns: b3bd0666
+      MJ Saggers: 402d5937
+      MM Ali: bb351c23
+      Q de Kock: 372455c4
+      RJ Gleeson: 402f8494
+      RJW Topley: 8db7f47f
+      RR Hendricks: b8cc58c9
+      RR Rossouw: cad00a4d
+      SM Curran: e94915e6
+      T Shamsi: a03bba42
+      T Stubbs: 85b3fab2
+  teams:
+  - England
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - DJ Millns
+  - M Burns
+  venue: County Ground, Bristol
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.1:
+        non_striker: JC Buttler
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: JJ Roy
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: JJ Roy
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - DA Miller
+          kind: caught
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 2.7:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.1:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.4:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 3.5:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.6:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.1:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.2:
+        non_striker: JJ Roy
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 4.4:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 4.5:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 4.6:
+        non_striker: DJ Malan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Bairstow
+    - 5.1:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.2:
+        non_striker: DJ Malan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 5.3:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.4:
+        non_striker: DJ Malan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 5.5:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.6:
+        non_striker: DJ Malan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 6.1:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 6.3:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.4:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 6.5:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.6:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 7.1:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 7.2:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.3:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 8.3:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.4:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 8.6:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.1:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 9.2:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow
+    - 9.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 9.5:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 9.6:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DJ Malan
+    - 9.7:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 10.1:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 10.2:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 10.3:
+        non_striker: JM Bairstow
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.4:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 10.5:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 10.6:
+        non_striker: DJ Malan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 11.2:
+        non_striker: DJ Malan
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 11.3:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 11.4:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 11.5:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 11.6:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 12.1:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 12.2:
+        non_striker: JM Bairstow
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 12.3:
+        non_striker: JM Bairstow
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.4:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 12.5:
+        non_striker: JM Bairstow
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 12.6:
+        non_striker: JM Bairstow
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 13.1:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 13.2:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Bairstow
+    - 13.3:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Bairstow
+    - 13.4:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 13.5:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 13.6:
+        non_striker: JM Bairstow
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 13.7:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 13.8:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 14.1:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 14.2:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Bairstow
+    - 14.3:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 14.4:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 14.5:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 14.6:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 14.7:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 15.1:
+        non_striker: MM Ali
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 15.2:
+        non_striker: JM Bairstow
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 15.3:
+        non_striker: MM Ali
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 15.4:
+        non_striker: MM Ali
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Bairstow
+    - 15.5:
+        non_striker: MM Ali
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 15.6:
+        non_striker: JM Bairstow
+        bowler: T Stubbs
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: MM Ali
+    - 15.7:
+        non_striker: JM Bairstow
+        bowler: T Stubbs
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 16.1:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 16.2:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 16.3:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Bairstow
+    - 16.4:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Bairstow
+    - 16.5:
+        non_striker: MM Ali
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 16.6:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 16.7:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 16.8:
+        non_striker: JM Bairstow
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 17.1:
+        non_striker: MM Ali
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow
+    - 17.2:
+        non_striker: MM Ali
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow
+    - 17.3:
+        non_striker: MM Ali
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JM Bairstow
+    - 17.4:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 17.5:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 17.6:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 17.7:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 17.8:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 18.1:
+        non_striker: LS Livingstone
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 18.2:
+        non_striker: JM Bairstow
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 18.3:
+        non_striker: LS Livingstone
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Bairstow
+    - 18.4:
+        non_striker: LS Livingstone
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 18.5:
+        non_striker: LS Livingstone
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 18.6:
+        non_striker: LS Livingstone
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 19.1:
+        non_striker: LS Livingstone
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Bairstow
+    - 19.2:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 19.3:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 19.4:
+        non_striker: JM Bairstow
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 19.5:
+        non_striker: SM Curran
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+        wicket:
+          player_out: JM Bairstow
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 19.6:
+        non_striker: SM Curran
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CJ Jordan
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - DJ Malan
+          kind: caught
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.6:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - RJ Gleeson
+          kind: caught
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 2.3:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 2.4:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 2.5:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 2.6:
+        non_striker: H Klaasen
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.1:
+        non_striker: H Klaasen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: H Klaasen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: H Klaasen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 3.5:
+        non_striker: H Klaasen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 4.1:
+        non_striker: RR Hendricks
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 4.2:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.3:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 4.4:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.5:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 4.6:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.1:
+        non_striker: RR Hendricks
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 5.2:
+        non_striker: H Klaasen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 5.3:
+        non_striker: H Klaasen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 5.4:
+        non_striker: H Klaasen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.5:
+        non_striker: RR Hendricks
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 5.6:
+        non_striker: RR Hendricks
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 6.1:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.3:
+        non_striker: RR Hendricks
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.5:
+        non_striker: H Klaasen
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.6:
+        non_striker: RR Hendricks
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 7.1:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.2:
+        non_striker: RR Hendricks
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.3:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.4:
+        non_striker: RR Hendricks
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.5:
+        non_striker: H Klaasen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.6:
+        non_striker: RR Hendricks
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 8.1:
+        non_striker: RR Hendricks
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 8.2:
+        non_striker: DA Miller
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 8.3:
+        non_striker: DA Miller
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 8.4:
+        non_striker: DA Miller
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.5:
+        non_striker: DA Miller
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.6:
+        non_striker: DA Miller
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 9.1:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.2:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 9.3:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.4:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - SM Curran
+          kind: caught
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.6:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.1:
+        non_striker: DA Miller
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.2:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 10.3:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.4:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 10.5:
+        non_striker: DA Miller
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.6:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 11.1:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 11.2:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 11.3:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 11.4:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.6:
+        non_striker: DA Miller
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 12.1:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 12.2:
+        non_striker: DA Miller
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 12.3:
+        non_striker: DA Miller
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.4:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.5:
+        non_striker: DA Miller
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 12.6:
+        non_striker: DA Miller
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 13.2:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 13.3:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 13.4:
+        non_striker: DA Miller
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.5:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 13.6:
+        non_striker: T Stubbs
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Phehlukwayo
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 14.3:
+        non_striker: AL Phehlukwayo
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 14.4:
+        non_striker: AL Phehlukwayo
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.5:
+        non_striker: AL Phehlukwayo
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 14.6:
+        non_striker: T Stubbs
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Phehlukwayo
+    - 15.2:
+        non_striker: T Stubbs
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Phehlukwayo
+    - 15.3:
+        non_striker: T Stubbs
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 15.4:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 15.5:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 15.6:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 16.1:
+        non_striker: T Stubbs
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 16.2:
+        non_striker: T Stubbs
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 16.3:
+        non_striker: AL Phehlukwayo
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 16.4:
+        non_striker: AL Phehlukwayo
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.5:
+        non_striker: T Stubbs
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 16.6:
+        non_striker: AL Phehlukwayo
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.1:
+        non_striker: AL Phehlukwayo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.2:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 17.3:
+        non_striker: AL Phehlukwayo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 17.4:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 17.5:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 17.6:
+        non_striker: T Stubbs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 18.1:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 18.2:
+        non_striker: K Rabada
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Phehlukwayo
+    - 18.3:
+        non_striker: K Rabada
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 18.4:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Rabada
+        wicket:
+          player_out: K Rabada
+          kind: bowled
+    - 18.5:
+        non_striker: AL Phehlukwayo
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 18.6:
+        non_striker: KA Maharaj
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+        wicket:
+          player_out: AL Phehlukwayo
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 19.1:
+        non_striker: L Ngidi
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 19.2:
+        non_striker: KA Maharaj
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ngidi
+    - 19.3:
+        non_striker: L Ngidi
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 19.4:
+        non_striker: KA Maharaj
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Ngidi
+    - 19.5:
+        non_striker: L Ngidi
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 19.6:
+        non_striker: L Ngidi
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj

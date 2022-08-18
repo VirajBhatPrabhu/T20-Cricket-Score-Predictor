@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-07-04'
+  gender: male
+  match_type: T20
+  match_type_number: 1609
+  outcome:
+    winner: Bhutan
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - Namgay Thinley
+  players:
+    Bhutan:
+    - Namgay Thinley
+    - Tenjin Rabgey
+    - T Jamtsho
+    - RM Dorji
+    - N Chejay
+    - J Singye
+    - GK Ghalley
+    - S Pradhan
+    - Ngawang Thinley
+    - Manoj Adhikari
+    - S Yeshi
+    Maldives:
+    - Ahmed Hassan
+    - Umar Adam
+    - Azyan Farhath
+    - Mohamed Rishwan
+    - Hassan Rasheed
+    - Mohamed Azzam
+    - Shunan Ali
+    - L Shafeeg
+    - Ibrahim Hassan
+    - Ibrahim Rizan
+    - Ameel Mauroof
+  registry:
+    people:
+      Ahmed Hassan: 7c885103
+      Ameel Mauroof: 1579d497
+      Azyan Farhath: 3e06e7ac
+      B Ramani: 92ad5353
+      GK Ghalley: 2d1b6dee
+      Hassan Rasheed: 1ca51098
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Rizan: 7267e3cd
+      J Singye: '28574428'
+      L Shafeeg: ed82d9a5
+      Manoj Adhikari: 26529e00
+      Mathan Kumar: da596754
+      Mohamed Azzam: e43c9818
+      Mohamed Rishwan: 7d15170b
+      N Chejay: a9e63549
+      Namgay Thinley: 9c333e40
+      Ngawang Thinley: cc62ec8a
+      RM Dorji: 3d7f02d4
+      Rudy Ismandy: '84682045'
+      S Pradhan: 04f0d409
+      S Yeshi: 0c24fb7b
+      Shunan Ali: 3b2ca392
+      T Jamtsho: c01d1c0a
+      Tenjin Rabgey: 1fed517a
+      Umar Adam: 5d77a96a
+      V Kalidas: 42d76418
+  teams:
+  - Bhutan
+  - Maldives
+  toss:
+    winner: Maldives
+    decision: field
+  umpires:
+  - Rudy Ismandy
+  - V Kalidas
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.2:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.3:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.4:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.5:
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.6:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 1.1:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.2:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.3:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tenjin Rabgey
+    - 1.4:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 1.5:
+        non_striker: Tenjin Rabgey
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 1.6:
+        non_striker: Tenjin Rabgey
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 2.1:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.2:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.3:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 2.4:
+        non_striker: Tenjin Rabgey
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 2.5:
+        non_striker: Tenjin Rabgey
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 2.6:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 3.1:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 3.2:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          kind: lbw
+    - 3.3:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 3.4:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 3.5:
+        non_striker: T Jamtsho
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Namgay Thinley
+    - 3.6:
+        non_striker: T Jamtsho
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 3.7:
+        non_striker: T Jamtsho
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Namgay Thinley
+    - 4.1:
+        non_striker: T Jamtsho
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 4.2:
+        non_striker: T Jamtsho
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 4.3:
+        non_striker: Namgay Thinley
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Jamtsho
+    - 4.4:
+        non_striker: Namgay Thinley
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 4.5:
+        non_striker: Namgay Thinley
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Jamtsho
+    - 4.6:
+        non_striker: T Jamtsho
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 5.1:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Jamtsho
+    - 5.2:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 5.3:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          fielders:
+          - Mohamed Rishwan
+          kind: caught
+    - 5.4:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RM Dorji
+        batsman: Namgay Thinley
+    - 5.5:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RM Dorji
+        batsman: Namgay Thinley
+    - 5.6:
+        non_striker: RM Dorji
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 6.1:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 6.2:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 6.3:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 6.4:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 6.5:
+        non_striker: RM Dorji
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 6.6:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 7.1:
+        non_striker: RM Dorji
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.2:
+        non_striker: RM Dorji
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 7.3:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Dorji
+    - 7.4:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 7.5:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 7.6:
+        non_striker: Namgay Thinley
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 8.1:
+        non_striker: RM Dorji
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 8.2:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: RM Dorji
+    - 8.3:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+        wicket:
+          player_out: RM Dorji
+          kind: lbw
+    - 8.4:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 8.5:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chejay
+    - 8.6:
+        non_striker: Namgay Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 9.1:
+        non_striker: N Chejay
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 9.2:
+        non_striker: Namgay Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 9.3:
+        non_striker: Namgay Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 9.4:
+        non_striker: N Chejay
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 9.5:
+        non_striker: N Chejay
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 9.6:
+        non_striker: N Chejay
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          kind: bowled
+    - 10.1:
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Shunan Ali
+        non_striker: J Singye
+        batsman: N Chejay
+    - 10.2:
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        bowler: Shunan Ali
+        non_striker: J Singye
+        batsman: N Chejay
+    - 10.3:
+        non_striker: N Chejay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Shunan Ali
+        batsman: J Singye
+    - 10.4:
+        non_striker: N Chejay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Shunan Ali
+        batsman: J Singye
+    - 10.5:
+        non_striker: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Shunan Ali
+        batsman: N Chejay
+    - 10.6:
+        non_striker: N Chejay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: Shunan Ali
+        batsman: J Singye
+    - 10.7:
+        non_striker: N Chejay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Shunan Ali
+        batsman: J Singye
+    - 11.1:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 11.2:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 11.3:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chejay
+    - 11.4:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 11.5:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 11.6:
+        non_striker: N Chejay
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 11.7:
+        non_striker: J Singye
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 12.1:
+        non_striker: N Chejay
+        bowler: Azyan Farhath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Singye
+    - 12.2:
+        non_striker: J Singye
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 12.3:
+        non_striker: N Chejay
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Singye
+    - 12.4:
+        non_striker: J Singye
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 12.5:
+        non_striker: J Singye
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 12.6:
+        non_striker: J Singye
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 13.1:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 13.2:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 13.3:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Singye
+        wicket:
+          player_out: J Singye
+          fielders:
+          - Mohamed Azzam
+          kind: stumped
+    - 13.4:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 13.5:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 13.6:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 13.7:
+        non_striker: N Chejay
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 14.1:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 14.2:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+        wicket:
+          player_out: N Chejay
+          fielders:
+          - Mohamed Azzam
+          kind: stumped
+    - 14.3:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+        wicket:
+          player_out: S Pradhan
+          kind: lbw
+    - 14.4:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 14.5:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ngawang Thinley
+    - 14.6:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ngawang Thinley
+    - 15.1:
+        non_striker: Ngawang Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.2:
+        non_striker: Ngawang Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.3:
+        non_striker: Ngawang Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GK Ghalley
+    - 15.4:
+        non_striker: GK Ghalley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 15.5:
+        non_striker: Ngawang Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 15.6:
+        non_striker: Ngawang Thinley
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 16.1:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 16.2:
+        non_striker: Ngawang Thinley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 16.3:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 16.4:
+        non_striker: GK Ghalley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 16.5:
+        non_striker: Ngawang Thinley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 16.6:
+        non_striker: Ngawang Thinley
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 17.1:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 17.2:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Ghalley
+    - 17.3:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 17.4:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 17.5:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 17.6:
+        non_striker: Ngawang Thinley
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          fielders:
+          - Mohamed Azzam
+          kind: stumped
+    - 18.1:
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Manoj Adhikari
+        batsman: Ngawang Thinley
+    - 18.2:
+        non_striker: Manoj Adhikari
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+        wicket:
+          player_out: Ngawang Thinley
+          fielders:
+          - Mohamed Rishwan
+          kind: caught
+    - 18.3:
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Yeshi
+        batsman: Manoj Adhikari
+    - 18.4:
+        non_striker: Manoj Adhikari
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 18.5:
+        non_striker: Manoj Adhikari
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 18.6:
+        non_striker: Manoj Adhikari
+        bowler: Azyan Farhath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 19.1:
+        non_striker: S Yeshi
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manoj Adhikari
+    - 19.2:
+        non_striker: Manoj Adhikari
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yeshi
+    - 19.3:
+        non_striker: S Yeshi
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manoj Adhikari
+    - 19.4:
+        non_striker: S Yeshi
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manoj Adhikari
+    - 19.5:
+        non_striker: Manoj Adhikari
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 19.6:
+        non_striker: Manoj Adhikari
+        bowler: Ahmed Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Yeshi
+- 2nd innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Umar Adam
+        batsman: Ahmed Hassan
+    - 0.2:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Umar Adam
+        batsman: Ahmed Hassan
+    - 0.3:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Umar Adam
+        batsman: Ahmed Hassan
+    - 0.4:
+        non_striker: Ahmed Hassan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 0.5:
+        non_striker: Ahmed Hassan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umar Adam
+    - 0.6:
+        non_striker: Ahmed Hassan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 1.1:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.2:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.3:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+        wicket:
+          player_out: Ahmed Hassan
+          fielders:
+          - J Singye
+          kind: caught
+    - 1.4:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.5:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.6:
+        non_striker: Umar Adam
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 2.1:
+        non_striker: Azyan Farhath
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          fielders:
+          - RM Dorji
+          kind: caught
+    - 2.2:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 2.3:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 2.4:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 2.5:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 2.6:
+        non_striker: Mohamed Rishwan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 3.1:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 3.2:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 3.3:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 3.4:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 3.5:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 3.6:
+        non_striker: Azyan Farhath
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Rishwan
+    - 4.1:
+        non_striker: Mohamed Rishwan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 4.2:
+        non_striker: Azyan Farhath
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 4.3:
+        non_striker: Azyan Farhath
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Rishwan
+    - 4.4:
+        non_striker: Azyan Farhath
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 4.5:
+        non_striker: Mohamed Rishwan
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 4.6:
+        non_striker: Azyan Farhath
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 5.1:
+        non_striker: Mohamed Rishwan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 5.2:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 5.3:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+        wicket:
+          player_out: Mohamed Rishwan
+          fielders:
+          - Ngawang Thinley
+          kind: caught
+    - 5.4:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 5.5:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 5.6:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 6.1:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 6.2:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 6.3:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 6.4:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Rasheed
+    - 6.5:
+        non_striker: Hassan Rasheed
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 6.6:
+        non_striker: Hassan Rasheed
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 7.1:
+        non_striker: Hassan Rasheed
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 7.2:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+        wicket:
+          player_out: Hassan Rasheed
+          fielders:
+          - T Jamtsho
+          kind: caught
+    - 7.3:
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Azzam
+        batsman: Azyan Farhath
+    - 7.4:
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohamed Azzam
+        batsman: Azyan Farhath
+    - 7.5:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 7.6:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 8.1:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 8.2:
+        non_striker: Mohamed Azzam
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 8.3:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 8.4:
+        non_striker: Mohamed Azzam
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 8.5:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Azzam
+    - 8.6:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 9.1:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 9.2:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 9.3:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 9.4:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 9.5:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohamed Azzam
+    - 9.6:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 10.1:
+        non_striker: Mohamed Azzam
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 10.2:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Azzam
+    - 10.3:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Azzam
+    - 10.4:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 10.5:
+        non_striker: Mohamed Azzam
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 10.6:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 10.7:
+        non_striker: Mohamed Azzam
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 11.1:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 11.2:
+        non_striker: Mohamed Azzam
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 11.3:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+        wicket:
+          player_out: Mohamed Azzam
+          fielders:
+          - GK Ghalley
+          kind: caught
+    - 11.4:
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 11.5:
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 11.6:
+        non_striker: Azyan Farhath
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 12.1:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 12.2:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 12.3:
+        non_striker: Azyan Farhath
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 12.4:
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 12.5:
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 12.6:
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 13.1:
+        non_striker: Azyan Farhath
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 13.2:
+        non_striker: Azyan Farhath
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shunan Ali
+    - 13.3:
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 13.4:
+        non_striker: Azyan Farhath
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 13.5:
+        non_striker: Azyan Farhath
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 13.6:
+        non_striker: Azyan Farhath
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 14.1:
+        non_striker: Azyan Farhath
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 14.2:
+        bowler: J Singye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+    - 14.3:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Azyan Farhath
+        wicket:
+          player_out: Azyan Farhath
+          kind: lbw
+    - 14.4:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: L Shafeeg
+    - 14.5:
+        non_striker: L Shafeeg
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 14.6:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: L Shafeeg
+        wicket:
+          player_out: L Shafeeg
+          kind: lbw
+    - 14.7:
+        bowler: J Singye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 14.8:
+        bowler: J Singye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 15.1:
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 15.2:
+        non_striker: Ibrahim Hassan
+        bowler: Ngawang Thinley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shunan Ali
+    - 15.3:
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 15.4:
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 15.5:
+        non_striker: Ibrahim Hassan
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 15.6:
+        non_striker: Ibrahim Hassan
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 16.1:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 16.2:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 16.3:
+        non_striker: Ibrahim Hassan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 16.4:
+        non_striker: Ibrahim Hassan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 16.5:
+        non_striker: Ibrahim Hassan
+        bowler: J Singye
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: Shunan Ali
+    - 16.6:
+        bowler: J Singye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 16.7:
+        non_striker: Ibrahim Hassan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 17.1:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 17.2:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 17.3:
+        non_striker: Ibrahim Hassan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 17.4:
+        non_striker: Ibrahim Hassan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 17.5:
+        non_striker: Ibrahim Hassan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 17.6:
+        non_striker: Ibrahim Hassan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shunan Ali
+    - 18.1:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 18.2:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+    - 18.3:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Ibrahim Hassan
+        wicket:
+          player_out: Ibrahim Hassan
+          fielders:
+          - S Yeshi
+          kind: caught
+    - 18.4:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 18.5:
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 18.6:
+        non_striker: Ibrahim Rizan
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shunan Ali
+    - 19.1:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 19.2:
+        non_striker: Ibrahim Rizan
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shunan Ali
+    - 19.3:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 19.4:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 19.5:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan
+    - 19.6:
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shunan Ali
+        batsman: Ibrahim Rizan

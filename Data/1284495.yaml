@@ -1,0 +1,1761 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Doha
+  dates:
+  - '2021-10-28'
+  gender: male
+  match_type: T20
+  match_type_number: 1372
+  outcome:
+    winner: Kuwait
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - ED Silva
+  players:
+    Maldives:
+    - Azyan Farhath
+    - Mohamed Rishwan
+    - Umar Adam
+    - Ahmed Hassan
+    - Ibrahim Nashath
+    - Mohamed Azzam
+    - Mohamed Mahfooz
+    - WJ Malinda
+    - Ibrahim Hassan
+    - L Shafeeg
+    - Ibrahim Rizan
+    Kuwait:
+    - R Sandaruwan
+    - ED Silva
+    - Adnan Idrees
+    - Muhammad Kashif
+    - Shiraz Khan
+    - Bilal Tahir
+    - Meet Bhavsar
+    - MNM Aslam
+    - Nawaf Ahmed
+    - MM Sarwar
+    - Naveed Fakhr
+  registry:
+    people:
+      Adnan Idrees: 0e34c23a
+      Ahmed Hassan: 7c885103
+      Akbar Ali: e753931d
+      Azyan Farhath: 3e06e7ac
+      BB Pradhan: 8603d942
+      Bilal Tahir: 3cf06094
+      ED Silva: c1b74851
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Nashath: 98514dce
+      Ibrahim Rizan: 7267e3cd
+      L Shafeeg: ed82d9a5
+      M Nayyar: b7bccddb
+      MM Sarwar: 51abacb2
+      MNM Aslam: '20481563'
+      Meet Bhavsar: b25a3800
+      Mohamed Azzam: e43c9818
+      Mohamed Mahfooz: 44f5a3e4
+      Mohamed Rishwan: 7d15170b
+      Muhammad Kashif: e7458e4b
+      Naveed Fakhr: 76e84cb1
+      Nawaf Ahmed: bfe33045
+      R Sandaruwan: cf6acc0d
+      Shiraz Khan: f310704c
+      Shivani Mishra: 2982a0c7
+      Umar Adam: 5d77a96a
+      WJ Malinda: 8f5313ce
+  teams:
+  - Maldives
+  - Kuwait
+  toss:
+    winner: Kuwait
+    decision: field
+  umpires:
+  - BB Pradhan
+  - Shivani Mishra
+  venue: West End Park International Cricket Stadium, Doha
+innings:
+- 1st innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 0.2:
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohamed Rishwan
+        batsman: Azyan Farhath
+    - 0.3:
+        non_striker: Azyan Farhath
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 0.4:
+        non_striker: Mohamed Rishwan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 0.5:
+        non_striker: Mohamed Rishwan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 0.6:
+        non_striker: Azyan Farhath
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+        wicket:
+          player_out: Mohamed Rishwan
+          kind: bowled
+    - 0.7:
+        non_striker: Azyan Farhath
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 1.1:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+        wicket:
+          player_out: Azyan Farhath
+          fielders:
+          - Meet Bhavsar
+          kind: caught
+    - 1.2:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.3:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 1.4:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 1.5:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 1.6:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.1:
+        non_striker: Ahmed Hassan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umar Adam
+    - 2.2:
+        non_striker: Ahmed Hassan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 2.3:
+        non_striker: Ahmed Hassan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umar Adam
+    - 2.4:
+        non_striker: Umar Adam
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 2.5:
+        non_striker: Ahmed Hassan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Umar Adam
+    - 2.6:
+        non_striker: Umar Adam
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ahmed Hassan
+    - 3.1:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.2:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 3.3:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.4:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.5:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Hassan
+    - 3.6:
+        non_striker: Umar Adam
+        bowler: MM Sarwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ahmed Hassan
+    - 4.1:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 4.2:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 4.3:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 4.4:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 4.5:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 4.6:
+        non_striker: Umar Adam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Hassan
+    - 5.1:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umar Adam
+    - 5.2:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umar Adam
+    - 5.3:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          fielders:
+          - Nawaf Ahmed
+          kind: caught
+    - 5.4:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 5.5:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+        wicket:
+          player_out: Ibrahim Nashath
+          fielders:
+          - Adnan Idrees
+          kind: caught
+    - 5.6:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 6.1:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 6.2:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 6.3:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 6.4:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohamed Azzam
+    - 6.5:
+        non_striker: Mohamed Azzam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 6.6:
+        non_striker: Mohamed Azzam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 7.1:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 7.2:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 7.3:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 7.4:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 7.5:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 7.6:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 8.1:
+        non_striker: Mohamed Azzam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 8.2:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 8.3:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 8.4:
+        non_striker: Mohamed Azzam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Hassan
+    - 8.5:
+        non_striker: Mohamed Azzam
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 8.6:
+        non_striker: Ahmed Hassan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Azzam
+    - 9.1:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Hassan
+    - 9.2:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 9.3:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 9.4:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 9.5:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohamed Azzam
+    - 9.6:
+        non_striker: Ahmed Hassan
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 9.7:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 9.8:
+        non_striker: Mohamed Azzam
+        bowler: ED Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 10.1:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 10.2:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 10.3:
+        non_striker: Ahmed Hassan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 10.4:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 10.5:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 10.6:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 11.1:
+        non_striker: Ahmed Hassan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 11.2:
+        non_striker: Ahmed Hassan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 11.3:
+        non_striker: Ahmed Hassan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 11.4:
+        non_striker: Mohamed Azzam
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 11.5:
+        non_striker: Mohamed Azzam
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+        wicket:
+          player_out: Ahmed Hassan
+          fielders:
+          - R Sandaruwan
+          kind: caught
+    - 11.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 12.1:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 12.2:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Azzam
+    - 12.3:
+        non_striker: Mohamed Azzam
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 12.4:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+        wicket:
+          player_out: Mohamed Azzam
+          kind: lbw
+    - 12.5:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Malinda
+    - 12.6:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Malinda
+    - 13.1:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Malinda
+    - 13.2:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Malinda
+    - 13.3:
+        non_striker: WJ Malinda
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 13.4:
+        non_striker: WJ Malinda
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 13.5:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Malinda
+    - 13.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Malinda
+        wicket:
+          player_out: WJ Malinda
+          fielders:
+          - Bilal Tahir
+          kind: caught
+    - 14.1:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 14.2:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 14.3:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 14.4:
+        non_striker: Ibrahim Hassan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 14.5:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Hassan
+    - 14.6:
+        non_striker: Mohamed Mahfooz
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 15.1:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 15.2:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 15.3:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Hassan
+    - 15.4:
+        non_striker: Mohamed Mahfooz
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 15.5:
+        non_striker: Ibrahim Hassan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 15.6:
+        non_striker: Ibrahim Hassan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+        wicket:
+          player_out: Mohamed Mahfooz
+          fielders:
+          - MNM Aslam
+          kind: caught
+    - 16.1:
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Shafeeg
+        batsman: Ibrahim Hassan
+    - 16.2:
+        non_striker: L Shafeeg
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+        wicket:
+          player_out: Ibrahim Hassan
+          fielders:
+          - Naveed Fakhr
+          kind: caught
+    - 16.3:
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ibrahim Rizan
+        batsman: L Shafeeg
+    - 16.4:
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ibrahim Rizan
+        batsman: L Shafeeg
+    - 16.5:
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ibrahim Rizan
+        batsman: L Shafeeg
+    - 16.6:
+        non_striker: Ibrahim Rizan
+        bowler: MNM Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 17.1:
+        non_striker: Ibrahim Rizan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shafeeg
+    - 17.2:
+        non_striker: Ibrahim Rizan
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 17.3:
+        non_striker: L Shafeeg
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Rizan
+    - 17.4:
+        non_striker: L Shafeeg
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Rizan
+    - 17.5:
+        non_striker: L Shafeeg
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 17.6:
+        non_striker: L Shafeeg
+        bowler: Adnan Idrees
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.1:
+        non_striker: Ibrahim Rizan
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 18.2:
+        non_striker: L Shafeeg
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.3:
+        non_striker: L Shafeeg
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.4:
+        non_striker: L Shafeeg
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.5:
+        non_striker: L Shafeeg
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 18.6:
+        non_striker: L Shafeeg
+        bowler: Shiraz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 19.1:
+        non_striker: Ibrahim Rizan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Shafeeg
+    - 19.2:
+        non_striker: Ibrahim Rizan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 19.3:
+        non_striker: L Shafeeg
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Rizan
+    - 19.4:
+        non_striker: Ibrahim Rizan
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Shafeeg
+    - 19.5:
+        non_striker: L Shafeeg
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 19.6:
+        non_striker: L Shafeeg
+        bowler: Nawaf Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+        wicket:
+          player_out: Ibrahim Rizan
+          fielders:
+          - R Sandaruwan
+          kind: caught
+- 2nd innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ED Silva
+        batsman: R Sandaruwan
+    - 0.2:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ED Silva
+        batsman: R Sandaruwan
+    - 0.3:
+        non_striker: ED Silva
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandaruwan
+        wicket:
+          player_out: R Sandaruwan
+          fielders:
+          - Ibrahim Rizan
+          kind: caught
+    - 0.4:
+        non_striker: ED Silva
+        bowler: Umar Adam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Adnan Idrees
+    - 0.5:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 0.6:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ED Silva
+    - 0.7:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 1.1:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adnan Idrees
+    - 1.2:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Idrees
+    - 1.3:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Idrees
+    - 1.4:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Idrees
+    - 1.5:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adnan Idrees
+    - 1.6:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adnan Idrees
+    - 1.7:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adnan Idrees
+    - 2.1:
+        non_striker: ED Silva
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adnan Idrees
+    - 2.2:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ED Silva
+    - 2.3:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 2.4:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 2.5:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: ED Silva
+    - 2.6:
+        non_striker: ED Silva
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adnan Idrees
+    - 2.7:
+        non_striker: Adnan Idrees
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 3.1:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Idrees
+    - 3.2:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Idrees
+        wicket:
+          player_out: Adnan Idrees
+          kind: bowled
+    - 3.3:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 3.4:
+        non_striker: ED Silva
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 3.5:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 3.6:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 4.1:
+        non_striker: Muhammad Kashif
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 4.2:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 4.3:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 4.4:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 4.5:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Kashif
+    - 4.6:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Kashif
+    - 5.1:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 5.2:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 5.3:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ED Silva
+    - 5.4:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 5.5:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 5.6:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ED Silva
+    - 6.1:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 6.2:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 6.3:
+        non_striker: ED Silva
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 6.4:
+        non_striker: Muhammad Kashif
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ED Silva
+    - 6.5:
+        non_striker: Muhammad Kashif
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 6.6:
+        non_striker: Muhammad Kashif
+        bowler: L Shafeeg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+    - 7.1:
+        non_striker: ED Silva
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+    - 7.2:
+        non_striker: ED Silva
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 7.3:
+        non_striker: Muhammad Kashif
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 7.4:
+        non_striker: Muhammad Kashif
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ED Silva
+    - 7.5:
+        non_striker: Muhammad Kashif
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 7.6:
+        non_striker: Muhammad Kashif
+        bowler: WJ Malinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 8.1:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 8.2:
+        non_striker: ED Silva
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 8.3:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 8.4:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 8.5:
+        non_striker: ED Silva
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 8.6:
+        non_striker: Muhammad Kashif
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ED Silva
+    - 9.1:
+        non_striker: ED Silva
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Kashif
+    - 9.2:
+        non_striker: Muhammad Kashif
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ED Silva
+    - 9.3:
+        non_striker: ED Silva
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Kashif
+        wicket:
+          player_out: Muhammad Kashif
+          fielders:
+          - Umar Adam
+          kind: caught
+    - 9.4:
+        non_striker: Shiraz Khan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ED Silva
+        wicket:
+          player_out: ED Silva
+          fielders:
+          - Umar Adam
+          kind: caught
+    - 9.5:
+        non_striker: Shiraz Khan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Tahir
+    - 9.6:
+        non_striker: Shiraz Khan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Tahir
+    - 10.1:
+        non_striker: Shiraz Khan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Tahir
+    - 10.2:
+        non_striker: Shiraz Khan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Tahir
+    - 10.3:
+        non_striker: Bilal Tahir
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shiraz Khan
+    - 10.4:
+        non_striker: Shiraz Khan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Tahir
+        wicket:
+          player_out: Bilal Tahir
+          kind: bowled
+    - 10.5:
+        non_striker: Shiraz Khan
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Meet Bhavsar
+    - 10.6:
+        non_striker: Meet Bhavsar
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shiraz Khan
+    - 11.1:
+        non_striker: Meet Bhavsar
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shiraz Khan
+    - 11.2:
+        non_striker: Meet Bhavsar
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shiraz Khan
+    - 11.3:
+        non_striker: Meet Bhavsar
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shiraz Khan
+    - 11.4:
+        non_striker: Shiraz Khan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: Meet Bhavsar
+    - 11.5:
+        non_striker: Meet Bhavsar
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shiraz Khan
+    - 11.6:
+        non_striker: Meet Bhavsar
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shiraz Khan

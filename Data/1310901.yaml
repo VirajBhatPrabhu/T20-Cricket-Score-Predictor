@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-08-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: The Hague
+  dates:
+  - '2022-08-04'
+  gender: male
+  match_type: T20
+  match_type_number: 1722
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 16
+  overs: 20
+  players:
+    New Zealand:
+    - MJ Guptill
+    - FH Allen
+    - D Cleaver
+    - DJ Mitchell
+    - GD Phillips
+    - JDS Neesham
+    - MJ Santner
+    - IS Sodhi
+    - LH Ferguson
+    - BV Sears
+    - BM Tickner
+    Netherlands:
+    - SJ Myburgh
+    - MP O'Dowd
+    - BFW de Leede
+    - TLW Cooper
+    - SA Edwards
+    - AT Nidamanuru
+    - LV van Beek
+    - TJG Pringle
+    - R Klein
+    - Shariz Ahmad
+    - C Floyd
+  registry:
+    people:
+      AT Nidamanuru: a319edf8
+      Adriaan van den Dries: 94b5ec3b
+      BFW de Leede: fc4375ef
+      BM Tickner: 48ad3373
+      BV Sears: e1891e00
+      C Floyd: 527c2dab
+      D Cleaver: e3a949be
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      IS Sodhi: 641ac5ff
+      JDS Neesham: 9219eff0
+      LH Ferguson: 2f9d0389
+      LV van Beek: 782fb776
+      MJ Guptill: 2be41edb
+      MJ Santner: e4a0deae
+      MP O'Dowd: b699df47
+      N Bathi: 96a0edf9
+      R Klein: ff1ec94d
+      Rizwan Akram: b5346f1e
+      SA Edwards: b59db04f
+      SJ Myburgh: 18261c22
+      Shariz Ahmad: 7595b47f
+      TJG Pringle: 8ce2080b
+      TLW Cooper: 2318ba22
+      Wayne Noon: 736e1761
+  teams:
+  - New Zealand
+  - Netherlands
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - N Bathi
+  - Rizwan Akram
+  venue: Sportpark Westvliet, The Hague
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.5:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.2:
+        non_striker: FH Allen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.3:
+        non_striker: FH Allen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - TLW Cooper
+          kind: caught
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.5:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.6:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.1:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.4:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.5:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.2:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.3:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.4:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.5:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: MJ Guptill
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.1:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 5.2:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: D Cleaver
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.4:
+        non_striker: MJ Guptill
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - BFW de Leede
+          kind: caught
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: DJ Mitchell
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.1:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: DJ Mitchell
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.3:
+        non_striker: DJ Mitchell
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.4:
+        non_striker: DJ Mitchell
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.2:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.3:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: TJG Pringle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Guptill
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.6:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 8.7:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.1:
+        non_striker: MJ Guptill
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: MJ Guptill
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 9.3:
+        non_striker: MJ Guptill
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: DJ Mitchell
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.2:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - MP O'Dowd
+          kind: caught
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: MJ Guptill
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.2:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.3:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 11.7:
+        non_striker: MJ Guptill
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.3:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.4:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.5:
+        non_striker: MJ Guptill
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: GD Phillips
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 13.1:
+        non_striker: MJ Guptill
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.2:
+        non_striker: GD Phillips
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 13.3:
+        non_striker: GD Phillips
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - TJG Pringle
+          kind: caught
+    - 13.4:
+        non_striker: GD Phillips
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 13.5:
+        non_striker: GD Phillips
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 13.6:
+        non_striker: GD Phillips
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 14.1:
+        non_striker: GD Phillips
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 14.2:
+        non_striker: GD Phillips
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 14.3:
+        non_striker: GD Phillips
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 14.4:
+        non_striker: JDS Neesham
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 14.5:
+        non_striker: JDS Neesham
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 14.6:
+        non_striker: JDS Neesham
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: caught and bowled
+    - 15.1:
+        non_striker: MJ Santner
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.2:
+        non_striker: MJ Santner
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.3:
+        non_striker: MJ Santner
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.4:
+        non_striker: JDS Neesham
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.5:
+        non_striker: MJ Santner
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 15.6:
+        non_striker: MJ Santner
+        bowler: TLW Cooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.1:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 16.2:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 16.3:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 16.4:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 16.5:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 16.6:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 16.7:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 16.8:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - BFW de Leede
+          kind: caught
+    - 17.1:
+        non_striker: IS Sodhi
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 17.2:
+        non_striker: IS Sodhi
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.3:
+        non_striker: MJ Santner
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 17.4:
+        non_striker: MJ Santner
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 17.5:
+        non_striker: MJ Santner
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 17.6:
+        non_striker: IS Sodhi
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 18.1:
+        non_striker: MJ Santner
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 18.2:
+        non_striker: IS Sodhi
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 18.3:
+        non_striker: IS Sodhi
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 18.4:
+        non_striker: MJ Santner
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 18.5:
+        non_striker: MJ Santner
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IS Sodhi
+    - 18.6:
+        non_striker: MJ Santner
+        bowler: C Floyd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 19.1:
+        non_striker: IS Sodhi
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.2:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 19.3:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 19.4:
+        non_striker: IS Sodhi
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.5:
+        non_striker: MJ Santner
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - AT Nidamanuru
+          kind: caught
+    - 19.6:
+        non_striker: LH Ferguson
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MJ Santner
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Myburgh
+    - 0.2:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Myburgh
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Myburgh
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Myburgh
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Myburgh
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Myburgh
+    - 0.7:
+        non_striker: SJ Myburgh
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Myburgh
+        wicket:
+          player_out: SJ Myburgh
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 1.3:
+        non_striker: MP O'Dowd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 1.4:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.5:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 2.1:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.3:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 2.5:
+        non_striker: MP O'Dowd
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 2.6:
+        non_striker: MP O'Dowd
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 3.1:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          kind: bowled
+    - 3.2:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+    - 3.3:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+    - 3.4:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TLW Cooper
+    - 3.5:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+    - 3.6:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+        wicket:
+          player_out: TLW Cooper
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 4.1:
+        non_striker: SA Edwards
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 4.2:
+        non_striker: SA Edwards
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 4.3:
+        non_striker: SA Edwards
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 4.4:
+        non_striker: SA Edwards
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 4.5:
+        non_striker: BFW de Leede
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.6:
+        non_striker: BFW de Leede
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 5.1:
+        non_striker: SA Edwards
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 5.2:
+        non_striker: SA Edwards
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 5.3:
+        non_striker: SA Edwards
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 5.4:
+        non_striker: BFW de Leede
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 5.5:
+        non_striker: BFW de Leede
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 5.6:
+        non_striker: BFW de Leede
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 6.1:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 6.2:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 6.3:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 6.4:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 6.5:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 6.6:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.1:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 7.2:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 7.3:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 7.4:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 7.5:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 7.6:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 8.1:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 8.2:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 8.3:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.4:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 8.5:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Edwards
+    - 8.6:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Edwards
+    - 8.7:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 9.1:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 9.2:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.3:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 9.4:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 9.5:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 9.6:
+        non_striker: SA Edwards
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.7:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 10.1:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 10.2:
+        non_striker: SA Edwards
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.3:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 10.4:
+        non_striker: AT Nidamanuru
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 10.5:
+        non_striker: AT Nidamanuru
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.6:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+    - 10.7:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+    - 11.1:
+        non_striker: AT Nidamanuru
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.2:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+    - 11.3:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Nidamanuru
+        wicket:
+          player_out: AT Nidamanuru
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 11.4:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 11.5:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 11.6:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 12.1:
+        non_striker: LV van Beek
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.2:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV van Beek
+    - 12.3:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 12.4:
+        non_striker: LV van Beek
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.5:
+        non_striker: LV van Beek
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.6:
+        non_striker: BFW de Leede
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 13.1:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 13.2:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+        wicket:
+          player_out: LV van Beek
+          kind: bowled
+    - 13.3:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 13.4:
+        non_striker: TJG Pringle
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.5:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJG Pringle
+    - 13.6:
+        non_striker: BFW de Leede
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 14.1:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.2:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 14.3:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.4:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BFW de Leede
+    - 14.5:
+        non_striker: TJG Pringle
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 14.6:
+        non_striker: BFW de Leede
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 15.1:
+        non_striker: TJG Pringle
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.2:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJG Pringle
+    - 15.3:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 15.4:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 15.5:
+        non_striker: TJG Pringle
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.6:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+        wicket:
+          player_out: TJG Pringle
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 16.1:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Klein
+    - 16.2:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 16.3:
+        non_striker: R Klein
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 16.4:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Klein
+    - 16.5:
+        non_striker: BFW de Leede
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 16.6:
+        non_striker: R Klein
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BFW de Leede
+    - 17.1:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 17.2:
+        non_striker: R Klein
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 17.3:
+        non_striker: R Klein
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.4:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Klein
+        wicket:
+          player_out: R Klein
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 17.5:
+        non_striker: Shariz Ahmad
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.6:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shariz Ahmad
+    - 17.7:
+        non_striker: BFW de Leede
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariz Ahmad
+    - 18.1:
+        non_striker: BFW de Leede
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariz Ahmad
+        wicket:
+          player_out: Shariz Ahmad
+          fielders:
+          - MJ Guptill
+          kind: run out
+    - 18.2:
+        non_striker: C Floyd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 18.3:
+        non_striker: C Floyd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 18.4:
+        non_striker: C Floyd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 18.5:
+        non_striker: BFW de Leede
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Floyd
+    - 18.6:
+        non_striker: C Floyd
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 19.1:
+        non_striker: C Floyd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 19.2:
+        non_striker: C Floyd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 19.3:
+        non_striker: C Floyd
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          fielders:
+          - DJ Mitchell
+          kind: caught

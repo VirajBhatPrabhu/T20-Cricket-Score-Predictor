@@ -1,0 +1,2236 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-30'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2021-11-28'
+  gender: female
+  match_type: T20
+  match_type_number: 1013
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 35
+  overs: 20
+  player_of_match:
+  - M Hill
+  players:
+    Hong Kong:
+    - M Hill
+    - Shanzeen Shahzad
+    - NT Miles
+    - KY Chan
+    - Ruchitha Venkatesh
+    - WK Lai
+    - Chan Ka Man
+    - Hiu Ying Cheung
+    - M Bibi
+    - TOW Chu
+    - H Lui
+    Kuwait:
+    - Priyada Murali
+    - Maryam Omar
+    - Amna Tariq
+    - SL Gomez
+    - Khadija Khalil
+    - Maria Jasvi
+    - A Bose
+    - GR Menes
+    - B Shanti
+    - Mariamma Hyder
+    - Zeefa Jilani
+  registry:
+    people:
+      A Bose: b6f61482
+      Amna Tariq: 44b53fba
+      B Shanti: f50ca46d
+      Chan Ka Man: c4022bff
+      DN Subedi: fb0a571f
+      GR Menes: 50b2f0a8
+      H Lui: da663eca
+      Hiu Ying Cheung: 9efce9fd
+      KY Chan: 6348c6e9
+      Khadija Khalil: 7c61a686
+      M Bibi: 34f86a2d
+      M Hill: bf5e7711
+      Maria Jasvi: 4bed6af7
+      Mariamma Hyder: c8ae2573
+      Maryam Omar: b4d08794
+      NT Miles: d27d0835
+      Priyada Murali: f4b942ae
+      Rahul Asher: 4956b0bf
+      Ruchitha Venkatesh: 106135f5
+      SL Gomez: 02264be0
+      Shanzeen Shahzad: ce291858
+      TOW Chu: '49693035'
+      VK Jha: 5d46eb72
+      WC Labrooy: 29d4e29b
+      WK Lai: 6ab99b17
+      Zeefa Jilani: 3f2b40f0
+  teams:
+  - Hong Kong
+  - Kuwait
+  toss:
+    winner: Hong Kong
+    decision: bat
+  umpires:
+  - DN Subedi
+  - Rahul Asher
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Shanzeen Shahzad
+        batsman: M Hill
+    - 0.2:
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shanzeen Shahzad
+        batsman: M Hill
+    - 0.3:
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shanzeen Shahzad
+        batsman: M Hill
+    - 0.4:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 0.5:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 0.6:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.1:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 1.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Hill
+    - 1.4:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 1.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 1.7:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 2.1:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 2.2:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.3:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.4:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Shanzeen Shahzad
+    - 2.5:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 2.6:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shanzeen Shahzad
+    - 2.7:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shanzeen Shahzad
+    - 2.8:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.1:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.2:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 3.3:
+        non_striker: Shanzeen Shahzad
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 3.4:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.5:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 3.6:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 3.7:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.1:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shanzeen Shahzad
+    - 4.2:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.3:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+    - 4.4:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shanzeen Shahzad
+    - 4.5:
+        non_striker: Shanzeen Shahzad
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 4.6:
+        non_striker: Shanzeen Shahzad
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 4.7:
+        non_striker: Shanzeen Shahzad
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 5.1:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shanzeen Shahzad
+        wicket:
+          player_out: Shanzeen Shahzad
+          kind: lbw
+    - 5.2:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: NT Miles
+    - 5.3:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 5.4:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 5.5:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 5.6:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 5.7:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 6.1:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 6.2:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 6.3:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 6.4:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 6.5:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 6.6:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.1:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 7.2:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.3:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 7.4:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 7.5:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 7.6:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 7.7:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 8.1:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.2:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 8.3:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 8.4:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 8.5:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 8.6:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 9.1:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 9.2:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 9.3:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 9.4:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 9.5:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 9.6:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 10.1:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 10.2:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 10.3:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 10.4:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 10.5:
+        non_striker: M Hill
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 10.6:
+        non_striker: NT Miles
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 11.1:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 11.2:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 11.3:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 11.4:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 11.5:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 11.6:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 12.1:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Hill
+    - 12.2:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Hill
+    - 12.3:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 12.4:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 12.5:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 12.6:
+        non_striker: M Hill
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 12.7:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Hill
+    - 13.1:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 13.2:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 13.3:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.4:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 13.5:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 13.6:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 13.7:
+        non_striker: M Hill
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 14.1:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 14.2:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 14.3:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 14.4:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+    - 14.5:
+        non_striker: NT Miles
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 14.6:
+        non_striker: M Hill
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 15.1:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.2:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 15.3:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.4:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Miles
+    - 15.5:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 15.6:
+        non_striker: M Hill
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 15.7:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Hill
+    - 16.1:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Hill
+        wicket:
+          player_out: M Hill
+          fielders:
+          - A Bose
+          kind: caught
+    - 16.2:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: KY Chan
+    - 16.3:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 16.4:
+        non_striker: KY Chan
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 16.5:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 16.6:
+        non_striker: KY Chan
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Miles
+    - 17.1:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 17.2:
+        non_striker: KY Chan
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NT Miles
+    - 17.3:
+        non_striker: KY Chan
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 17.4:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 17.5:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 17.6:
+        non_striker: NT Miles
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 18.1:
+        non_striker: KY Chan
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NT Miles
+    - 18.2:
+        non_striker: KY Chan
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Miles
+    - 18.3:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 18.4:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 18.5:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 18.6:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 18.7:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KY Chan
+    - 18.8:
+        non_striker: NT Miles
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KY Chan
+    - 19.1:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 19.2:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 19.3:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+    - 19.4:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KY Chan
+    - 19.5:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KY Chan
+    - 19.6:
+        non_striker: NT Miles
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KY Chan
+        wicket:
+          player_out: KY Chan
+          kind: bowled
+- 2nd innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+        wicket:
+          player_out: Priyada Murali
+          fielders:
+          - NT Miles
+          kind: caught
+    - 0.2:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 0.3:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 0.4:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 0.5:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amna Tariq
+    - 0.6:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amna Tariq
+    - 0.7:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 1.1:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 1.2:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 1.3:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 1.4:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 1.5:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 1.6:
+        non_striker: Maryam Omar
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 2.1:
+        non_striker: Amna Tariq
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 2.2:
+        non_striker: Amna Tariq
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 2.3:
+        non_striker: Amna Tariq
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 2.4:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 2.5:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 2.6:
+        non_striker: Maryam Omar
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amna Tariq
+    - 3.1:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 3.2:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 3.3:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 3.4:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 3.5:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 3.6:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 4.1:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 4.2:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 4.3:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maryam Omar
+    - 4.4:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 4.5:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 4.6:
+        non_striker: Maryam Omar
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 5.1:
+        non_striker: Maryam Omar
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 5.2:
+        non_striker: Maryam Omar
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amna Tariq
+    - 5.3:
+        non_striker: Maryam Omar
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 5.4:
+        non_striker: Amna Tariq
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+        wicket:
+          player_out: Maryam Omar
+          kind: bowled
+    - 5.5:
+        non_striker: Amna Tariq
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 5.6:
+        non_striker: Amna Tariq
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 6.1:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 6.2:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 6.3:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 6.4:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 6.5:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 6.6:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 7.1:
+        non_striker: Amna Tariq
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 7.2:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 7.3:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 7.4:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 7.5:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 7.6:
+        non_striker: Amna Tariq
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 8.1:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 8.2:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 8.3:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 8.4:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 8.5:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amna Tariq
+    - 8.6:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 9.1:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 9.2:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Amna Tariq
+    - 9.3:
+        non_striker: Amna Tariq
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SL Gomez
+    - 9.4:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 9.5:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amna Tariq
+    - 9.6:
+        non_striker: SL Gomez
+        bowler: Ruchitha Venkatesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 10.1:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 10.2:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 10.3:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 10.4:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 10.5:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 10.6:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 10.7:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 11.1:
+        non_striker: SL Gomez
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 11.2:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 11.3:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 11.4:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SL Gomez
+    - 11.5:
+        non_striker: SL Gomez
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 11.6:
+        non_striker: Amna Tariq
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 12.1:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amna Tariq
+    - 12.2:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 12.3:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 12.4:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 12.5:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 12.6:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 12.7:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 13.1:
+        non_striker: Amna Tariq
+        bowler: TOW Chu
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        batsman: SL Gomez
+    - 13.2:
+        non_striker: Amna Tariq
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 13.3:
+        non_striker: SL Gomez
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 13.4:
+        non_striker: Amna Tariq
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 13.5:
+        non_striker: Amna Tariq
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 13.6:
+        non_striker: Amna Tariq
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 13.7:
+        non_striker: SL Gomez
+        bowler: TOW Chu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amna Tariq
+    - 14.1:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 14.2:
+        non_striker: Amna Tariq
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 14.3:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+        wicket:
+          player_out: Amna Tariq
+          kind: lbw
+    - 14.4:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khadija Khalil
+    - 14.5:
+        non_striker: SL Gomez
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 14.6:
+        non_striker: Khadija Khalil
+        bowler: M Bibi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 15.1:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khadija Khalil
+    - 15.2:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khadija Khalil
+    - 15.3:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khadija Khalil
+    - 15.4:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 15.5:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Khadija Khalil
+    - 15.6:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 15.7:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 16.1:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khadija Khalil
+    - 16.2:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 16.3:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 16.4:
+        non_striker: Khadija Khalil
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 16.5:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 16.6:
+        non_striker: Khadija Khalil
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 16.7:
+        non_striker: Khadija Khalil
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 17.1:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 17.2:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 17.3:
+        non_striker: SL Gomez
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 17.4:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 17.5:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 17.6:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 17.7:
+        non_striker: Khadija Khalil
+        bowler: M Hill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 18.1:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 18.2:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 18.3:
+        non_striker: Khadija Khalil
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 18.4:
+        non_striker: Khadija Khalil
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 18.5:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khadija Khalil
+    - 18.6:
+        non_striker: SL Gomez
+        bowler: KY Chan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 19.1:
+        non_striker: SL Gomez
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 19.2:
+        non_striker: SL Gomez
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil
+    - 19.3:
+        non_striker: Khadija Khalil
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+        wicket:
+          player_out: SL Gomez
+          fielders:
+          - KY Chan
+          kind: run out
+    - 19.4:
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Maria Jasvi
+        batsman: Khadija Khalil
+    - 19.5:
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Maria Jasvi
+        batsman: Khadija Khalil
+    - 19.6:
+        non_striker: Maria Jasvi
+        bowler: Chan Ka Man
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khadija Khalil

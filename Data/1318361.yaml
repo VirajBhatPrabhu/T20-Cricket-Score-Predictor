@@ -1,0 +1,2143 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2022-06-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1560
+  outcome:
+    winner: Austria
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - Iqbal Hossain
+  players:
+    Austria:
+    - Iqbal Hossain
+    - M Simpson-Parker
+    - Razmal Shigiwal
+    - A Randhawa
+    - Aqib Iqbal
+    - Mirza Ahsan
+    - MPS Cheema
+    - Abdullah Akbarjan
+    - Itibarshah Deedar
+    - A Nathwani
+    - Sahel Zadran
+    Sweden:
+    - W Boshoff
+    - Umar Nawaz (2)
+    - Hamid Mahmood
+    - A Venkatesh
+    - Azam Khalil
+    - Ismaeel Zia
+    - Zaker Taqawi
+    - Khalid Zahid
+    - F Choudary
+    - L Karlsson
+    - Tasaduq Hussain
+  registry:
+    people:
+      A Nathwani: f1c4f2ea
+      A Randhawa: 1798078c
+      A Venkatesh: 06b45b20
+      Abdullah Akbarjan: 5de198db
+      Aqib Iqbal: 14157abf
+      Azam Khalil: ff1e08eb
+      F Choudary: ffbbf432
+      Hamid Mahmood: 5332fc2f
+      Iqbal Hossain: e1824e7d
+      Ismaeel Zia: 70abbb67
+      Itibarshah Deedar: 711e73ac
+      K Arun Kumar: 8d34b308
+      Khalid Zahid: 5c93efb1
+      L Karlsson: 90a41671
+      M Simpson-Parker: fecd828e
+      MPS Cheema: 97181d1b
+      Mirza Ahsan: 6b74c13b
+      Razmal Shigiwal: 60cc80ac
+      S Gowda: 52f6fb22
+      Sahel Zadran: dae28050
+      Tasaduq Hussain: f62fa324
+      Umar Nawaz: 1ed476fe
+      Vinay Malhotra: 452837d1
+      W Boshoff: cad11a02
+      Zaker Taqawi: d7074ddc
+  teams:
+  - Austria
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - K Arun Kumar
+  - S Gowda
+  venue: Bayer Uerdingen Cricket Ground
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Simpson-Parker
+        batsman: Iqbal Hossain
+    - 0.2:
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Simpson-Parker
+        batsman: Iqbal Hossain
+    - 0.3:
+        bowler: Zaker Taqawi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: M Simpson-Parker
+        batsman: Iqbal Hossain
+    - 0.4:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+        wicket:
+          player_out: M Simpson-Parker
+          kind: lbw
+    - 0.5:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 0.6:
+        non_striker: Razmal Shigiwal
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 0.7:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 1.1:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 1.2:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 1.3:
+        non_striker: Iqbal Hossain
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 1.4:
+        non_striker: Iqbal Hossain
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 1.5:
+        non_striker: Iqbal Hossain
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 1.6:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iqbal Hossain
+    - 2.1:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 2.2:
+        non_striker: Razmal Shigiwal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 2.3:
+        non_striker: Razmal Shigiwal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 2.4:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 2.5:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 2.6:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 3.1:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 3.2:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 3.3:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iqbal Hossain
+    - 3.4:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 3.5:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hossain
+    - 3.6:
+        non_striker: Razmal Shigiwal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 4.1:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 4.2:
+        non_striker: Razmal Shigiwal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 4.3:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 4.4:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 4.5:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+        wicket:
+          player_out: Razmal Shigiwal
+          fielders:
+          - Azam Khalil
+          kind: caught
+    - 4.6:
+        non_striker: Iqbal Hossain
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 5.1:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 5.2:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 5.3:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 5.4:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 5.5:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 5.6:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 6.1:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iqbal Hossain
+    - 6.2:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 6.3:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 6.4:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 6.5:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Iqbal Hossain
+    - 6.6:
+        non_striker: A Randhawa
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 7.1:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.2:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.3:
+        non_striker: Iqbal Hossain
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 7.4:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 7.5:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hossain
+    - 7.6:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 8.1:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 8.2:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Randhawa
+    - 8.3:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 8.4:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 8.5:
+        non_striker: A Randhawa
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 8.6:
+        non_striker: A Randhawa
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 8.7:
+        non_striker: Iqbal Hossain
+        bowler: Zaker Taqawi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 9.1:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hossain
+    - 9.2:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 9.3:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hossain
+    - 9.4:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 9.5:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 9.6:
+        non_striker: A Randhawa
+        bowler: Azam Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 10.1:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 10.2:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 10.3:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 10.4:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 10.5:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 10.6:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 10.7:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 11.1:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 11.2:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 11.3:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hossain
+    - 11.4:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Iqbal Hossain
+    - 11.5:
+        non_striker: Iqbal Hossain
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 11.6:
+        non_striker: Iqbal Hossain
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 12.1:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 12.2:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+    - 12.3:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hossain
+    - 12.4:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 12.5:
+        non_striker: Iqbal Hossain
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 12.6:
+        non_striker: A Randhawa
+        bowler: L Karlsson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hossain
+        wicket:
+          player_out: Iqbal Hossain
+          fielders:
+          - Azam Khalil
+          kind: caught
+    - 13.1:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 13.2:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 13.3:
+        non_striker: A Randhawa
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 13.4:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 13.5:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 13.6:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 14.1:
+        non_striker: A Randhawa
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 14.2:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 14.3:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 14.4:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 14.5:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+        wicket:
+          player_out: A Randhawa
+          fielders:
+          - W Boshoff
+          kind: stumped
+    - 14.6:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+    - 15.1:
+        non_striker: Mirza Ahsan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.2:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mirza Ahsan
+    - 15.3:
+        non_striker: Mirza Ahsan
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.4:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+    - 15.5:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mirza Ahsan
+    - 15.6:
+        non_striker: Aqib Iqbal
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+        wicket:
+          player_out: Mirza Ahsan
+          kind: lbw
+    - 16.1:
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MPS Cheema
+        batsman: Aqib Iqbal
+    - 16.2:
+        bowler: F Choudary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: MPS Cheema
+        batsman: Aqib Iqbal
+    - 16.3:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 16.4:
+        non_striker: MPS Cheema
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 16.5:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPS Cheema
+    - 16.6:
+        non_striker: Aqib Iqbal
+        bowler: F Choudary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPS Cheema
+    - 17.1:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 17.2:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 17.3:
+        non_striker: Aqib Iqbal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 17.4:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 17.5:
+        non_striker: Aqib Iqbal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPS Cheema
+    - 17.6:
+        non_striker: Aqib Iqbal
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 18.1:
+        non_striker: Aqib Iqbal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MPS Cheema
+    - 18.2:
+        non_striker: Aqib Iqbal
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPS Cheema
+    - 18.3:
+        non_striker: MPS Cheema
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 18.4:
+        non_striker: MPS Cheema
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 18.5:
+        non_striker: MPS Cheema
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 18.6:
+        non_striker: MPS Cheema
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 19.1:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 19.2:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 19.3:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 19.4:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 19.5:
+        non_striker: MPS Cheema
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+        wicket:
+          player_out: Aqib Iqbal
+          fielders:
+          - L Karlsson
+          kind: caught
+    - 19.6:
+        non_striker: Abdullah Akbarjan
+        bowler: Tasaduq Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPS Cheema
+        wicket:
+          player_out: Abdullah Akbarjan
+          fielders:
+          - W Boshoff
+          kind: run out
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Umar Nawaz (2)
+        batsman: W Boshoff
+    - 0.2:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 0.3:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Umar Nawaz (2)
+    - 0.4:
+        non_striker: Umar Nawaz (2)
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 0.5:
+        non_striker: Umar Nawaz (2)
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 0.6:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 1.1:
+        non_striker: Umar Nawaz (2)
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 1.2:
+        non_striker: Umar Nawaz (2)
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Boshoff
+    - 1.3:
+        non_striker: Umar Nawaz (2)
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 1.4:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 1.5:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umar Nawaz (2)
+    - 1.6:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 1.7:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 1.8:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+    - 2.1:
+        non_striker: Umar Nawaz (2)
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 2.2:
+        non_striker: Umar Nawaz (2)
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 2.3:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Nawaz (2)
+        wicket:
+          player_out: Umar Nawaz (2)
+          fielders:
+          - M Simpson-Parker
+          kind: caught
+    - 2.4:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamid Mahmood
+    - 2.5:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Mahmood
+    - 2.6:
+        non_striker: Hamid Mahmood
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+        wicket:
+          player_out: Hamid Mahmood
+          fielders:
+          - MPS Cheema
+          - Sahel Zadran
+          kind: run out
+    - 3.1:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 3.2:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 3.3:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 3.4:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 3.5:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Venkatesh
+        batsman: W Boshoff
+    - 3.6:
+        non_striker: A Venkatesh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 4.1:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Boshoff
+    - 4.2:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 4.3:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 4.4:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Venkatesh
+    - 4.5:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 4.6:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 4.7:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 5.1:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 5.2:
+        non_striker: A Venkatesh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 5.3:
+        non_striker: A Venkatesh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 5.4:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 5.5:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Venkatesh
+    - 5.6:
+        non_striker: W Boshoff
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 6.1:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 6.2:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 6.3:
+        non_striker: W Boshoff
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 6.4:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 6.5:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Boshoff
+    - 6.6:
+        non_striker: A Venkatesh
+        bowler: A Nathwani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 7.1:
+        non_striker: A Venkatesh
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 7.2:
+        non_striker: W Boshoff
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Venkatesh
+    - 7.3:
+        non_striker: W Boshoff
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 7.4:
+        non_striker: A Venkatesh
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Boshoff
+    - 7.5:
+        non_striker: A Venkatesh
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 7.6:
+        non_striker: W Boshoff
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 8.1:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Venkatesh
+    - 8.2:
+        non_striker: A Venkatesh
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 8.3:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 8.4:
+        non_striker: A Venkatesh
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.5:
+        non_striker: A Venkatesh
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.6:
+        non_striker: A Venkatesh
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Boshoff
+    - 9.1:
+        non_striker: W Boshoff
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 9.2:
+        non_striker: A Venkatesh
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.3:
+        non_striker: W Boshoff
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 9.4:
+        non_striker: A Venkatesh
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.5:
+        non_striker: W Boshoff
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 9.6:
+        non_striker: A Venkatesh
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 10.1:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 10.2:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Venkatesh
+    - 10.3:
+        non_striker: A Venkatesh
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 10.4:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 10.5:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+    - 10.6:
+        non_striker: W Boshoff
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Venkatesh
+    - 11.1:
+        non_striker: A Venkatesh
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+        wicket:
+          player_out: W Boshoff
+          kind: caught and bowled
+    - 11.2:
+        non_striker: A Venkatesh
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 11.3:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Venkatesh
+        wicket:
+          player_out: A Venkatesh
+          fielders:
+          - Aqib Iqbal
+          kind: caught
+    - 11.4:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ismaeel Zia
+    - 11.5:
+        non_striker: Ismaeel Zia
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 11.6:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ismaeel Zia
+        wicket:
+          player_out: Ismaeel Zia
+          fielders:
+          - Aqib Iqbal
+          kind: caught
+    - 12.1:
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaker Taqawi
+        batsman: Azam Khalil
+    - 12.2:
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zaker Taqawi
+        batsman: Azam Khalil
+    - 12.3:
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zaker Taqawi
+        batsman: Azam Khalil
+    - 12.4:
+        non_striker: Azam Khalil
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 12.5:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 12.6:
+        non_striker: Azam Khalil
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 13.1:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaker Taqawi
+    - 13.2:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 13.3:
+        non_striker: Zaker Taqawi
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 13.4:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 13.5:
+        non_striker: Zaker Taqawi
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khalil
+    - 13.6:
+        non_striker: Zaker Taqawi
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 14.1:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 14.2:
+        non_striker: Azam Khalil
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 14.3:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khalil
+    - 14.4:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khalil
+    - 14.5:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khalil
+    - 14.6:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 15.1:
+        non_striker: Zaker Taqawi
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khalil
+    - 15.2:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 15.3:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 15.4:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 15.5:
+        non_striker: Zaker Taqawi
+        bowler: Iqbal Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Azam Khalil
+    - 15.6:
+        non_striker: Azam Khalil
+        bowler: Iqbal Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 16.1:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khalil
+    - 16.2:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khalil
+    - 16.3:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khalil
+    - 16.4:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khalil
+    - 16.5:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khalil
+        wicket:
+          player_out: Azam Khalil
+          kind: bowled
+    - 16.6:
+        non_striker: Zaker Taqawi
+        bowler: Abdullah Akbarjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Zahid
+    - 17.1:
+        non_striker: Khalid Zahid
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 17.2:
+        non_striker: Zaker Taqawi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 17.3:
+        non_striker: Khalid Zahid
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zaker Taqawi
+    - 17.4:
+        non_striker: Zaker Taqawi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 17.5:
+        non_striker: Khalid Zahid
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 17.6:
+        non_striker: Khalid Zahid
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaker Taqawi
+    - 18.1:
+        non_striker: Zaker Taqawi
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 18.2:
+        non_striker: Khalid Zahid
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaker Taqawi
+    - 18.3:
+        non_striker: Khalid Zahid
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 18.4:
+        non_striker: Khalid Zahid
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaker Taqawi
+    - 18.5:
+        non_striker: Khalid Zahid
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zaker Taqawi
+    - 18.6:
+        non_striker: Zaker Taqawi
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khalid Zahid
+    - 19.1:
+        non_striker: Khalid Zahid
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 19.2:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khalid Zahid
+    - 19.3:
+        non_striker: Khalid Zahid
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaker Taqawi
+    - 19.4:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khalid Zahid
+    - 19.5:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khalid Zahid
+    - 19.6:
+        non_striker: Zaker Taqawi
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Khalid Zahid

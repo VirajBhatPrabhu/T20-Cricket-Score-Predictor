@@ -1,0 +1,2208 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2022-07-15'
+  gender: male
+  match_type: T20
+  match_type_number: 1659
+  outcome:
+    winner: Croatia
+    by:
+      runs: 3
+  overs: 20
+  player_of_match:
+  - DJ Turkich
+  players:
+    Croatia:
+    - SD Valjalo
+    - CP Turkich
+    - JD Newton
+    - JM Vujinovich
+    - DJ Turkich
+    - A Maheshwari
+    - N Davidovic
+    - Sohail Ahmad
+    - D Marsic
+    - J Grzinic
+    - B Jerkovic
+    Greece:
+    - Alexandros Karvelas
+    - P Magafas
+    - G Fatouros
+    - A Manousis
+    - S Bogdos
+    - C Bogdanos
+    - AS Mehmi
+    - Aslam Mohammad
+    - A Gasteratos
+    - GC Galanis
+    - T Zotos
+  registry:
+    people:
+      A Gasteratos: e87c009a
+      A Maheshwari: 3ec513ea
+      A Manousis: b672e825
+      AS Mehmi: 4612619b
+      Adnan Khan: 45ec7a99
+      Adriaan van den Dries: 94b5ec3b
+      Alexandros Karvelas: 13f21a98
+      Aslam Mohammad: 67ae5a56
+      B Jerkovic: 63bd7086
+      C Bogdanos: ecdfdd3c
+      CP Turkich: 6264d645
+      D Marsic: 16fa34cf
+      DJ Turkich: '96013995'
+      G Fatouros: b388d623
+      GC Galanis: db218528
+      GH Pienaar: 3516e46b
+      J Grzinic: 03c94c2f
+      JD Newton: ec201565
+      JM Vujinovich: 99ad98b0
+      N Davidovic: e48c6ec7
+      P Magafas: c25be68d
+      S Bogdos: 268ec1d6
+      SB Ravindra: 394ba7a8
+      SD Valjalo: 62d3f506
+      Sohail Ahmad: 7e439c80
+      T Zotos: 4c4d245a
+  teams:
+  - Croatia
+  - Greece
+  toss:
+    winner: Greece
+    decision: field
+  umpires:
+  - Adriaan van den Dries
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CP Turkich
+        batsman: SD Valjalo
+    - 0.2:
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CP Turkich
+        batsman: SD Valjalo
+    - 0.3:
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CP Turkich
+        batsman: SD Valjalo
+    - 0.4:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+        wicket:
+          player_out: SD Valjalo
+          fielders:
+          - S Bogdos
+          kind: caught
+    - 0.5:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 0.6:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JD Newton
+    - 0.7:
+        non_striker: JD Newton
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 1.1:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CP Turkich
+    - 1.2:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 1.3:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 1.4:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 1.5:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 1.6:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 2.1:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 2.2:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 2.3:
+        non_striker: JD Newton
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 2.4:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Newton
+    - 2.5:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 2.6:
+        non_striker: CP Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 3.1:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 3.2:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 3.3:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 3.4:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 3.5:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 3.6:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 4.1:
+        non_striker: JD Newton
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 4.2:
+        non_striker: JD Newton
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 4.3:
+        non_striker: JD Newton
+        bowler: Aslam Mohammad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CP Turkich
+    - 4.4:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 4.5:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 4.6:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 4.7:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 5.1:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 5.2:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 5.3:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 5.4:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 5.5:
+        non_striker: CP Turkich
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 5.6:
+        non_striker: JD Newton
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 6.1:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 6.2:
+        non_striker: JD Newton
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 6.3:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 6.4:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Newton
+    - 6.5:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 6.6:
+        non_striker: CP Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 7.1:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 7.2:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 7.3:
+        non_striker: JD Newton
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Turkich
+    - 7.4:
+        non_striker: JD Newton
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 7.5:
+        non_striker: JD Newton
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 7.6:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 8.1:
+        non_striker: CP Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 8.2:
+        non_striker: JD Newton
+        bowler: GC Galanis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CP Turkich
+    - 8.3:
+        non_striker: CP Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 8.4:
+        non_striker: CP Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 8.5:
+        non_striker: JD Newton
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 8.6:
+        non_striker: CP Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Newton
+    - 9.1:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Newton
+    - 9.2:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+        wicket:
+          player_out: JD Newton
+          fielders:
+          - G Fatouros
+          kind: caught
+    - 9.3:
+        bowler: A Manousis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JM Vujinovich
+        batsman: CP Turkich
+    - 9.4:
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JM Vujinovich
+        batsman: CP Turkich
+    - 9.5:
+        non_striker: CP Turkich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 9.6:
+        non_striker: JM Vujinovich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 9.7:
+        non_striker: JM Vujinovich
+        bowler: A Manousis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 10.1:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 10.2:
+        non_striker: CP Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vujinovich
+    - 10.3:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 10.4:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CP Turkich
+        wicket:
+          player_out: CP Turkich
+          fielders:
+          - S Bogdos
+          kind: stumped
+    - 10.5:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 10.6:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 10.7:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 11.1:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 11.2:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 11.3:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 11.4:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 11.5:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 11.6:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vujinovich
+    - 11.7:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 12.1:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 12.2:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 12.3:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 12.4:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 12.5:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 12.6:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 13.1:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 13.2:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 13.3:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 13.4:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 13.5:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 13.6:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 14.1:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 14.2:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vujinovich
+    - 14.3:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 14.4:
+        non_striker: JM Vujinovich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 14.5:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 14.6:
+        non_striker: DJ Turkich
+        bowler: GC Galanis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 15.1:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 15.2:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 15.3:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 15.4:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 15.5:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 15.6:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 16.1:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 16.2:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 16.3:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 16.4:
+        non_striker: DJ Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 16.5:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 16.6:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 17.1:
+        non_striker: DJ Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 17.2:
+        non_striker: JM Vujinovich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 17.3:
+        non_striker: JM Vujinovich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 17.4:
+        non_striker: JM Vujinovich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 17.5:
+        non_striker: DJ Turkich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 17.6:
+        non_striker: JM Vujinovich
+        bowler: Aslam Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 18.1:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 18.2:
+        non_striker: DJ Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 18.3:
+        non_striker: DJ Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 18.4:
+        non_striker: DJ Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 18.5:
+        non_striker: DJ Turkich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 18.6:
+        non_striker: JM Vujinovich
+        bowler: Alexandros Karvelas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Turkich
+    - 19.1:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 19.2:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 19.3:
+        non_striker: DJ Turkich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 19.4:
+        non_striker: JM Vujinovich
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+        wicket:
+          player_out: DJ Turkich
+          fielders:
+          - Alexandros Karvelas
+          kind: caught
+    - 19.5:
+        non_striker: A Maheshwari
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+        wicket:
+          player_out: A Maheshwari
+          fielders:
+          - G Fatouros
+          - GC Galanis
+          kind: run out
+    - 19.6:
+        non_striker: N Davidovic
+        bowler: G Fatouros
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+        wicket:
+          player_out: N Davidovic
+          fielders:
+          - G Fatouros
+          - GC Galanis
+          kind: run out
+- 2nd innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Magafas
+        batsman: Alexandros Karvelas
+    - 0.2:
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: P Magafas
+        batsman: Alexandros Karvelas
+    - 0.3:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 0.4:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Magafas
+    - 0.5:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 0.6:
+        non_striker: P Magafas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alexandros Karvelas
+    - 0.7:
+        non_striker: P Magafas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alexandros Karvelas
+    - 1.1:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 1.2:
+        non_striker: P Magafas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alexandros Karvelas
+    - 1.3:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 1.4:
+        non_striker: P Magafas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alexandros Karvelas
+    - 1.5:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 1.6:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 2.1:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Magafas
+    - 2.2:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 2.3:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Magafas
+    - 2.4:
+        non_striker: P Magafas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alexandros Karvelas
+    - 2.5:
+        non_striker: P Magafas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alexandros Karvelas
+    - 2.6:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 2.7:
+        non_striker: Alexandros Karvelas
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Magafas
+    - 3.1:
+        non_striker: P Magafas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alexandros Karvelas
+    - 3.2:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 3.3:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Magafas
+    - 3.4:
+        non_striker: Alexandros Karvelas
+        bowler: SD Valjalo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Magafas
+    - 3.5:
+        non_striker: P Magafas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Alexandros Karvelas
+    - 3.6:
+        non_striker: P Magafas
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Alexandros Karvelas
+    - 4.1:
+        non_striker: Alexandros Karvelas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 4.2:
+        non_striker: P Magafas
+        bowler: B Jerkovic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Alexandros Karvelas
+    - 4.3:
+        non_striker: Alexandros Karvelas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Magafas
+    - 4.4:
+        non_striker: Alexandros Karvelas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 4.5:
+        non_striker: Alexandros Karvelas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 4.6:
+        non_striker: P Magafas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alexandros Karvelas
+    - 4.7:
+        non_striker: Alexandros Karvelas
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 5.1:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alexandros Karvelas
+    - 5.2:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alexandros Karvelas
+        wicket:
+          player_out: Alexandros Karvelas
+          kind: caught and bowled
+    - 5.3:
+        bowler: JM Vujinovich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Fatouros
+        batsman: P Magafas
+    - 5.4:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Fatouros
+        batsman: P Magafas
+    - 5.5:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Fatouros
+        batsman: P Magafas
+    - 5.6:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 5.7:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Fatouros
+    - 6.1:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 6.2:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 6.3:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 6.4:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 6.5:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 6.6:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 7.1:
+        non_striker: G Fatouros
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 7.2:
+        non_striker: G Fatouros
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Magafas
+    - 7.3:
+        non_striker: G Fatouros
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 7.4:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Fatouros
+    - 7.5:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 7.6:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Fatouros
+    - 8.1:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 8.2:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Fatouros
+    - 8.3:
+        non_striker: G Fatouros
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 8.4:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Fatouros
+    - 8.5:
+        non_striker: G Fatouros
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Magafas
+    - 8.6:
+        non_striker: G Fatouros
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 9.1:
+        non_striker: G Fatouros
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 9.2:
+        non_striker: G Fatouros
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 9.3:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 9.4:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Fatouros
+    - 9.5:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 9.6:
+        non_striker: P Magafas
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Fatouros
+    - 10.1:
+        non_striker: G Fatouros
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Magafas
+    - 10.2:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Fatouros
+    - 10.3:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+    - 10.4:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Fatouros
+        wicket:
+          player_out: G Fatouros
+          kind: bowled
+    - 10.5:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Manousis
+        wicket:
+          player_out: A Manousis
+          kind: lbw
+    - 10.6:
+        non_striker: P Magafas
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bogdos
+    - 11.1:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+    - 11.2:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Magafas
+    - 11.3:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Magafas
+        wicket:
+          player_out: P Magafas
+          fielders:
+          - DJ Turkich
+          kind: caught
+    - 11.4:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 11.5:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Bogdanos
+    - 11.6:
+        non_striker: C Bogdanos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bogdos
+    - 11.7:
+        non_striker: S Bogdos
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bogdanos
+    - 12.1:
+        non_striker: C Bogdanos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bogdos
+    - 12.2:
+        non_striker: C Bogdanos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bogdos
+    - 12.3:
+        non_striker: S Bogdos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 12.4:
+        non_striker: S Bogdos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 12.5:
+        non_striker: C Bogdanos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bogdos
+    - 12.6:
+        non_striker: C Bogdanos
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bogdos
+    - 13.1:
+        non_striker: S Bogdos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 13.2:
+        non_striker: C Bogdanos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bogdos
+        wicket:
+          player_out: S Bogdos
+          fielders:
+          - DJ Turkich
+          kind: caught
+    - 13.3:
+        non_striker: C Bogdanos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+    - 13.4:
+        non_striker: C Bogdanos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+    - 13.5:
+        non_striker: C Bogdanos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS Mehmi
+    - 13.6:
+        non_striker: C Bogdanos
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+    - 14.1:
+        non_striker: AS Mehmi
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bogdanos
+    - 14.2:
+        non_striker: AS Mehmi
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 14.3:
+        non_striker: C Bogdanos
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Mehmi
+        wicket:
+          player_out: AS Mehmi
+          fielders:
+          - J Grzinic
+          kind: caught
+    - 14.4:
+        non_striker: C Bogdanos
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Mohammad
+    - 14.5:
+        non_striker: Aslam Mohammad
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 14.6:
+        non_striker: Aslam Mohammad
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 15.1:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 15.2:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+    - 15.3:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Mohammad
+        wicket:
+          player_out: Aslam Mohammad
+          kind: bowled
+    - 15.4:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 15.5:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 15.6:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 16.1:
+        non_striker: A Gasteratos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 16.2:
+        non_striker: A Gasteratos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 16.3:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 16.4:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 16.5:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gasteratos
+    - 16.6:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+    - 17.1:
+        non_striker: A Gasteratos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bogdanos
+    - 17.2:
+        non_striker: A Gasteratos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 17.3:
+        non_striker: A Gasteratos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 17.4:
+        non_striker: A Gasteratos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 17.5:
+        non_striker: C Bogdanos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gasteratos
+    - 17.6:
+        non_striker: A Gasteratos
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bogdanos
+    - 18.1:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gasteratos
+    - 18.2:
+        non_striker: A Gasteratos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 18.3:
+        non_striker: A Gasteratos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+    - 18.4:
+        non_striker: A Gasteratos
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Bogdanos
+    - 18.5:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gasteratos
+        wicket:
+          player_out: A Gasteratos
+          fielders:
+          - J Grzinic
+          kind: caught
+    - 18.6:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Galanis
+    - 18.7:
+        non_striker: C Bogdanos
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Galanis
+    - 19.1:
+        non_striker: GC Galanis
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 19.2:
+        non_striker: C Bogdanos
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Galanis
+    - 19.3:
+        non_striker: GC Galanis
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bogdanos
+    - 19.4:
+        non_striker: C Bogdanos
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Galanis
+    - 19.5:
+        non_striker: GC Galanis
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bogdanos
+        wicket:
+          player_out: C Bogdanos
+          fielders:
+          - JM Vujinovich
+          kind: caught
+    - 19.6:
+        non_striker: GC Galanis
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zotos
+        wicket:
+          player_out: T Zotos
+          kind: bowled

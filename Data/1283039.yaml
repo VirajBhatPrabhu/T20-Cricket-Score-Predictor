@@ -1,0 +1,1763 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-23'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2021-10-22'
+  gender: male
+  match_type: T20
+  match_type_number: 1340
+  outcome:
+    winner: Malawi
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - MA Baig
+  players:
+    Malawi:
+    - G Kansonkho
+    - D Kansonkho
+    - Sami Sohail
+    - GM Ntambalika
+    - MA Baig
+    - A Kansonkho
+    - L Nakomo
+    - W Jackson
+    - M Mwamadi
+    - C Chete
+    - B Pondani
+    Lesotho:
+    - C Tlali
+    - AAA Patel
+    - Mohammad Maaz Khan
+    - Sameer Patel
+    - Sarfaraj Patel
+    - YYM Jakda
+    - Omar Hussain
+    - ME Leoela
+    - MV Matsau
+    - TG Thamae
+    - TD Chaoana
+  registry:
+    people:
+      A Kansonkho: 5f77f4ec
+      A Paleker: 634b11ac
+      AAA Patel: fd3c5c00
+      B Pondani: e5117568
+      C Chete: ef4f539a
+      C Tlali: 70841eab
+      D Kansonkho: 45ca12a7
+      D Odhiambo: '45994517'
+      G Kansonkho: f3ca5af8
+      GM Ntambalika: 8c8a3f08
+      Itangishaka Olivier: 0ee3bb49
+      L Nakomo: 1abfa11e
+      M Mwamadi: '00029c30'
+      MA Baig: '89394502'
+      ME Leoela: 3b107df5
+      MV Matsau: dad64776
+      Maaz Khan: 6f14ddcb
+      Omar Hussain: 2002c586
+      SA Fritz: d15e60c8
+      Sameer Patel: 2bae86b6
+      Sami Sohail: 602ebd4c
+      Sarfaraj Patel: f15d17c7
+      TD Chaoana: 16ddd36b
+      TG Thamae: d08fe309
+      W Jackson: d45e06ae
+      YYM Jakda: 2e3dc859
+  teams:
+  - Malawi
+  - Lesotho
+  toss:
+    winner: Lesotho
+    decision: field
+  umpires:
+  - A Paleker
+  - D Odhiambo
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Kansonkho
+        batsman: G Kansonkho
+    - 0.2:
+        non_striker: G Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 0.3:
+        non_striker: G Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Kansonkho
+    - 0.4:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kansonkho
+    - 0.5:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.6:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kansonkho
+    - 0.7:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 0.8:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 1.1:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 1.2:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 1.3:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 1.4:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 1.5:
+        non_striker: G Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 1.6:
+        non_striker: G Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.1:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 2.2:
+        non_striker: G Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 2.3:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 2.4:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kansonkho
+    - 2.5:
+        non_striker: D Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 2.6:
+        non_striker: G Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.7:
+        non_striker: G Kansonkho
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.1:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kansonkho
+    - 3.2:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kansonkho
+    - 3.3:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 3.4:
+        non_striker: G Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 3.5:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          fielders:
+          - C Tlali
+          kind: caught
+    - 3.6:
+        non_striker: D Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 4.1:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 4.2:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.3:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 4.4:
+        non_striker: Sami Sohail
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 4.5:
+        non_striker: Sami Sohail
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.6:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.1:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 5.2:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 5.3:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 5.4:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 5.5:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.6:
+        non_striker: D Kansonkho
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.1:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 6.2:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.3:
+        non_striker: Sami Sohail
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 6.4:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.5:
+        non_striker: Sami Sohail
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 6.6:
+        non_striker: D Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.1:
+        non_striker: D Kansonkho
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 7.2:
+        non_striker: D Kansonkho
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 7.3:
+        non_striker: D Kansonkho
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 7.4:
+        non_striker: D Kansonkho
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.5:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Kansonkho
+    - 7.6:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 7.7:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 8.1:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          fielders:
+          - C Tlali
+          kind: caught
+    - 8.2:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 8.3:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 8.4:
+        non_striker: GM Ntambalika
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 8.5:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 8.6:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Ntambalika
+    - 9.1:
+        non_striker: GM Ntambalika
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 9.2:
+        non_striker: GM Ntambalika
+        bowler: YYM Jakda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 9.3:
+        non_striker: GM Ntambalika
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 9.4:
+        non_striker: GM Ntambalika
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 9.5:
+        non_striker: GM Ntambalika
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.6:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 9.7:
+        non_striker: Sami Sohail
+        bowler: YYM Jakda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GM Ntambalika
+    - 10.1:
+        non_striker: GM Ntambalika
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.2:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GM Ntambalika
+    - 10.3:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GM Ntambalika
+    - 10.4:
+        non_striker: GM Ntambalika
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.5:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+    - 10.6:
+        non_striker: Sami Sohail
+        bowler: TG Thamae
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GM Ntambalika
+    - 11.1:
+        non_striker: GM Ntambalika
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 11.2:
+        non_striker: Sami Sohail
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GM Ntambalika
+        wicket:
+          player_out: GM Ntambalika
+          fielders:
+          - Omar Hussain
+          kind: caught
+    - 11.3:
+        non_striker: Sami Sohail
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 11.4:
+        non_striker: Sami Sohail
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 11.5:
+        non_striker: MA Baig
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          fielders:
+          - C Tlali
+          kind: caught
+    - 11.6:
+        non_striker: MA Baig
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+    - 12.1:
+        non_striker: A Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MA Baig
+    - 12.2:
+        non_striker: A Kansonkho
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 12.3:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+    - 12.4:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kansonkho
+    - 12.5:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+    - 12.6:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kansonkho
+    - 12.7:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+    - 12.8:
+        non_striker: MA Baig
+        bowler: MV Matsau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+    - 13.1:
+        non_striker: A Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Baig
+    - 13.2:
+        non_striker: MA Baig
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kansonkho
+    - 13.3:
+        non_striker: A Kansonkho
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 13.4:
+        non_striker: MA Baig
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kansonkho
+    - 13.5:
+        non_striker: MA Baig
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kansonkho
+    - 13.6:
+        non_striker: MA Baig
+        bowler: Sarfaraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kansonkho
+    - 14.1:
+        non_striker: MA Baig
+        bowler: Omar Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kansonkho
+    - 14.2:
+        non_striker: MA Baig
+        bowler: Omar Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Kansonkho
+    - 14.3:
+        non_striker: A Kansonkho
+        bowler: Omar Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Baig
+    - 14.4:
+        non_striker: A Kansonkho
+        bowler: Omar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 14.5:
+        non_striker: MA Baig
+        bowler: Omar Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kansonkho
+    - 14.6:
+        non_striker: MA Baig
+        bowler: Omar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kansonkho
+- 2nd innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AAA Patel
+        batsman: C Tlali
+    - 0.2:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AAA Patel
+    - 0.3:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 0.4:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 0.5:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 0.6:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 0.7:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 0.8:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 1.1:
+        non_striker: AAA Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 1.2:
+        non_striker: AAA Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Tlali
+    - 1.3:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 1.4:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 1.5:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 1.6:
+        non_striker: AAA Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 1.7:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAA Patel
+    - 1.8:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 1.9:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 2.1:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 2.2:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 2.3:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AAA Patel
+    - 2.4:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tlali
+    - 2.5:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 2.6:
+        non_striker: AAA Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 2.7:
+        non_striker: C Tlali
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAA Patel
+    - 3.1:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 3.2:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAA Patel
+    - 3.3:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 3.4:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 3.5:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Tlali
+    - 3.6:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 3.7:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 4.1:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 4.2:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 4.3:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AAA Patel
+    - 4.4:
+        non_striker: AAA Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 4.5:
+        non_striker: AAA Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 4.6:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 5.1:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAA Patel
+    - 5.2:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 5.3:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 5.4:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 5.5:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 5.6:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAA Patel
+    - 5.7:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 5.8:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 6.1:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 6.2:
+        non_striker: AAA Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 6.3:
+        non_striker: AAA Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tlali
+    - 6.4:
+        non_striker: AAA Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 6.5:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 6.6:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 7.1:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 7.2:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 7.3:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tlali
+    - 7.4:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 7.5:
+        non_striker: C Tlali
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 7.6:
+        non_striker: AAA Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 8.1:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 8.2:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+    - 8.3:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAA Patel
+    - 8.4:
+        non_striker: AAA Patel
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 8.5:
+        non_striker: AAA Patel
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 8.6:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAA Patel
+        wicket:
+          player_out: AAA Patel
+          fielders:
+          - A Kansonkho
+          kind: caught
+    - 9.1:
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Mohammad Maaz Khan
+        batsman: C Tlali
+    - 9.2:
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Maaz Khan
+        batsman: C Tlali
+    - 9.3:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Maaz Khan
+    - 9.4:
+        non_striker: C Tlali
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Maaz Khan
+    - 9.5:
+        non_striker: Mohammad Maaz Khan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 9.6:
+        non_striker: Mohammad Maaz Khan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 10.1:
+        non_striker: Mohammad Maaz Khan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 10.2:
+        non_striker: Mohammad Maaz Khan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 10.3:
+        non_striker: Mohammad Maaz Khan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tlali
+    - 10.4:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Maaz Khan
+    - 10.5:
+        non_striker: C Tlali
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Maaz Khan
+    - 10.6:
+        non_striker: Mohammad Maaz Khan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tlali
+    - 11.1:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Maaz Khan
+    - 11.2:
+        non_striker: C Tlali
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Maaz Khan
+        wicket:
+          player_out: Mohammad Maaz Khan
+          fielders:
+          - W Jackson
+          kind: caught
+    - 11.3:
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sameer Patel
+        batsman: C Tlali
+    - 11.4:
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sameer Patel
+        batsman: C Tlali
+    - 11.5:
+        non_striker: Sameer Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+        wicket:
+          player_out: C Tlali
+          kind: bowled
+    - 11.6:
+        non_striker: Sameer Patel
+        bowler: G Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraj Patel
+    - 12.1:
+        non_striker: Sarfaraj Patel
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Patel
+        wicket:
+          player_out: Sameer Patel
+          kind: bowled
+    - 12.2:
+        non_striker: Sarfaraj Patel
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YYM Jakda
+        wicket:
+          player_out: YYM Jakda
+          fielders:
+          - A Kansonkho
+          kind: caught
+    - 12.3:
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Omar Hussain
+        batsman: Sarfaraj Patel
+    - 12.4:
+        non_striker: Sarfaraj Patel
+        bowler: MA Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Omar Hussain
+    - 12.5:
+        non_striker: Omar Hussain
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraj Patel
+    - 12.6:
+        non_striker: Omar Hussain
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraj Patel
+    - 13.1:
+        non_striker: Sarfaraj Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Hussain
+    - 13.2:
+        non_striker: Omar Hussain
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraj Patel
+    - 13.3:
+        non_striker: Omar Hussain
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sarfaraj Patel
+    - 13.4:
+        non_striker: Omar Hussain
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraj Patel
+    - 13.5:
+        non_striker: Sarfaraj Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Hussain
+    - 13.6:
+        non_striker: Sarfaraj Patel
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Hussain
+    - 14.1:
+        non_striker: Omar Hussain
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarfaraj Patel
+    - 14.2:
+        non_striker: Omar Hussain
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraj Patel
+    - 14.3:
+        non_striker: Sarfaraj Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Hussain
+        wicket:
+          player_out: Omar Hussain
+          fielders:
+          - A Kansonkho
+          kind: caught
+    - 14.4:
+        non_striker: Sarfaraj Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: ME Leoela
+    - 14.5:
+        non_striker: ME Leoela
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraj Patel
+    - 14.6:
+        non_striker: Sarfaraj Patel
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Leoela
+        wicket:
+          player_out: Sarfaraj Patel
+          fielders:
+          - GM Ntambalika
+          kind: run out
+    - 14.7:
+        non_striker: MV Matsau
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Leoela

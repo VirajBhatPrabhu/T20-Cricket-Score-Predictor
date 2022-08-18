@@ -1,0 +1,2149 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-10'
+  revision: 3
+info:
+  balls_per_over: 6
+  city: North Sound
+  dates:
+  - '2021-11-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1409
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - M Taylor
+  players:
+    Bahamas:
+    - M Taylor
+    - J Jagroo
+    - MS Graham
+    - GT Taylor
+    - JR Barry
+    - R Davson
+    - K Hinds
+    - O Stewart
+    - E Haven
+    - Bhumeshswar Jagroo
+    - RP Mitchell
+    Argentina:
+    - P Baron
+    - LA Musiani
+    - A Ferguson
+    - A Kirschbaum
+    - RM Siri
+    - T Rossi
+    - PL Bruno
+    - R Escobar
+    - J Hurley
+    - H Fennell
+    - A Husain
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      AR Maddela: 5c861579
+      Bhumeshswar Jagroo: 6a986c7c
+      Denavon Hayles: 5cbeeb02
+      E Haven: 5190900f
+      Emmerson Carrington: a428109a
+      GT Taylor: c674f722
+      H Fennell: 0d38ab25
+      J Hurley: a1aeb715
+      J Jagroo: a0a27cd4
+      JR Barry: 9bc324b5
+      K Hinds: a268c07b
+      LA Musiani: efbd35a9
+      LS Reifer: 5dee559a
+      M Taylor: 92075cdc
+      MS Graham: 7f2cb055
+      O Stewart: e8637dc9
+      P Baron: c6d1b1e4
+      PL Bruno: 4ed0bf6a
+      R Davson: 7804d401
+      R Escobar: 9fa5496f
+      RM Siri: f1737607
+      RP Mitchell: fc30a5b7
+      T Rossi: 5470418a
+  teams:
+  - Bahamas
+  - Argentina
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - AR Maddela
+  - Emmerson Carrington
+  venue: Sir Vivian Richards Stadium, North Sound, Antigua
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Jagroo
+        batsman: M Taylor
+    - 0.2:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Jagroo
+        batsman: M Taylor
+    - 0.3:
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Jagroo
+        batsman: M Taylor
+    - 0.4:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Jagroo
+        batsman: M Taylor
+    - 0.5:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jagroo
+    - 0.6:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jagroo
+        wicket:
+          player_out: J Jagroo
+          fielders:
+          - J Hurley
+          kind: caught
+    - 0.7:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Graham
+    - 0.8:
+        non_striker: M Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Graham
+    - 1.1:
+        non_striker: MS Graham
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.2:
+        non_striker: MS Graham
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 1.3:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Graham
+    - 1.4:
+        non_striker: MS Graham
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 1.5:
+        non_striker: MS Graham
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: GT Taylor
+            out: M Taylor
+            reason: injury
+            role: batter
+        batsman: GT Taylor
+    - 1.6:
+        non_striker: GT Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Graham
+    - 2.1:
+        non_striker: MS Graham
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Taylor
+    - 2.2:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Graham
+        wicket:
+          player_out: MS Graham
+          kind: lbw
+    - 2.3:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 2.4:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 2.5:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Barry
+    - 2.6:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 2.7:
+        non_striker: JR Barry
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 3.1:
+        non_striker: GT Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 3.2:
+        non_striker: GT Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Barry
+    - 3.3:
+        non_striker: GT Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 3.4:
+        non_striker: JR Barry
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 3.5:
+        non_striker: JR Barry
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 3.6:
+        non_striker: JR Barry
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 4.1:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 4.2:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Barry
+    - 4.3:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 4.4:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 4.5:
+        non_striker: JR Barry
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 4.6:
+        non_striker: JR Barry
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Taylor
+    - 4.7:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Barry
+    - 4.8:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Barry
+    - 4.9:
+        non_striker: GT Taylor
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 5.1:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 5.2:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 5.3:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+    - 5.4:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Taylor
+    - 5.5:
+        non_striker: GT Taylor
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 5.6:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Taylor
+    - 6.1:
+        non_striker: JR Barry
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+        wicket:
+          player_out: GT Taylor
+          fielders:
+          - T Rossi
+          kind: caught
+    - 6.2:
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Davson
+        batsman: JR Barry
+    - 6.3:
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Davson
+        batsman: JR Barry
+    - 6.4:
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Davson
+        batsman: JR Barry
+    - 6.5:
+        non_striker: JR Barry
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 6.6:
+        non_striker: R Davson
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 7.1:
+        non_striker: R Davson
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Barry
+    - 7.2:
+        non_striker: R Davson
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 7.3:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: R Davson
+    - 7.4:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 7.5:
+        non_striker: JR Barry
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Davson
+    - 7.6:
+        non_striker: R Davson
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Barry
+    - 8.1:
+        non_striker: JR Barry
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Davson
+    - 8.2:
+        non_striker: R Davson
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Barry
+    - 8.3:
+        non_striker: JR Barry
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+        wicket:
+          player_out: JR Barry
+          fielders:
+          - T Rossi
+          kind: run out
+    - 8.4:
+        non_striker: R Davson
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Hinds
+    - 8.5:
+        non_striker: R Davson
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Hinds
+    - 8.6:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Davson
+    - 9.1:
+        non_striker: R Davson
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Hinds
+    - 9.2:
+        non_striker: K Hinds
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+    - 9.3:
+        non_striker: K Hinds
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Davson
+        wicket:
+          player_out: R Davson
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 9.4:
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Taylor
+        batsman: K Hinds
+    - 9.5:
+        non_striker: K Hinds
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 9.6:
+        non_striker: K Hinds
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 9.7:
+        non_striker: K Hinds
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 10.1:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 10.2:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 10.3:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 10.4:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 10.5:
+        non_striker: K Hinds
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 10.6:
+        non_striker: M Taylor
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Hinds
+        wicket:
+          player_out: K Hinds
+          fielders:
+          - A Husain
+          kind: caught
+    - 11.1:
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Stewart
+        batsman: M Taylor
+    - 11.2:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Stewart
+        wicket:
+          player_out: O Stewart
+          fielders:
+          - H Fennell
+          kind: caught
+    - 11.3:
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Haven
+        batsman: M Taylor
+    - 11.4:
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Haven
+        batsman: M Taylor
+    - 11.5:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 11.6:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 12.1:
+        non_striker: E Haven
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 12.2:
+        non_striker: E Haven
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 12.3:
+        non_striker: E Haven
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 12.4:
+        non_striker: M Taylor
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 12.5:
+        non_striker: M Taylor
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 12.6:
+        non_striker: M Taylor
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 13.1:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 13.2:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 13.3:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 13.4:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 13.5:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Haven
+    - 13.6:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 14.1:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 14.2:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 14.3:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 14.4:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 14.5:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Haven
+    - 14.6:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 14.7:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Haven
+    - 14.8:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Taylor
+    - 15.1:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Haven
+    - 15.2:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 15.3:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Haven
+    - 15.4:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+    - 15.5:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Haven
+    - 15.6:
+        non_striker: M Taylor
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: E Haven
+    - 15.7:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 15.8:
+        non_striker: E Haven
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 16.1:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 16.2:
+        non_striker: E Haven
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 16.3:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Haven
+        wicket:
+          player_out: E Haven
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 16.4:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhumeshswar Jagroo
+    - 16.5:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhumeshswar Jagroo
+    - 16.6:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhumeshswar Jagroo
+    - 16.7:
+        non_striker: M Taylor
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhumeshswar Jagroo
+    - 17.1:
+        non_striker: Bhumeshswar Jagroo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Taylor
+    - 17.2:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhumeshswar Jagroo
+        wicket:
+          player_out: Bhumeshswar Jagroo
+          kind: lbw
+    - 17.3:
+        non_striker: M Taylor
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Mitchell
+    - 17.4:
+        non_striker: RP Mitchell
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 17.5:
+        non_striker: RP Mitchell
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Taylor
+    - 17.6:
+        non_striker: RP Mitchell
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+    - 17.7:
+        non_striker: RP Mitchell
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Taylor
+    - 18.1:
+        non_striker: RP Mitchell
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Taylor
+    - 18.2:
+        non_striker: RP Mitchell
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - P Baron
+          kind: caught
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 0.2:
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 0.3:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 0.4:
+        non_striker: LA Musiani
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 0.5:
+        non_striker: LA Musiani
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 0.6:
+        non_striker: LA Musiani
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 1.1:
+        non_striker: LA Musiani
+        bowler: MS Graham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Baron
+    - 1.2:
+        non_striker: LA Musiani
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 1.3:
+        non_striker: LA Musiani
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 1.4:
+        non_striker: LA Musiani
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.5:
+        non_striker: LA Musiani
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 1.6:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+    - 1.7:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 2.1:
+        non_striker: LA Musiani
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.2:
+        non_striker: LA Musiani
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.3:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 2.4:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 2.5:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Musiani
+    - 2.6:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 3.1:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 3.2:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Musiani
+    - 3.3:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 3.4:
+        non_striker: LA Musiani
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.5:
+        non_striker: LA Musiani
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.6:
+        non_striker: LA Musiani
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 4.1:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 4.2:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.3:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.4:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 4.5:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 4.6:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Baron
+    - 5.1:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 5.2:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 5.3:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 5.4:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 5.5:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 5.6:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.1:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 6.2:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 6.3:
+        non_striker: LA Musiani
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.4:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 6.5:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+    - 6.6:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 7.1:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.2:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.3:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 7.4:
+        non_striker: LA Musiani
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 7.5:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+        wicket:
+          player_out: LA Musiani
+          kind: lbw
+    - 7.6:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.1:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 8.2:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.3:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.4:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 8.5:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 8.6:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.1:
+        non_striker: A Ferguson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.2:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 9.3:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 9.4:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 9.5:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 9.6:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.1:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 10.2:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.3:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.4:
+        non_striker: P Baron
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 10.5:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 10.6:
+        non_striker: A Ferguson
+        bowler: Bhumeshswar Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.1:
+        non_striker: A Ferguson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.2:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 11.3:
+        non_striker: A Ferguson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.4:
+        non_striker: P Baron
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 11.5:
+        non_striker: A Ferguson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 11.6:
+        non_striker: A Ferguson
+        bowler: K Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 12.1:
+        non_striker: A Ferguson
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 12.2:
+        non_striker: A Ferguson
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 12.3:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 12.4:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - K Hinds
+          kind: caught
+    - 12.5:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Kirschbaum
+        batsman: P Baron
+    - 12.6:
+        non_striker: A Kirschbaum
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 13.1:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.2:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.3:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.4:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.5:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.6:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.1:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 14.2:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 14.3:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          fielders:
+          - E Haven
+          kind: caught
+    - 14.4:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 14.5:
+        non_striker: RM Siri
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 14.6:
+        non_striker: P Baron
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 15.1:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 15.2:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 15.3:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 15.4:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 15.5:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 15.6:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 16.1:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 16.2:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Siri
+    - 16.3:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 16.4:
+        non_striker: RM Siri
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 16.5:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 16.6:
+        non_striker: RM Siri
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 17.1:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 17.2:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 17.3:
+        non_striker: P Baron
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 17.4:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 17.5:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 17.6:
+        non_striker: RM Siri
+        bowler: J Jagroo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 18.1:
+        non_striker: RM Siri
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 18.2:
+        non_striker: RM Siri
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 18.3:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Siri
+    - 18.4:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 18.5:
+        non_striker: RM Siri
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 18.6:
+        non_striker: P Baron
+        bowler: RP Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 19.1:
+        non_striker: RM Siri
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 19.2:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Siri
+    - 19.3:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+        wicket:
+          player_out: RM Siri
+          fielders:
+          - Bhumeshswar Jagroo
+          kind: run out
+    - 19.4:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          kind: bowled
+    - 19.5:
+        non_striker: P Baron
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 19.6:
+        non_striker: PL Bruno
+        bowler: MS Graham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron

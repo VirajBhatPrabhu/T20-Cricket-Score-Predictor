@@ -1,0 +1,1829 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-12'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: North Sound
+  dates:
+  - '2021-11-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1422
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - G Singh
+  players:
+    Argentina:
+    - P Baron
+    - LA Musiani
+    - A Ferguson
+    - A Kirschbaum
+    - RM Siri
+    - R Escobar
+    - PL Bruno
+    - T Rossi
+    - H Fennell
+    - J Hurley
+    - B Angeltti
+    United States of America:
+    - JS Malhotra
+    - G Singh
+    - XM Marshall
+    - Aaron Jones
+    - MD Patel
+    - Steven Ryan Taylor
+    - NK Patel
+    - EH Hutchinson
+    - IG Holland
+    - J Theron
+    - TO Carmichael
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Kirschbaum: d953bf92
+      Aaron Jones: 17aa4f1d
+      B Angeltti: 3cdab0cc
+      Denavon Hayles: 5cbeeb02
+      EH Hutchinson: e6ddab51
+      EM Nino: 3f11dbff
+      Emmerson Carrington: a428109a
+      G Singh: e93b6c95
+      H Fennell: 0d38ab25
+      H Grewal: 1172f36e
+      IG Holland: 4167f30b
+      J Hurley: a1aeb715
+      J Theron: dec8e038
+      JS Malhotra: 9633359f
+      LA Musiani: efbd35a9
+      MD Patel: 25d7f1ac
+      NK Patel: c6e10e5c
+      P Baron: c6d1b1e4
+      PL Bruno: 4ed0bf6a
+      R Escobar: 9fa5496f
+      RM Siri: f1737607
+      SR Taylor: a9231c3f
+      T Rossi: 5470418a
+      TO Carmichael: a9a76481
+      Vijaya Mallela: 85b6244a
+      XM Marshall: ffb504b1
+  teams:
+  - Argentina
+  - United States of America
+  toss:
+    winner: Argentina
+    decision: bat
+  umpires:
+  - Emmerson Carrington
+  - H Grewal
+  venue: Sir Vivian Richards Stadium, North Sound, Antigua
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 0.2:
+        non_striker: P Baron
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 0.3:
+        non_striker: P Baron
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+    - 0.4:
+        non_striker: P Baron
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 0.5:
+        non_striker: LA Musiani
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 0.6:
+        non_striker: LA Musiani
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 1.1:
+        non_striker: LA Musiani
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Baron
+    - 1.2:
+        non_striker: P Baron
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 1.3:
+        non_striker: P Baron
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 1.4:
+        non_striker: LA Musiani
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.5:
+        non_striker: LA Musiani
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 1.6:
+        non_striker: LA Musiani
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 2.1:
+        non_striker: A Ferguson
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 2.2:
+        non_striker: A Ferguson
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+        wicket:
+          player_out: LA Musiani
+          fielders:
+          - JS Malhotra
+          kind: caught
+    - 2.3:
+        non_striker: A Kirschbaum
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - MD Patel
+          kind: caught
+    - 2.4:
+        non_striker: A Kirschbaum
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 2.5:
+        non_striker: A Kirschbaum
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 2.6:
+        non_striker: A Kirschbaum
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 3.1:
+        non_striker: RM Siri
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.2:
+        non_striker: RM Siri
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kirschbaum
+    - 3.3:
+        non_striker: A Kirschbaum
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RM Siri
+    - 3.4:
+        non_striker: RM Siri
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 3.5:
+        non_striker: RM Siri
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: bowled
+    - 3.6:
+        non_striker: RM Siri
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.1:
+        non_striker: R Escobar
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 4.2:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.3:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Escobar
+    - 4.4:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.5:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.6:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.7:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 5.1:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 5.2:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 5.3:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 5.4:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Siri
+    - 5.5:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Siri
+    - 5.6:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 5.7:
+        non_striker: R Escobar
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 6.1:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 6.2:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 6.3:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 6.4:
+        non_striker: R Escobar
+        bowler: NK Patel
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RM Siri
+    - 6.5:
+        non_striker: R Escobar
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 6.6:
+        non_striker: R Escobar
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 7.1:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 7.2:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 7.3:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 7.4:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 7.5:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 7.6:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 8.1:
+        non_striker: R Escobar
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 8.2:
+        non_striker: R Escobar
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 8.3:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 8.4:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 8.5:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Escobar
+    - 8.6:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 9.1:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 9.2:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 9.3:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.4:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 9.5:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.6:
+        non_striker: R Escobar
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 10.1:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Escobar
+    - 10.2:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.3:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.4:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.5:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.6:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.7:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+        wicket:
+          player_out: R Escobar
+          fielders:
+          - G Singh
+          kind: caught
+    - 11.1:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 11.2:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 11.3:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 11.4:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 11.5:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 11.6:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 12.1:
+        non_striker: PL Bruno
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 12.2:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 12.3:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 12.4:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 12.5:
+        non_striker: PL Bruno
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 12.6:
+        non_striker: RM Siri
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 13.1:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 13.2:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 13.3:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 13.4:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 13.5:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 13.6:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 14.1:
+        non_striker: PL Bruno
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 14.2:
+        non_striker: PL Bruno
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 14.3:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 14.4:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 14.5:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 14.6:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 15.1:
+        non_striker: RM Siri
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 15.2:
+        non_striker: PL Bruno
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 15.3:
+        non_striker: PL Bruno
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 15.4:
+        non_striker: RM Siri
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 15.5:
+        non_striker: RM Siri
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 15.6:
+        non_striker: RM Siri
+        bowler: JS Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 16.1:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PL Bruno
+    - 16.2:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 16.3:
+        non_striker: PL Bruno
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RM Siri
+    - 16.4:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PL Bruno
+    - 16.5:
+        non_striker: RM Siri
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 16.6:
+        non_striker: PL Bruno
+        bowler: Aaron Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 17.1:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 17.2:
+        non_striker: PL Bruno
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 17.3:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 17.4:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PL Bruno
+    - 17.5:
+        non_striker: RM Siri
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 17.6:
+        non_striker: PL Bruno
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 17.7:
+        non_striker: PL Bruno
+        bowler: EH Hutchinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 18.1:
+        non_striker: PL Bruno
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 18.2:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 18.3:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PL Bruno
+    - 18.4:
+        non_striker: RM Siri
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 18.5:
+        non_striker: PL Bruno
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Siri
+    - 18.6:
+        non_striker: PL Bruno
+        bowler: TO Carmichael
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Siri
+    - 18.7:
+        non_striker: PL Bruno
+        bowler: TO Carmichael
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 19.1:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 19.2:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 19.3:
+        non_striker: RM Siri
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+    - 19.4:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+        wicket:
+          player_out: RM Siri
+          fielders:
+          - MD Patel
+          kind: stumped
+    - 19.5:
+        non_striker: PL Bruno
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 19.6:
+        non_striker: T Rossi
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PL Bruno
+        wicket:
+          player_out: PL Bruno
+          fielders:
+          - MD Patel
+          - Steven Ryan Taylor
+          kind: run out
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Singh
+        batsman: JS Malhotra
+    - 0.2:
+        non_striker: JS Malhotra
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 0.3:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Malhotra
+    - 0.4:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JS Malhotra
+    - 0.5:
+        non_striker: JS Malhotra
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 0.6:
+        non_striker: JS Malhotra
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 1.1:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Malhotra
+    - 1.2:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Malhotra
+    - 1.3:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Malhotra
+        wicket:
+          player_out: JS Malhotra
+          kind: bowled
+    - 1.4:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 1.5:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 1.6:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Singh
+    - 1.7:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 2.1:
+        non_striker: XM Marshall
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 2.2:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.3:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.4:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 2.5:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 2.6:
+        non_striker: G Singh
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 3.1:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 3.2:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 3.3:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 3.4:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.5:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.6:
+        non_striker: XM Marshall
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 4.1:
+        non_striker: XM Marshall
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 4.2:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 4.3:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: XM Marshall
+    - 4.4:
+        non_striker: XM Marshall
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Singh
+    - 4.5:
+        non_striker: XM Marshall
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 4.6:
+        non_striker: XM Marshall
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 5.1:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 5.2:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 5.3:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XM Marshall
+    - 5.4:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XM Marshall
+    - 5.5:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 5.6:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 6.1:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+        wicket:
+          player_out: XM Marshall
+          fielders:
+          - EM Nino (sub)
+          kind: caught
+    - 6.2:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 6.3:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 6.4:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 6.5:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 6.6:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 7.1:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 7.2:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.3:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: G Singh
+    - 7.4:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Singh
+    - 7.5:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.6:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.7:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 8.1:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 8.2:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 8.3:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.4:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aaron Jones
+    - 8.5:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 8.6:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 8.7:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.1:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 9.2:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.3:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.4:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 9.5:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 9.6:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 10.1:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 10.2:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.3:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.4:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Singh
+    - 10.5:
+        non_striker: Aaron Jones
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.6:
+        non_striker: G Singh
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 11.1:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 11.2:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 11.3:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.4:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 11.5:
+        non_striker: G Singh
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 11.6:
+        non_striker: Aaron Jones
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 12.1:
+        non_striker: G Singh
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 12.2:
+        non_striker: Aaron Jones
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 12.3:
+        non_striker: Aaron Jones
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 12.4:
+        non_striker: Aaron Jones
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 12.5:
+        non_striker: G Singh
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 12.6:
+        non_striker: Aaron Jones
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 13.1:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 13.2:
+        non_striker: Aaron Jones
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 13.3:
+        non_striker: G Singh
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aaron Jones

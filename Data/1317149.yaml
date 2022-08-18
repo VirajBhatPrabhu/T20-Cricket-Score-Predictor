@@ -1,0 +1,786 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Roseau
+  dates:
+  - '2022-07-02'
+  gender: male
+  match_type: T20
+  match_type_number: 1601
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Bangladesh:
+    - Munim Shahriar
+    - Anamul Haque
+    - Shakib Al Hasan
+    - Liton Das
+    - Mahmudullah
+    - Afif Hossain
+    - Nurul Hasan
+    - Mahedi Hasan
+    - Nasum Ahmed
+    - Shoriful Islam
+    - Mustafizur Rahman
+    West Indies:
+    - KR Mayers
+    - BA King
+    - SSJ Brooks
+    - N Pooran
+    - R Powell
+    - DC Thomas
+    - OF Smith
+    - R Shepherd
+    - AJ Hosein
+    - OC McCoy
+    - HR Walsh
+  registry:
+    people:
+      AJ Hosein: 4d7f517e
+      Afif Hossain: '37138918'
+      Anamul Haque: 72b245dd
+      BA King: 7fca84b7
+      DC Thomas: '08a4f9ad'
+      GO Brathwaite: 1ace56d4
+      HR Walsh: 1ac2a995
+      KR Mayers: 73c18486
+      LS Reifer: 5dee559a
+      Liton Das: 0404d43c
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Munim Shahriar: dd98b22f
+      Mustafizur Rahman: 0a8fce53
+      N Duguid: '64495506'
+      N Pooran: 3241e3fd
+      Nasum Ahmed: 37654b75
+      Nurul Hasan: d365d463
+      OC McCoy: 529eb9e0
+      OF Smith: 23cca426
+      PA Gustard: 25bcf808
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RB Richardson: 410e2f12
+      SSJ Brooks: 977b841a
+      Shakib Al Hasan: 7dc35884
+      Shoriful Islam: bb34fd31
+  teams:
+  - Bangladesh
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - GO Brathwaite
+  - PA Gustard
+  venue: Windsor Park, Roseau, Dominica
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munim Shahriar
+    - 0.2:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Munim Shahriar
+    - 0.3:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munim Shahriar
+        wicket:
+          player_out: Munim Shahriar
+          fielders:
+          - DC Thomas
+          kind: caught
+    - 0.4:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 0.5:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 0.6:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 1.1:
+        non_striker: Anamul Haque
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 1.2:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 1.3:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 1.4:
+        non_striker: Anamul Haque
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 1.5:
+        non_striker: Anamul Haque
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 1.6:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.1:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 2.2:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.3:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 2.4:
+        non_striker: Shakib Al Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.5:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 2.6:
+        non_striker: Anamul Haque
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 3.1:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 3.2:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.3:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+        wicket:
+          player_out: Anamul Haque
+          kind: lbw
+    - 3.4:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.5:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 3.6:
+        non_striker: Shakib Al Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.1:
+        non_striker: Liton Das
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 4.2:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Liton Das
+    - 4.4:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 4.5:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.6:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.7:
+        non_striker: Shakib Al Hasan
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.1:
+        non_striker: Liton Das
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: Liton Das
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.3:
+        non_striker: Shakib Al Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.4:
+        non_striker: Shakib Al Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.5:
+        non_striker: Shakib Al Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.6:
+        non_striker: Liton Das
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 6.1:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 6.2:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - N Pooran
+          kind: caught
+    - 6.3:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 6.4:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 6.5:
+        non_striker: Mahmudullah
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.6:
+        non_striker: Shakib Al Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 7.1:
+        non_striker: Shakib Al Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 7.2:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 7.3:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - DC Thomas
+          kind: caught
+    - 7.4:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 7.5:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - BA King
+          kind: caught
+    - 7.6:
+        non_striker: Nurul Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.1:
+        non_striker: Nurul Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.2:
+        non_striker: Nurul Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.3:
+        non_striker: Nurul Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.4:
+        non_striker: Nurul Hasan
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.5:
+        non_striker: Mahmudullah
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 8.6:
+        non_striker: Mahmudullah
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 9.1:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 9.2:
+        non_striker: Nurul Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 9.3:
+        non_striker: Nurul Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmudullah
+    - 9.4:
+        non_striker: Nurul Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.5:
+        non_striker: Nurul Hasan
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.6:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Nurul Hasan
+    - 9.7:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 9.8:
+        non_striker: Mahmudullah
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 10.1:
+        non_striker: Nurul Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - HR Walsh
+          kind: caught
+    - 10.2:
+        non_striker: Nurul Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 10.3:
+        non_striker: Mahedi Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 10.4:
+        non_striker: Nurul Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 10.5:
+        non_striker: Nurul Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - DC Thomas
+          kind: caught
+    - 10.6:
+        non_striker: Nurul Hasan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasum Ahmed
+    - 11.1:
+        non_striker: Nasum Ahmed
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.2:
+        non_striker: Nasum Ahmed
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 11.3:
+        non_striker: Nurul Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 11.4:
+        non_striker: Nurul Hasan
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 11.5:
+        non_striker: Nasum Ahmed
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Nurul Hasan
+    - 11.6:
+        non_striker: Nasum Ahmed
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.7:
+        non_striker: Nasum Ahmed
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 12.1:
+        non_striker: Nasum Ahmed
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 12.2:
+        non_striker: Nasum Ahmed
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nurul Hasan
+    - 12.3:
+        non_striker: Nasum Ahmed
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 12.4:
+        non_striker: Nasum Ahmed
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nurul Hasan
+    - 12.5:
+        non_striker: Nasum Ahmed
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - BA King
+          kind: caught
+    - 12.6:
+        non_striker: Shoriful Islam
+        bowler: OF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasum Ahmed

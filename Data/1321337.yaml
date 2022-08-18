@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: The Hague
+  dates:
+  - '2022-07-01'
+  gender: female
+  match_type: T20
+  match_type_number: 1157
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 2
+  overs: 20
+  players:
+    Netherlands:
+    - SL Kalis
+    - F Overdijk
+    - B de Leede
+    - R Rijke
+    - IJR Zwilling
+    - EN Lynch
+    - AS van Beuge
+    - AH Thomson
+    - J van Vliet
+    - C de Lange
+    - I van der Woning
+    Namibia:
+    - SA Wittmann
+    - Adri van der Merwe
+    - Yasmeen Khan
+    - KA Green
+    - JA Diergaardt
+    - M Gorases
+    - I van Zyl
+    - SN Shihepo
+    - D Foerster
+    - V Hamunyela
+    - W Mwatile
+  registry:
+    people:
+      A van der Merwe: 02610bad
+      AH Thomson: 5d2031f0
+      AS van Beuge: 623c8835
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      D Foerster: 5596d5bf
+      EN Lynch: 4d35d0b3
+      F Overdijk: 022745d5
+      I van Zyl: 44c3cb6d
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      J van Vliet: cb665b69
+      JA Diergaardt: b72a8938
+      KA Green: fa9fdefa
+      M Gorases: d034d60a
+      M Hancock: deb8c9a5
+      M Prabhudesa: c36bcd1e
+      N Bathi: 96a0edf9
+      R Rijke: 42e4b276
+      SA Wittmann: 531aef3b
+      SL Kalis: 2b150c6b
+      SN Shihepo: 1b3f7dbb
+      V Hamunyela: d758a366
+      W Mwatile: 5728635a
+      Yasmeen Khan: ade5c0c0
+  teams:
+  - Netherlands
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - M Hancock
+  - M Prabhudesa
+  venue: Sportpark Westvliet, Voorburg
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Overdijk
+        batsman: SL Kalis
+    - 0.2:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          fielders:
+          - D Foerster
+          kind: caught
+    - 0.3:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 0.4:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 0.5:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 0.6:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B de Leede
+    - 1.1:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 1.2:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 1.3:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 1.4:
+        non_striker: SL Kalis
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 1.5:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 1.6:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.7:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 1.8:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 1.9:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.1:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 2.2:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.3:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 2.4:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.5:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.6:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.1:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.2:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 3.3:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 3.4:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 3.5:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.6:
+        non_striker: B de Leede
+        bowler: W Mwatile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.1:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.2:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.3:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.4:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.5:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 4.6:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 5.1:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.2:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.3:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 5.4:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.5:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.6:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.1:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.2:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.3:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.4:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.5:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 6.6:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.1:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.2:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 7.3:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 7.4:
+        non_striker: SL Kalis
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 7.5:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 7.6:
+        non_striker: B de Leede
+        bowler: I van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 8.1:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 8.2:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 8.3:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 8.4:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 8.5:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 8.6:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 8.7:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 9.1:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 9.2:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 9.3:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 9.4:
+        non_striker: B de Leede
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 9.5:
+        non_striker: B de Leede
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 9.6:
+        non_striker: B de Leede
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 10.1:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 10.2:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 10.3:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 10.4:
+        non_striker: B de Leede
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 10.5:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 10.6:
+        non_striker: SL Kalis
+        bowler: SA Wittmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          kind: bowled
+    - 11.1:
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: SL Kalis
+    - 11.2:
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: SL Kalis
+    - 11.3:
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: SL Kalis
+    - 11.4:
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: SL Kalis
+    - 11.5:
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Rijke
+        batsman: SL Kalis
+    - 11.6:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 12.2:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.3:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.4:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 12.5:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.6:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 12.7:
+        non_striker: SL Kalis
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 13.1:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 13.2:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.3:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 13.4:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 13.5:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 13.6:
+        non_striker: SL Kalis
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.1:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - SA Wittmann
+          kind: caught
+    - 14.2:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 14.3:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 14.4:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.5:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 14.6:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 15.1:
+        non_striker: IJR Zwilling
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.2:
+        non_striker: IJR Zwilling
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 15.3:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 15.4:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 15.5:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 15.6:
+        non_striker: R Rijke
+        bowler: KA Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 16.1:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 16.2:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 16.3:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 16.4:
+        non_striker: R Rijke
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 16.5:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 16.6:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 17.1:
+        non_striker: R Rijke
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 17.2:
+        non_striker: IJR Zwilling
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          kind: caught and bowled
+    - 17.3:
+        non_striker: IJR Zwilling
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+        wicket:
+          player_out: EN Lynch
+          kind: caught and bowled
+    - 17.4:
+        non_striker: IJR Zwilling
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS van Beuge
+    - 17.5:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 17.6:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJR Zwilling
+    - 18.1:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS van Beuge
+    - 18.2:
+        non_striker: AS van Beuge
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 18.3:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS van Beuge
+    - 18.4:
+        non_striker: AS van Beuge
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 18.5:
+        non_striker: IJR Zwilling
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS van Beuge
+    - 18.6:
+        non_striker: AS van Beuge
+        bowler: V Hamunyela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          fielders:
+          - Yasmeen Khan
+          kind: caught
+    - 19.1:
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AH Thomson
+        batsman: AS van Beuge
+    - 19.2:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 19.3:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 19.4:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Thomson
+    - 19.5:
+        non_striker: AH Thomson
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+        wicket:
+          player_out: AH Thomson
+          fielders:
+          - Yasmeen Khan
+          kind: run out
+    - 19.6:
+        non_striker: AS van Beuge
+        bowler: D Foerster
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J van Vliet
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Adri van der Merwe
+        batsman: SA Wittmann
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Adri van der Merwe
+        batsman: SA Wittmann
+    - 0.3:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Adri van der Merwe
+        batsman: SA Wittmann
+    - 0.4:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 0.5:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adri van der Merwe
+    - 0.6:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+    - 0.7:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adri van der Merwe
+        wicket:
+          player_out: Adri van der Merwe
+          fielders:
+          - SL Kalis
+          kind: caught
+    - 1.1:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 1.2:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 1.3:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 1.4:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 1.5:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 1.6:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 2.1:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.2:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 2.3:
+        non_striker: SA Wittmann
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 2.4:
+        non_striker: Yasmeen Khan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 2.5:
+        non_striker: Yasmeen Khan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 2.6:
+        non_striker: Yasmeen Khan
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 3.1:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.2:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 3.3:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasmeen Khan
+    - 3.4:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasmeen Khan
+    - 3.5:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 3.6:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.1:
+        non_striker: SA Wittmann
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Yasmeen Khan
+    - 4.2:
+        non_striker: Yasmeen Khan
+        bowler: I van der Woning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SA Wittmann
+    - 4.3:
+        non_striker: Yasmeen Khan
+        bowler: I van der Woning
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SA Wittmann
+    - 4.4:
+        non_striker: Yasmeen Khan
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 4.5:
+        non_striker: Yasmeen Khan
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 4.6:
+        non_striker: SA Wittmann
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 4.7:
+        non_striker: SA Wittmann
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 5.1:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 5.2:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Wittmann
+    - 5.3:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+    - 5.4:
+        non_striker: Yasmeen Khan
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Wittmann
+    - 5.5:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+    - 5.6:
+        non_striker: SA Wittmann
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasmeen Khan
+        wicket:
+          player_out: Yasmeen Khan
+          fielders:
+          - I van der Woning
+          kind: caught
+    - 6.1:
+        non_striker: KA Green
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Wittmann
+        wicket:
+          player_out: SA Wittmann
+          fielders:
+          - R Rijke
+          kind: caught
+    - 6.2:
+        non_striker: JA Diergaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 6.3:
+        non_striker: KA Green
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Diergaardt
+    - 6.4:
+        non_striker: JA Diergaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.5:
+        non_striker: JA Diergaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 6.6:
+        non_striker: JA Diergaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 7.1:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Diergaardt
+        wicket:
+          player_out: JA Diergaardt
+          fielders:
+          - AH Thomson
+          kind: caught
+    - 7.2:
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Gorases
+        batsman: KA Green
+    - 7.3:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 7.4:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gorases
+    - 7.5:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 7.6:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 8.1:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Green
+    - 8.2:
+        non_striker: KA Green
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 8.3:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.4:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 8.5:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 8.6:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.1:
+        non_striker: KA Green
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 9.2:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.3:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.4:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Green
+    - 9.5:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+    - 9.6:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Green
+        wicket:
+          player_out: KA Green
+          fielders:
+          - J van Vliet
+          kind: caught
+    - 10.1:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I van Zyl
+        batsman: M Gorases
+    - 10.2:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I van Zyl
+        batsman: M Gorases
+    - 10.3:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 10.4:
+        non_striker: I van Zyl
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 10.5:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 10.6:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 11.1:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 11.2:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 11.3:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 11.4:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 11.5:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 11.6:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 12.1:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 12.2:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 12.3:
+        non_striker: I van Zyl
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 12.4:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 12.5:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 12.6:
+        non_striker: M Gorases
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 13.1:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gorases
+    - 13.2:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 13.3:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 13.4:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 13.5:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 13.6:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gorases
+    - 14.1:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 14.2:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 14.3:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 14.4:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 14.5:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 14.6:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I van Zyl
+    - 14.7:
+        non_striker: M Gorases
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 15.1:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 15.2:
+        non_striker: I van Zyl
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gorases
+    - 15.3:
+        non_striker: I van Zyl
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gorases
+    - 15.4:
+        non_striker: I van Zyl
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 15.5:
+        non_striker: I van Zyl
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 15.6:
+        non_striker: I van Zyl
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 15.7:
+        non_striker: M Gorases
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 16.1:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+    - 16.2:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 16.3:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 16.4:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 16.5:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 16.6:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 17.1:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 17.2:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 17.3:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 17.4:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gorases
+    - 17.5:
+        non_striker: I van Zyl
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gorases
+    - 17.6:
+        non_striker: M Gorases
+        bowler: AS van Beuge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 18.1:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I van Zyl
+    - 18.2:
+        non_striker: M Gorases
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I van Zyl
+    - 18.3:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gorases
+        wicket:
+          player_out: M Gorases
+          kind: bowled
+    - 18.4:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Shihepo
+    - 18.5:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Shihepo
+    - 18.6:
+        non_striker: I van Zyl
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Shihepo
+    - 19.1:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+    - 19.2:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I van Zyl
+        wicket:
+          player_out: I van Zyl
+          kind: bowled
+    - 19.3:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 19.4:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 19.5:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster
+    - 19.6:
+        non_striker: SN Shihepo
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foerster

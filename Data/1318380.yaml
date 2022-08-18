@@ -1,0 +1,2479 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-12'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-06-11'
+  gender: female
+  match_type: T20
+  match_type_number: 1100
+  outcome:
+    winner: Brazil
+    by:
+      runs: 8
+  overs: 20
+  player_of_match:
+  - RD de Sousa
+  players:
+    Brazil:
+    - D Staddon
+    - E de Souza
+    - LV Boas
+    - RD de Sousa
+    - RMAM Avery
+    - L Agatha
+    - NC Monteiro
+    - MLG Silva
+    - L Moises
+    - CS Nascimento
+    - M Ribeiro
+    Germany:
+    - JE Ronalds
+    - CM Gough
+    - S Sadarangani
+    - W Hornero-Garcia
+    - K Vijayaraghavan
+    - A Doddaballapur
+    - A Kohli
+    - MS Beresford
+    - S Mannan
+    - SR McAnanama-Brereton
+    - A Meyenborg
+  registry:
+    people:
+      A Doddaballapur: fe4f5d2b
+      A Kohli: eb9082b2
+      A Meyenborg: edbc9441
+      CM Gough: f1328a90
+      CS Nascimento: df997334
+      D Staddon: 4a28527d
+      E de Souza: 7c68aac4
+      EH Dusabemungu: ba3b4b09
+      Itangishaka Olivier: 0ee3bb49
+      JE Ronalds: d4f98302
+      K Vijayaraghavan: '048da365'
+      L Agatha: 1aebb2fa
+      L Moises: b27f9716
+      LV Boas: 3a00d34f
+      M Ribeiro: 38424a4d
+      MLG Silva: 3b62a6b4
+      MS Beresford: 26eb73f9
+      NC Monteiro: 752af5a4
+      RD de Sousa: 2901e489
+      RMAM Avery: 4cf645c9
+      S Mannan: 41b8a051
+      S Sadarangani: acd030a0
+      SR McAnanama-Brereton: bb1be934
+      TJ Onikoyi: b68d9bc6
+      W Hornero-Garcia: 7d5fef52
+  teams:
+  - Brazil
+  - Germany
+  toss:
+    winner: Germany
+    decision: field
+  umpires:
+  - EH Dusabemungu
+  - Itangishaka Olivier
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.2:
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.3:
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: E de Souza
+        batsman: D Staddon
+    - 0.4:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E de Souza
+    - 0.5:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E de Souza
+    - 0.6:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 0.7:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 1.1:
+        non_striker: E de Souza
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 1.2:
+        non_striker: E de Souza
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 1.3:
+        non_striker: E de Souza
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 1.4:
+        non_striker: E de Souza
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 1.5:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 1.6:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E de Souza
+    - 2.1:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 2.2:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E de Souza
+    - 2.3:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 2.4:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E de Souza
+    - 2.5:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 2.6:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+    - 2.7:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E de Souza
+        wicket:
+          player_out: E de Souza
+          fielders:
+          - K Vijayaraghavan
+          kind: stumped
+    - 3.1:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.2:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.3:
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.4:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.5:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.6:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LV Boas
+        batsman: D Staddon
+    - 3.7:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.1:
+        non_striker: LV Boas
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 4.2:
+        non_striker: LV Boas
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Staddon
+    - 4.3:
+        non_striker: LV Boas
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 4.4:
+        non_striker: LV Boas
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 4.5:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 4.6:
+        non_striker: D Staddon
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 5.1:
+        non_striker: LV Boas
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 5.2:
+        non_striker: LV Boas
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Staddon
+    - 5.3:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV Boas
+    - 5.4:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 5.5:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: LV Boas
+    - 5.6:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: LV Boas
+    - 5.7:
+        non_striker: D Staddon
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 6.1:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LV Boas
+    - 6.2:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 6.3:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV Boas
+    - 6.4:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV Boas
+    - 6.5:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV Boas
+    - 6.6:
+        non_striker: LV Boas
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+        wicket:
+          player_out: LV Boas
+          fielders:
+          - K Vijayaraghavan
+          - A Meyenborg
+          kind: run out
+    - 6.7:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 7.1:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 7.2:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 7.3:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 7.4:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 7.5:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 7.6:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Staddon
+    - 7.7:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 7.8:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 7.9:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 7.10:
+        non_striker: RD de Sousa
+        bowler: MS Beresford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 8.1:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 8.2:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 8.3:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 8.4:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RD de Sousa
+    - 8.5:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 8.6:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 8.7:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 9.1:
+        non_striker: D Staddon
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 9.2:
+        non_striker: D Staddon
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 9.3:
+        non_striker: RD de Sousa
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 9.4:
+        non_striker: RD de Sousa
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 9.5:
+        non_striker: RD de Sousa
+        bowler: A Doddaballapur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 9.6:
+        non_striker: RD de Sousa
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 9.7:
+        non_striker: D Staddon
+        bowler: A Doddaballapur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD de Sousa
+    - 10.1:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Staddon
+    - 10.2:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 10.3:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 10.4:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 10.5:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 10.6:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 10.7:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 11.1:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 11.2:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 11.3:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 11.4:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 11.5:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 11.6:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 11.7:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Staddon
+    - 11.8:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 11.9:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 12.1:
+        non_striker: RD de Sousa
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 12.2:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 12.3:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 12.4:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 12.5:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD de Sousa
+    - 12.6:
+        non_striker: D Staddon
+        bowler: S Sadarangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 13.1:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Staddon
+    - 13.2:
+        non_striker: D Staddon
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 13.3:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Staddon
+    - 13.4:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Staddon
+    - 13.5:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Staddon
+    - 13.6:
+        non_striker: RD de Sousa
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+    - 14.1:
+        non_striker: D Staddon
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 14.2:
+        non_striker: D Staddon
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD de Sousa
+    - 14.3:
+        non_striker: D Staddon
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 14.4:
+        non_striker: RD de Sousa
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Staddon
+        wicket:
+          player_out: D Staddon
+          kind: bowled
+    - 14.5:
+        non_striker: RD de Sousa
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.6:
+        non_striker: RD de Sousa
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 14.7:
+        non_striker: RD de Sousa
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMAM Avery
+    - 15.1:
+        non_striker: RMAM Avery
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD de Sousa
+    - 15.2:
+        non_striker: RD de Sousa
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 15.3:
+        non_striker: RMAM Avery
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+    - 15.4:
+        non_striker: RMAM Avery
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD de Sousa
+        wicket:
+          player_out: RD de Sousa
+          fielders:
+          - JE Ronalds
+          kind: caught
+    - 15.5:
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        batsman: RMAM Avery
+    - 15.6:
+        non_striker: RMAM Avery
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 16.1:
+        non_striker: L Agatha
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 16.2:
+        non_striker: RMAM Avery
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 16.3:
+        non_striker: RMAM Avery
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 16.4:
+        non_striker: RMAM Avery
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 16.5:
+        non_striker: RMAM Avery
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 16.6:
+        non_striker: RMAM Avery
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+    - 17.1:
+        non_striker: L Agatha
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.2:
+        non_striker: RMAM Avery
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 17.3:
+        non_striker: L Agatha
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 17.4:
+        non_striker: RMAM Avery
+        bowler: JE Ronalds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Agatha
+    - 17.5:
+        non_striker: RMAM Avery
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Agatha
+    - 17.6:
+        non_striker: RMAM Avery
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Agatha
+    - 17.7:
+        non_striker: L Agatha
+        bowler: JE Ronalds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMAM Avery
+    - 18.1:
+        non_striker: L Agatha
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+    - 18.2:
+        non_striker: L Agatha
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 18.3:
+        non_striker: L Agatha
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMAM Avery
+    - 18.4:
+        non_striker: L Agatha
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMAM Avery
+        wicket:
+          player_out: RMAM Avery
+          fielders:
+          - JE Ronalds
+          kind: caught
+    - 18.5:
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NC Monteiro
+        batsman: L Agatha
+    - 18.6:
+        non_striker: NC Monteiro
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          kind: lbw
+    - 18.7:
+        non_striker: NC Monteiro
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MLG Silva
+    - 18.8:
+        non_striker: MLG Silva
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Monteiro
+    - 18.9:
+        non_striker: NC Monteiro
+        bowler: SR McAnanama-Brereton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MLG Silva
+    - 19.1:
+        non_striker: MLG Silva
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+    - 19.2:
+        non_striker: MLG Silva
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Monteiro
+        wicket:
+          player_out: NC Monteiro
+          kind: bowled
+    - 19.3:
+        non_striker: MLG Silva
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moises
+    - 19.4:
+        non_striker: MLG Silva
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Moises
+    - 19.5:
+        non_striker: MLG Silva
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Moises
+    - 19.6:
+        non_striker: L Moises
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MLG Silva
+        wicket:
+          player_out: MLG Silva
+          kind: lbw
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CM Gough
+        batsman: JE Ronalds
+    - 0.2:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Ronalds
+        wicket:
+          player_out: JE Ronalds
+          fielders:
+          - RD de Sousa
+          kind: caught
+    - 0.3:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sadarangani
+    - 0.4:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 0.5:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 0.6:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sadarangani
+    - 0.7:
+        non_striker: S Sadarangani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.1:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 1.2:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sadarangani
+    - 1.3:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sadarangani
+    - 1.4:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 1.5:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Sadarangani
+    - 1.6:
+        non_striker: S Sadarangani
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CM Gough
+    - 1.7:
+        non_striker: S Sadarangani
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 1.8:
+        non_striker: S Sadarangani
+        bowler: NC Monteiro
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: CM Gough
+    - 1.9:
+        non_striker: S Sadarangani
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 1.10:
+        non_striker: S Sadarangani
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 2.1:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 2.2:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sadarangani
+    - 2.3:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Sadarangani
+    - 2.4:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sadarangani
+    - 2.5:
+        non_striker: CM Gough
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sadarangani
+    - 2.6:
+        non_striker: S Sadarangani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CM Gough
+    - 2.7:
+        non_striker: S Sadarangani
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+    - 3.1:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 3.2:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 3.3:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sadarangani
+    - 3.4:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 3.5:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sadarangani
+    - 3.6:
+        non_striker: CM Gough
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 4.1:
+        non_striker: S Sadarangani
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CM Gough
+    - 4.2:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 4.3:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 4.4:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 4.5:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 4.6:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+    - 5.1:
+        non_striker: S Sadarangani
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Gough
+    - 5.2:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sadarangani
+        wicket:
+          player_out: S Sadarangani
+          kind: lbw
+    - 5.3:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 5.4:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 5.5:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 5.6:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: W Hornero-Garcia
+    - 5.7:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 5.8:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 5.9:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 5.10:
+        non_striker: CM Gough
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 6.1:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Hornero-Garcia
+    - 6.2:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Hornero-Garcia
+    - 6.3:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 6.4:
+        non_striker: CM Gough
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Hornero-Garcia
+    - 6.5:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Gough
+        wicket:
+          player_out: CM Gough
+          kind: bowled
+    - 6.6:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+    - 6.7:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Vijayaraghavan
+    - 7.1:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Vijayaraghavan
+    - 7.2:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          kind: bowled
+    - 7.3:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 7.4:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 7.5:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 7.6:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Doddaballapur
+    - 8.1:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Doddaballapur
+    - 8.2:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+    - 8.3:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Doddaballapur
+        wicket:
+          player_out: A Doddaballapur
+          fielders:
+          - RD de Sousa
+          - CS Nascimento
+          kind: run out
+    - 8.4:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kohli
+        batsman: W Hornero-Garcia
+    - 8.5:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kohli
+        batsman: W Hornero-Garcia
+    - 8.6:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kohli
+        batsman: W Hornero-Garcia
+    - 8.7:
+        non_striker: W Hornero-Garcia
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 9.1:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 9.2:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Hornero-Garcia
+    - 9.3:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Hornero-Garcia
+    - 9.4:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 9.5:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 9.6:
+        non_striker: W Hornero-Garcia
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+        wicket:
+          player_out: W Hornero-Garcia
+          fielders:
+          - L Moises
+          - CS Nascimento
+          kind: run out
+    - 10.1:
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Beresford
+        batsman: A Kohli
+    - 10.2:
+        non_striker: A Kohli
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 10.3:
+        non_striker: A Kohli
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 10.4:
+        non_striker: A Kohli
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Beresford
+    - 10.5:
+        non_striker: MS Beresford
+        bowler: RD de Sousa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 10.6:
+        non_striker: MS Beresford
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 10.7:
+        non_striker: MS Beresford
+        bowler: RD de Sousa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 11.1:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 11.2:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MS Beresford
+    - 11.3:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 11.4:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 11.5:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 11.6:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 11.7:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 12.1:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.2:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 12.3:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.4:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 12.5:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 12.6:
+        non_striker: A Kohli
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 13.1:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 13.2:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kohli
+    - 13.3:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 13.4:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.5:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 13.6:
+        non_striker: MS Beresford
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 13.7:
+        non_striker: A Kohli
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 14.1:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kohli
+    - 14.2:
+        non_striker: A Kohli
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 14.3:
+        non_striker: A Kohli
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Beresford
+    - 14.4:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 14.5:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 14.6:
+        non_striker: MS Beresford
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kohli
+    - 15.1:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 15.2:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 15.3:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Beresford
+    - 15.4:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 15.5:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+    - 15.6:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Beresford
+        wicket:
+          player_out: MS Beresford
+          fielders:
+          - E de Souza
+          - RD de Sousa
+          kind: run out
+    - 16.1:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mannan
+        batsman: A Kohli
+    - 16.2:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mannan
+        batsman: A Kohli
+    - 16.3:
+        bowler: LV Boas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: S Mannan
+        batsman: A Kohli
+    - 16.4:
+        non_striker: A Kohli
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mannan
+    - 16.5:
+        non_striker: A Kohli
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mannan
+    - 16.6:
+        non_striker: A Kohli
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mannan
+    - 16.7:
+        non_striker: S Mannan
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 17.1:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mannan
+    - 17.2:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mannan
+    - 17.3:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mannan
+    - 17.4:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Mannan
+    - 17.5:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mannan
+        wicket:
+          player_out: S Mannan
+          fielders:
+          - E de Souza
+          - M Ribeiro
+          kind: run out
+    - 17.6:
+        non_striker: A Kohli
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR McAnanama-Brereton
+    - 17.7:
+        non_striker: SR McAnanama-Brereton
+        bowler: CS Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kohli
+    - 17.8:
+        non_striker: SR McAnanama-Brereton
+        bowler: CS Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 18.1:
+        non_striker: A Kohli
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR McAnanama-Brereton
+    - 18.2:
+        non_striker: A Kohli
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR McAnanama-Brereton
+    - 18.3:
+        non_striker: SR McAnanama-Brereton
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 18.4:
+        non_striker: SR McAnanama-Brereton
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kohli
+    - 18.5:
+        non_striker: SR McAnanama-Brereton
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kohli
+    - 18.6:
+        non_striker: SR McAnanama-Brereton
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+    - 19.1:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR McAnanama-Brereton
+    - 19.2:
+        non_striker: A Kohli
+        bowler: NC Monteiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR McAnanama-Brereton
+    - 19.3:
+        non_striker: SR McAnanama-Brereton
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kohli
+    - 19.4:
+        non_striker: SR McAnanama-Brereton
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kohli
+        wicket:
+          player_out: A Kohli
+          kind: bowled
+    - 19.5:
+        non_striker: SR McAnanama-Brereton
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Meyenborg
+    - 19.6:
+        non_striker: SR McAnanama-Brereton
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Meyenborg

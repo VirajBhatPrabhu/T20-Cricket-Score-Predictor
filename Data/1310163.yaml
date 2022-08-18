@@ -1,0 +1,2046 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Almeria
+  dates:
+  - '2022-04-30'
+  gender: male
+  match_type: T20
+  match_type_number: 1515
+  outcome:
+    winner: Guernsey
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - T Nightingale
+  players:
+    Norway:
+    - Khizer Ahmed
+    - Aminullah Tanha
+    - Walid Ghauri
+    - Sher Sahak
+    - Ali Saleem
+    - Wahidullah Sahak
+    - D Abeyrathna
+    - Bilal Safdar
+    - Abdullah Sheikh
+    - Ahmadullah Shinwari
+    - Vinay Ravi
+    Guernsey:
+    - J Butler
+    - IDA Damarell
+    - T Nightingale
+    - MWR Stokes
+    - OE Newey
+    - LB Ferbrache
+    - OB Nightingale
+    - W Peatfield
+    - LT Bichard
+    - DE Martel
+    - DR Hooper
+  registry:
+    people:
+      A Elliott: f48d5563
+      Abdullah Sheikh: 336a85f6
+      Ahmadullah Shinwari: e068d48e
+      Ali Saleem: 661e8a03
+      Aminullah Tanha: 4fde9ae6
+      Bilal Safdar: 1c4161b3
+      D Abeyrathna: ee17d329
+      DE Martel: 526fe472
+      DJ Clark: d547fe55
+      DR Hooper: 0ac067e8
+      G Ashford: 3bac0164
+      IDA Damarell: 580ae7f2
+      J Butler: efcb778e
+      Khizer Ahmed: 723ca856
+      LB Ferbrache: 0f72f582
+      LT Bichard: dfcdb11e
+      MWR Stokes: c573d173
+      OB Nightingale: 1deb4c0c
+      OE Newey: f4b6f6ac
+      Sher Sahak: 8299b9a2
+      T Nightingale: 51a125b3
+      Vinay Ravi: 9c181b99
+      W Peatfield: 609d6c7c
+      Wahidullah Sahak: 6913e38e
+      Walid Ghauri: 331e137f
+  teams:
+  - Norway
+  - Guernsey
+  toss:
+    winner: Norway
+    decision: bat
+  umpires:
+  - A Elliott
+  - G Ashford
+  venue: Desert Springs Cricket Ground, Almeria
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aminullah Tanha
+        batsman: Khizer Ahmed
+    - 0.2:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 0.3:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 0.4:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 0.5:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 0.6:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 1.1:
+        non_striker: Aminullah Tanha
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.2:
+        non_striker: Aminullah Tanha
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.3:
+        non_striker: Aminullah Tanha
+        bowler: MWR Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khizer Ahmed
+    - 1.4:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 1.5:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aminullah Tanha
+    - 1.6:
+        non_striker: Aminullah Tanha
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.1:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 2.2:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 2.3:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+    - 2.4:
+        non_striker: Khizer Ahmed
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aminullah Tanha
+        wicket:
+          player_out: Aminullah Tanha
+          fielders:
+          - J Butler
+          kind: caught
+    - 2.5:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Walid Ghauri
+        batsman: Khizer Ahmed
+    - 2.6:
+        non_striker: Walid Ghauri
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 3.1:
+        non_striker: Khizer Ahmed
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 3.2:
+        non_striker: Khizer Ahmed
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Walid Ghauri
+    - 3.3:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.4:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.5:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 3.6:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 4.1:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 4.2:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 4.3:
+        non_striker: Walid Ghauri
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 4.4:
+        non_striker: Walid Ghauri
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 4.5:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 4.6:
+        non_striker: Khizer Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.1:
+        non_striker: Walid Ghauri
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 5.2:
+        non_striker: Walid Ghauri
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 5.3:
+        non_striker: Khizer Ahmed
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 5.4:
+        non_striker: Khizer Ahmed
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.5:
+        non_striker: Khizer Ahmed
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 5.6:
+        non_striker: Khizer Ahmed
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 6.1:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 6.2:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 6.3:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 6.4:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 6.5:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 6.6:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 7.1:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 7.2:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 7.3:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 7.4:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 7.5:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 7.6:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 8.1:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 8.2:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Walid Ghauri
+    - 8.3:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 8.4:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 8.5:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 8.6:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 9.1:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 9.2:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 9.3:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 9.4:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khizer Ahmed
+    - 9.5:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 9.6:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 10.1:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 10.2:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 10.3:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 10.4:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 10.5:
+        non_striker: Khizer Ahmed
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 10.6:
+        non_striker: Walid Ghauri
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 11.1:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 11.2:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizer Ahmed
+    - 11.3:
+        non_striker: Walid Ghauri
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 11.4:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 11.5:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 11.6:
+        non_striker: Khizer Ahmed
+        bowler: DE Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 12.1:
+        non_striker: Khizer Ahmed
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 12.2:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          fielders:
+          - MWR Stokes
+          kind: caught
+    - 12.3:
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sher Sahak
+        batsman: Walid Ghauri
+    - 12.4:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 12.5:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 12.6:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 13.1:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 13.2:
+        non_striker: Walid Ghauri
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 13.3:
+        non_striker: Walid Ghauri
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 13.4:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Walid Ghauri
+    - 13.5:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 13.6:
+        non_striker: Walid Ghauri
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 14.1:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 14.2:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Walid Ghauri
+    - 14.3:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Walid Ghauri
+    - 14.4:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 14.5:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 14.6:
+        non_striker: Walid Ghauri
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 14.7:
+        non_striker: Walid Ghauri
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 14.8:
+        non_striker: Sher Sahak
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 15.1:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 15.2:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 15.3:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 15.4:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+    - 15.5:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Walid Ghauri
+    - 15.6:
+        non_striker: Walid Ghauri
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sher Sahak
+    - 16.1:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Walid Ghauri
+        wicket:
+          player_out: Walid Ghauri
+          fielders:
+          - J Butler
+          kind: caught
+    - 16.2:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Saleem
+    - 16.3:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Saleem
+    - 16.4:
+        non_striker: Ali Saleem
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 16.5:
+        non_striker: Ali Saleem
+        bowler: DR Hooper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sher Sahak
+    - 16.6:
+        non_striker: Ali Saleem
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 16.7:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Saleem
+    - 16.8:
+        non_striker: Sher Sahak
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Saleem
+    - 17.1:
+        non_striker: Ali Saleem
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 17.2:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Saleem
+    - 17.3:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Saleem
+    - 17.4:
+        non_striker: Sher Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Saleem
+    - 17.5:
+        non_striker: Ali Saleem
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+        wicket:
+          player_out: Sher Sahak
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 17.6:
+        non_striker: Wahidullah Sahak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Saleem
+        wicket:
+          player_out: Ali Saleem
+          kind: bowled
+    - 18.1:
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Abeyrathna
+        batsman: Wahidullah Sahak
+    - 18.2:
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Abeyrathna
+        batsman: Wahidullah Sahak
+    - 18.3:
+        non_striker: D Abeyrathna
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wahidullah Sahak
+        wicket:
+          player_out: Wahidullah Sahak
+          kind: caught and bowled
+    - 18.4:
+        non_striker: D Abeyrathna
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Bilal Safdar
+    - 18.5:
+        non_striker: Bilal Safdar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Abeyrathna
+    - 18.6:
+        non_striker: Bilal Safdar
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 19.1:
+        non_striker: Bilal Safdar
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+        wicket:
+          player_out: D Abeyrathna
+          kind: bowled
+    - 19.2:
+        non_striker: Bilal Safdar
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Sheikh
+    - 19.3:
+        non_striker: Bilal Safdar
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Sheikh
+    - 19.4:
+        non_striker: Bilal Safdar
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Sheikh
+    - 19.5:
+        non_striker: Bilal Safdar
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Sheikh
+    - 19.6:
+        non_striker: Abdullah Sheikh
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Safdar
+- 2nd innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IDA Damarell
+        batsman: J Butler
+    - 0.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IDA Damarell
+        batsman: J Butler
+    - 0.3:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IDA Damarell
+        batsman: J Butler
+    - 0.4:
+        non_striker: J Butler
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 0.5:
+        non_striker: IDA Damarell
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 0.6:
+        non_striker: J Butler
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 1.1:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 1.2:
+        non_striker: IDA Damarell
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 1.3:
+        non_striker: IDA Damarell
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 1.4:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 1.5:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 1.6:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 2.1:
+        non_striker: IDA Damarell
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 2.2:
+        non_striker: IDA Damarell
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Butler
+    - 2.3:
+        non_striker: IDA Damarell
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 2.4:
+        non_striker: IDA Damarell
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Butler
+    - 2.5:
+        non_striker: J Butler
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 2.6:
+        non_striker: J Butler
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDA Damarell
+    - 2.7:
+        non_striker: J Butler
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDA Damarell
+    - 3.1:
+        non_striker: IDA Damarell
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 3.2:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 3.3:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 3.4:
+        non_striker: IDA Damarell
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 3.5:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 3.6:
+        non_striker: IDA Damarell
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 4.1:
+        non_striker: IDA Damarell
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Butler
+    - 4.2:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+        wicket:
+          player_out: IDA Damarell
+          fielders:
+          - Sher Sahak
+          kind: caught
+    - 4.3:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 4.4:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 4.5:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: T Nightingale
+    - 4.6:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 5.1:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 5.2:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 5.3:
+        non_striker: T Nightingale
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 5.4:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 5.5:
+        non_striker: J Butler
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 5.6:
+        non_striker: T Nightingale
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 6.1:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 6.2:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Nightingale
+    - 6.3:
+        non_striker: T Nightingale
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 6.4:
+        non_striker: T Nightingale
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 6.5:
+        non_striker: T Nightingale
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 6.6:
+        non_striker: J Butler
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 7.1:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 7.2:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Nightingale
+    - 7.3:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 7.4:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 7.5:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 7.6:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 7.7:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 8.1:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 8.2:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 8.3:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 8.4:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 8.5:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.6:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 9.1:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 9.2:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 9.3:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.4:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 9.5:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.6:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 10.1:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 10.2:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.3:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 10.4:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 10.5:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.6:
+        non_striker: J Butler
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 11.1:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 11.2:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 11.3:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 11.4:
+        non_striker: J Butler
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 11.5:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+        wicket:
+          player_out: J Butler
+          fielders:
+          - Khizer Ahmed
+          kind: stumped
+    - 11.6:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 12.1:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 12.2:
+        non_striker: MWR Stokes
+        bowler: Bilal Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Nightingale
+    - 12.3:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 12.4:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 12.5:
+        non_striker: MWR Stokes
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 12.6:
+        non_striker: MWR Stokes
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 13.1:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 13.2:
+        non_striker: MWR Stokes
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 13.3:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 13.4:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 13.5:
+        non_striker: T Nightingale
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 13.6:
+        non_striker: MWR Stokes
+        bowler: Abdullah Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 14.1:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 14.2:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 14.3:
+        non_striker: MWR Stokes
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 14.4:
+        non_striker: MWR Stokes
+        bowler: Bilal Safdar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Nightingale
+    - 14.5:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 14.6:
+        non_striker: T Nightingale
+        bowler: Bilal Safdar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 15.1:
+        non_striker: MWR Stokes
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Nightingale
+    - 15.2:
+        non_striker: MWR Stokes
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 15.3:
+        non_striker: MWR Stokes
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 15.4:
+        non_striker: MWR Stokes
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 15.5:
+        non_striker: T Nightingale
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 15.6:
+        non_striker: T Nightingale
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 15.7:
+        non_striker: T Nightingale
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 16.1:
+        non_striker: T Nightingale
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 16.2:
+        non_striker: T Nightingale
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 16.3:
+        non_striker: T Nightingale
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 16.4:
+        non_striker: MWR Stokes
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Nightingale
+    - 16.5:
+        non_striker: MWR Stokes
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 16.6:
+        non_striker: MWR Stokes
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 17.1:
+        non_striker: MWR Stokes
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 17.2:
+        non_striker: MWR Stokes
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 17.3:
+        non_striker: MWR Stokes
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 17.4:
+        non_striker: T Nightingale
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 17.5:
+        non_striker: T Nightingale
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 17.6:
+        non_striker: MWR Stokes
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Nightingale
+    - 17.7:
+        non_striker: MWR Stokes
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Nightingale

@@ -1,0 +1,1888 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2021-11-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1410
+  outcome:
+    winner: India
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - RA Jadeja
+  players:
+    Namibia:
+    - SJ Baard
+    - M van Lingen
+    - CG Williams
+    - MG Erasmus
+    - JN Loftie-Eaton
+    - D Wiese
+    - JJ Smit
+    - ZE Green
+    - JN Frylinck
+    - R Trumpelmann
+    - BM Scholtz
+    India:
+    - KL Rahul
+    - RG Sharma
+    - SA Yadav
+    - V Kohli
+    - RR Pant
+    - HH Pandya
+    - RA Jadeja
+    - R Ashwin
+    - Mohammed Shami
+    - JJ Bumrah
+    - RD Chahar
+  registry:
+    people:
+      Aleem Dar: f02778d1
+      BM Scholtz: e85d03d6
+      CG Williams: e16e7347
+      CM Brown: 448f4f1c
+      D Wiese: aa8d28ae
+      HH Pandya: dbe50b21
+      JJ Bumrah: 462411b3
+      JJ Crowe: 2e760301
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      KL Rahul: b17e2f24
+      M Erasmus: 15d3c895
+      M van Lingen: 7eb36269
+      MG Erasmus: 95a5e066
+      Mohammed Shami: 8cf9814c
+      R Ashwin: 495d42a5
+      R Trumpelmann: ff6a7ab5
+      RA Jadeja: fe93fd9d
+      RD Chahar: 2ed569a0
+      RG Sharma: 740742ef
+      RK Illingworth: '20672246'
+      RR Pant: 919a3be2
+      SA Yadav: 271f83cd
+      SJ Baard: e8511411
+      V Kohli: ba607b88
+      ZE Green: 8716233e
+  teams:
+  - Namibia
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - CM Brown
+  - RK Illingworth
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 0.2:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 0.3:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.4:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 0.5:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 0.6:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SJ Baard
+    - 0.7:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 1.1:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M van Lingen
+    - 1.2:
+        non_striker: M van Lingen
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 1.3:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 1.4:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.5:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.6:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 2.1:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Baard
+    - 2.2:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 2.3:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Baard
+    - 2.4:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 2.5:
+        non_striker: M van Lingen
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 2.6:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.7:
+        non_striker: SJ Baard
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.1:
+        non_striker: M van Lingen
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 3.2:
+        non_striker: SJ Baard
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.3:
+        non_striker: SJ Baard
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 3.4:
+        non_striker: SJ Baard
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 3.5:
+        non_striker: M van Lingen
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 3.6:
+        non_striker: M van Lingen
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 4.1:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 4.2:
+        non_striker: M van Lingen
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 4.3:
+        non_striker: M van Lingen
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 4.4:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          fielders:
+          - Mohammed Shami
+          kind: caught
+    - 4.5:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 4.6:
+        non_striker: SJ Baard
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.1:
+        non_striker: CG Williams
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 5.2:
+        non_striker: SJ Baard
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.3:
+        non_striker: SJ Baard
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+        wicket:
+          player_out: CG Williams
+          fielders:
+          - RR Pant
+          kind: stumped
+    - 5.4:
+        non_striker: SJ Baard
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.5:
+        non_striker: SJ Baard
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.6:
+        non_striker: SJ Baard
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.1:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 6.2:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 6.3:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 6.4:
+        non_striker: SJ Baard
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.5:
+        non_striker: SJ Baard
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.6:
+        non_striker: SJ Baard
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.1:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 7.2:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Baard
+    - 7.3:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 7.4:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+        wicket:
+          player_out: SJ Baard
+          kind: lbw
+    - 7.5:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 7.6:
+        non_striker: JN Loftie-Eaton
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 8.2:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.3:
+        non_striker: JN Loftie-Eaton
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.4:
+        non_striker: JN Loftie-Eaton
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.6:
+        non_striker: JN Loftie-Eaton
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 9.2:
+        non_striker: MG Erasmus
+        bowler: R Ashwin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: D Wiese
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 9.4:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 9.6:
+        non_striker: MG Erasmus
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 10.1:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 10.4:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 10.5:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 11.1:
+        non_striker: D Wiese
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 11.6:
+        non_striker: D Wiese
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.1:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MG Erasmus
+    - 12.4:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - RR Pant
+          kind: caught
+    - 12.5:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.6:
+        non_striker: JJ Smit
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wiese
+    - 12.7:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.2:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.3:
+        non_striker: JJ Smit
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 13.4:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.5:
+        non_striker: JJ Smit
+        bowler: RD Chahar
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: D Wiese
+    - 13.6:
+        non_striker: JJ Smit
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 13.7:
+        non_striker: D Wiese
+        bowler: RD Chahar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.2:
+        non_striker: D Wiese
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.3:
+        non_striker: JJ Smit
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.4:
+        non_striker: JJ Smit
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.5:
+        non_striker: D Wiese
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 14.6:
+        non_striker: D Wiese
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 15.1:
+        non_striker: ZE Green
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 15.2:
+        non_striker: ZE Green
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 15.3:
+        non_striker: ZE Green
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.4:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          kind: bowled
+    - 15.5:
+        non_striker: D Wiese
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 15.6:
+        non_striker: JN Frylinck
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.1:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.2:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.3:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 16.4:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JN Frylinck
+    - 16.5:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.6:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 17.1:
+        non_striker: D Wiese
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 17.2:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 17.3:
+        non_striker: D Wiese
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.4:
+        non_striker: D Wiese
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: JN Frylinck
+    - 17.5:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wiese
+    - 17.6:
+        non_striker: D Wiese
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 18.1:
+        non_striker: JN Frylinck
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 18.2:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 18.3:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 18.4:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 18.5:
+        non_striker: D Wiese
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 18.6:
+        non_striker: JN Frylinck
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 18.7:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 19.1:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 19.2:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 19.3:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Trumpelmann
+    - 19.4:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Trumpelmann
+    - 19.5:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trumpelmann
+    - 19.6:
+        non_striker: JN Frylinck
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.2:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.3:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 0.4:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.1:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 2.1:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.4:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 2.5:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: KL Rahul
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.3:
+        non_striker: RG Sharma
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.4:
+        non_striker: RG Sharma
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.5:
+        non_striker: RG Sharma
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 3.6:
+        non_striker: RG Sharma
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 4.1:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.2:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 4.3:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.4:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 4.5:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.6:
+        non_striker: KL Rahul
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 5.1:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 5.2:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.3:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 5.5:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 5.6:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.1:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.2:
+        non_striker: KL Rahul
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.3:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.4:
+        non_striker: KL Rahul
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.5:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.6:
+        non_striker: KL Rahul
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 7.1:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.2:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 7.3:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.4:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.5:
+        non_striker: KL Rahul
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 7.6:
+        non_striker: RG Sharma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.1:
+        non_striker: RG Sharma
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.2:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 8.3:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 8.4:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 8.5:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 8.6:
+        non_striker: RG Sharma
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.1:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.2:
+        non_striker: KL Rahul
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 9.3:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 9.4:
+        non_striker: RG Sharma
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.5:
+        non_striker: KL Rahul
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - ZE Green
+          kind: caught
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 10.2:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.2:
+        non_striker: KL Rahul
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 11.6:
+        non_striker: KL Rahul
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 12.2:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 12.3:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 12.5:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 13.1:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: SA Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 13.3:
+        non_striker: SA Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.4:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.5:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.6:
+        non_striker: KL Rahul
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 14.2:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 14.3:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.4:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 14.5:
+        non_striker: SA Yadav
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 14.6:
+        non_striker: KL Rahul
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.1:
+        non_striker: KL Rahul
+        bowler: M van Lingen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Yadav
+    - 15.2:
+        non_striker: SA Yadav
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul

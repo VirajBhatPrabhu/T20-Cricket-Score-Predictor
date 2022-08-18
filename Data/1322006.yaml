@@ -1,0 +1,1480 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-07-07'
+  gender: male
+  match_type: T20
+  match_type_number: 1615
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Syazrul Idrus
+  players:
+    Thailand:
+    - N Nuntarach
+    - J Pakhiaokajee
+    - P Suanchuai
+    - C Pengkumta
+    - Vichanath Singh
+    - C Chatphaisan
+    - Y Saranonnakkun
+    - S Desungnoen
+    - K Senamontree
+    - T Yotharat
+    - K Namchaikul
+    Malaysia:
+    - Zubaidi Zulkifle
+    - Virandeep Singh
+    - Ahmed Faiz Mohammad Noor
+    - Syed Aziz
+    - Ainool Hafizs
+    - S Muniandy
+    - S Vijay Unni
+    - M Syahadat Ramli
+    - Fitri Sham
+    - Khizar Hayat
+    - Syazrul Idrus
+  registry:
+    people:
+      Ahmed Faiz: f6b4f746
+      Ainool Hafizs: 1bada9da
+      B Ramani: 92ad5353
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      Fitri Sham: d2ec068c
+      J Pakhiaokajee: 44d623c9
+      K Namchaikul: f4ccbe6f
+      K Senamontree: e553e27f
+      Khizar Hayat: 78bbeba1
+      M Syahadat Ramli: 5efa8af3
+      Mathan Kumar: da596754
+      N Nuntarach: 9e3575ce
+      N Sivan: 8f4a0102
+      P Suanchuai: e6948355
+      Rudy Ismandy: '84682045'
+      S Desungnoen: 3eb26dc4
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      Syazrul Idrus: 6dba59e0
+      Syed Aziz: 6667067e
+      T Yotharat: 1f74f675
+      Vichanath Singh: dfa6db1a
+      Virandeep Singh: 415d30b6
+      Y Saranonnakkun: 9c93c0a3
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Thailand
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - Mathan Kumar
+  - Rudy Ismandy
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - Ahmed Faiz Mohammad Noor
+          kind: caught
+    - 0.2:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 0.3:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pakhiaokajee
+    - 0.4:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 0.5:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 0.6:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 1.1:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 1.2:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Pakhiaokajee
+    - 1.3:
+        non_striker: J Pakhiaokajee
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 1.4:
+        non_striker: J Pakhiaokajee
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 1.5:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 1.6:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 2.1:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 2.2:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Pakhiaokajee
+    - 2.3:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 2.4:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 2.5:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 2.6:
+        non_striker: J Pakhiaokajee
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 3.1:
+        non_striker: J Pakhiaokajee
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 3.2:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 3.3:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 3.4:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+    - 3.5:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pakhiaokajee
+        wicket:
+          player_out: J Pakhiaokajee
+          fielders:
+          - Fitri Sham
+          kind: caught
+    - 3.6:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 4.1:
+        non_striker: C Pengkumta
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 4.2:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 4.3:
+        non_striker: C Pengkumta
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 4.4:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 4.5:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          kind: lbw
+    - 4.6:
+        non_striker: P Suanchuai
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 5.1:
+        non_striker: Vichanath Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 5.2:
+        non_striker: Vichanath Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 5.3:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 5.4:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 5.5:
+        non_striker: P Suanchuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vichanath Singh
+    - 5.6:
+        non_striker: Vichanath Singh
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.1:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vichanath Singh
+    - 6.2:
+        non_striker: Vichanath Singh
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.3:
+        non_striker: Vichanath Singh
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 6.4:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 6.5:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: Vichanath Singh
+    - 6.6:
+        non_striker: Vichanath Singh
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 7.1:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vichanath Singh
+    - 7.2:
+        non_striker: Vichanath Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 7.3:
+        non_striker: Vichanath Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 7.4:
+        non_striker: Vichanath Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.5:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vichanath Singh
+    - 7.6:
+        non_striker: Vichanath Singh
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.1:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 8.2:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vichanath Singh
+    - 8.3:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vichanath Singh
+    - 8.4:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vichanath Singh
+    - 8.5:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vichanath Singh
+    - 8.6:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vichanath Singh
+        wicket:
+          player_out: Vichanath Singh
+          fielders:
+          - Virandeep Singh
+          - Ainool Hafizs
+          kind: run out
+    - 9.1:
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Chatphaisan
+        batsman: P Suanchuai
+    - 9.2:
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Chatphaisan
+        batsman: P Suanchuai
+    - 9.3:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 9.4:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          kind: lbw
+    - 9.5:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: lbw
+    - 9.6:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Desungnoen
+    - 10.1:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 10.2:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.3:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 10.4:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 10.5:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 10.6:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 11.1:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 11.2:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 11.3:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 11.4:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 11.5:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 11.6:
+        non_striker: P Suanchuai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 12.1:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 12.2:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 12.3:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 12.4:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 12.5:
+        non_striker: S Desungnoen
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 12.6:
+        non_striker: P Suanchuai
+        bowler: Fitri Sham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 13.1:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          kind: bowled
+    - 13.2:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 13.3:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 13.4:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 13.5:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 13.6:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 14.1:
+        non_striker: S Desungnoen
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 14.2:
+        non_striker: S Desungnoen
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+        wicket:
+          player_out: K Senamontree
+          fielders:
+          - Syazrul Idrus
+          kind: caught
+    - 14.3:
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Yotharat
+        batsman: S Desungnoen
+    - 14.4:
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Yotharat
+        batsman: S Desungnoen
+    - 14.5:
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Yotharat
+        batsman: S Desungnoen
+    - 14.6:
+        non_striker: T Yotharat
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 15.1:
+        non_striker: T Yotharat
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 15.2:
+        non_striker: T Yotharat
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 15.3:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 15.4:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 15.5:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 15.6:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Yotharat
+    - 16.1:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 16.2:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 16.3:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 16.4:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 16.5:
+        non_striker: S Desungnoen
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Yotharat
+    - 16.6:
+        non_striker: T Yotharat
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 17.1:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Yotharat
+    - 17.2:
+        non_striker: T Yotharat
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 17.3:
+        non_striker: T Yotharat
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 17.4:
+        non_striker: T Yotharat
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 17.5:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Yotharat
+    - 17.6:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Yotharat
+    - 18.1:
+        non_striker: T Yotharat
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 18.2:
+        non_striker: S Desungnoen
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Yotharat
+    - 18.3:
+        non_striker: T Yotharat
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 18.4:
+        non_striker: T Yotharat
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          fielders:
+          - Ainool Hafizs
+          kind: caught
+    - 18.5:
+        non_striker: T Yotharat
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Namchaikul
+        wicket:
+          player_out: K Namchaikul
+          kind: bowled
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.2:
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.3:
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Virandeep Singh
+        batsman: Zubaidi Zulkifle
+    - 0.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 0.6:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 1.1:
+        non_striker: Virandeep Singh
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Virandeep Singh
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 1.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 1.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.2:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 2.3:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.4:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.5:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 3.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 3.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: K Senamontree
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Virandeep Singh
+    - 4.1:
+        non_striker: Virandeep Singh
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 4.2:
+        non_striker: Virandeep Singh
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 4.3:
+        non_striker: Virandeep Singh
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 4.4:
+        non_striker: Virandeep Singh
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 4.5:
+        non_striker: Virandeep Singh
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 4.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 5.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 5.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 5.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.4:
+        non_striker: Virandeep Singh
+        bowler: T Yotharat
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Zubaidi Zulkifle
+    - 6.5:
+        non_striker: Virandeep Singh
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 6.6:
+        non_striker: Virandeep Singh
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - K Namchaikul
+          kind: caught
+    - 6.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.5:
+        non_striker: Virandeep Singh
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 7.6:
+        non_striker: Virandeep Singh
+        bowler: Vichanath Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.1:
+        non_striker: Virandeep Singh
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.2:
+        non_striker: Virandeep Singh
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.3:
+        non_striker: Virandeep Singh
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.4:
+        non_striker: Virandeep Singh
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 8.5:
+        non_striker: Virandeep Singh
+        bowler: K Namchaikul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor

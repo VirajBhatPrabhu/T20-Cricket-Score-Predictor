@@ -1,0 +1,2146 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bulawayo
+  dates:
+  - '2022-07-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1635
+  outcome:
+    winner: Uganda
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - DM Nakrani
+  players:
+    Hong Kong:
+    - Nizakat Khan
+    - Aizaz Khan
+    - Babar Hayat
+    - KD Shah
+    - Zeeshan Ali (2)
+    - Haroon Arshad
+    - Yasim Murtaza
+    - Ehsan Khan
+    - SS McKechnie
+    - A Shukla
+    - Mohammad Ghazanfar
+    Uganda:
+    - RG Mukasa
+    - S Sesazi
+    - RB Patel
+    - K Waiswa
+    - Riazat Ali Shah
+    - DM Nakrani
+    - F Akankwasa
+    - F Achelam
+    - F Nsubuga
+    - C Kyewuta
+    - H Ssenyondo
+  registry:
+    people:
+      A Shukla: a1e80d06
+      Aizaz Khan: f6c2659d
+      Babar Hayat: fbb657bb
+      C Kyewuta: 395695ce
+      DM Nakrani: 46a7ac78
+      Ehsan Khan: d3851cd8
+      F Achelam: b6b3ee6e
+      F Akankwasa: 0d0f0385
+      F Mutizwa: d3e83eef
+      F Nsubuga: 87e33d07
+      H Ssenyondo: 2b7609f1
+      Haroon Arshad: be0f9ce9
+      I Chabi: 5e39110e
+      K Waiswa: a3a275ec
+      KD Shah: d5ae21a2
+      L Rusere: 6a4734ae
+      Mohammad Ghazanfar: 00321fff
+      Nizakat Khan: e3eb9e46
+      RB Patel: f88dc8de
+      RG Mukasa: 011f6b42
+      Riazat Ali Shah: 269cc4ff
+      S Sesazi: c2c975f9
+      S Wadvalla: c1a1acf3
+      SS McKechnie: e6dd77bb
+      Shahid Wasif: 2cc08c3c
+      Yasim Murtaza: c9d05f1a
+      Zeeshan Ali: 987187b9
+  teams:
+  - Hong Kong
+  - Uganda
+  toss:
+    winner: Hong Kong
+    decision: bat
+  umpires:
+  - F Mutizwa
+  - I Chabi
+  venue: Bulawayo Athletic Club
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aizaz Khan
+        batsman: Nizakat Khan
+    - 0.2:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aizaz Khan
+        batsman: Nizakat Khan
+    - 0.3:
+        non_striker: Nizakat Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aizaz Khan
+    - 0.4:
+        non_striker: Nizakat Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aizaz Khan
+    - 0.5:
+        non_striker: Nizakat Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aizaz Khan
+    - 0.6:
+        non_striker: Nizakat Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aizaz Khan
+    - 0.7:
+        non_striker: Aizaz Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.1:
+        non_striker: Aizaz Khan
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          kind: lbw
+    - 1.2:
+        non_striker: Aizaz Khan
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 1.3:
+        non_striker: Aizaz Khan
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 1.4:
+        non_striker: Aizaz Khan
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 1.5:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+    - 1.6:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+    - 2.1:
+        non_striker: Aizaz Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.2:
+        non_striker: Aizaz Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 2.3:
+        non_striker: Babar Hayat
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aizaz Khan
+        wicket:
+          player_out: Aizaz Khan
+          fielders:
+          - Riazat Ali Shah
+          kind: caught
+    - 2.4:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KD Shah
+        batsman: Babar Hayat
+    - 2.5:
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KD Shah
+        batsman: Babar Hayat
+    - 2.6:
+        non_striker: KD Shah
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.1:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 3.2:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 3.3:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 3.4:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.5:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.6:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 4.1:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 4.2:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 4.3:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 4.4:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 4.5:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 4.6:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.1:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 5.2:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 5.3:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.4:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.5:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 5.6:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 6.1:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 6.2:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 6.4:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.5:
+        non_striker: Babar Hayat
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 6.6:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 7.1:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 7.2:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 7.3:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 7.4:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.5:
+        non_striker: Babar Hayat
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 7.6:
+        non_striker: KD Shah
+        bowler: F Nsubuga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.1:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - RG Mukasa
+          kind: caught
+    - 8.2:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali (2)
+    - 8.3:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 8.4:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 8.5:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 8.6:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 9.1:
+        non_striker: KD Shah
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 9.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Shah
+    - 9.3:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 9.4:
+        non_striker: KD Shah
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 9.5:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 9.6:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Shah
+    - 9.7:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Shah
+    - 9.8:
+        non_striker: Zeeshan Ali (2)
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 10.1:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 10.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 10.3:
+        non_striker: KD Shah
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 10.4:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 10.5:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 10.6:
+        non_striker: Zeeshan Ali (2)
+        bowler: H Ssenyondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 11.1:
+        non_striker: Zeeshan Ali (2)
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Shah
+    - 11.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 11.3:
+        non_striker: KD Shah
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 11.4:
+        non_striker: Zeeshan Ali (2)
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 11.5:
+        non_striker: KD Shah
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali (2)
+    - 11.6:
+        non_striker: KD Shah
+        bowler: F Akankwasa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali (2)
+    - 12.1:
+        non_striker: Zeeshan Ali (2)
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 12.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 12.3:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 12.4:
+        non_striker: Zeeshan Ali (2)
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 12.5:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali (2)
+    - 12.6:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali (2)
+    - 13.1:
+        non_striker: Zeeshan Ali (2)
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 13.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 13.3:
+        non_striker: KD Shah
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 13.4:
+        non_striker: Zeeshan Ali (2)
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 13.5:
+        non_striker: KD Shah
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali (2)
+    - 13.6:
+        non_striker: Zeeshan Ali (2)
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 14.1:
+        non_striker: Zeeshan Ali (2)
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+    - 14.2:
+        non_striker: Zeeshan Ali (2)
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 14.3:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali (2)
+        wicket:
+          player_out: Zeeshan Ali (2)
+          fielders:
+          - F Nsubuga
+          kind: caught
+    - 14.4:
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Haroon Arshad
+        batsman: KD Shah
+    - 14.5:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haroon Arshad
+    - 14.6:
+        non_striker: Haroon Arshad
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 15.1:
+        non_striker: Haroon Arshad
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 15.2:
+        non_striker: KD Shah
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haroon Arshad
+        wicket:
+          player_out: Haroon Arshad
+          kind: bowled
+    - 15.3:
+        non_striker: KD Shah
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 15.4:
+        non_striker: Yasim Murtaza
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 15.5:
+        non_striker: KD Shah
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 15.6:
+        non_striker: Yasim Murtaza
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 16.1:
+        non_striker: Yasim Murtaza
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 16.2:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 16.3:
+        non_striker: Yasim Murtaza
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Shah
+    - 16.4:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 16.5:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+        wicket:
+          player_out: Yasim Murtaza
+          kind: lbw
+    - 16.6:
+        non_striker: KD Shah
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Khan
+    - 17.1:
+        non_striker: Ehsan Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Shah
+        wicket:
+          player_out: KD Shah
+          fielders:
+          - F Achelam
+          kind: caught
+    - 17.2:
+        non_striker: Ehsan Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SS McKechnie
+    - 17.3:
+        non_striker: SS McKechnie
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 17.4:
+        non_striker: Ehsan Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS McKechnie
+    - 17.5:
+        non_striker: SS McKechnie
+        bowler: C Kyewuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 17.6:
+        non_striker: Ehsan Khan
+        bowler: C Kyewuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SS McKechnie
+    - 18.1:
+        non_striker: Ehsan Khan
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS McKechnie
+    - 18.2:
+        non_striker: Ehsan Khan
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS McKechnie
+    - 18.3:
+        non_striker: Ehsan Khan
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS McKechnie
+    - 18.4:
+        non_striker: SS McKechnie
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 18.5:
+        non_striker: Ehsan Khan
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS McKechnie
+        wicket:
+          player_out: SS McKechnie
+          kind: bowled
+    - 18.6:
+        non_striker: Ehsan Khan
+        bowler: DM Nakrani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shukla
+        wicket:
+          player_out: A Shukla
+          kind: bowled
+    - 19.1:
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Ghazanfar
+        batsman: Ehsan Khan
+    - 19.2:
+        non_striker: Ehsan Khan
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ghazanfar
+    - 19.3:
+        non_striker: Mohammad Ghazanfar
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+    - 19.4:
+        non_striker: Ehsan Khan
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ghazanfar
+    - 19.5:
+        non_striker: Ehsan Khan
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ghazanfar
+    - 19.6:
+        non_striker: Mohammad Ghazanfar
+        bowler: Riazat Ali Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Khan
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sesazi
+        batsman: RG Mukasa
+    - 0.2:
+        non_striker: RG Mukasa
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sesazi
+        wicket:
+          player_out: S Sesazi
+          kind: lbw
+    - 0.3:
+        non_striker: RG Mukasa
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RB Patel
+    - 0.4:
+        non_striker: RG Mukasa
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RB Patel
+    - 0.5:
+        non_striker: RG Mukasa
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 0.6:
+        non_striker: RG Mukasa
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RB Patel
+    - 1.1:
+        non_striker: RB Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 1.2:
+        non_striker: RB Patel
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Mukasa
+    - 1.3:
+        non_striker: RG Mukasa
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RB Patel
+    - 1.4:
+        non_striker: RG Mukasa
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RB Patel
+    - 1.5:
+        non_striker: RG Mukasa
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 1.6:
+        non_striker: RG Mukasa
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 1.7:
+        non_striker: RG Mukasa
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 2.1:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Mukasa
+    - 2.2:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 2.3:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+    - 2.4:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Mukasa
+    - 2.5:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Mukasa
+        wicket:
+          player_out: RG Mukasa
+          kind: bowled
+    - 2.6:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Waiswa
+    - 2.7:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Waiswa
+        wicket:
+          player_out: K Waiswa
+          kind: bowled
+    - 2.8:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Riazat Ali Shah
+    - 2.9:
+        non_striker: RB Patel
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 3.1:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 3.2:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 3.3:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 3.4:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+    - 3.5:
+        non_striker: RB Patel
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 3.6:
+        non_striker: RB Patel
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 4.1:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 4.2:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 4.3:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 4.4:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RB Patel
+    - 4.5:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RB Patel
+        wicket:
+          player_out: RB Patel
+          fielders:
+          - Shahid Wasif (sub)
+          kind: run out
+    - 4.6:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 5.1:
+        non_striker: DM Nakrani
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 5.2:
+        non_striker: DM Nakrani
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 5.3:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 5.4:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DM Nakrani
+    - 5.5:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 5.6:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 6.1:
+        non_striker: DM Nakrani
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 6.2:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+    - 6.3:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM Nakrani
+    - 6.4:
+        non_striker: DM Nakrani
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 6.5:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM Nakrani
+    - 6.6:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM Nakrani
+        wicket:
+          player_out: DM Nakrani
+          kind: bowled
+    - 7.1:
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Akankwasa
+        batsman: Riazat Ali Shah
+    - 7.2:
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Akankwasa
+        batsman: Riazat Ali Shah
+    - 7.3:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 7.4:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 7.5:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Akankwasa
+    - 7.6:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Akankwasa
+    - 8.1:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Akankwasa
+    - 8.2:
+        non_striker: F Akankwasa
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 8.3:
+        non_striker: F Akankwasa
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 8.4:
+        non_striker: F Akankwasa
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 8.5:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 8.6:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 9.1:
+        non_striker: F Akankwasa
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 9.2:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 9.3:
+        non_striker: Riazat Ali Shah
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Akankwasa
+    - 9.4:
+        non_striker: F Akankwasa
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 9.5:
+        non_striker: F Akankwasa
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 9.6:
+        non_striker: F Akankwasa
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 10.1:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 10.2:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 10.3:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 10.4:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+    - 10.5:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Akankwasa
+        wicket:
+          player_out: F Akankwasa
+          kind: bowled
+    - 10.6:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.1:
+        non_striker: F Achelam
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 11.2:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.3:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.4:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.5:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 11.6:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Achelam
+    - 11.7:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 12.1:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 12.2:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 12.3:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 12.4:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 12.5:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 12.6:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 13.1:
+        non_striker: F Achelam
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 13.2:
+        non_striker: Riazat Ali Shah
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+    - 13.3:
+        non_striker: Riazat Ali Shah
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Achelam
+    - 13.4:
+        non_striker: F Achelam
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 13.5:
+        non_striker: F Achelam
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 13.6:
+        non_striker: F Achelam
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 14.1:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Riazat Ali Shah
+    - 14.2:
+        non_striker: F Achelam
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 14.3:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Achelam
+        wicket:
+          player_out: F Achelam
+          kind: lbw
+    - 14.4:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Nsubuga
+    - 14.5:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 14.6:
+        non_striker: Riazat Ali Shah
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 15.1:
+        non_striker: F Nsubuga
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Riazat Ali Shah
+    - 15.2:
+        non_striker: F Nsubuga
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 15.3:
+        non_striker: F Nsubuga
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 15.4:
+        non_striker: F Nsubuga
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 15.5:
+        non_striker: Riazat Ali Shah
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Nsubuga
+    - 15.6:
+        non_striker: F Nsubuga
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 16.1:
+        non_striker: F Nsubuga
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 16.2:
+        non_striker: F Nsubuga
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riazat Ali Shah
+    - 16.3:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 16.4:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 16.5:
+        non_striker: Riazat Ali Shah
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Nsubuga
+    - 16.6:
+        non_striker: F Nsubuga
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 17.1:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 17.2:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Nsubuga
+    - 17.3:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 17.4:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Nsubuga
+    - 17.5:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 17.6:
+        non_striker: Riazat Ali Shah
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Nsubuga
+    - 17.7:
+        non_striker: F Nsubuga
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 18.1:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+    - 18.2:
+        non_striker: Riazat Ali Shah
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Nsubuga
+    - 18.3:
+        non_striker: F Nsubuga
+        bowler: Aizaz Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Riazat Ali Shah
+    - 18.4:
+        non_striker: F Nsubuga
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah
+    - 18.5:
+        non_striker: F Nsubuga
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 18.6:
+        non_striker: F Nsubuga
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riazat Ali Shah
+    - 19.1:
+        non_striker: Riazat Ali Shah
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Nsubuga
+        wicket:
+          player_out: F Nsubuga
+          fielders:
+          - SS McKechnie
+          kind: caught
+    - 19.2:
+        non_striker: Riazat Ali Shah
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kyewuta
+    - 19.3:
+        non_striker: C Kyewuta
+        bowler: Haroon Arshad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riazat Ali Shah

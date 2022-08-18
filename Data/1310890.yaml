@@ -1,0 +1,2178 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2022-04-22'
+  gender: female
+  match_type: T20
+  match_type_number: 1057
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - J Nkomo
+  players:
+    Zimbabwe:
+    - K Ndlovu
+    - CS Mugeri
+    - M Musonda
+    - M Mupachikwa
+    - SM Mayers
+    - J Nkomo
+    - P Marange
+    - AC Mushangwe
+    - L Phiri
+    - F Chipare
+    - M Mavunga
+    Uganda:
+    - K Awino
+    - LM Babirye
+    - J Mbabazi
+    - R Musamali
+    - NK Bagenda
+    - C Aweko
+    - PE Kulume
+    - RE Nyangendo
+    - E Anyipo
+    - P Malemikia
+    - S Akiteng
+  registry:
+    people:
+      AC Mushangwe: db873292
+      C Aweko: 01c1b96c
+      CS Mugeri: 99c86133
+      E Anyipo: d9e5ecb4
+      E Haynes: 56e4f120
+      F Chipare: c0dc015b
+      H Hugo: 48f9193f
+      J Mbabazi: aaa6e84c
+      J Nkomo: 36dfa62e
+      JJ Luck: 85d0d93d
+      K Awino: c4e7749a
+      K Ndlovu: 8d25271a
+      L Phiri: cca8bdca
+      LM Babirye: 4b531649
+      M Mavunga: bb411d1e
+      M Mupachikwa: 6657b319
+      M Musonda: 94b52754
+      NK Bagenda: 5926e145
+      P Malemikia: 554a83e5
+      P Marange: a4f1fdd4
+      PE Kulume: bb1a5f8a
+      R Musamali: 017cadb2
+      RE Nyangendo: 208ec8a4
+      S Akiteng: cf92d76b
+      SM Mayers: 91d9613e
+  teams:
+  - Zimbabwe
+  - Uganda
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - E Haynes
+  - JJ Luck
+  venue: Centre for Cricket Development Ground, Windhoek
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CS Mugeri
+        batsman: K Ndlovu
+    - 0.2:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS Mugeri
+        batsman: K Ndlovu
+    - 0.3:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CS Mugeri
+        batsman: K Ndlovu
+    - 0.4:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CS Mugeri
+        batsman: K Ndlovu
+    - 0.5:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS Mugeri
+        batsman: K Ndlovu
+    - 0.6:
+        non_striker: CS Mugeri
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.1:
+        non_striker: K Ndlovu
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri
+    - 1.2:
+        non_striker: CS Mugeri
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          fielders:
+          - S Akiteng
+          kind: caught
+    - 1.3:
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Musonda
+        batsman: CS Mugeri
+    - 1.4:
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Musonda
+        batsman: CS Mugeri
+    - 1.5:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri
+        wicket:
+          player_out: CS Mugeri
+          kind: bowled
+    - 1.6:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 1.7:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 2.1:
+        non_striker: M Musonda
+        bowler: E Anyipo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 2.2:
+        non_striker: M Musonda
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 2.3:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Musonda
+    - 2.4:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Musonda
+    - 2.5:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 2.6:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Musonda
+    - 2.7:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 2.8:
+        non_striker: M Mupachikwa
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 3.1:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.2:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.3:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 3.5:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.6:
+        non_striker: M Musonda
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Musonda
+    - 4.2:
+        non_striker: M Mupachikwa
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 4.3:
+        non_striker: M Mupachikwa
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 4.4:
+        non_striker: M Musonda
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.5:
+        non_striker: M Musonda
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 4.6:
+        non_striker: M Mupachikwa
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Musonda
+    - 5.1:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Musonda
+    - 5.2:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+    - 5.3:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Musonda
+        wicket:
+          player_out: M Musonda
+          kind: obstructing the field
+    - 5.4:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.5:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.6:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 6.1:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.2:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.3:
+        non_striker: M Mupachikwa
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Mayers
+    - 6.4:
+        non_striker: M Mupachikwa
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 6.5:
+        non_striker: M Mupachikwa
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 6.6:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.1:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 7.2:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 7.3:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 7.4:
+        non_striker: SM Mayers
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.5:
+        non_striker: SM Mayers
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 7.6:
+        non_striker: M Mupachikwa
+        bowler: P Malemikia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 8.1:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.2:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+        wicket:
+          player_out: M Mupachikwa
+          kind: bowled
+    - 8.3:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 8.4:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 8.5:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 8.6:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 9.1:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 9.2:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 9.3:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 9.4:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 9.5:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 9.6:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 10.1:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 10.2:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 10.3:
+        non_striker: J Nkomo
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 10.4:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 10.5:
+        non_striker: J Nkomo
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Mayers
+    - 10.6:
+        non_striker: J Nkomo
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 10.7:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 11.1:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Mayers
+    - 11.2:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 11.3:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 11.4:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 11.5:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 11.6:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 12.1:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 12.2:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 12.3:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 12.4:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 12.5:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 12.6:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 13.1:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 13.2:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 13.3:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 13.4:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 13.5:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 13.6:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 14.1:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 14.2:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 14.3:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 14.4:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 14.5:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 14.6:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 15.1:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 15.2:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 15.3:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 15.4:
+        non_striker: SM Mayers
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 15.5:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Mayers
+    - 15.6:
+        non_striker: J Nkomo
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 16.1:
+        non_striker: J Nkomo
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 16.2:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 16.3:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Nkomo
+    - 16.4:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Nkomo
+    - 16.5:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 16.6:
+        non_striker: J Nkomo
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 16.7:
+        non_striker: SM Mayers
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Nkomo
+    - 17.1:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 17.2:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 17.3:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 17.4:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 17.5:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 17.6:
+        non_striker: SM Mayers
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 18.1:
+        non_striker: SM Mayers
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 18.2:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+        wicket:
+          player_out: SM Mayers
+          fielders:
+          - PE Kulume
+          kind: caught
+    - 18.3:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Marange
+        batsman: J Nkomo
+    - 18.4:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Marange
+        batsman: J Nkomo
+    - 18.5:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Marange
+        batsman: J Nkomo
+    - 18.6:
+        non_striker: J Nkomo
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 19.1:
+        non_striker: P Marange
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 19.2:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 19.3:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Marange
+    - 19.4:
+        non_striker: J Nkomo
+        bowler: PE Kulume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Marange
+    - 19.5:
+        non_striker: P Marange
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 19.6:
+        non_striker: P Marange
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LM Babirye
+        batsman: K Awino
+    - 0.2:
+        non_striker: K Awino
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Babirye
+    - 0.3:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 0.4:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 0.5:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Awino
+    - 0.6:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.1:
+        non_striker: K Awino
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LM Babirye
+    - 1.2:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.3:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.4:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.5:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 1.6:
+        non_striker: K Awino
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Babirye
+    - 1.7:
+        non_striker: K Awino
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: LM Babirye
+    - 1.8:
+        non_striker: K Awino
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 2.1:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.2:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.3:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.4:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.5:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 2.6:
+        non_striker: LM Babirye
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 3.1:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Awino
+    - 3.2:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.3:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.4:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.5:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          kind: lbw
+    - 3.6:
+        non_striker: LM Babirye
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 4.1:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+        wicket:
+          player_out: LM Babirye
+          fielders:
+          - F Chipare
+          kind: caught
+    - 4.2:
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Musamali
+        batsman: J Mbabazi
+    - 4.3:
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Musamali
+        batsman: J Mbabazi
+    - 4.4:
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Musamali
+        batsman: J Mbabazi
+    - 4.5:
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Musamali
+        batsman: J Mbabazi
+    - 4.6:
+        non_striker: R Musamali
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.1:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.2:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.3:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.5:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.6:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 6.1:
+        non_striker: R Musamali
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.2:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 6.3:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: bowled
+    - 6.4:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 6.5:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 6.6:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 7.1:
+        non_striker: NK Bagenda
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Mbabazi
+    - 7.2:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 7.3:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 7.4:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Bagenda
+    - 7.5:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 7.6:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Bagenda
+    - 8.1:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 8.2:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: NK Bagenda
+    - 8.3:
+        non_striker: NK Bagenda
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.4:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 8.5:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Bagenda
+    - 8.6:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Bagenda
+    - 9.1:
+        non_striker: NK Bagenda
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.2:
+        non_striker: NK Bagenda
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.3:
+        non_striker: NK Bagenda
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 9.4:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 9.5:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+        wicket:
+          player_out: NK Bagenda
+          fielders:
+          - J Nkomo
+          kind: caught
+    - 9.6:
+        non_striker: C Aweko
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 10.1:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Aweko
+    - 10.2:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 10.3:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 10.4:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 10.5:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 10.6:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Aweko
+    - 10.7:
+        non_striker: J Mbabazi
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 11.1:
+        non_striker: C Aweko
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 11.2:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 11.3:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Aweko
+    - 11.4:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 11.5:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 11.6:
+        non_striker: J Mbabazi
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Aweko
+    - 12.1:
+        non_striker: C Aweko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 12.2:
+        non_striker: C Aweko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 12.3:
+        non_striker: C Aweko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 12.4:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 12.5:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Aweko
+    - 12.6:
+        non_striker: C Aweko
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 13.1:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Aweko
+    - 13.2:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+        wicket:
+          player_out: C Aweko
+          kind: bowled
+    - 13.3:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 13.4:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Kulume
+    - 13.5:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 13.6:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kulume
+    - 13.7:
+        non_striker: J Mbabazi
+        bowler: M Mavunga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 14.1:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 14.2:
+        non_striker: J Mbabazi
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 14.3:
+        non_striker: PE Kulume
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 14.4:
+        non_striker: PE Kulume
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 14.5:
+        non_striker: PE Kulume
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 14.6:
+        non_striker: PE Kulume
+        bowler: AC Mushangwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 15.1:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.2:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.3:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.4:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 15.5:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 15.6:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Mbabazi
+    - 15.7:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 16.1:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 16.2:
+        non_striker: PE Kulume
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 16.3:
+        non_striker: PE Kulume
+        bowler: F Chipare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 16.4:
+        non_striker: PE Kulume
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 16.5:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 16.6:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 16.7:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 17.1:
+        non_striker: PE Kulume
+        bowler: P Marange
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 17.2:
+        non_striker: PE Kulume
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 17.3:
+        non_striker: PE Kulume
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 17.4:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 17.5:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kulume
+    - 17.6:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 17.7:
+        non_striker: J Mbabazi
+        bowler: P Marange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 18.1:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 18.2:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 18.3:
+        non_striker: PE Kulume
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 18.4:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 18.5:
+        non_striker: J Mbabazi
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 18.6:
+        non_striker: PE Kulume
+        bowler: F Chipare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 19.1:
+        non_striker: J Mbabazi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 19.2:
+        non_striker: J Mbabazi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+    - 19.3:
+        non_striker: J Mbabazi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kulume
+    - 19.4:
+        non_striker: PE Kulume
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 19.5:
+        non_striker: J Mbabazi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kulume
+    - 19.6:
+        non_striker: J Mbabazi
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+        wicket:
+          player_out: PE Kulume
+          kind: caught and bowled

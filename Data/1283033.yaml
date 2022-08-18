@@ -1,0 +1,2150 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-20'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2021-10-20'
+  gender: male
+  match_type: T20
+  match_type_number: 1323
+  outcome:
+    winner: Malawi
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - Sami Sohail
+  players:
+    Malawi:
+    - G Kansonkho
+    - D Kansonkho
+    - Sami Sohail
+    - MA Baig
+    - C Chete
+    - M Mwamadi
+    - L Nakomo
+    - A Kansonkho
+    - C Rice
+    - GM Ntambalika
+    - M Abdulla
+    Seychelles:
+    - T Rajiv
+    - N Krishna
+    - SKDT Madusanka
+    - Mazharul Islam
+    - D Kalvin
+    - SR Mohan
+    - R Nil
+    - S Udhayan
+    - VL Mukesh
+    - SR Rocket
+    - KJ Patel
+  registry:
+    people:
+      A Kansonkho: 5f77f4ec
+      C Chete: ef4f539a
+      C Phiri: ade73404
+      C Rice: dbd19fb8
+      Claus Schumacher: 85645e62
+      D Kalvin: 895ae8b6
+      D Kansonkho: 45ca12a7
+      G Kansonkho: f3ca5af8
+      GM Ntambalika: 8c8a3f08
+      Itangishaka Olivier: 0ee3bb49
+      KJ Patel: d6b4e3e2
+      L Nakomo: 1abfa11e
+      M Abdulla: 792805ee
+      M Mwamadi: '00029c30'
+      MA Baig: '89394502'
+      Mazharul Islam: 30564b3e
+      N Krishna: c62a0327
+      R Nil: b0f9dac4
+      S Udhayan: a8d6305d
+      SA Fritz: d15e60c8
+      SKDT Madusanka: 95c2d309
+      SR Mohan: '58533699'
+      SR Rocket: ee3bfb9b
+      Sami Sohail: 602ebd4c
+      T Rajiv: 1ab8beda
+      VL Mukesh: '44744467'
+  teams:
+  - Malawi
+  - Seychelles
+  toss:
+    winner: Malawi
+    decision: bat
+  umpires:
+  - C Phiri
+  - Itangishaka Olivier
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Kansonkho
+        batsman: G Kansonkho
+    - 0.2:
+        non_striker: G Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 0.3:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          fielders:
+          - SR Mohan
+          kind: caught
+    - 0.4:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sami Sohail
+    - 0.5:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 0.6:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Kansonkho
+    - 0.7:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 1.1:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 1.2:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 1.3:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.4:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.5:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 1.6:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.1:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 2.2:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 2.3:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 2.4:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 2.5:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 2.6:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 2.7:
+        non_striker: D Kansonkho
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.1:
+        non_striker: D Kansonkho
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 3.2:
+        non_striker: D Kansonkho
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.4:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.5:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.6:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.1:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 4.2:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          fielders:
+          - T Rajiv
+          - SR Mohan
+          kind: run out
+    - 4.3:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 4.4:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 4.5:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 4.6:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 4.7:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 4.8:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Baig
+    - 4.9:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 4.10:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 5.1:
+        non_striker: MA Baig
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.2:
+        non_striker: MA Baig
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.3:
+        non_striker: MA Baig
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.4:
+        non_striker: MA Baig
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 5.5:
+        non_striker: Sami Sohail
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 5.6:
+        non_striker: MA Baig
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 6.1:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 6.2:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 6.3:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.4:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 6.5:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 6.6:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 7.1:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 7.2:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 7.3:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.4:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 7.5:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.6:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 8.1:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 8.2:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 8.3:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 8.4:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 8.5:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 8.6:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 9.1:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.2:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 9.3:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 9.4:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 9.5:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.6:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Baig
+    - 10.1:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.2:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 10.3:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 10.4:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.5:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 10.6:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 11.1:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 11.2:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 11.3:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 11.4:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MA Baig
+    - 11.5:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 11.6:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Baig
+    - 11.7:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 12.1:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 12.2:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 12.3:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 12.4:
+        non_striker: MA Baig
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 12.5:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 12.6:
+        non_striker: Sami Sohail
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 13.1:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 13.2:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 13.3:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 13.4:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 13.5:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 13.6:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 14.1:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Baig
+    - 14.2:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 14.3:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 14.4:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 14.5:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 14.6:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 15.1:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 15.2:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 15.3:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 15.4:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sami Sohail
+    - 15.5:
+        non_striker: MA Baig
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 15.6:
+        non_striker: Sami Sohail
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Baig
+    - 16.1:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 16.2:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 16.3:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 16.4:
+        non_striker: MA Baig
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 16.5:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Baig
+    - 16.6:
+        non_striker: Sami Sohail
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Baig
+    - 17.1:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 17.2:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 17.3:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 17.4:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 17.5:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 17.6:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 18.1:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 18.2:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 18.3:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 18.4:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 18.5:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 18.6:
+        non_striker: MA Baig
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 18.7:
+        non_striker: Sami Sohail
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Baig
+    - 19.1:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 19.2:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 19.3:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 19.4:
+        non_striker: Sami Sohail
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Baig
+    - 19.5:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 19.6:
+        non_striker: MA Baig
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+- 2nd innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Krishna
+        batsman: T Rajiv
+    - 0.2:
+        non_striker: T Rajiv
+        bowler: M Abdulla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Krishna
+    - 0.3:
+        non_striker: T Rajiv
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.4:
+        non_striker: T Rajiv
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.5:
+        non_striker: T Rajiv
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 0.6:
+        non_striker: N Krishna
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rajiv
+    - 0.7:
+        non_striker: N Krishna
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 1.1:
+        non_striker: N Krishna
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rajiv
+    - 1.2:
+        non_striker: N Krishna
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 1.3:
+        non_striker: N Krishna
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 1.4:
+        non_striker: N Krishna
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 1.5:
+        non_striker: T Rajiv
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+        wicket:
+          player_out: N Krishna
+          fielders:
+          - D Kansonkho
+          kind: caught
+    - 1.6:
+        non_striker: T Rajiv
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 2.1:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+        wicket:
+          player_out: T Rajiv
+          kind: lbw
+    - 2.2:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 2.3:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 2.4:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.5:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 2.6:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 3.1:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.2:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 3.3:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.4:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.5:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.6:
+        non_striker: SKDT Madusanka
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 4.1:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 4.2:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 4.3:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 4.4:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 4.5:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 4.6:
+        non_striker: Mazharul Islam
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 4.7:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          fielders:
+          - MA Baig
+          kind: caught
+    - 5.1:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.2:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.3:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.4:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.5:
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.6:
+        non_striker: D Kalvin
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SKDT Madusanka
+    - 6.1:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.2:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 6.3:
+        non_striker: D Kalvin
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 6.4:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.5:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.6:
+        non_striker: SKDT Madusanka
+        bowler: M Abdulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 7.1:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 7.2:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SKDT Madusanka
+    - 7.3:
+        non_striker: SKDT Madusanka
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 7.4:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 7.5:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.6:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.7:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 8.1:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+        wicket:
+          player_out: SKDT Madusanka
+          kind: lbw
+    - 8.2:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 8.3:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 8.4:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 8.5:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 8.6:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 9.1:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 9.2:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 9.3:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 9.4:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mohan
+    - 9.5:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mohan
+    - 9.6:
+        non_striker: D Kalvin
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 10.1:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: D Kalvin
+    - 10.2:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 10.3:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 10.4:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 10.5:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 10.6:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 11.1:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 11.2:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 11.3:
+        non_striker: D Kalvin
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 11.4:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 11.5:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 11.6:
+        non_striker: D Kalvin
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 12.1:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 12.2:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 12.3:
+        non_striker: D Kalvin
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 12.4:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 12.5:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 12.6:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+        wicket:
+          player_out: D Kalvin
+          kind: bowled
+    - 13.1:
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Nil
+        batsman: SR Mohan
+    - 13.2:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nil
+    - 13.3:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 13.4:
+        non_striker: R Nil
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 13.5:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 13.6:
+        non_striker: R Nil
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 14.1:
+        non_striker: R Nil
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 14.2:
+        non_striker: R Nil
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 14.3:
+        non_striker: R Nil
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 14.4:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nil
+    - 14.5:
+        non_striker: SR Mohan
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 14.6:
+        non_striker: R Nil
+        bowler: MA Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 15.1:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 15.2:
+        non_striker: R Nil
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 15.3:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Nil
+    - 15.4:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 15.5:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 15.6:
+        non_striker: SR Mohan
+        bowler: M Mwamadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 16.1:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nil
+    - 16.2:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 16.3:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+        wicket:
+          player_out: R Nil
+          fielders:
+          - Sami Sohail
+          - C Chete
+          kind: run out
+    - 16.4:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Udhayan
+    - 16.5:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Udhayan
+    - 16.6:
+        non_striker: SR Mohan
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Udhayan
+    - 17.1:
+        non_striker: SR Mohan
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Udhayan
+    - 17.2:
+        non_striker: SR Mohan
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Udhayan
+    - 17.3:
+        non_striker: S Udhayan
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 17.4:
+        non_striker: SR Mohan
+        bowler: GM Ntambalika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Udhayan
+    - 17.5:
+        non_striker: S Udhayan
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+        wicket:
+          player_out: SR Mohan
+          fielders:
+          - G Kansonkho
+          kind: caught
+    - 17.6:
+        non_striker: VL Mukesh
+        bowler: GM Ntambalika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Udhayan
+    - 18.1:
+        non_striker: VL Mukesh
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Udhayan
+    - 18.2:
+        non_striker: VL Mukesh
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Udhayan
+        wicket:
+          player_out: S Udhayan
+          kind: bowled
+    - 18.3:
+        non_striker: VL Mukesh
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 18.4:
+        non_striker: VL Mukesh
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Rocket
+    - 18.5:
+        non_striker: SR Rocket
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+        wicket:
+          player_out: VL Mukesh
+          kind: bowled
+    - 18.6:
+        non_striker: SR Rocket
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 19.1:
+        non_striker: KJ Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 19.2:
+        non_striker: KJ Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 19.3:
+        non_striker: KJ Patel
+        bowler: D Kansonkho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+        wicket:
+          player_out: SR Rocket
+          kind: bowled

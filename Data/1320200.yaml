@@ -1,0 +1,2225 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-06-20'
+  gender: female
+  match_type: T20
+  match_type_number: 1136
+  outcome:
+    winner: United Arab Emirates
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - I Nandakumar
+  players:
+    United Arab Emirates:
+    - ER Oza
+    - Theertha Satish
+    - KKN Egodage
+    - I Nandakumar
+    - Khushi Sharma
+    - L Keny
+    - S Dharnidharka
+    - S Gokhale
+    - Rithika Rajith
+    - Chaya Mughal
+    - Vaishnave Mahesh
+    Malaysia:
+    - WA Duraisingam
+    - Wan Julia
+    - Mas Elysa
+    - Siow Tzin Yee
+    - Ainna Hamizah Hashim
+    - Nur Arianna Natsya
+    - J Intan
+    - Sasha Azmi
+    - Nur Dania Syuhada
+    - Nik Nur Atiela
+    - Aisya Eleesa
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      Chaya Mughal: 77b26349
+      DN Subedi: fb0a571f
+      ER Oza: fdc6b34d
+      I Nandakumar: 9f87d0f0
+      J Intan: 2dfdd316
+      KKN Egodage: 5bb904d4
+      Khushi Sharma: a259c414
+      L Keny: aea89d48
+      Mas Elysa: 857de42e
+      Nik Nur Atiela: cfdfe39c
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Ramesh Menon: 4ed80d22
+      Rithika Rajith: dccab4f3
+      S Dharnidharka: f8b50da3
+      S Gokhale: '62653085'
+      Sarika Prasad: 8ff397fa
+      Sasha Azmi: 9e4f6851
+      Siow Tzin Yee: 686b7194
+      Theertha Satish: ee3dcb3f
+      Vaishnave Mahesh: 31c56f40
+      WA Duraisingam: 7467fe01
+      Wan Julia: bee0c85c
+  teams:
+  - United Arab Emirates
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - A Natarajan
+  - Sarika Prasad
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.2:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.3:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.4:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Theertha Satish
+        batsman: ER Oza
+    - 0.5:
+        non_striker: ER Oza
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 0.6:
+        non_striker: ER Oza
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 1.1:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Theertha Satish
+    - 1.2:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 1.3:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 1.4:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 1.5:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 1.6:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 2.1:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 2.2:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 2.3:
+        non_striker: ER Oza
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 2.4:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 2.5:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ER Oza
+    - 2.6:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 3.1:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 3.2:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 3.3:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 3.4:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 3.5:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 3.6:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 4.1:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 4.2:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 4.3:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 4.4:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 4.5:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 4.6:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 4.7:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 4.8:
+        non_striker: ER Oza
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 5.1:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 5.2:
+        non_striker: Theertha Satish
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 5.3:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 5.4:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 5.5:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 5.6:
+        non_striker: ER Oza
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Theertha Satish
+    - 6.1:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 6.2:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 6.3:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 6.4:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 6.5:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 6.6:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 7.1:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 7.2:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 7.3:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 7.4:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 7.5:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 7.6:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 8.1:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 8.2:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 8.3:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ER Oza
+    - 8.4:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 8.5:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 8.6:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 8.7:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 9.1:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.2:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.3:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 9.4:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.5:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.6:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 9.7:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 10.1:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 10.2:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ER Oza
+    - 10.3:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ER Oza
+    - 10.4:
+        non_striker: Theertha Satish
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 10.5:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 10.6:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 10.7:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 10.8:
+        non_striker: ER Oza
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 11.1:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+    - 11.2:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 11.3:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 11.4:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 11.5:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ER Oza
+    - 11.6:
+        non_striker: ER Oza
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 12.1:
+        non_striker: ER Oza
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 12.2:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ER Oza
+        wicket:
+          player_out: ER Oza
+          fielders:
+          - Nur Arianna Natsya
+          kind: caught
+    - 12.3:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 12.4:
+        non_striker: KKN Egodage
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 12.5:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 12.6:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 13.1:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 13.2:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 13.3:
+        non_striker: KKN Egodage
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 13.4:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 13.5:
+        non_striker: KKN Egodage
+        bowler: Aisya Eleesa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Theertha Satish
+    - 13.6:
+        non_striker: Theertha Satish
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 13.7:
+        non_striker: KKN Egodage
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Theertha Satish
+    - 14.1:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KKN Egodage
+    - 14.2:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KKN Egodage
+    - 14.3:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 14.4:
+        non_striker: KKN Egodage
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Theertha Satish
+    - 14.5:
+        non_striker: KKN Egodage
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Theertha Satish
+    - 14.6:
+        non_striker: KKN Egodage
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 14.7:
+        non_striker: Theertha Satish
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 15.1:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 15.2:
+        non_striker: KKN Egodage
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 15.3:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 15.4:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 15.5:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 15.6:
+        non_striker: KKN Egodage
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 16.1:
+        non_striker: KKN Egodage
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 16.2:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+    - 16.3:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 16.4:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 16.5:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 16.6:
+        non_striker: KKN Egodage
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 17.1:
+        non_striker: KKN Egodage
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 17.2:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+    - 17.3:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 17.4:
+        non_striker: KKN Egodage
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 17.5:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 17.6:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 18.1:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 18.2:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KKN Egodage
+    - 18.3:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 18.4:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KKN Egodage
+    - 18.5:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+    - 18.6:
+        non_striker: Theertha Satish
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KKN Egodage
+    - 18.7:
+        non_striker: KKN Egodage
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 19.1:
+        non_striker: KKN Egodage
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Theertha Satish
+    - 19.2:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KKN Egodage
+    - 19.3:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+    - 19.4:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KKN Egodage
+    - 19.5:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KKN Egodage
+    - 19.6:
+        non_striker: Theertha Satish
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KKN Egodage
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.2:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.3:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.4:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.5:
+        bowler: Chaya Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.6:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.7:
+        non_striker: Wan Julia
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.2:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.3:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.4:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.5:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.6:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 2.1:
+        non_striker: WA Duraisingam
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 2.2:
+        non_striker: Wan Julia
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          fielders:
+          - S Dharnidharka
+          kind: run out
+    - 2.3:
+        bowler: Chaya Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mas Elysa
+        batsman: Wan Julia
+    - 2.4:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mas Elysa
+        batsman: Wan Julia
+    - 2.5:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mas Elysa
+        batsman: Wan Julia
+    - 2.6:
+        bowler: Chaya Mughal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mas Elysa
+        batsman: Wan Julia
+    - 2.7:
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mas Elysa
+        batsman: Wan Julia
+    - 2.8:
+        non_striker: Wan Julia
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 3.2:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 3.3:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.4:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.5:
+        non_striker: Wan Julia
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 3.6:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Julia
+    - 4.1:
+        non_striker: Wan Julia
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.2:
+        non_striker: Wan Julia
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 4.3:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 4.4:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+        wicket:
+          player_out: Wan Julia
+          fielders:
+          - S Dharnidharka
+          kind: caught
+    - 4.5:
+        bowler: Khushi Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Siow Tzin Yee
+        batsman: Mas Elysa
+    - 4.6:
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Siow Tzin Yee
+        batsman: Mas Elysa
+    - 4.7:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.1:
+        non_striker: Siow Tzin Yee
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.2:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.3:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 5.4:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 5.5:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 5.6:
+        non_striker: Siow Tzin Yee
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 6.1:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 6.2:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Siow Tzin Yee
+    - 6.4:
+        non_striker: Mas Elysa
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 6.5:
+        non_striker: Siow Tzin Yee
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.6:
+        non_striker: Siow Tzin Yee
+        bowler: Khushi Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.1:
+        non_striker: Siow Tzin Yee
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.2:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 7.3:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 7.4:
+        non_striker: Siow Tzin Yee
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.5:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 7.6:
+        non_striker: Mas Elysa
+        bowler: ER Oza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 8.1:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 8.2:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 8.3:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 8.4:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.5:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 8.6:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 9.1:
+        non_striker: Siow Tzin Yee
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 9.2:
+        non_striker: Siow Tzin Yee
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.3:
+        non_striker: Mas Elysa
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 9.4:
+        non_striker: Mas Elysa
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 9.5:
+        non_striker: Siow Tzin Yee
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 9.6:
+        non_striker: Siow Tzin Yee
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 9.7:
+        non_striker: Siow Tzin Yee
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.8:
+        non_striker: Mas Elysa
+        bowler: S Dharnidharka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 9.9:
+        non_striker: Mas Elysa
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 9.10:
+        non_striker: Mas Elysa
+        bowler: S Dharnidharka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 10.1:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 10.2:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.3:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.4:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.5:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 10.6:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 11.1:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 11.2:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 11.3:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 11.4:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 11.5:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 11.6:
+        non_striker: Siow Tzin Yee
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.1:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 12.2:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.3:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 12.4:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 12.5:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 12.6:
+        non_striker: Siow Tzin Yee
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 13.1:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+        wicket:
+          player_out: Siow Tzin Yee
+          fielders:
+          - Theertha Satish
+          kind: run out
+    - 13.2:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 13.3:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          fielders:
+          - Chaya Mughal
+          kind: caught
+    - 13.4:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 13.5:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          fielders:
+          - S Dharnidharka
+          kind: caught
+    - 13.6:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 14.1:
+        non_striker: J Intan
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 14.2:
+        non_striker: J Intan
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 14.3:
+        non_striker: J Intan
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 14.4:
+        non_striker: J Intan
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 14.5:
+        non_striker: Mas Elysa
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 14.6:
+        non_striker: J Intan
+        bowler: Vaishnave Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 15.1:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+        wicket:
+          player_out: J Intan
+          kind: bowled
+    - 15.2:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sasha Azmi
+    - 15.3:
+        non_striker: Mas Elysa
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sasha Azmi
+    - 15.4:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 15.5:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          kind: lbw
+    - 15.6:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 16.1:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sasha Azmi
+    - 16.2:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sasha Azmi
+    - 16.3:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sasha Azmi
+    - 16.4:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 16.5:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 16.6:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 17.1:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.2:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.3:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.4:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.5:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 17.6:
+        non_striker: Sasha Azmi
+        bowler: I Nandakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 18.1:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sasha Azmi
+    - 18.2:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 18.3:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 18.4:
+        non_striker: Sasha Azmi
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 18.5:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sasha Azmi
+    - 18.6:
+        non_striker: Nur Dania Syuhada
+        bowler: L Keny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sasha Azmi
+    - 19.1:
+        non_striker: Nur Dania Syuhada
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sasha Azmi
+    - 19.2:
+        non_striker: Nur Dania Syuhada
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sasha Azmi
+    - 19.3:
+        non_striker: Sasha Azmi
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Dania Syuhada
+    - 19.4:
+        non_striker: Sasha Azmi
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Dania Syuhada
+    - 19.5:
+        non_striker: Nur Dania Syuhada
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sasha Azmi
+        wicket:
+          player_out: Sasha Azmi
+          fielders:
+          - L Keny
+          kind: caught
+    - 19.6:
+        non_striker: Nur Dania Syuhada
+        bowler: Chaya Mughal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nik Nur Atiela

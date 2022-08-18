@@ -1,0 +1,2153 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Derby
+  dates:
+  - '2022-07-25'
+  gender: female
+  match_type: T20
+  match_type_number: 1171
+  outcome:
+    winner: England
+    by:
+      runs: 38
+  overs: 20
+  player_of_match:
+  - S Ecclestone
+  players:
+    England:
+    - SIR Dunkley
+    - DN Wyatt
+    - A Capsey
+    - NR Sciver
+    - AE Jones
+    - ME Bouchier
+    - KH Brunt
+    - S Ecclestone
+    - FG Kemp
+    - S Glenn
+    - IECM Wong
+    South Africa:
+    - A Bosch
+    - L Goodall
+    - T Brits
+    - L Wolvaardt
+    - M du Preez
+    - CL Tryon
+    - D Tucker
+    - S Jafta
+    - M Klaas
+    - A Khaka
+    - N Mlaba
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      A Capsey: 910dd54e
+      A Khaka: 0d518f89
+      AE Jones: b05e45e4
+      CL Tryon: 4d4605e6
+      D Tucker: 2b425403
+      DN Wyatt: a139c379
+      FG Kemp: abc9f8a4
+      IECM Wong: e5b17517
+      KH Brunt: 6a434bd3
+      L Goodall: 0bb32e98
+      L Wolvaardt: e60f81c9
+      M Klaas: ce85fcaf
+      M du Preez: e219f17a
+      ME Bouchier: c2554b59
+      N Mlaba: 686362af
+      NR Sciver: f3a18a0c
+      Phil Whitticase: 99d5f6fa
+      RJ Bailey: 6bd04fa5
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      S Jafta: '34304210'
+      S Redfern: 5b038989
+      SIR Dunkley: 3a9e9cb2
+      SJ O'Shaughnessy: 4d4fdf4a
+      SM Bartlett: 7ba18406
+      T Brits: '06659caa'
+  teams:
+  - England
+  - South Africa
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - RJ Bailey
+  - SM Bartlett
+  venue: County Ground, Derby
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          fielders:
+          - L Wolvaardt
+          kind: caught
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 0.6:
+        non_striker: A Capsey
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.7:
+        non_striker: A Capsey
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 2.1:
+        non_striker: A Capsey
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 2.4:
+        non_striker: A Capsey
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 2.5:
+        non_striker: A Capsey
+        bowler: A Khaka
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 3.1:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 3.2:
+        non_striker: A Capsey
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.4:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.5:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 3.6:
+        non_striker: A Capsey
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - CL Tryon
+          kind: caught
+    - 4.2:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 4.3:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 4.4:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 4.5:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NR Sciver
+    - 4.6:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 4.7:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 5.1:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 5.2:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 5.3:
+        non_striker: NR Sciver
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 5.4:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver
+    - 5.5:
+        non_striker: DN Wyatt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 5.6:
+        non_striker: NR Sciver
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 6.1:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.2:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wyatt
+    - 6.3:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 6.4:
+        non_striker: DN Wyatt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 6.5:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 6.6:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 7.1:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 7.2:
+        non_striker: DN Wyatt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 7.3:
+        non_striker: NR Sciver
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 7.4:
+        non_striker: NR Sciver
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 7.5:
+        non_striker: NR Sciver
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 7.6:
+        non_striker: NR Sciver
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 8.1:
+        non_striker: DN Wyatt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.2:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 8.3:
+        non_striker: DN Wyatt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 8.4:
+        non_striker: DN Wyatt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 8.5:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 8.6:
+        non_striker: NR Sciver
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 9.1:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 9.2:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 9.3:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 9.4:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 9.5:
+        non_striker: DN Wyatt
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 9.6:
+        non_striker: NR Sciver
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 10.1:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.2:
+        non_striker: NR Sciver
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 10.3:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.4:
+        non_striker: NR Sciver
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 10.5:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NR Sciver
+    - 10.6:
+        non_striker: DN Wyatt
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+        wicket:
+          player_out: NR Sciver
+          kind: bowled
+    - 11.1:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          kind: bowled
+    - 11.2:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 11.3:
+        non_striker: ME Bouchier
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 11.4:
+        non_striker: ME Bouchier
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 11.5:
+        non_striker: ME Bouchier
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 11.6:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.1:
+        non_striker: ME Bouchier
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 12.2:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.3:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 12.4:
+        non_striker: ME Bouchier
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 12.5:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.6:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 13.1:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 13.2:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 13.3:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 13.4:
+        non_striker: ME Bouchier
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 13.5:
+        non_striker: ME Bouchier
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 13.6:
+        non_striker: AE Jones
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 14.1:
+        non_striker: ME Bouchier
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 14.2:
+        non_striker: AE Jones
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 14.3:
+        non_striker: ME Bouchier
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 14.4:
+        non_striker: AE Jones
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 14.5:
+        non_striker: AE Jones
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 14.6:
+        non_striker: AE Jones
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 15.1:
+        non_striker: AE Jones
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 15.2:
+        non_striker: AE Jones
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 15.3:
+        non_striker: AE Jones
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+        wicket:
+          player_out: ME Bouchier
+          fielders:
+          - S Jafta
+          kind: run out
+    - 15.4:
+        non_striker: AE Jones
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 15.5:
+        non_striker: AE Jones
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 15.6:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 16.1:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 16.2:
+        non_striker: KH Brunt
+        bowler: D Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AE Jones
+    - 16.3:
+        non_striker: AE Jones
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 16.4:
+        non_striker: KH Brunt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 16.5:
+        non_striker: KH Brunt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 16.6:
+        non_striker: KH Brunt
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 17.1:
+        non_striker: AE Jones
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 17.2:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 17.3:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 17.4:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 17.5:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - T Brits
+          kind: caught
+    - 17.6:
+        non_striker: S Ecclestone
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 18.1:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ecclestone
+    - 18.2:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 18.3:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 18.4:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ecclestone
+    - 18.5:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 18.6:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 18.7:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 18.8:
+        non_striker: KH Brunt
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 19.1:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 19.2:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 19.3:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ecclestone
+    - 19.4:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ecclestone
+    - 19.5:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ecclestone
+    - 19.6:
+        non_striker: KH Brunt
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ecclestone
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: L Goodall
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 0.2:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 0.3:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Goodall
+    - 0.4:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+        wicket:
+          player_out: L Goodall
+          kind: bowled
+    - 0.5:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 0.6:
+        non_striker: T Brits
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 1.1:
+        non_striker: T Brits
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 1.2:
+        non_striker: T Brits
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 1.3:
+        non_striker: T Brits
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 1.4:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.5:
+        non_striker: T Brits
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 1.6:
+        non_striker: T Brits
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 2.1:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.2:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 2.3:
+        non_striker: T Brits
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 2.4:
+        non_striker: T Brits
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 2.5:
+        non_striker: T Brits
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 2.6:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 3.1:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 3.2:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.3:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 3.4:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.5:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 3.6:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 4.1:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 4.2:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.3:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 4.4:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 4.5:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 4.6:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 4.7:
+        non_striker: A Bosch
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 5.1:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.2:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 5.3:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.4:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.5:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 5.6:
+        non_striker: A Bosch
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 6.1:
+        non_striker: A Bosch
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Brits
+    - 6.2:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 6.3:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 6.4:
+        non_striker: A Bosch
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 6.5:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 6.6:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 7.1:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.2:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Bosch
+    - 7.3:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 7.4:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 7.5:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 7.6:
+        non_striker: A Bosch
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 8.1:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 8.2:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 8.3:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 8.4:
+        non_striker: T Brits
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 8.5:
+        non_striker: A Bosch
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 8.6:
+        non_striker: T Brits
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+        wicket:
+          player_out: A Bosch
+          fielders:
+          - AE Jones
+          kind: stumped
+    - 9.1:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 9.2:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 9.3:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Brits
+    - 9.4:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 9.5:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 9.6:
+        non_striker: T Brits
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 9.7:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 9.8:
+        non_striker: L Wolvaardt
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 10.1:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.2:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 10.3:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 10.4:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 10.5:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 10.6:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.1:
+        non_striker: L Wolvaardt
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.2:
+        non_striker: L Wolvaardt
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.3:
+        non_striker: T Brits
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 11.4:
+        non_striker: L Wolvaardt
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 11.5:
+        non_striker: L Wolvaardt
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 11.6:
+        non_striker: T Brits
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 12.1:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 12.2:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 12.3:
+        non_striker: L Wolvaardt
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 12.4:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 12.5:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 12.6:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.1:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: lbw
+    - 13.2:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 13.3:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 13.4:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 13.5:
+        non_striker: T Brits
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 13.6:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 14.1:
+        non_striker: M du Preez
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 14.2:
+        non_striker: T Brits
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 14.3:
+        non_striker: M du Preez
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 14.4:
+        non_striker: T Brits
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 14.5:
+        non_striker: T Brits
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 14.6:
+        non_striker: M du Preez
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 15.1:
+        non_striker: M du Preez
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 15.2:
+        non_striker: T Brits
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 15.3:
+        non_striker: T Brits
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 15.4:
+        non_striker: M du Preez
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 15.5:
+        non_striker: M du Preez
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 15.6:
+        non_striker: M du Preez
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 16.1:
+        non_striker: M du Preez
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 16.2:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 16.3:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 16.4:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - A Capsey
+          kind: caught
+    - 16.5:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 16.6:
+        non_striker: T Brits
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 17.1:
+        non_striker: CL Tryon
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Brits
+    - 17.2:
+        non_striker: CL Tryon
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - S Ecclestone
+          kind: caught
+    - 17.3:
+        non_striker: D Tucker
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 17.4:
+        non_striker: D Tucker
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 17.5:
+        non_striker: CL Tryon
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 17.6:
+        non_striker: CL Tryon
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Tucker
+    - 18.1:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CL Tryon
+    - 18.2:
+        non_striker: CL Tryon
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 18.3:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 18.4:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 18.5:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CL Tryon
+    - 18.6:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 18.7:
+        non_striker: D Tucker
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 19.1:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 19.2:
+        non_striker: D Tucker
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 19.3:
+        non_striker: D Tucker
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 19.4:
+        non_striker: CL Tryon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 19.5:
+        non_striker: D Tucker
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 19.6:
+        non_striker: D Tucker
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: bowled

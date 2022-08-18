@@ -1,0 +1,1750 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ghent
+  dates:
+  - '2022-06-28'
+  gender: male
+  match_type: T20
+  match_type_number: 1581
+  outcome:
+    winner: Belgium
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Aziz Mohammad
+  players:
+    Gibraltar:
+    - BA Pai
+    - L Bruce
+    - PA Raikes
+    - KJ Stagno
+    - IDM Latin
+    - M Gouws
+    - JD Freyone
+    - M Whelan
+    - K Nestor
+    - J Marples
+    - S Bodha
+    Belgium:
+    - Aziz Mohammad
+    - Muhammad Muneeb
+    - Omid Mailk Khel
+    - Shaheryar Butt
+    - Sheraz Sheikh
+    - Muhammad Fahim
+    - A Raza
+    - Murid Ekrami
+    - Saber Zakhil
+    - Shagharai Sefat
+    - Ahmad Khalid Ahmadzai
+  registry:
+    people:
+      A Raza: 838bc6ab
+      Adriaan van den Dries: 94b5ec3b
+      Ahmad Khalid Ahmadzai: e4ad57ea
+      Aziz Mohammad: b3e9555a
+      BA Pai: 716bf559
+      IDM Latin: 78f719ea
+      J Marples: 9d75aec7
+      JD Freyone: 7cd7eb50
+      K Nestor: b89cde87
+      KJ Stagno: 46ad7e01
+      L Bruce: 2a03bd2f
+      M Gouws: '018f6488'
+      M Whelan: d613f046
+      Muhammad Fahim: 5c57229d
+      Muhammad Muneeb: 5338b9f5
+      Murid Ekrami: 76b19864
+      Omid Mailk Khel: 2d94751e
+      PA Raikes: dfe5db8a
+      Phil Whitticase: 99d5f6fa
+      Rizwan Akram: b5346f1e
+      S Bodha: 00467a76
+      Saber Zakhil: 036dcf9b
+      Shagharai Sefat: 5e0bb751
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      Vinay Malhotra: 452837d1
+  teams:
+  - Gibraltar
+  - Belgium
+  toss:
+    winner: Belgium
+    decision: field
+  umpires:
+  - Adriaan van den Dries
+  - Rizwan Akram
+  venue: Meersen, Gent
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: BA Pai
+    - 0.2:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.3:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.4:
+        non_striker: L Bruce
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 0.5:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.6:
+        non_striker: L Bruce
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 1.1:
+        non_striker: L Bruce
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 1.2:
+        non_striker: L Bruce
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 1.3:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.4:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.5:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.6:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.1:
+        non_striker: L Bruce
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 2.2:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - Shaheryar Butt
+          kind: caught
+    - 2.3:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 2.4:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 2.5:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 2.6:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 3.1:
+        non_striker: PA Raikes
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.2:
+        non_striker: PA Raikes
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 3.3:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Raikes
+    - 3.4:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 3.5:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 3.6:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 4.1:
+        non_striker: PA Raikes
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.2:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 4.3:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Raikes
+    - 4.4:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 4.5:
+        non_striker: PA Raikes
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.6:
+        non_striker: PA Raikes
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 5.1:
+        non_striker: PA Raikes
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 5.2:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 5.3:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 5.4:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+        wicket:
+          player_out: PA Raikes
+          fielders:
+          - Saber Zakhil
+          kind: caught
+    - 5.5:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 5.6:
+        non_striker: BA Pai
+        bowler: Muhammad Fahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+    - 6.1:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 6.2:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.3:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Stagno
+    - 6.4:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.5:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 6.6:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.7:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 6.8:
+        non_striker: KJ Stagno
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.1:
+        non_striker: KJ Stagno
+        bowler: Shagharai Sefat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 7.2:
+        non_striker: KJ Stagno
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.3:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          fielders:
+          - A Raza
+          kind: caught
+    - 7.4:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IDM Latin
+    - 7.5:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 7.6:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 7.7:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 7.8:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 8.1:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 8.2:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 8.3:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 8.4:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Pai
+    - 8.5:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 8.6:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 8.7:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.1:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.2:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.3:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.4:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 9.5:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.6:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 10.1:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.2:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDM Latin
+    - 10.3:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 10.4:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.5:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 10.6:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.1:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.2:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDM Latin
+    - 11.3:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.4:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 11.5:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 11.6:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.7:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: IDM Latin
+    - 11.8:
+        non_striker: IDM Latin
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.1:
+        non_striker: IDM Latin
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.2:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 12.3:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.4:
+        non_striker: IDM Latin
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.5:
+        non_striker: BA Pai
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.6:
+        non_striker: IDM Latin
+        bowler: Murid Ekrami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.1:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 13.2:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 13.3:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.4:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 13.5:
+        non_striker: IDM Latin
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.6:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDM Latin
+    - 14.1:
+        non_striker: IDM Latin
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 14.2:
+        non_striker: BA Pai
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDM Latin
+    - 14.3:
+        non_striker: BA Pai
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 14.4:
+        non_striker: IDM Latin
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 14.5:
+        non_striker: BA Pai
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 14.6:
+        non_striker: IDM Latin
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 15.1:
+        non_striker: IDM Latin
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 15.2:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          kind: bowled
+    - 15.3:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 15.4:
+        non_striker: M Gouws
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 15.5:
+        non_striker: M Gouws
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 15.6:
+        non_striker: M Gouws
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 16.1:
+        non_striker: M Gouws
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 16.2:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 16.3:
+        non_striker: M Gouws
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 16.4:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 16.5:
+        non_striker: M Gouws
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 16.6:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 17.1:
+        non_striker: M Gouws
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 17.2:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 17.3:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gouws
+    - 17.4:
+        non_striker: M Gouws
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 17.5:
+        non_striker: M Gouws
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 17.6:
+        non_striker: BA Pai
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+        wicket:
+          player_out: M Gouws
+          kind: bowled
+    - 18.1:
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JD Freyone
+        batsman: BA Pai
+    - 18.2:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 18.3:
+        non_striker: JD Freyone
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 18.4:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Freyone
+    - 18.5:
+        non_striker: BA Pai
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 18.6:
+        non_striker: JD Freyone
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 19.1:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 19.2:
+        non_striker: JD Freyone
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.3:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Freyone
+    - 19.4:
+        non_striker: JD Freyone
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.5:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+    - 19.6:
+        non_striker: BA Pai
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Freyone
+- 2nd innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Muneeb
+        batsman: Aziz Mohammad
+    - 0.2:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Muhammad Muneeb
+        batsman: Aziz Mohammad
+    - 0.3:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Muneeb
+        batsman: Aziz Mohammad
+    - 0.4:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Muneeb
+        batsman: Aziz Mohammad
+    - 0.5:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 0.6:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 1.1:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 1.2:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aziz Mohammad
+    - 1.3:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 1.4:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 1.5:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 1.6:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aziz Mohammad
+    - 2.1:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 2.2:
+        non_striker: Muhammad Muneeb
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 2.3:
+        non_striker: Muhammad Muneeb
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 2.4:
+        non_striker: Muhammad Muneeb
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aziz Mohammad
+    - 2.5:
+        non_striker: Muhammad Muneeb
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aziz Mohammad
+    - 2.6:
+        non_striker: Muhammad Muneeb
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aziz Mohammad
+    - 3.1:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 3.2:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Aziz Mohammad
+    - 3.3:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 3.4:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 3.5:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 3.6:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 3.7:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 4.1:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Muneeb
+    - 4.2:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 4.3:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 4.4:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Muneeb
+    - 4.5:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 4.6:
+        non_striker: Muhammad Muneeb
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 5.1:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 5.2:
+        non_striker: Aziz Mohammad
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 5.3:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 5.4:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 5.5:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 5.6:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aziz Mohammad
+    - 5.7:
+        non_striker: Muhammad Muneeb
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aziz Mohammad
+    - 6.1:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aziz Mohammad
+    - 6.2:
+        non_striker: Aziz Mohammad
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 6.3:
+        non_striker: Aziz Mohammad
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 6.4:
+        non_striker: Aziz Mohammad
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 6.5:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 6.6:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aziz Mohammad
+    - 7.1:
+        non_striker: Muhammad Muneeb
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+    - 7.2:
+        non_striker: Muhammad Muneeb
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 7.3:
+        non_striker: Muhammad Muneeb
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aziz Mohammad
+    - 7.4:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+    - 7.5:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 7.6:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Muneeb
+    - 8.1:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 8.2:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aziz Mohammad
+    - 8.3:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aziz Mohammad
+        wicket:
+          player_out: Aziz Mohammad
+          fielders:
+          - L Bruce
+          kind: caught
+    - 8.4:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omid Mailk Khel
+    - 8.5:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omid Mailk Khel
+    - 8.6:
+        non_striker: Muhammad Muneeb
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omid Mailk Khel
+    - 9.1:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Muneeb
+    - 9.2:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Muneeb
+    - 9.3:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Muneeb
+    - 9.4:
+        non_striker: Muhammad Muneeb
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omid Mailk Khel
+    - 9.5:
+        non_striker: Muhammad Muneeb
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omid Mailk Khel
+    - 9.6:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Muneeb
+        wicket:
+          player_out: Muhammad Muneeb
+          kind: bowled
+    - 10.1:
+        non_striker: Shaheryar Butt
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omid Mailk Khel
+        wicket:
+          player_out: Omid Mailk Khel
+          fielders:
+          - IDM Latin
+          kind: caught
+    - 10.2:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Sheraz Sheikh
+        batsman: Shaheryar Butt
+    - 10.3:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        batsman: Shaheryar Butt
+    - 10.4:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        batsman: Shaheryar Butt
+    - 10.5:
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        batsman: Shaheryar Butt
+    - 10.6:
+        non_striker: Sheraz Sheikh
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 11.1:
+        non_striker: Sheraz Sheikh
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.2:
+        non_striker: Sheraz Sheikh
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheryar Butt
+    - 11.3:
+        non_striker: Sheraz Sheikh
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheryar Butt
+    - 11.4:
+        non_striker: Shaheryar Butt
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 11.5:
+        non_striker: Shaheryar Butt
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sheraz Sheikh
+    - 11.6:
+        non_striker: Shaheryar Butt
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sheraz Sheikh

@@ -1,0 +1,1885 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2022-02-24'
+  gender: male
+  match_type: T20
+  match_type_number: 1488
+  outcome:
+    winner: Canada
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - H Thaker
+  players:
+    Bahrain:
+    - Muhammad Younis
+    - Sarfaraz Ali
+    - Shahbaz Badar
+    - DK Mathias
+    - Haider Butt
+    - Sikder Billah
+    - S Veerapathiran
+    - Imran Anwar
+    - Junaid Aziz
+    - G Axtell
+    - Waseeq Ahmed
+    Canada:
+    - R Pathan
+    - M Spoors
+    - S Movva
+    - NS Dhaliwal
+    - Hamza Tariq
+    - H Thaker
+    - RR Joshi
+    - Salman Nazar
+    - Saad Bin Zafar
+    - D Heyliger
+    - Kaleem Sana
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      Akbar Ali: e753931d
+      D Heyliger: f8c72766
+      DK Mathias: bec5cab9
+      DN Subedi: fb0a571f
+      G Axtell: e6a7c6e2
+      H Thaker: c01d7726
+      Haider Butt: 14fd10b5
+      Hamza Tariq: 82e81007
+      Imran Anwar: a9a18e3e
+      Junaid Aziz: c39ee9e0
+      Kaleem Sana: 14810ee7
+      M Spoors: da4a1e46
+      Muhammad Javed: bde2d0ea
+      Muhammad Younis: 41eb66fd
+      NS Dhaliwal: cbabd6ad
+      R Pathan: 7c840f73
+      RR Joshi: a323465c
+      S Movva: ee229588
+      S Veerapathiran: 1e569fb0
+      Saad Bin Zafar: f28a60e0
+      Salman Nazar: 679af2e2
+      Sarfaraz Ali: db95ddeb
+      Shahbaz Badar: 23eedcd3
+      Sikder Billah: aa76333b
+      Waseeq Ahmed: a7d6c101
+  teams:
+  - Bahrain
+  - Canada
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - Akbar Ali
+  - DN Subedi
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sarfaraz Ali
+        batsman: Muhammad Younis
+    - 0.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sarfaraz Ali
+        batsman: Muhammad Younis
+    - 0.3:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sarfaraz Ali
+        batsman: Muhammad Younis
+    - 0.4:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarfaraz Ali
+        batsman: Muhammad Younis
+    - 0.5:
+        non_striker: Muhammad Younis
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 0.6:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Younis
+    - 1.1:
+        non_striker: Sarfaraz Ali
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Younis
+    - 1.2:
+        non_striker: Sarfaraz Ali
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Younis
+    - 1.3:
+        non_striker: Muhammad Younis
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 1.4:
+        non_striker: Sarfaraz Ali
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Younis
+    - 1.5:
+        non_striker: Muhammad Younis
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarfaraz Ali
+    - 1.6:
+        non_striker: Sarfaraz Ali
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Younis
+    - 2.1:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Younis
+    - 2.2:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Younis
+    - 2.3:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Younis
+    - 2.4:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Younis
+        wicket:
+          player_out: Muhammad Younis
+          fielders:
+          - S Movva
+          kind: caught
+    - 2.5:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahbaz Badar
+    - 2.6:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Badar
+    - 2.7:
+        non_striker: Sarfaraz Ali
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Badar
+    - 3.1:
+        non_striker: Shahbaz Badar
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sarfaraz Ali
+    - 3.2:
+        non_striker: Shahbaz Badar
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarfaraz Ali
+        wicket:
+          player_out: Sarfaraz Ali
+          kind: bowled
+    - 3.3:
+        non_striker: Shahbaz Badar
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 3.4:
+        non_striker: Shahbaz Badar
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 3.5:
+        non_striker: Shahbaz Badar
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 3.6:
+        non_striker: DK Mathias
+        bowler: RR Joshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Badar
+    - 4.1:
+        non_striker: Shahbaz Badar
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Mathias
+    - 4.2:
+        non_striker: Shahbaz Badar
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 4.3:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Badar
+    - 4.4:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Badar
+        wicket:
+          player_out: Shahbaz Badar
+          kind: caught and bowled
+    - 4.5:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 4.6:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 5.1:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Mathias
+    - 5.2:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 5.3:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Mathias
+    - 5.4:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 5.5:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DK Mathias
+    - 5.6:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 5.7:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 6.1:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 6.2:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 6.3:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 6.4:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 6.5:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 6.6:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 7.1:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Mathias
+    - 7.2:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 7.3:
+        non_striker: Haider Butt
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DK Mathias
+    - 7.4:
+        non_striker: DK Mathias
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 7.5:
+        non_striker: DK Mathias
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 7.6:
+        non_striker: DK Mathias
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 8.1:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 8.2:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 8.3:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DK Mathias
+    - 8.4:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 8.5:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 8.6:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 9.1:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 9.2:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 9.3:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DK Mathias
+    - 9.4:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 9.5:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 9.6:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 10.1:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 10.2:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 10.3:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 10.4:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+    - 10.5:
+        non_striker: Haider Butt
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 10.6:
+        non_striker: DK Mathias
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.1:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 11.2:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 11.3:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Haider Butt
+    - 11.4:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Butt
+    - 11.5:
+        non_striker: DK Mathias
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 11.6:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Mathias
+    - 12.1:
+        non_striker: Haider Butt
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Mathias
+        wicket:
+          player_out: DK Mathias
+          kind: caught and bowled
+    - 12.2:
+        non_striker: Haider Butt
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 12.3:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 12.4:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 12.5:
+        non_striker: Haider Butt
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 12.6:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+    - 13.1:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikder Billah
+    - 13.2:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikder Billah
+    - 13.3:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikder Billah
+    - 13.4:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikder Billah
+    - 13.5:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikder Billah
+    - 13.6:
+        non_striker: Haider Butt
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikder Billah
+    - 14.1:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Butt
+    - 14.2:
+        non_striker: Haider Butt
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikder Billah
+    - 14.3:
+        non_striker: Haider Butt
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 14.4:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Butt
+        wicket:
+          player_out: Haider Butt
+          fielders:
+          - Hamza Tariq
+          kind: caught
+    - 14.5:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Veerapathiran
+    - 14.6:
+        non_striker: S Veerapathiran
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikder Billah
+    - 15.1:
+        non_striker: Sikder Billah
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Veerapathiran
+    - 15.2:
+        non_striker: S Veerapathiran
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 15.3:
+        non_striker: Sikder Billah
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Veerapathiran
+    - 15.4:
+        non_striker: Sikder Billah
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Veerapathiran
+    - 15.5:
+        non_striker: Sikder Billah
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Veerapathiran
+    - 15.6:
+        non_striker: Sikder Billah
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Veerapathiran
+    - 16.1:
+        non_striker: S Veerapathiran
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 16.2:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Veerapathiran
+        wicket:
+          player_out: S Veerapathiran
+          fielders:
+          - RR Joshi
+          kind: caught
+    - 16.3:
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Imran Anwar
+        batsman: Sikder Billah
+    - 16.4:
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Imran Anwar
+        batsman: Sikder Billah
+    - 16.5:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+    - 16.6:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+    - 17.1:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 17.2:
+        non_striker: Sikder Billah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Anwar
+    - 17.3:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikder Billah
+    - 17.4:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 17.5:
+        non_striker: Sikder Billah
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imran Anwar
+    - 17.6:
+        non_striker: Sikder Billah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Anwar
+    - 17.7:
+        non_striker: Sikder Billah
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Anwar
+    - 18.1:
+        non_striker: Imran Anwar
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikder Billah
+    - 18.2:
+        non_striker: Imran Anwar
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikder Billah
+    - 18.3:
+        non_striker: Sikder Billah
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Anwar
+    - 18.4:
+        non_striker: Imran Anwar
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikder Billah
+        wicket:
+          player_out: Sikder Billah
+          fielders:
+          - Hamza Tariq
+          kind: caught
+    - 18.5:
+        non_striker: Imran Anwar
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 18.6:
+        non_striker: Junaid Aziz
+        bowler: H Thaker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Anwar
+    - 19.1:
+        non_striker: Junaid Aziz
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Anwar
+    - 19.2:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Junaid Aziz
+    - 19.3:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Junaid Aziz
+    - 19.4:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+        wicket:
+          player_out: Junaid Aziz
+          kind: bowled
+    - 19.5:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Axtell
+    - 19.6:
+        non_striker: Imran Anwar
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Axtell
+    - 19.7:
+        non_striker: G Axtell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Anwar
+    - 19.8:
+        non_striker: G Axtell
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Anwar
+- 2nd innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.2:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.3:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.4:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.5:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.6:
+        non_striker: R Pathan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+    - 1.1:
+        non_striker: M Spoors
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 1.2:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+    - 1.3:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Spoors
+    - 1.4:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+        wicket:
+          player_out: M Spoors
+          kind: lbw
+    - 1.5:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 1.6:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 2.1:
+        non_striker: S Movva
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 2.2:
+        non_striker: S Movva
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 2.3:
+        non_striker: S Movva
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Pathan
+    - 2.4:
+        non_striker: S Movva
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 2.5:
+        non_striker: R Pathan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 2.6:
+        non_striker: R Pathan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 3.1:
+        non_striker: S Movva
+        bowler: G Axtell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pathan
+    - 3.2:
+        non_striker: S Movva
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 3.3:
+        non_striker: S Movva
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pathan
+    - 3.4:
+        non_striker: S Movva
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 3.5:
+        non_striker: S Movva
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 3.6:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 3.7:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 4.1:
+        non_striker: S Movva
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pathan
+    - 4.2:
+        non_striker: S Movva
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 4.3:
+        non_striker: S Movva
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 4.4:
+        non_striker: R Pathan
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 4.5:
+        non_striker: S Movva
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pathan
+    - 4.6:
+        non_striker: S Movva
+        bowler: DK Mathias
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Pathan
+    - 5.1:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.2:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 5.3:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 5.4:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.5:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.6:
+        non_striker: R Pathan
+        bowler: G Axtell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 6.1:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 6.2:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 6.3:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 6.4:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pathan
+    - 6.5:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 6.6:
+        non_striker: R Pathan
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.1:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 7.2:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+        wicket:
+          player_out: R Pathan
+          fielders:
+          - G Axtell
+          kind: caught
+    - 7.3:
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NS Dhaliwal
+        batsman: S Movva
+    - 7.4:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.5:
+        non_striker: NS Dhaliwal
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 7.6:
+        non_striker: NS Dhaliwal
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 8.1:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 8.2:
+        non_striker: NS Dhaliwal
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 8.3:
+        non_striker: NS Dhaliwal
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 8.4:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.5:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.6:
+        non_striker: S Movva
+        bowler: S Veerapathiran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 9.1:
+        non_striker: NS Dhaliwal
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 9.2:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 9.3:
+        non_striker: NS Dhaliwal
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 9.4:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 9.5:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 9.6:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 10.1:
+        non_striker: NS Dhaliwal
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 10.2:
+        non_striker: S Movva
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 10.3:
+        non_striker: NS Dhaliwal
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 10.4:
+        non_striker: S Movva
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 10.5:
+        non_striker: S Movva
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 10.6:
+        non_striker: NS Dhaliwal
+        bowler: Sarfaraz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.1:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.2:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.3:
+        non_striker: S Movva
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 11.4:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.5:
+        non_striker: S Movva
+        bowler: Junaid Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NS Dhaliwal
+    - 11.6:
+        non_striker: S Movva
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 11.7:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 12.1:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 12.2:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 12.3:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 12.4:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 12.5:
+        non_striker: S Movva
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 12.6:
+        non_striker: NS Dhaliwal
+        bowler: Waseeq Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Movva
+    - 13.1:
+        non_striker: S Movva
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 13.2:
+        non_striker: S Movva
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 13.3:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+        wicket:
+          player_out: S Movva
+          fielders:
+          - G Axtell
+          kind: caught
+    - 13.4:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Tariq
+    - 13.5:
+        non_striker: NS Dhaliwal
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tariq
+    - 13.6:
+        non_striker: Hamza Tariq
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NS Dhaliwal
+    - 13.7:
+        non_striker: Hamza Tariq
+        bowler: Junaid Aziz
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: NS Dhaliwal
+    - 13.8:
+        non_striker: Hamza Tariq
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NS Dhaliwal
+    - 14.1:
+        non_striker: NS Dhaliwal
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tariq
+    - 14.2:
+        non_striker: Hamza Tariq
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NS Dhaliwal
+    - 14.3:
+        non_striker: Hamza Tariq
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal

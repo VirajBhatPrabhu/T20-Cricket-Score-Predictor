@@ -1,0 +1,2106 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2022-07-19'
+  gender: male
+  match_type: T20
+  match_type_number: 1674
+  outcome:
+    winner: Croatia
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - N Davidovic
+  players:
+    Serbia:
+    - LA Dunbar
+    - A Dizija
+    - S Ivetic
+    - A Mene-Ejegi
+    - ML Kostic
+    - MV Pavlovic
+    - WAE Burton
+    - NR Johns-Wickberg
+    - V Zimonjic
+    - S Tosic
+    - M Sarenac
+    Croatia:
+    - JM Vujinovich
+    - D Marsic
+    - JD Newton
+    - DJ Turkich
+    - SD Valjalo
+    - N Davidovic
+    - CP Turkich
+    - B Jerkovic
+    - J Grzinic
+    - WK Bitis
+    - M Jukic
+  registry:
+    people:
+      A Dizija: 6483c062
+      A Mene-Ejegi: e4f13acd
+      A Paleker: 634b11ac
+      B Jerkovic: 63bd7086
+      CP Turkich: 6264d645
+      D Marsic: 16fa34cf
+      DJ Turkich: '96013995'
+      GH Pienaar: 3516e46b
+      J Grzinic: 03c94c2f
+      JD Newton: ec201565
+      JM Vujinovich: 99ad98b0
+      LA Dunbar: f50433e9
+      M Jukic: 8fcebe83
+      M Sarenac: f5ba4611
+      ML Kostic: 79e23cc5
+      MV Pavlovic: 2809b390
+      N Davidovic: e48c6ec7
+      NR Johns-Wickberg: 3924b2ee
+      S Ivetic: 04ab1575
+      S Kuchimanchi: b0cad015
+      S Tosic: 1c40f69f
+      SB Ravindra: 394ba7a8
+      SD Valjalo: 62d3f506
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+      WK Bitis: b34de9a6
+  teams:
+  - Serbia
+  - Croatia
+  toss:
+    winner: Serbia
+    decision: bat
+  umpires:
+  - A Paleker
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: LA Dunbar
+    - 0.2:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Dizija
+        batsman: LA Dunbar
+    - 0.3:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: LA Dunbar
+    - 0.4:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: LA Dunbar
+    - 0.5:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: LA Dunbar
+    - 0.6:
+        non_striker: A Dizija
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 1.1:
+        non_striker: LA Dunbar
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          fielders:
+          - DJ Turkich
+          - J Grzinic
+          kind: run out
+    - 1.2:
+        non_striker: LA Dunbar
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 1.3:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 1.4:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 1.5:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 1.6:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.1:
+        non_striker: LA Dunbar
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 2.2:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 2.3:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.4:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.5:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 2.6:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.1:
+        non_striker: LA Dunbar
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.2:
+        non_striker: LA Dunbar
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 3.3:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.4:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.5:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LA Dunbar
+    - 3.6:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 3.7:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+        wicket:
+          player_out: LA Dunbar
+          fielders:
+          - J Grzinic
+          kind: caught
+    - 4.1:
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mene-Ejegi
+        batsman: S Ivetic
+    - 4.2:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mene-Ejegi
+        wicket:
+          player_out: A Mene-Ejegi
+          kind: bowled
+    - 4.3:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 4.4:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Kostic
+    - 4.5:
+        non_striker: ML Kostic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.6:
+        non_striker: ML Kostic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 5.1:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Kostic
+    - 5.2:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Kostic
+    - 5.3:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Kostic
+    - 5.4:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 5.5:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+    - 5.6:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Kostic
+    - 5.7:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Kostic
+    - 6.1:
+        non_striker: ML Kostic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.2:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Kostic
+        wicket:
+          player_out: ML Kostic
+          kind: bowled
+    - 6.3:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 6.4:
+        non_striker: MV Pavlovic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 6.5:
+        non_striker: MV Pavlovic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 6.6:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 7.1:
+        non_striker: MV Pavlovic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 7.2:
+        non_striker: MV Pavlovic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 7.3:
+        non_striker: MV Pavlovic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 7.4:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 7.5:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 7.6:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 8.1:
+        non_striker: MV Pavlovic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 8.2:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Pavlovic
+    - 8.3:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Pavlovic
+    - 8.4:
+        non_striker: MV Pavlovic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 8.5:
+        non_striker: MV Pavlovic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 8.6:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Pavlovic
+        wicket:
+          player_out: MV Pavlovic
+          fielders:
+          - CP Turkich
+          kind: stumped
+    - 8.7:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 9.1:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 9.2:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 9.3:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 9.4:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 9.5:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 9.6:
+        non_striker: WAE Burton
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.1:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WAE Burton
+    - 10.2:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 10.3:
+        non_striker: WAE Burton
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.4:
+        non_striker: WAE Burton
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 10.5:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          fielders:
+          - DJ Turkich
+          kind: caught
+    - 10.6:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 11.1:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.2:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.3:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.4:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.5:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.6:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 12.1:
+        non_striker: NR Johns-Wickberg
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 12.2:
+        non_striker: NR Johns-Wickberg
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 12.3:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Johns-Wickberg
+    - 12.4:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Johns-Wickberg
+    - 12.5:
+        non_striker: S Ivetic
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 12.6:
+        non_striker: NR Johns-Wickberg
+        bowler: N Davidovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 13.1:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 13.2:
+        non_striker: NR Johns-Wickberg
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 13.3:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 13.4:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 13.5:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 13.6:
+        non_striker: S Ivetic
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 14.1:
+        non_striker: NR Johns-Wickberg
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 14.2:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 14.3:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 14.4:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 14.5:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 14.6:
+        non_striker: NR Johns-Wickberg
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 15.1:
+        non_striker: NR Johns-Wickberg
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 15.2:
+        non_striker: NR Johns-Wickberg
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 15.3:
+        non_striker: NR Johns-Wickberg
+        bowler: JM Vujinovich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 15.4:
+        non_striker: NR Johns-Wickberg
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 15.5:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Johns-Wickberg
+    - 15.6:
+        non_striker: NR Johns-Wickberg
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 15.7:
+        non_striker: S Ivetic
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 16.1:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Johns-Wickberg
+    - 16.2:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 16.3:
+        non_striker: NR Johns-Wickberg
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 16.4:
+        non_striker: NR Johns-Wickberg
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 16.5:
+        non_striker: NR Johns-Wickberg
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 16.6:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 17.1:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 17.2:
+        non_striker: NR Johns-Wickberg
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 17.3:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Johns-Wickberg
+    - 17.4:
+        non_striker: NR Johns-Wickberg
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 17.5:
+        non_striker: NR Johns-Wickberg
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: NR Johns-Wickberg
+          fielders:
+          - SD Valjalo
+          kind: run out
+    - 17.6:
+        non_striker: S Ivetic
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Zimonjic
+        wicket:
+          player_out: V Zimonjic
+          kind: bowled
+    - 18.1:
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Tosic
+        batsman: S Ivetic
+    - 18.2:
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Tosic
+        batsman: S Ivetic
+    - 18.3:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 18.4:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+    - 18.5:
+        non_striker: S Ivetic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 18.6:
+        non_striker: S Tosic
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: S Ivetic
+          kind: bowled
+    - 19.1:
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Sarenac
+        batsman: S Tosic
+    - 19.2:
+        non_striker: S Tosic
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sarenac
+    - 19.3:
+        non_striker: M Sarenac
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Tosic
+    - 19.4:
+        non_striker: M Sarenac
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tosic
+    - 19.5:
+        non_striker: S Tosic
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Sarenac
+    - 19.6:
+        non_striker: M Sarenac
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tosic
+        wicket:
+          player_out: S Tosic
+          kind: bowled
+- 2nd innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.2:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.3:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.4:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.5:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.6:
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: D Marsic
+        batsman: JM Vujinovich
+    - 0.7:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Marsic
+    - 0.8:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 1.1:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Marsic
+    - 1.2:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 1.3:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 1.4:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 1.5:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: JM Vujinovich
+    - 1.6:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 2.1:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 2.2:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 2.3:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Marsic
+    - 2.4:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 2.5:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 2.6:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 2.7:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Marsic
+    - 3.1:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Marsic
+    - 3.2:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 3.3:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 3.4:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Marsic
+    - 3.5:
+        non_striker: D Marsic
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vujinovich
+    - 3.6:
+        non_striker: JM Vujinovich
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Marsic
+    - 4.1:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 4.2:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 4.3:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 4.4:
+        non_striker: D Marsic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 4.5:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 4.6:
+        non_striker: JM Vujinovich
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Marsic
+    - 5.1:
+        non_striker: D Marsic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 5.2:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Marsic
+    - 5.3:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Marsic
+    - 5.4:
+        non_striker: D Marsic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 5.5:
+        non_striker: D Marsic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 5.6:
+        non_striker: D Marsic
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 6.1:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 6.2:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 6.3:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 6.4:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+        wicket:
+          player_out: D Marsic
+          fielders:
+          - ML Kostic
+          kind: caught
+    - 6.5:
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JD Newton
+        batsman: JM Vujinovich
+    - 6.6:
+        non_striker: JD Newton
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 7.1:
+        non_striker: JD Newton
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vujinovich
+    - 7.2:
+        non_striker: JD Newton
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 7.3:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+    - 7.4:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+        wicket:
+          player_out: JD Newton
+          fielders:
+          - WAE Burton
+          kind: caught
+    - 7.5:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DJ Turkich
+        batsman: JM Vujinovich
+    - 7.6:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 8.1:
+        non_striker: DJ Turkich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 8.2:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 8.3:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 8.4:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 8.5:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 8.6:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 9.1:
+        non_striker: DJ Turkich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 9.2:
+        non_striker: DJ Turkich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 9.3:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 9.4:
+        non_striker: DJ Turkich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 9.5:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 9.6:
+        non_striker: JM Vujinovich
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 10.1:
+        non_striker: DJ Turkich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 10.2:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 10.3:
+        non_striker: DJ Turkich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 10.4:
+        non_striker: DJ Turkich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 10.5:
+        non_striker: DJ Turkich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 10.6:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 11.1:
+        non_striker: DJ Turkich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 11.2:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 11.3:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 11.4:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 11.5:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 11.6:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 12.1:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 12.2:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 12.3:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 12.4:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+        wicket:
+          player_out: DJ Turkich
+          fielders:
+          - MV Pavlovic
+          kind: caught
+    - 12.5:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 12.6:
+        non_striker: JM Vujinovich
+        bowler: S Tosic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 13.1:
+        non_striker: JM Vujinovich
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 13.2:
+        non_striker: JM Vujinovich
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 13.3:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 13.4:
+        non_striker: JM Vujinovich
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Valjalo
+    - 13.5:
+        non_striker: JM Vujinovich
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Valjalo
+    - 13.6:
+        non_striker: JM Vujinovich
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 14.1:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 14.2:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 14.3:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 14.4:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 14.5:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 14.6:
+        non_striker: JM Vujinovich
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 15.1:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 15.2:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+        wicket:
+          player_out: JM Vujinovich
+          kind: lbw
+    - 15.3:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davidovic
+    - 15.4:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Davidovic
+    - 15.5:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davidovic
+    - 15.6:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davidovic
+        wicket:
+          player_out: N Davidovic
+          fielders:
+          - S Ivetic
+          kind: caught
+    - 16.1:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+        wicket:
+          player_out: CP Turkich
+          kind: bowled
+    - 16.2:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 16.3:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 16.4:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Jerkovic
+    - 16.5:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 16.6:
+        non_striker: SD Valjalo
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 17.1:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+        wicket:
+          player_out: B Jerkovic
+          kind: lbw
+    - 17.2:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 17.3:
+        non_striker: J Grzinic
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 17.4:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 17.5:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 17.6:
+        non_striker: SD Valjalo
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 18.1:
+        non_striker: SD Valjalo
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Grzinic
+    - 18.2:
+        non_striker: SD Valjalo
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 18.3:
+        non_striker: SD Valjalo
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 18.4:
+        non_striker: SD Valjalo
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 18.5:
+        non_striker: J Grzinic
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SD Valjalo

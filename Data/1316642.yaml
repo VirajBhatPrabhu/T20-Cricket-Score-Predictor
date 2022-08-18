@@ -1,0 +1,2172 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  dates:
+  - '2022-06-03'
+  gender: female
+  match_type: T20
+  match_type_number: 1090
+  outcome:
+    winner: Ireland
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - L Paul
+  players:
+    Ireland:
+    - L Paul
+    - GH Lewis
+    - MV Waldron
+    - SM Kavanagh
+    - S MacMahon
+    - AN Kelly
+    - Rachel Delaney
+    - G Dempsey
+    - C Raack
+    - J Maguire
+    - C Murray
+    South Africa:
+    - L Goodall
+    - T Brits
+    - A Bosch
+    - L Wolvaardt
+    - S Luus
+    - CL Tryon
+    - N de Klerk
+    - T Chetty
+    - S Ismail
+    - TS Sekhukhune
+    - N Mlaba
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      AN Kelly: 397369e0
+      Aidan Seaver: 862c0b16
+      C Murray: 5a50471c
+      C Raack: 28aba384
+      CL Tryon: 4d4605e6
+      G Dempsey: 940feccc
+      G McCrea: 46f4a901
+      GH Lewis: 1b9d1579
+      J Maguire: 1b1c23bb
+      Jareth McCready: 84fa5232
+      L Goodall: 0bb32e98
+      L Paul: '07248d8e'
+      L Wolvaardt: e60f81c9
+      MV Waldron: 2e4f11e9
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      PA Reynolds: a416c9c3
+      Rachel Delaney: d284ef29
+      S Ismail: 108c4c09
+      S Luus: 6d76bc23
+      S MacMahon: ef2bcebf
+      SM Kavanagh: 7e9b3b60
+      T Brits: '06659caa'
+      T Chetty: 53a5767d
+      TS Sekhukhune: 6e28e586
+  teams:
+  - Ireland
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - PA Reynolds
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: L Paul
+    - 0.2:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 0.5:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 0.7:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 1.5:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 2.2:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.4:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.5:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 3.3:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 3.4:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 4.4:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: L Paul
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.2:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.3:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 5.5:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.6:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 6.1:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: GH Lewis
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 6.5:
+        non_striker: L Paul
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.2:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 7.4:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.6:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 8.2:
+        non_striker: L Paul
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 8.4:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 8.5:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 8.6:
+        non_striker: L Paul
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 8.7:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 9.1:
+        non_striker: L Paul
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.2:
+        non_striker: L Paul
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 9.3:
+        non_striker: L Paul
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 9.4:
+        non_striker: GH Lewis
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 9.5:
+        non_striker: GH Lewis
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 9.6:
+        non_striker: GH Lewis
+        bowler: A Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 10.1:
+        non_striker: L Paul
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.2:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 10.3:
+        non_striker: L Paul
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.4:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 10.5:
+        non_striker: L Paul
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 11.1:
+        non_striker: L Paul
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.2:
+        non_striker: GH Lewis
+        bowler: S Luus
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: L Paul
+    - 11.3:
+        non_striker: GH Lewis
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.4:
+        non_striker: L Paul
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.5:
+        non_striker: GH Lewis
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.6:
+        non_striker: L Paul
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.7:
+        non_striker: GH Lewis
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - T Brits
+          - TS Sekhukhune
+          kind: run out
+    - 12.2:
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Waldron
+        batsman: L Paul
+    - 12.3:
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MV Waldron
+        batsman: L Paul
+    - 12.4:
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Waldron
+        batsman: L Paul
+    - 12.5:
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MV Waldron
+        batsman: L Paul
+    - 12.6:
+        non_striker: L Paul
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 13.1:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 13.2:
+        non_striker: MV Waldron
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.3:
+        non_striker: MV Waldron
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 13.4:
+        non_striker: L Paul
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 13.5:
+        non_striker: MV Waldron
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - CL Tryon
+          kind: caught
+    - 13.6:
+        non_striker: SM Kavanagh
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 14.1:
+        non_striker: MV Waldron
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 14.2:
+        non_striker: MV Waldron
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 14.3:
+        non_striker: SM Kavanagh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 14.4:
+        non_striker: MV Waldron
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Kavanagh
+    - 14.5:
+        non_striker: MV Waldron
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 14.6:
+        non_striker: SM Kavanagh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MV Waldron
+    - 15.1:
+        non_striker: MV Waldron
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 15.2:
+        non_striker: SM Kavanagh
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MV Waldron
+    - 15.3:
+        non_striker: SM Kavanagh
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 15.4:
+        non_striker: SM Kavanagh
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Waldron
+    - 15.5:
+        non_striker: SM Kavanagh
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 15.6:
+        non_striker: SM Kavanagh
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+        wicket:
+          player_out: MV Waldron
+          fielders:
+          - T Chetty
+          kind: caught
+    - 16.1:
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S MacMahon
+        batsman: SM Kavanagh
+    - 16.2:
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S MacMahon
+        batsman: SM Kavanagh
+    - 16.3:
+        non_striker: SM Kavanagh
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S MacMahon
+        wicket:
+          player_out: S MacMahon
+          kind: lbw
+    - 16.4:
+        non_striker: SM Kavanagh
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 16.5:
+        non_striker: SM Kavanagh
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 16.6:
+        non_striker: AN Kelly
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 17.1:
+        non_striker: SM Kavanagh
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 17.2:
+        non_striker: SM Kavanagh
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 17.3:
+        non_striker: AN Kelly
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+    - 17.4:
+        non_striker: AN Kelly
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Kavanagh
+    - 17.5:
+        non_striker: SM Kavanagh
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 17.6:
+        non_striker: SM Kavanagh
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 18.1:
+        non_striker: AN Kelly
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Kavanagh
+    - 18.2:
+        non_striker: AN Kelly
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Kavanagh
+        wicket:
+          player_out: SM Kavanagh
+          kind: bowled
+    - 18.3:
+        non_striker: AN Kelly
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 18.4:
+        non_striker: Rachel Delaney
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          kind: bowled
+    - 18.5:
+        non_striker: Rachel Delaney
+        bowler: TS Sekhukhune
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Dempsey
+        wicket:
+          player_out: G Dempsey
+          fielders:
+          - T Chetty
+          kind: caught
+    - 18.6:
+        non_striker: Rachel Delaney
+        bowler: TS Sekhukhune
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Raack
+    - 19.1:
+        non_striker: Rachel Delaney
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 19.2:
+        non_striker: C Raack
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 19.3:
+        non_striker: Rachel Delaney
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Raack
+    - 19.4:
+        non_striker: Rachel Delaney
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Raack
+    - 19.5:
+        non_striker: Rachel Delaney
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Raack
+    - 19.6:
+        non_striker: C Raack
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+        wicket:
+          player_out: L Goodall
+          fielders:
+          - MV Waldron
+          kind: caught
+    - 0.2:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 0.3:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 0.4:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 0.5:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 0.6:
+        non_striker: T Brits
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 1.1:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.2:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.3:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.4:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.5:
+        non_striker: T Brits
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 1.6:
+        non_striker: T Brits
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 2.1:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: T Brits
+    - 2.2:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 2.3:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 2.4:
+        non_striker: T Brits
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 2.5:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 2.6:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 2.7:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          kind: caught and bowled
+    - 3.1:
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Wolvaardt
+        batsman: A Bosch
+    - 3.2:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.2:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.3:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 4.5:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: A Bosch
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.1:
+        non_striker: L Wolvaardt
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.2:
+        non_striker: L Wolvaardt
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Bosch
+    - 5.4:
+        non_striker: L Wolvaardt
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.5:
+        non_striker: L Wolvaardt
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 5.6:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 5.7:
+        non_striker: A Bosch
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.1:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.2:
+        non_striker: L Wolvaardt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 6.3:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 6.4:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 6.6:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.1:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 7.2:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 7.3:
+        non_striker: L Wolvaardt
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.4:
+        non_striker: L Wolvaardt
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.5:
+        non_striker: L Wolvaardt
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 7.6:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 8.1:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 8.2:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 8.3:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - C Raack
+          kind: caught
+    - 8.4:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.5:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 8.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 9.1:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.2:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 9.3:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Bosch
+    - 9.4:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 9.5:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Luus
+    - 9.6:
+        non_striker: A Bosch
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.7:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.1:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 10.2:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.3:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 10.4:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.5:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 10.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.7:
+        non_striker: A Bosch
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.1:
+        non_striker: A Bosch
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 11.2:
+        non_striker: A Bosch
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.3:
+        non_striker: S Luus
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 11.4:
+        non_striker: A Bosch
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.5:
+        non_striker: A Bosch
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.6:
+        non_striker: S Luus
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 12.1:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Bosch
+    - 12.2:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 12.3:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 12.4:
+        non_striker: A Bosch
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.5:
+        non_striker: A Bosch
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 12.6:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 12.7:
+        non_striker: A Bosch
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.1:
+        non_striker: S Luus
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 13.2:
+        non_striker: S Luus
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 13.3:
+        non_striker: S Luus
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+        wicket:
+          player_out: A Bosch
+          fielders:
+          - S MacMahon
+          kind: caught
+    - 13.4:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CL Tryon
+        batsman: S Luus
+    - 13.5:
+        bowler: C Raack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CL Tryon
+        batsman: S Luus
+    - 13.6:
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CL Tryon
+        batsman: S Luus
+    - 13.7:
+        non_striker: CL Tryon
+        bowler: C Raack
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Luus
+    - 14.1:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 14.2:
+        non_striker: CL Tryon
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.3:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 14.4:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.5:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 14.6:
+        non_striker: S Luus
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.1:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 15.2:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.3:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 15.4:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.5:
+        non_striker: CL Tryon
+        bowler: C Murray
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Luus
+    - 15.6:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CL Tryon
+    - 15.7:
+        non_striker: S Luus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 16.1:
+        non_striker: CL Tryon
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 16.2:
+        non_striker: CL Tryon
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.3:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Tryon
+    - 16.4:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 16.5:
+        non_striker: CL Tryon
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 16.6:
+        non_striker: CL Tryon
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 17.1:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 17.2:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: bowled
+    - 17.3:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 17.4:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 17.5:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 17.6:
+        non_striker: S Luus
+        bowler: L Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 18.1:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 18.2:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 18.3:
+        non_striker: N de Klerk
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.4:
+        non_striker: S Luus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 18.5:
+        non_striker: N de Klerk
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          kind: bowled
+    - 18.6:
+        non_striker: N de Klerk
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Chetty
+    - 19.1:
+        non_striker: N de Klerk
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Chetty
+    - 19.2:
+        non_striker: T Chetty
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N de Klerk
+    - 19.3:
+        non_striker: T Chetty
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+        wicket:
+          player_out: T Chetty
+          fielders:
+          - SM Kavanagh
+          - J Maguire
+          kind: run out
+    - 19.4:
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ismail
+        batsman: N de Klerk
+    - 19.5:
+        non_striker: N de Klerk
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 19.6:
+        non_striker: S Ismail
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk

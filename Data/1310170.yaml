@@ -1,0 +1,2171 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2022-05-10'
+  gender: male
+  match_type: T20
+  match_type_number: 1522
+  outcome:
+    winner: Malta
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - B George
+  players:
+    Gibraltar:
+    - BA Pai
+    - M Gouws
+    - L Bruce
+    - KJ Ferrary
+    - K Nestor
+    - RJ Hatchman
+    - A Reyes
+    - M Whelan
+    - J Marples
+    - S Bodha
+    - Z Simpson
+    Malta:
+    - G Chaturvedi
+    - B Arora
+    - B George
+    - HS Gericke
+    - VP Thamotharam
+    - Aaftab Alam Khan
+    - N Khanna
+    - Bilal Muhammad
+    - Amar Sharma
+    - Jaison Jerome
+    - Washeem Abbas
+  registry:
+    people:
+      A Reyes: fd2b8c06
+      Aaftab Alam Khan: 9dbc77b3
+      Amar Sharma: 14e1fdab
+      B Arora: 39e9f0c9
+      B George: 1bdbf53b
+      BA Pai: 716bf559
+      Bilal Muhammad: eb5aa5b9
+      G Chaturvedi: e1c92333
+      HS Gericke: c28a293e
+      J Marples: 9d75aec7
+      Jaison Jerome: e57d25fa
+      K Nestor: b89cde87
+      KJ Ferrary: 81898acc
+      L Bruce: 2a03bd2f
+      M Gouws: '018f6488'
+      M Whelan: d613f046
+      N Khanna: 0ec6a7c3
+      R Sivanadian: 6100086b
+      RJ Hatchman: 01c05b6c
+      S Bodha: 00467a76
+      S Harnal: 756fe781
+      SN Anand: ab3d6059
+      VP Thamotharam: eb40ed89
+      Washeem Abbas: 6de4e430
+      Z Simpson: 83d567a4
+  teams:
+  - Gibraltar
+  - Malta
+  toss:
+    winner: Malta
+    decision: field
+  umpires:
+  - S Harnal
+  - SN Anand
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Gouws
+        batsman: BA Pai
+    - 0.2:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gouws
+    - 0.3:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 0.4:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+    - 0.5:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gouws
+    - 0.6:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gouws
+        wicket:
+          player_out: M Gouws
+          fielders:
+          - N Khanna
+          kind: caught
+    - 1.1:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.2:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.3:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.4:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 1.5:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          kind: bowled
+    - 1.6:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Ferrary
+    - 1.7:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 1.8:
+        non_striker: BA Pai
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 2.1:
+        non_striker: KJ Ferrary
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 2.2:
+        non_striker: KJ Ferrary
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 2.3:
+        non_striker: KJ Ferrary
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA Pai
+    - 2.4:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 2.5:
+        non_striker: KJ Ferrary
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 2.6:
+        non_striker: KJ Ferrary
+        bowler: Washeem Abbas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BA Pai
+    - 2.7:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 2.8:
+        non_striker: BA Pai
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 3.1:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.2:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.3:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 3.4:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 3.5:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 3.6:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 3.7:
+        non_striker: KJ Ferrary
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA Pai
+    - 4.1:
+        non_striker: KJ Ferrary
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.2:
+        non_striker: KJ Ferrary
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.3:
+        non_striker: BA Pai
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 4.4:
+        non_striker: BA Pai
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 4.5:
+        non_striker: BA Pai
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 4.6:
+        non_striker: KJ Ferrary
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Pai
+    - 5.1:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: KJ Ferrary
+    - 5.2:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Ferrary
+    - 5.3:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 5.4:
+        non_striker: BA Pai
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KJ Ferrary
+    - 5.5:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 5.6:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.7:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: BA Pai
+    - 5.8:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.9:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 5.10:
+        non_striker: KJ Ferrary
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 6.1:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 6.2:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 6.3:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.4:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.5:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.6:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.7:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 7.1:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 7.2:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 7.3:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.4:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 7.5:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.6:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 7.7:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 8.1:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 8.2:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 8.3:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 8.4:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 8.5:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Ferrary
+    - 8.6:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 9.1:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.2:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BA Pai
+    - 9.3:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 9.4:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 9.5:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 9.6:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.7:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 10.1:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 10.2:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.3:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 10.4:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.5:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KJ Ferrary
+    - 10.6:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.7:
+        non_striker: BA Pai
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 11.1:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 11.2:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 11.3:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.4:
+        non_striker: BA Pai
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 11.5:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 11.6:
+        non_striker: KJ Ferrary
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.1:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 12.2:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Pai
+    - 12.3:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 12.4:
+        non_striker: KJ Ferrary
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - B George
+          kind: caught
+    - 12.5:
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Nestor
+        batsman: KJ Ferrary
+    - 12.6:
+        bowler: Amar Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: K Nestor
+        batsman: KJ Ferrary
+    - 12.7:
+        non_striker: K Nestor
+        bowler: Amar Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+        wicket:
+          player_out: KJ Ferrary
+          kind: lbw
+    - 13.1:
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 13.2:
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RJ Hatchman
+        batsman: K Nestor
+    - 13.3:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+    - 13.4:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Hatchman
+    - 13.5:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Hatchman
+        wicket:
+          player_out: RJ Hatchman
+          fielders:
+          - Aaftab Alam Khan
+          kind: caught
+    - 13.6:
+        non_striker: K Nestor
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 14.1:
+        non_striker: A Reyes
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 14.2:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 14.3:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 14.4:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Reyes
+    - 14.5:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 14.6:
+        non_striker: K Nestor
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 15.1:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 15.2:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 15.3:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 15.4:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 15.5:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 15.6:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+    - 16.1:
+        non_striker: K Nestor
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 16.2:
+        non_striker: K Nestor
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 16.3:
+        non_striker: A Reyes
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 16.4:
+        non_striker: A Reyes
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nestor
+    - 16.5:
+        non_striker: A Reyes
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nestor
+    - 16.6:
+        non_striker: K Nestor
+        bowler: Jaison Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Reyes
+    - 17.1:
+        non_striker: K Nestor
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 17.2:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nestor
+    - 17.3:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nestor
+        wicket:
+          player_out: K Nestor
+          kind: bowled
+    - 17.4:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Whelan
+    - 17.5:
+        non_striker: A Reyes
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 17.6:
+        non_striker: M Whelan
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 18.1:
+        non_striker: M Whelan
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 18.2:
+        non_striker: M Whelan
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Reyes
+    - 18.3:
+        non_striker: M Whelan
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 18.4:
+        non_striker: A Reyes
+        bowler: Jaison Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Whelan
+    - 18.5:
+        non_striker: M Whelan
+        bowler: Jaison Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 18.6:
+        non_striker: M Whelan
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 18.7:
+        non_striker: A Reyes
+        bowler: Jaison Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 19.1:
+        non_striker: A Reyes
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 19.2:
+        non_striker: M Whelan
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Reyes
+    - 19.3:
+        non_striker: A Reyes
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Whelan
+    - 19.4:
+        non_striker: M Whelan
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 19.5:
+        non_striker: A Reyes
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Whelan
+    - 19.6:
+        non_striker: A Reyes
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Whelan
+- 2nd innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: G Chaturvedi
+    - 0.2:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Arora
+        batsman: G Chaturvedi
+    - 0.3:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Arora
+        batsman: G Chaturvedi
+    - 0.4:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Chaturvedi
+        wicket:
+          player_out: G Chaturvedi
+          kind: caught and bowled
+    - 0.5:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B George
+    - 0.6:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 1.1:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.2:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.3:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.4:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.5:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 1.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 2.1:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 2.2:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B George
+    - 2.3:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 2.4:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 2.5:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 2.6:
+        non_striker: B Arora
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 3.1:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 3.2:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B George
+    - 3.3:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 3.4:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B George
+    - 3.5:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 3.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B George
+    - 3.7:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B George
+    - 4.1:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 4.2:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.3:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.4:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 4.5:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 4.6:
+        non_striker: B George
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.1:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 5.2:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B George
+    - 5.3:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.4:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 5.5:
+        non_striker: B George
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 5.6:
+        non_striker: B Arora
+        bowler: K Nestor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 6.1:
+        non_striker: B Arora
+        bowler: Z Simpson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B George
+    - 6.2:
+        non_striker: B Arora
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 6.3:
+        non_striker: B George
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.4:
+        non_striker: B George
+        bowler: Z Simpson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Arora
+    - 6.5:
+        non_striker: B George
+        bowler: Z Simpson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 6.6:
+        non_striker: B George
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 6.7:
+        non_striker: B George
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 6.8:
+        non_striker: B Arora
+        bowler: Z Simpson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B George
+    - 6.9:
+        non_striker: B Arora
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B George
+    - 6.10:
+        non_striker: B Arora
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 7.1:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 7.2:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 7.3:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.4:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 7.5:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 7.6:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 7.7:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: B George
+    - 7.8:
+        non_striker: B George
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.1:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 8.2:
+        non_striker: B George
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 8.3:
+        non_striker: B George
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 8.4:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 8.5:
+        non_striker: B George
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 8.6:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B George
+    - 9.1:
+        non_striker: B George
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 9.2:
+        non_striker: B George
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 9.3:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B George
+    - 9.4:
+        non_striker: B George
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 9.5:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 9.6:
+        non_striker: B George
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 10.1:
+        non_striker: B George
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 10.2:
+        non_striker: B George
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 10.3:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 10.4:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+        wicket:
+          player_out: B George
+          kind: bowled
+    - 10.5:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 10.6:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Arora
+    - 11.1:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 11.2:
+        non_striker: HS Gericke
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 11.3:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 11.4:
+        non_striker: HS Gericke
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 11.5:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 11.6:
+        non_striker: B Arora
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HS Gericke
+    - 12.1:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 12.2:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Arora
+    - 12.3:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 12.4:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: HS Gericke
+    - 12.5:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 12.6:
+        non_striker: B Arora
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 12.7:
+        non_striker: HS Gericke
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 13.1:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 13.2:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 13.3:
+        non_striker: HS Gericke
+        bowler: RJ Hatchman
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: B Arora
+    - 13.4:
+        non_striker: HS Gericke
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 13.5:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HS Gericke
+    - 13.6:
+        non_striker: B Arora
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 13.7:
+        non_striker: HS Gericke
+        bowler: RJ Hatchman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 14.1:
+        non_striker: HS Gericke
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 14.2:
+        non_striker: HS Gericke
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          fielders:
+          - A Reyes
+          kind: caught
+    - 14.3:
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 14.4:
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 14.5:
+        non_striker: HS Gericke
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 14.6:
+        non_striker: HS Gericke
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 15.1:
+        non_striker: HS Gericke
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 15.2:
+        non_striker: HS Gericke
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 15.3:
+        non_striker: VP Thamotharam
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+        wicket:
+          player_out: HS Gericke
+          fielders:
+          - BA Pai
+          kind: caught
+    - 15.4:
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aaftab Alam Khan
+        batsman: VP Thamotharam
+    - 15.5:
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aaftab Alam Khan
+        batsman: VP Thamotharam
+    - 15.6:
+        non_striker: VP Thamotharam
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+    - 16.1:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VP Thamotharam
+    - 16.2:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 16.3:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 16.4:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+        wicket:
+          player_out: VP Thamotharam
+          fielders:
+          - K Nestor
+          kind: caught
+    - 16.5:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Khanna
+    - 16.6:
+        non_striker: Aaftab Alam Khan
+        bowler: Z Simpson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Khanna

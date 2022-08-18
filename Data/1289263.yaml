@@ -1,0 +1,1600 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  dates:
+  - '2022-07-31'
+  gender: female
+  match_type: T20
+  match_type_number: 1181
+  outcome:
+    winner: India
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Iram Javed
+    - Bismah Maroof
+    - Umaima Sohail
+    - Ayesha Naseem
+    - Aliya Riaz
+    - Fatima Sana
+    - Kainat Imtiaz
+    - Diana Baig
+    - Tuba Hassan
+    - Anam Amin
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - S Meghana
+    - JI Rodrigues
+    - YH Bhatia
+    - H Kaur
+    - DB Sharma
+    - RP Yadav
+    - Meghna Singh
+    - Sneh Rana
+    - Renuka Singh
+  registry:
+    people:
+      Aliya Riaz: 2904b4b6
+      Anam Amin: 06653fcc
+      Ayesha Naseem: 8c2c0a03
+      Bismah Maroof: 3b770527
+      DB Sharma: 201fef33
+      Diana Baig: a51e6c6e
+      Fatima Sana: ea9c54de
+      H Deol: 3664712e
+      H Kaur: 53cd8da6
+      Iram Javed: dc596fac
+      JI Rodrigues: cb08b611
+      Kainat Imtiaz: 9714e764
+      Kim Cotton: 67a7c2ee
+      Lauren Agenbag: 40849abd
+      Meghna Singh: f176e421
+      Muneeba Ali: 86fdf668
+      RP Yadav: 6c3aef71
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      S Meghana: 302fb7ae
+      S Rana: c4c374d9
+      S Redfern: 5b038989
+      SA Fritz: d15e60c8
+      Shafali Verma: d8f59089
+      Shivani Mishra: 2982a0c7
+      Tuba Hassan: 0d56e9a5
+      Umaima Sohail: 821d7d46
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - Pakistan
+  - India
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Kim Cotton
+  - Lauren Agenbag
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.3:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.4:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.5:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Iram Javed
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iram Javed
+        wicket:
+          player_out: Iram Javed
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 1.5:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Bismah Maroof
+    - 1.7:
+        non_striker: Bismah Maroof
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.4:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.5:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 3.1:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.2:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.3:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 3.4:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.5:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.6:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 4.1:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 4.2:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 4.3:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.4:
+        non_striker: Muneeba Ali
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 4.5:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.6:
+        non_striker: Bismah Maroof
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.1:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 5.3:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.4:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 5.6:
+        non_striker: Bismah Maroof
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.1:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.2:
+        non_striker: Bismah Maroof
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.4:
+        non_striker: Bismah Maroof
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.5:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.1:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.2:
+        non_striker: Bismah Maroof
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 7.3:
+        non_striker: Bismah Maroof
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 7.4:
+        non_striker: Bismah Maroof
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muneeba Ali
+    - 7.5:
+        non_striker: Bismah Maroof
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 7.6:
+        non_striker: Muneeba Ali
+        bowler: Meghna Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.1:
+        non_striker: Bismah Maroof
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.3:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          kind: lbw
+    - 8.4:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 8.5:
+        non_striker: Muneeba Ali
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 8.6:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: caught and bowled
+    - 9.1:
+        non_striker: Ayesha Naseem
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 9.2:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 9.3:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Naseem
+    - 9.4:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Naseem
+    - 9.5:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 9.6:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Naseem
+    - 10.1:
+        non_striker: Ayesha Naseem
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 10.2:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+    - 10.3:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Naseem
+    - 10.4:
+        non_striker: Ayesha Naseem
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 10.5:
+        non_striker: Ayesha Naseem
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 10.6:
+        non_striker: Ayesha Naseem
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 11.1:
+        non_striker: Umaima Sohail
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Naseem
+    - 11.2:
+        non_striker: Ayesha Naseem
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 11.3:
+        non_striker: Umaima Sohail
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Naseem
+        wicket:
+          player_out: Ayesha Naseem
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 11.4:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 11.5:
+        non_striker: Aliya Riaz
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 11.6:
+        non_striker: Umaima Sohail
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 12.1:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 12.2:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 12.3:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 12.4:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 12.5:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 12.6:
+        non_striker: Umaima Sohail
+        bowler: Sneh Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 13.1:
+        non_striker: Aliya Riaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 13.2:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 13.3:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 13.4:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 13.5:
+        non_striker: Aliya Riaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Umaima Sohail
+    - 13.6:
+        non_striker: Umaima Sohail
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 14.1:
+        non_striker: Umaima Sohail
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 14.2:
+        non_striker: Umaima Sohail
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 14.3:
+        non_striker: Umaima Sohail
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 14.4:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 14.5:
+        non_striker: Umaima Sohail
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Umaima Sohail
+          fielders:
+          - Shafali Verma
+          - RP Yadav
+          kind: run out
+    - 14.6:
+        non_striker: Fatima Sana
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 15.1:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 15.2:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 15.3:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 15.4:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 15.5:
+        non_striker: Fatima Sana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 15.6:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 16.1:
+        non_striker: Fatima Sana
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 16.2:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.3:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 16.4:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 16.5:
+        non_striker: Fatima Sana
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - S Meghana
+          kind: run out
+    - 16.6:
+        non_striker: Kainat Imtiaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          kind: caught and bowled
+    - 17.1:
+        non_striker: Diana Baig
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Imtiaz
+    - 17.2:
+        non_striker: Kainat Imtiaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+        wicket:
+          player_out: Diana Baig
+          fielders:
+          - YH Bhatia
+          kind: stumped
+    - 17.3:
+        non_striker: Kainat Imtiaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 17.4:
+        non_striker: Kainat Imtiaz
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 17.5:
+        non_striker: Tuba Hassan
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Imtiaz
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - H Deol (sub)
+          - RP Yadav
+          kind: run out
+    - 17.6:
+        non_striker: Anam Amin
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+        wicket:
+          player_out: Kainat Imtiaz
+          kind: bowled
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.6:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: S Mandhana
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.3:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: Anam Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.1:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: Shafali Verma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.5:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 5.6:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 6.1:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.2:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 6.3:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 6.4:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.6:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.1:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Meghana
+    - 7.2:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Meghana
+    - 7.3:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 7.4:
+        non_striker: S Meghana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: S Meghana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: S Meghana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.7:
+        non_striker: S Mandhana
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 8.1:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.2:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: S Meghana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.4:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 8.5:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Meghana
+    - 8.7:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Meghana
+    - 9.1:
+        non_striker: S Meghana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: S Meghana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 9.4:
+        non_striker: S Meghana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.5:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Meghana
+    - 9.6:
+        non_striker: S Meghana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 10.1:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Meghana
+    - 10.3:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+    - 10.4:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Meghana
+        wicket:
+          player_out: S Meghana
+          kind: bowled
+    - 10.5:
+        non_striker: S Mandhana
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: JI Rodrigues
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.1:
+        non_striker: JI Rodrigues
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.2:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.3:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.4:
+        non_striker: JI Rodrigues
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana

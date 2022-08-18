@@ -1,0 +1,2398 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2022-05-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1527
+  outcome:
+    winner: Hungary
+    by:
+      runs: 5
+  overs: 20
+  player_of_match:
+  - A Kheterpal
+  players:
+    Hungary:
+    - Khaibar Deldar
+    - Abhijeet Ahuja
+    - Zahir Mohammed
+    - Abhishek Ahuja
+    - HV Mandhyan
+    - A Kheterpal
+    - Ali Farasat
+    - AG Weligamage
+    - SA Mohandas
+    - Gabor Torok
+    - BP Adapaka
+    Bulgaria:
+    - H Lakov
+    - P Mishra
+    - Saim Hussain
+    - IA De Silva
+    - Omar Rassol
+    - Asad Ali Rehemtulla
+    - DV Varghese
+    - Ahsan Khan
+    - J Albin
+    - I Katzarski
+    - Sandeep Nair
+  registry:
+    people:
+      A Kheterpal: 2deb4082
+      AG Weligamage: 747209e0
+      Abhijeet Ahuja: b91083bd
+      Abhishek Ahuja: 65cf74b4
+      Ahsan Khan: 4c72b407
+      Ali Farasat: 5845b99b
+      Asad Ali Rehemtulla: c122fe73
+      BP Adapaka: e6082b10
+      DV Varghese: 26f98ea3
+      Gabor Torok: b601c362
+      H Lakov: 87a6f411
+      HV Mandhyan: 11f56b14
+      I Katzarski: 514628bd
+      IA De Silva: 58973aaf
+      J Albin: a4a53adf
+      Khaibar Deldar: 032c7eab
+      Omar Rassol: 6caae2dc
+      P Mishra: 3fa5672e
+      R Sivanadian: 6100086b
+      S Harnal: 756fe781
+      SA Mohandas: 8b0b3bba
+      SN Anand: ab3d6059
+      Saim Hussain: d300d274
+      Sandeep Nair: 6ceec40d
+      Zahir Mohammed: 7c38942a
+  teams:
+  - Hungary
+  - Bulgaria
+  toss:
+    winner: Bulgaria
+    decision: field
+  umpires:
+  - R Sivanadian
+  - S Harnal
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.2:
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.3:
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.4:
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Abhijeet Ahuja
+        batsman: Khaibar Deldar
+    - 0.5:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 0.6:
+        non_striker: Abhijeet Ahuja
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 0.7:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhijeet Ahuja
+    - 0.8:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhijeet Ahuja
+    - 1.1:
+        non_striker: Abhijeet Ahuja
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+    - 1.2:
+        non_striker: Abhijeet Ahuja
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 1.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaibar Deldar
+    - 1.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 1.5:
+        non_striker: Khaibar Deldar
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 1.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khaibar Deldar
+    - 2.1:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 2.2:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 2.3:
+        non_striker: Abhijeet Ahuja
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaibar Deldar
+    - 2.4:
+        non_striker: Khaibar Deldar
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 2.5:
+        non_striker: Abhijeet Ahuja
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaibar Deldar
+    - 2.6:
+        non_striker: Abhijeet Ahuja
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaibar Deldar
+        wicket:
+          player_out: Khaibar Deldar
+          kind: bowled
+    - 2.7:
+        non_striker: Abhijeet Ahuja
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 3.1:
+        non_striker: Zahir Mohammed
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 3.2:
+        non_striker: Zahir Mohammed
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhijeet Ahuja
+    - 3.3:
+        non_striker: Zahir Mohammed
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+        wicket:
+          player_out: Abhijeet Ahuja
+          fielders:
+          - J Albin
+          kind: run out
+    - 3.4:
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhishek Ahuja
+        batsman: Zahir Mohammed
+    - 3.5:
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhishek Ahuja
+        batsman: Zahir Mohammed
+    - 3.6:
+        non_striker: Abhishek Ahuja
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 4.1:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 4.2:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 4.3:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 4.4:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+    - 4.5:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Ahuja
+        wicket:
+          player_out: Abhishek Ahuja
+          kind: lbw
+    - 4.6:
+        non_striker: Zahir Mohammed
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 5.1:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 5.2:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 5.3:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          fielders:
+          - Omar Rassol
+          kind: caught
+    - 5.4:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 5.5:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 5.6:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 5.7:
+        non_striker: HV Mandhyan
+        bowler: Ahsan Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Kheterpal
+    - 5.8:
+        non_striker: A Kheterpal
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 6.1:
+        non_striker: A Kheterpal
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 6.2:
+        non_striker: A Kheterpal
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 6.3:
+        non_striker: HV Mandhyan
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 6.4:
+        non_striker: HV Mandhyan
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 6.5:
+        non_striker: HV Mandhyan
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 6.6:
+        non_striker: HV Mandhyan
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 7.1:
+        non_striker: A Kheterpal
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 7.2:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 7.3:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 7.4:
+        non_striker: A Kheterpal
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 7.5:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 7.6:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 8.1:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 8.2:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 8.3:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 8.4:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 8.5:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 8.6:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 8.7:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 9.1:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 9.2:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 9.3:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 9.4:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 9.5:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 9.6:
+        non_striker: A Kheterpal
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 9.7:
+        non_striker: HV Mandhyan
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Kheterpal
+    - 9.8:
+        non_striker: A Kheterpal
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Mandhyan
+    - 9.9:
+        non_striker: A Kheterpal
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 10.1:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 10.2:
+        non_striker: A Kheterpal
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 10.3:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 10.4:
+        non_striker: A Kheterpal
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 10.5:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 10.6:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 11.1:
+        non_striker: HV Mandhyan
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 11.2:
+        non_striker: A Kheterpal
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 11.3:
+        non_striker: A Kheterpal
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Mandhyan
+    - 11.4:
+        non_striker: A Kheterpal
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 11.5:
+        non_striker: HV Mandhyan
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 11.6:
+        non_striker: HV Mandhyan
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 11.7:
+        non_striker: HV Mandhyan
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kheterpal
+    - 11.8:
+        non_striker: HV Mandhyan
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 12.1:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 12.2:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kheterpal
+    - 12.3:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 12.4:
+        non_striker: A Kheterpal
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 12.5:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+    - 12.6:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 12.7:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kheterpal
+    - 13.1:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 13.2:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kheterpal
+    - 13.3:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kheterpal
+        wicket:
+          player_out: A Kheterpal
+          fielders:
+          - H Lakov
+          kind: caught
+    - 13.4:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 13.5:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 13.6:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 13.7:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 13.8:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 13.9:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 13.10:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.1:
+        non_striker: Ali Farasat
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HV Mandhyan
+    - 14.2:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.3:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 14.4:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.5:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 14.6:
+        non_striker: Ali Farasat
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 14.7:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 14.8:
+        non_striker: Ali Farasat
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HV Mandhyan
+    - 15.1:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 15.2:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 15.3:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Farasat
+    - 15.4:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 15.5:
+        non_striker: Ali Farasat
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Mandhyan
+    - 15.6:
+        non_striker: Ali Farasat
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 15.7:
+        non_striker: HV Mandhyan
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 16.1:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 16.2:
+        non_striker: Ali Farasat
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 16.3:
+        non_striker: Ali Farasat
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HV Mandhyan
+    - 16.4:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 16.5:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+        wicket:
+          player_out: Ali Farasat
+          fielders:
+          - Saim Hussain
+          kind: stumped
+    - 16.6:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 17.1:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 17.2:
+        non_striker: AG Weligamage
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 17.3:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 17.4:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 17.5:
+        non_striker: HV Mandhyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 17.6:
+        non_striker: AG Weligamage
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 18.1:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AG Weligamage
+    - 18.2:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 18.3:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AG Weligamage
+    - 18.4:
+        non_striker: HV Mandhyan
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 18.5:
+        non_striker: AG Weligamage
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 18.6:
+        non_striker: AG Weligamage
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+        wicket:
+          player_out: HV Mandhyan
+          kind: bowled
+    - 18.7:
+        non_striker: AG Weligamage
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Mohandas
+    - 19.1:
+        non_striker: SA Mohandas
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 19.2:
+        non_striker: AG Weligamage
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Mohandas
+    - 19.3:
+        non_striker: SA Mohandas
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+        wicket:
+          player_out: AG Weligamage
+          fielders:
+          - Asad Ali Rehemtulla
+          kind: caught
+    - 19.4:
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Gabor Torok
+        batsman: SA Mohandas
+    - 19.5:
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Gabor Torok
+        batsman: SA Mohandas
+    - 19.6:
+        non_striker: Gabor Torok
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Mohandas
+- 2nd innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.2:
+        bowler: AG Weligamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.3:
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.4:
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.5:
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.6:
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.7:
+        non_striker: P Mishra
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 1.1:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mishra
+    - 1.2:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 1.3:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mishra
+    - 1.4:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 1.5:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 1.6:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mishra
+    - 1.7:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 2.1:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 2.2:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 2.3:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 2.4:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mishra
+    - 2.5:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mishra
+    - 2.6:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 2.7:
+        non_striker: H Lakov
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+    - 3.1:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 3.2:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lakov
+    - 3.3:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 3.4:
+        non_striker: P Mishra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 3.5:
+        non_striker: H Lakov
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          fielders:
+          - Zahir Mohammed
+          kind: caught
+    - 3.6:
+        non_striker: Saim Hussain
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 4.1:
+        non_striker: H Lakov
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 4.2:
+        non_striker: H Lakov
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 4.3:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 4.4:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - Abhishek Ahuja
+          kind: caught
+    - 4.5:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 4.6:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 5.1:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 5.2:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: IA De Silva
+    - 5.3:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 5.4:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 5.5:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 5.6:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 5.7:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 5.8:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 6.1:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 6.2:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 6.3:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 6.4:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 6.5:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 6.6:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA De Silva
+    - 6.7:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 7.1:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 7.2:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 7.3:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 7.4:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 7.5:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 7.6:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 7.7:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 8.1:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 8.2:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 8.3:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 8.4:
+        non_striker: IA De Silva
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 8.5:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IA De Silva
+    - 8.6:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 8.7:
+        non_striker: Saim Hussain
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 9.1:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 9.2:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 9.3:
+        non_striker: IA De Silva
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 9.4:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA De Silva
+    - 9.5:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA De Silva
+    - 9.6:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: IA De Silva
+    - 9.7:
+        non_striker: Saim Hussain
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 10.1:
+        non_striker: IA De Silva
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 10.2:
+        non_striker: IA De Silva
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 10.3:
+        non_striker: IA De Silva
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 10.4:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA De Silva
+    - 10.5:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 10.6:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 11.1:
+        non_striker: IA De Silva
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 11.2:
+        non_striker: IA De Silva
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+        wicket:
+          player_out: IA De Silva
+          fielders:
+          - Gabor Torok
+          kind: run out
+    - 11.3:
+        non_striker: Saim Hussain
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 11.4:
+        non_striker: Saim Hussain
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 11.5:
+        non_striker: Saim Hussain
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 11.6:
+        non_striker: Saim Hussain
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 12.1:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 12.2:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 12.3:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 12.4:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 12.5:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 12.6:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 13.1:
+        non_striker: Omar Rassol
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 13.2:
+        non_striker: Saim Hussain
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 13.3:
+        non_striker: Omar Rassol
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 13.4:
+        non_striker: Omar Rassol
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 13.5:
+        non_striker: Omar Rassol
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 13.6:
+        non_striker: Omar Rassol
+        bowler: AG Weligamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 14.1:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 14.2:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 14.3:
+        non_striker: Omar Rassol
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 14.4:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 14.5:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+        wicket:
+          player_out: Omar Rassol
+          fielders:
+          - Abhishek Ahuja
+          kind: stumped
+    - 14.6:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Ali Rehemtulla
+    - 15.1:
+        non_striker: Asad Ali Rehemtulla
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 15.2:
+        non_striker: Asad Ali Rehemtulla
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 15.3:
+        non_striker: Asad Ali Rehemtulla
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 15.4:
+        non_striker: Asad Ali Rehemtulla
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 15.5:
+        non_striker: Asad Ali Rehemtulla
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 15.6:
+        non_striker: Saim Hussain
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Ali Rehemtulla
+    - 16.1:
+        non_striker: Asad Ali Rehemtulla
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Saim Hussain
+    - 16.2:
+        non_striker: Asad Ali Rehemtulla
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 16.3:
+        non_striker: Asad Ali Rehemtulla
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 16.4:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Ali Rehemtulla
+        wicket:
+          player_out: Asad Ali Rehemtulla
+          kind: bowled
+    - 16.5:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Varghese
+    - 16.6:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DV Varghese
+    - 16.7:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DV Varghese
+    - 16.8:
+        non_striker: Saim Hussain
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DV Varghese
+        wicket:
+          player_out: DV Varghese
+          kind: bowled
+    - 17.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahsan Khan
+        batsman: Saim Hussain
+    - 17.2:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahsan Khan
+        batsman: Saim Hussain
+    - 17.3:
+        non_striker: Ahsan Khan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+        wicket:
+          player_out: Saim Hussain
+          kind: bowled
+    - 17.4:
+        non_striker: Ahsan Khan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Albin
+    - 17.5:
+        non_striker: Ahsan Khan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 17.6:
+        non_striker: Ahsan Khan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 18.1:
+        non_striker: Ahsan Khan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 18.2:
+        non_striker: J Albin
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahsan Khan
+    - 18.3:
+        non_striker: Ahsan Khan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 18.4:
+        non_striker: Ahsan Khan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 18.5:
+        non_striker: Ahsan Khan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 18.6:
+        non_striker: Ahsan Khan
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+        wicket:
+          player_out: J Albin
+          kind: bowled
+    - 19.1:
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Katzarski
+        batsman: Ahsan Khan
+    - 19.2:
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Katzarski
+        batsman: Ahsan Khan
+    - 19.3:
+        non_striker: Ahsan Khan
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Katzarski
+    - 19.4:
+        non_striker: Ahsan Khan
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Katzarski
+    - 19.5:
+        non_striker: Ahsan Khan
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Katzarski
+    - 19.6:
+        non_striker: Ahsan Khan
+        bowler: A Kheterpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Katzarski
+        wicket:
+          player_out: I Katzarski
+          fielders:
+          - Abhishek Ahuja
+          kind: run out

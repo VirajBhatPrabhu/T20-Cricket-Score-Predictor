@@ -1,0 +1,1622 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-16'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2021-10-16'
+  gender: male
+  match_type: T20
+  match_type_number: 1301
+  outcome:
+    winner: Ghana
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - KS Bagabena
+  players:
+    Seychelles:
+    - T Rajiv
+    - N Krishna
+    - SKDT Madusanka
+    - SR Mohan
+    - D Kalvin
+    - Mazharul Islam
+    - S Udhayan
+    - VL Mukesh
+    - R Nil
+    - SR Rocket
+    - KJ Patel
+    Ghana:
+    - Amoluk Singh
+    - JK Vifah
+    - MK Anafie
+    - OH Agbomadzie
+    - R Bakum
+    - Devender Singh
+    - SK Awiah
+    - DK Anefie
+    - KS Bagabena
+    - TK Joseph
+    - Aziz Sualley
+  registry:
+    people:
+      Amoluk Singh: 266473e2
+      Aziz Sualley: 118b0a7c
+      C Thorburn: 904288fe
+      D Kalvin: 895ae8b6
+      DK Anefie: f98c24ec
+      Devender Singh: 68e21fb1
+      IO Oyieko: de4828fa
+      Itangishaka Olivier: 0ee3bb49
+      JK Vifah: a1448a10
+      KJ Patel: d6b4e3e2
+      KS Bagabena: 1ce4f664
+      MK Anafie: 6949f713
+      Mazharul Islam: 30564b3e
+      N Krishna: c62a0327
+      OH Agbomadzie: b38a9f73
+      R Bakum: c74c583b
+      R Nil: b0f9dac4
+      S Udhayan: a8d6305d
+      SA Fritz: d15e60c8
+      SK Awiah: bc3fc527
+      SKDT Madusanka: 95c2d309
+      SR Mohan: '58533699'
+      SR Rocket: ee3bfb9b
+      T Rajiv: 1ab8beda
+      TK Joseph: 4fafd79a
+      VL Mukesh: '44744467'
+  teams:
+  - Seychelles
+  - Ghana
+  toss:
+    winner: Seychelles
+    decision: bat
+  umpires:
+  - IO Oyieko
+  - Itangishaka Olivier
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Krishna
+        batsman: T Rajiv
+    - 0.2:
+        non_striker: T Rajiv
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.3:
+        non_striker: T Rajiv
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.4:
+        non_striker: T Rajiv
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.5:
+        non_striker: T Rajiv
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 0.6:
+        non_striker: T Rajiv
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Krishna
+    - 1.1:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 1.2:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 1.3:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Rajiv
+    - 1.4:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+        wicket:
+          player_out: T Rajiv
+          kind: bowled
+    - 1.5:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 1.6:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 1.7:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 1.8:
+        non_striker: N Krishna
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 2.1:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Krishna
+    - 2.2:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 2.3:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 2.4:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 2.5:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 2.6:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 3.1:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.2:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.3:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.4:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.5:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.6:
+        non_striker: SKDT Madusanka
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Krishna
+    - 4.1:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 4.2:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 4.3:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 4.4:
+        non_striker: N Krishna
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 4.5:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+        wicket:
+          player_out: N Krishna
+          kind: bowled
+    - 4.6:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+        wicket:
+          player_out: SR Mohan
+          kind: bowled
+    - 5.1:
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.2:
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Kalvin
+        batsman: SKDT Madusanka
+    - 5.3:
+        non_striker: SKDT Madusanka
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 5.4:
+        non_striker: SKDT Madusanka
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 5.5:
+        non_striker: SKDT Madusanka
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 5.6:
+        non_striker: SKDT Madusanka
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 6.1:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.2:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 6.3:
+        non_striker: D Kalvin
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.4:
+        non_striker: D Kalvin
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.5:
+        non_striker: D Kalvin
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 6.6:
+        non_striker: SKDT Madusanka
+        bowler: Amoluk Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 7.1:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.2:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+        wicket:
+          player_out: SKDT Madusanka
+          kind: bowled
+    - 7.3:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          kind: lbw
+    - 7.4:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Udhayan
+        wicket:
+          player_out: S Udhayan
+          kind: lbw
+    - 7.5:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 7.6:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 8.1:
+        non_striker: VL Mukesh
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 8.2:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 8.3:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 8.4:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 8.5:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VL Mukesh
+    - 8.6:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VL Mukesh
+    - 9.1:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 9.2:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+    - 9.3:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VL Mukesh
+        wicket:
+          player_out: VL Mukesh
+          kind: bowled
+    - 9.4:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 9.5:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 9.6:
+        non_striker: D Kalvin
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nil
+    - 10.1:
+        non_striker: R Nil
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 10.2:
+        non_striker: D Kalvin
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 10.3:
+        non_striker: D Kalvin
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 10.4:
+        non_striker: D Kalvin
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 10.5:
+        non_striker: R Nil
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 10.6:
+        non_striker: R Nil
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kalvin
+    - 11.1:
+        non_striker: D Kalvin
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nil
+    - 11.2:
+        non_striker: D Kalvin
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 11.3:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 11.4:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 11.5:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 11.6:
+        non_striker: D Kalvin
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 12.1:
+        non_striker: R Nil
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 12.2:
+        non_striker: R Nil
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 12.3:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 12.4:
+        non_striker: R Nil
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 12.5:
+        non_striker: R Nil
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 12.6:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+    - 13.1:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kalvin
+    - 13.2:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kalvin
+    - 13.3:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kalvin
+    - 13.4:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 13.5:
+        non_striker: R Nil
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 13.6:
+        non_striker: D Kalvin
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nil
+    - 14.1:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nil
+    - 14.2:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nil
+    - 14.3:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nil
+        wicket:
+          player_out: R Nil
+          fielders:
+          - TK Joseph
+          kind: caught
+    - 14.4:
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SR Rocket
+        batsman: D Kalvin
+    - 14.5:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 14.6:
+        non_striker: D Kalvin
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Rocket
+    - 14.7:
+        non_striker: SR Rocket
+        bowler: SK Awiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 15.1:
+        non_striker: SR Rocket
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+        wicket:
+          player_out: D Kalvin
+          fielders:
+          - SK Awiah
+          kind: caught
+    - 15.2:
+        non_striker: SR Rocket
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 15.3:
+        non_striker: SR Rocket
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 15.4:
+        non_striker: SR Rocket
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 15.5:
+        non_striker: SR Rocket
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Patel
+    - 15.6:
+        non_striker: KJ Patel
+        bowler: KS Bagabena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 16.1:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 16.2:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 16.3:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 16.4:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 16.5:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 16.6:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Patel
+    - 17.1:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 17.2:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 17.3:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 17.4:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 17.5:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Patel
+    - 17.6:
+        non_striker: SR Rocket
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Patel
+    - 18.1:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 18.2:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 18.3:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 18.4:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 18.5:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 18.6:
+        non_striker: SR Rocket
+        bowler: R Bakum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KJ Patel
+    - 19.1:
+        non_striker: SR Rocket
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Patel
+    - 19.2:
+        non_striker: SR Rocket
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Patel
+    - 19.3:
+        non_striker: KJ Patel
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 19.4:
+        non_striker: KJ Patel
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Rocket
+    - 19.5:
+        non_striker: KJ Patel
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 19.6:
+        non_striker: KJ Patel
+        bowler: DK Anefie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+        wicket:
+          player_out: SR Rocket
+          fielders:
+          - TK Joseph
+          kind: run out
+- 2nd innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JK Vifah
+        batsman: Amoluk Singh
+    - 0.2:
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JK Vifah
+        batsman: Amoluk Singh
+    - 0.3:
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JK Vifah
+        batsman: Amoluk Singh
+    - 0.4:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Vifah
+    - 0.5:
+        non_striker: JK Vifah
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 0.6:
+        non_striker: JK Vifah
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 1.1:
+        non_striker: Amoluk Singh
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Vifah
+    - 1.2:
+        non_striker: JK Vifah
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 1.3:
+        non_striker: JK Vifah
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 1.4:
+        non_striker: JK Vifah
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 1.5:
+        non_striker: JK Vifah
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 1.6:
+        non_striker: JK Vifah
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amoluk Singh
+    - 2.1:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Vifah
+    - 2.2:
+        non_striker: JK Vifah
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 2.3:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JK Vifah
+    - 2.4:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Vifah
+    - 2.5:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JK Vifah
+    - 2.6:
+        non_striker: Amoluk Singh
+        bowler: VL Mukesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Vifah
+    - 3.1:
+        non_striker: Amoluk Singh
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JK Vifah
+    - 3.2:
+        non_striker: Amoluk Singh
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JK Vifah
+    - 3.3:
+        non_striker: Amoluk Singh
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Vifah
+        wicket:
+          player_out: JK Vifah
+          fielders:
+          - SR Mohan
+          - D Kalvin
+          kind: run out
+    - 3.4:
+        non_striker: Amoluk Singh
+        bowler: N Krishna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Anafie
+    - 3.5:
+        non_striker: Amoluk Singh
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 3.6:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 3.7:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 4.1:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Anafie
+    - 4.2:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 4.3:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 4.4:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 4.5:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Anafie
+    - 4.6:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Anafie
+    - 5.1:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 5.2:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 5.3:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amoluk Singh
+    - 5.4:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amoluk Singh
+    - 5.5:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 5.6:
+        non_striker: MK Anafie
+        bowler: N Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 6.1:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amoluk Singh
+    - 6.2:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 6.3:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 6.4:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 6.5:
+        non_striker: MK Anafie
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 6.6:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 7.1:
+        non_striker: Amoluk Singh
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Anafie
+    - 7.2:
+        non_striker: Amoluk Singh
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Anafie
+    - 7.3:
+        non_striker: Amoluk Singh
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 7.4:
+        non_striker: MK Anafie
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 7.5:
+        non_striker: MK Anafie
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 7.6:
+        non_striker: MK Anafie
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amoluk Singh
+    - 8.1:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Anafie
+    - 8.2:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Anafie
+    - 8.3:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Anafie
+    - 8.4:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Anafie
+    - 8.5:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Anafie
+    - 8.6:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Anafie
+    - 9.1:
+        non_striker: MK Anafie
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amoluk Singh
+    - 9.2:
+        non_striker: MK Anafie
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 9.3:
+        non_striker: Amoluk Singh
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 9.4:
+        non_striker: MK Anafie
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amoluk Singh
+    - 9.5:
+        non_striker: Amoluk Singh
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Anafie
+    - 9.6:
+        non_striker: Amoluk Singh
+        bowler: R Nil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Anafie
+    - 10.1:
+        non_striker: Amoluk Singh
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Anafie

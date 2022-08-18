@@ -1,0 +1,1979 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-07'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2021-10-06'
+  gender: male
+  match_type: T20
+  match_type_number: 1285
+  outcome:
+    winner: Isle of Man
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Estonia:
+    - Ali Masood
+    - Habib Khan
+    - Maidul Islam
+    - S Hook
+    - Moshiur Rahman
+    - M Vaik
+    - MMR Obili
+    - Ashraful Shuvo
+    - Ashish Rana
+    - M Sedgwick
+    - K Vislapuu
+    Isle of Man:
+    - A McAuley
+    - N Knights
+    - G Burrows
+    - C Hartmann
+    - C Smith
+    - EF Beard
+    - D Jansen
+    - ADL Stokoe
+    - J Butler
+    - JA Burrows
+    - MJ Ansell
+  registry:
+    people:
+      A McAuley: 39e599c8
+      ADL Stokoe: bf09f51d
+      Ali Masood: a138f597
+      Ashish Rana: 126c3f6f
+      Ashraful Shuvo: 9bb259b4
+      C Hartmann: 467c28f9
+      C Smith: c160db98
+      D Jansen: c90346a0
+      EF Beard: 68019a70
+      G Burrows: 8bee668b
+      Habib Khan: 5152ab02
+      J Butler: efcb778e
+      JA Burrows: dba54d8e
+      K Vislapuu: '04855b85'
+      M Sedgwick: 82fc5e8d
+      M Vaik: 5335c5a7
+      MJ Ansell: 6e60a792
+      MMR Obili: '88228580'
+      Maidul Islam: 6969d364
+      Moshiur Rahman: f059910f
+      N Knights: b0aadf4f
+      S Hook: eba871dd
+  teams:
+  - Estonia
+  - Isle of Man
+  toss:
+    winner: Estonia
+    decision: bat
+  venue: Happy Valley Ground
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Habib Khan
+        batsman: Ali Masood
+    - 0.2:
+        non_striker: Ali Masood
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Khan
+    - 0.3:
+        non_striker: Ali Masood
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Khan
+    - 0.4:
+        non_striker: Ali Masood
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Khan
+    - 0.5:
+        non_striker: Habib Khan
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Masood
+    - 0.6:
+        non_striker: Habib Khan
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 1.1:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Khan
+    - 1.2:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Habib Khan
+    - 1.3:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Khan
+        wicket:
+          player_out: Habib Khan
+          fielders:
+          - G Burrows
+          - JA Burrows
+          kind: run out
+    - 1.4:
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Maidul Islam
+        batsman: Ali Masood
+    - 1.5:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 1.6:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 2.1:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Masood
+    - 2.2:
+        non_striker: Ali Masood
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 2.3:
+        non_striker: Ali Masood
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 2.4:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 2.5:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Masood
+    - 2.6:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 3.1:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 3.2:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maidul Islam
+    - 3.3:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 3.4:
+        non_striker: Maidul Islam
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Masood
+    - 3.5:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 3.6:
+        non_striker: Ali Masood
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 4.1:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 4.2:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Masood
+    - 4.3:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 4.4:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Masood
+    - 4.5:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Masood
+    - 4.6:
+        non_striker: Ali Masood
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 5.1:
+        non_striker: Ali Masood
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 5.2:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 5.3:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 5.4:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Masood
+    - 5.5:
+        non_striker: Ali Masood
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 5.6:
+        non_striker: Ali Masood
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 6.1:
+        non_striker: Ali Masood
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 6.2:
+        non_striker: Ali Masood
+        bowler: C Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 6.3:
+        non_striker: Ali Masood
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 6.4:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+        wicket:
+          player_out: Ali Masood
+          fielders:
+          - C Hartmann
+          kind: caught
+    - 6.5:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.6:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 6.7:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 7.1:
+        non_striker: S Hook
+        bowler: J Butler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 7.2:
+        non_striker: S Hook
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 7.3:
+        non_striker: S Hook
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 7.4:
+        non_striker: S Hook
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 7.5:
+        non_striker: S Hook
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 7.6:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Hook
+    - 7.7:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 8.1:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 8.2:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 8.3:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Hook
+    - 8.4:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 8.5:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 8.6:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maidul Islam
+    - 8.7:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 9.1:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 9.2:
+        non_striker: S Hook
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 9.3:
+        non_striker: S Hook
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 9.4:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 9.5:
+        non_striker: S Hook
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 9.6:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Hook
+    - 10.1:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 10.2:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 10.3:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 10.4:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 10.5:
+        non_striker: S Hook
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 10.6:
+        non_striker: Maidul Islam
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+        wicket:
+          player_out: S Hook
+          fielders:
+          - EF Beard
+          kind: caught
+    - 11.1:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 11.2:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 11.3:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 11.4:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 11.5:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 11.6:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 12.1:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 12.2:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 12.3:
+        non_striker: Maidul Islam
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 12.4:
+        non_striker: Moshiur Rahman
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 12.5:
+        non_striker: Moshiur Rahman
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 12.6:
+        non_striker: Moshiur Rahman
+        bowler: ADL Stokoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 13.1:
+        non_striker: Maidul Islam
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 13.2:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Maidul Islam
+    - 13.3:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 13.4:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 13.5:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 13.6:
+        non_striker: Moshiur Rahman
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 14.1:
+        non_striker: Moshiur Rahman
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 14.2:
+        non_striker: Moshiur Rahman
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 14.3:
+        non_striker: Moshiur Rahman
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 14.4:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+        wicket:
+          player_out: Moshiur Rahman
+          kind: bowled
+    - 14.5:
+        non_striker: Maidul Islam
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 14.6:
+        non_striker: M Vaik
+        bowler: MJ Ansell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 14.7:
+        non_striker: M Vaik
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 15.1:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 15.2:
+        non_striker: M Vaik
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 15.3:
+        non_striker: Maidul Islam
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 15.4:
+        non_striker: M Vaik
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+        wicket:
+          player_out: Maidul Islam
+          fielders:
+          - A McAuley
+          kind: caught
+    - 15.5:
+        bowler: J Butler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: MMR Obili
+        batsman: M Vaik
+    - 15.6:
+        non_striker: M Vaik
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 16.1:
+        non_striker: M Vaik
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 16.2:
+        non_striker: MMR Obili
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 16.3:
+        non_striker: M Vaik
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 16.4:
+        non_striker: MMR Obili
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+        wicket:
+          player_out: M Vaik
+          fielders:
+          - J Butler
+          kind: caught
+    - 16.5:
+        bowler: MJ Ansell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ashraful Shuvo
+        batsman: MMR Obili
+    - 16.6:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ashraful Shuvo
+        batsman: MMR Obili
+    - 16.7:
+        non_striker: Ashraful Shuvo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MMR Obili
+    - 17.1:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashraful Shuvo
+    - 17.2:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashraful Shuvo
+    - 17.3:
+        non_striker: Ashraful Shuvo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 17.4:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashraful Shuvo
+    - 17.5:
+        non_striker: Ashraful Shuvo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 17.6:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashraful Shuvo
+    - 18.1:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashraful Shuvo
+    - 18.2:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashraful Shuvo
+    - 18.3:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashraful Shuvo
+    - 18.4:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashraful Shuvo
+        wicket:
+          player_out: Ashraful Shuvo
+          kind: bowled
+    - 18.5:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashish Rana
+    - 18.6:
+        non_striker: MMR Obili
+        bowler: C Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashish Rana
+    - 19.1:
+        non_striker: Ashish Rana
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MMR Obili
+    - 19.2:
+        non_striker: Ashish Rana
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 19.3:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashish Rana
+    - 19.4:
+        non_striker: Ashish Rana
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MMR Obili
+    - 19.5:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashish Rana
+    - 19.6:
+        non_striker: MMR Obili
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashish Rana
+- 2nd innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.2:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.3:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.4:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Knights
+        batsman: A McAuley
+    - 0.5:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 0.6:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 0.7:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 1.1:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 1.2:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 1.3:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 1.4:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 1.5:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 1.6:
+        non_striker: A McAuley
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 2.1:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 2.2:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 2.3:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 2.4:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 2.5:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 2.6:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 3.1:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 3.2:
+        non_striker: A McAuley
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Knights
+    - 3.3:
+        non_striker: A McAuley
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 3.4:
+        non_striker: N Knights
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 3.5:
+        non_striker: A McAuley
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Knights
+    - 3.6:
+        non_striker: A McAuley
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+    - 4.1:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 4.2:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 4.3:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Knights
+    - 4.4:
+        non_striker: A McAuley
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Knights
+    - 4.5:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 4.6:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 4.7:
+        non_striker: N Knights
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+    - 5.1:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Knights
+    - 5.2:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Knights
+    - 5.3:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 5.4:
+        non_striker: N Knights
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 5.5:
+        non_striker: N Knights
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 5.6:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 5.7:
+        non_striker: N Knights
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McAuley
+    - 6.1:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Knights
+    - 6.2:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Knights
+    - 6.3:
+        non_striker: N Knights
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 6.4:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Knights
+        wicket:
+          player_out: N Knights
+          kind: bowled
+    - 6.5:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+    - 6.6:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Burrows
+        wicket:
+          player_out: G Burrows
+          kind: lbw
+    - 7.1:
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Hartmann
+        batsman: A McAuley
+    - 7.2:
+        bowler: MMR Obili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Hartmann
+        batsman: A McAuley
+    - 7.3:
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Hartmann
+        batsman: A McAuley
+    - 7.4:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 7.5:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 7.6:
+        non_striker: C Hartmann
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 7.7:
+        non_striker: A McAuley
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Hartmann
+    - 8.1:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 8.2:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 8.3:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 8.4:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 8.5:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 8.6:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 9.1:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A McAuley
+    - 9.2:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 9.3:
+        non_striker: A McAuley
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 9.4:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A McAuley
+    - 9.5:
+        non_striker: A McAuley
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 9.6:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McAuley
+    - 9.7:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McAuley
+    - 9.8:
+        non_striker: A McAuley
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 10.1:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 10.2:
+        non_striker: A McAuley
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 10.3:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McAuley
+        wicket:
+          player_out: A McAuley
+          kind: bowled
+    - 10.4:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Smith
+    - 10.5:
+        non_striker: C Smith
+        bowler: Ashish Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Hartmann
+    - 10.6:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Smith
+    - 10.7:
+        non_striker: C Hartmann
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Smith
+    - 11.1:
+        non_striker: C Smith
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 11.2:
+        non_striker: C Hartmann
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Smith
+    - 11.3:
+        non_striker: C Smith
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Hartmann
+    - 11.4:
+        non_striker: C Smith
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 11.5:
+        non_striker: C Smith
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Hartmann
+    - 11.6:
+        non_striker: C Smith
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 12.1:
+        non_striker: C Smith
+        bowler: Ali Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Hartmann
+    - 12.2:
+        non_striker: C Smith
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 12.3:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Smith
+        wicket:
+          player_out: C Smith
+          kind: bowled
+    - 12.4:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 12.5:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 12.6:
+        non_striker: EF Beard
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 12.7:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EF Beard
+    - 13.1:
+        non_striker: EF Beard
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hartmann
+    - 13.2:
+        non_striker: EF Beard
+        bowler: MMR Obili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Hartmann
+    - 13.3:
+        non_striker: C Hartmann
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EF Beard
+    - 13.4:
+        non_striker: C Hartmann
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 13.5:
+        non_striker: EF Beard
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 13.6:
+        non_striker: C Hartmann
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EF Beard
+    - 14.1:
+        non_striker: EF Beard
+        bowler: Ali Masood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: C Hartmann
+    - 14.2:
+        non_striker: EF Beard
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 14.3:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EF Beard
+    - 14.4:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: EF Beard
+    - 14.5:
+        non_striker: EF Beard
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 14.6:
+        non_striker: C Hartmann
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EF Beard
+    - 15.1:
+        non_striker: EF Beard
+        bowler: Moshiur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Hartmann
+    - 15.2:
+        non_striker: EF Beard
+        bowler: Moshiur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hartmann
+    - 15.3:
+        non_striker: C Hartmann
+        bowler: Moshiur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EF Beard
+    - 15.4:
+        non_striker: EF Beard
+        bowler: Moshiur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Hartmann

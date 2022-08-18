@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2021-10-05'
+  gender: male
+  match_type: T20
+  match_type_number: 1282
+  outcome:
+    winner: Cyprus
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - Tejwinder Singh
+  players:
+    Estonia:
+    - T Filer
+    - Habib Khan
+    - Ali Masood
+    - S Hook
+    - Maidul Islam
+    - M Vaik
+    - MMR Obili
+    - Moshiur Rahman
+    - T Cross
+    - K Vislapuu
+    - Ashish Rana
+    Cyprus:
+    - Gurpratap Singh
+    - CPPM Sadun
+    - BLCS Kumara
+    - R Mazumder
+    - NK Tiwari
+    - M Kyriacou
+    - SN Pathirana
+    - Yasir Mehmood
+    - Tejwinder Singh
+    - Waqar Ali
+    - Qasim Anwar
+  registry:
+    people:
+      Ali Masood: a138f597
+      Ashish Rana: 126c3f6f
+      BLCS Kumara: 74e3b4fd
+      CPPM Sadun: 2cf2fc9e
+      Gurpratap Singh: 49235be5
+      Habib Khan: 5152ab02
+      K Vislapuu: '04855b85'
+      M Kyriacou: 9818cc88
+      M Vaik: 5335c5a7
+      MMR Obili: '88228580'
+      Maidul Islam: 6969d364
+      Moshiur Rahman: f059910f
+      NK Tiwari: 97f44626
+      Qasim Anwar: 3852600a
+      R Mazumder: b23d3ec5
+      S Hook: eba871dd
+      SN Pathirana: f4000a7d
+      T Cross: 12678cc7
+      T Filer: 52dfe157
+      Tejwinder Singh: ad37baac
+      Waqar Ali: 55a73018
+      Yasir Mehmood: af8d9fd9
+  teams:
+  - Estonia
+  - Cyprus
+  toss:
+    winner: Cyprus
+    decision: field
+  venue: Happy Valley Ground
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Habib Khan
+        batsman: T Filer
+    - 0.2:
+        non_striker: T Filer
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Khan
+    - 0.3:
+        non_striker: T Filer
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Khan
+    - 0.4:
+        non_striker: Habib Khan
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Filer
+        wicket:
+          player_out: T Filer
+          kind: bowled
+    - 0.5:
+        non_striker: Habib Khan
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 0.6:
+        non_striker: Habib Khan
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Masood
+    - 1.1:
+        non_striker: Ali Masood
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Khan
+    - 1.2:
+        non_striker: Habib Khan
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 1.3:
+        non_striker: Habib Khan
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 1.4:
+        non_striker: Habib Khan
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 1.5:
+        non_striker: Habib Khan
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+    - 1.6:
+        non_striker: Habib Khan
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Masood
+        wicket:
+          player_out: Ali Masood
+          fielders:
+          - CPPM Sadun
+          kind: caught
+    - 2.1:
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hook
+        batsman: Habib Khan
+    - 2.2:
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Hook
+        batsman: Habib Khan
+    - 2.3:
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Hook
+        batsman: Habib Khan
+    - 2.4:
+        non_striker: S Hook
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Khan
+        wicket:
+          player_out: Habib Khan
+          fielders:
+          - M Kyriacou
+          kind: caught
+    - 2.5:
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Maidul Islam
+        batsman: S Hook
+    - 2.6:
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Maidul Islam
+        batsman: S Hook
+    - 2.7:
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Maidul Islam
+        batsman: S Hook
+    - 2.8:
+        non_striker: Maidul Islam
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 3.1:
+        non_striker: S Hook
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 3.2:
+        non_striker: Maidul Islam
+        bowler: Tejwinder Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Hook
+    - 3.3:
+        non_striker: Maidul Islam
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 3.4:
+        non_striker: Maidul Islam
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 3.5:
+        non_striker: S Hook
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 3.6:
+        non_striker: S Hook
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maidul Islam
+    - 3.7:
+        non_striker: S Hook
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 4.1:
+        non_striker: Maidul Islam
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 4.2:
+        non_striker: Maidul Islam
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 4.3:
+        non_striker: Maidul Islam
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 4.4:
+        non_striker: Maidul Islam
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 4.5:
+        non_striker: S Hook
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 4.6:
+        non_striker: S Hook
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 4.7:
+        non_striker: S Hook
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 4.8:
+        non_striker: S Hook
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 5.1:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 5.2:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 5.3:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Hook
+    - 5.4:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 5.5:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 5.6:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.1:
+        non_striker: S Hook
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 6.2:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.3:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.4:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.5:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 6.6:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 7.1:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Hook
+    - 7.2:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 7.3:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 7.4:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Maidul Islam
+    - 7.5:
+        non_striker: S Hook
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 7.6:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+    - 8.1:
+        non_striker: S Hook
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 8.2:
+        non_striker: S Hook
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 8.3:
+        non_striker: S Hook
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 8.4:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Hook
+    - 8.5:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hook
+        wicket:
+          player_out: S Hook
+          fielders:
+          - R Mazumder
+          kind: caught
+    - 8.6:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 9.1:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 9.2:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 9.3:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 9.4:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maidul Islam
+    - 9.5:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 9.6:
+        non_striker: Maidul Islam
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 9.7:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 10.1:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 10.2:
+        non_striker: M Vaik
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 10.3:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 10.4:
+        non_striker: M Vaik
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 10.5:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 10.6:
+        non_striker: Maidul Islam
+        bowler: Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 11.1:
+        non_striker: Maidul Islam
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 11.2:
+        non_striker: Maidul Islam
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 11.3:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 11.4:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 11.5:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 11.6:
+        non_striker: M Vaik
+        bowler: NK Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 12.1:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 12.2:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 12.3:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maidul Islam
+    - 12.4:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 12.5:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maidul Islam
+    - 12.6:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Maidul Islam
+    - 12.7:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 13.1:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 13.2:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 13.3:
+        non_striker: M Vaik
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Maidul Islam
+    - 13.4:
+        non_striker: M Vaik
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 13.5:
+        non_striker: Maidul Islam
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 13.6:
+        non_striker: M Vaik
+        bowler: Gurpratap Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Maidul Islam
+    - 14.1:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 14.2:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 14.3:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+    - 14.4:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maidul Islam
+    - 14.5:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 14.6:
+        non_striker: Maidul Islam
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 15.1:
+        non_striker: Maidul Islam
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 15.2:
+        non_striker: M Vaik
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maidul Islam
+        wicket:
+          player_out: Maidul Islam
+          fielders:
+          - R Mazumder
+          kind: caught
+    - 15.3:
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MMR Obili
+        batsman: M Vaik
+    - 15.4:
+        bowler: Tejwinder Singh
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: MMR Obili
+        batsman: M Vaik
+    - 15.5:
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MMR Obili
+        batsman: M Vaik
+    - 15.6:
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MMR Obili
+        batsman: M Vaik
+    - 15.7:
+        non_striker: M Vaik
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MMR Obili
+    - 16.1:
+        non_striker: MMR Obili
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Vaik
+    - 16.2:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MMR Obili
+    - 16.3:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MMR Obili
+        wicket:
+          player_out: MMR Obili
+          fielders:
+          - Gurpratap Singh
+          kind: caught
+    - 16.4:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 16.5:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 16.6:
+        non_striker: M Vaik
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 17.1:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 17.2:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+    - 17.3:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Vaik
+        wicket:
+          player_out: M Vaik
+          kind: bowled
+    - 17.4:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+    - 17.5:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+    - 17.6:
+        non_striker: Moshiur Rahman
+        bowler: Tejwinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+    - 18.1:
+        non_striker: T Cross
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 18.2:
+        non_striker: T Cross
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 18.3:
+        non_striker: Moshiur Rahman
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Cross
+    - 18.4:
+        non_striker: T Cross
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Moshiur Rahman
+    - 18.5:
+        non_striker: Moshiur Rahman
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Cross
+    - 18.6:
+        non_striker: T Cross
+        bowler: Yasir Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Moshiur Rahman
+    - 19.1:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+    - 19.2:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+    - 19.3:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Cross
+    - 19.4:
+        non_striker: T Cross
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Moshiur Rahman
+    - 19.5:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Cross
+    - 19.6:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Cross
+    - 19.7:
+        non_striker: Moshiur Rahman
+        bowler: Qasim Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Cross
+        wicket:
+          player_out: T Cross
+          kind: bowled
+- 2nd innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CPPM Sadun
+        batsman: Gurpratap Singh
+    - 0.2:
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CPPM Sadun
+        batsman: Gurpratap Singh
+    - 0.3:
+        non_striker: CPPM Sadun
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpratap Singh
+        wicket:
+          player_out: Gurpratap Singh
+          kind: caught and bowled
+    - 0.4:
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: BLCS Kumara
+        batsman: CPPM Sadun
+    - 0.5:
+        non_striker: CPPM Sadun
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BLCS Kumara
+    - 0.6:
+        non_striker: CPPM Sadun
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BLCS Kumara
+    - 0.7:
+        non_striker: CPPM Sadun
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BLCS Kumara
+        wicket:
+          player_out: BLCS Kumara
+          kind: bowled
+    - 1.1:
+        non_striker: R Mazumder
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CPPM Sadun
+        wicket:
+          player_out: CPPM Sadun
+          fielders:
+          - M Vaik
+          kind: caught
+    - 1.2:
+        non_striker: R Mazumder
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 1.3:
+        non_striker: R Mazumder
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 1.4:
+        non_striker: R Mazumder
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 1.5:
+        non_striker: R Mazumder
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 1.6:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mazumder
+    - 2.1:
+        non_striker: NK Tiwari
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+        wicket:
+          player_out: R Mazumder
+          fielders:
+          - K Vislapuu
+          kind: caught
+    - 2.2:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Kyriacou
+        batsman: NK Tiwari
+    - 2.3:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Kyriacou
+        batsman: NK Tiwari
+    - 2.4:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Kyriacou
+        batsman: NK Tiwari
+    - 2.5:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kyriacou
+        batsman: NK Tiwari
+    - 2.6:
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Kyriacou
+        batsman: NK Tiwari
+    - 2.7:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Tiwari
+    - 3.1:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 3.2:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Tiwari
+    - 3.3:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 3.4:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 3.5:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 3.6:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 4.1:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 4.2:
+        non_striker: NK Tiwari
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 4.3:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 4.4:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 4.5:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 4.6:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 5.1:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NK Tiwari
+    - 5.2:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 5.3:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 5.4:
+        non_striker: M Kyriacou
+        bowler: MMR Obili
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NK Tiwari
+    - 5.5:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 5.6:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 5.7:
+        non_striker: NK Tiwari
+        bowler: MMR Obili
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 6.1:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 6.2:
+        non_striker: M Kyriacou
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 6.3:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kyriacou
+    - 6.4:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 6.5:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 6.6:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 7.1:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Tiwari
+    - 7.2:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 7.3:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 7.4:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 7.5:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 7.6:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 8.1:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 8.2:
+        non_striker: M Kyriacou
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Tiwari
+    - 8.3:
+        non_striker: M Kyriacou
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 8.4:
+        non_striker: M Kyriacou
+        bowler: Ashish Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NK Tiwari
+    - 8.5:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 8.6:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kyriacou
+    - 8.7:
+        non_striker: NK Tiwari
+        bowler: Ashish Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Kyriacou
+    - 9.1:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 9.2:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 9.3:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Tiwari
+    - 9.4:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 9.5:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 9.6:
+        non_striker: NK Tiwari
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 10.1:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 10.2:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+    - 10.3:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Tiwari
+        wicket:
+          player_out: NK Tiwari
+          kind: caught and bowled
+    - 10.4:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Pathirana
+        wicket:
+          player_out: SN Pathirana
+          kind: bowled
+    - 10.5:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Mehmood
+    - 10.6:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 11.1:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 11.2:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 11.3:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 11.4:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Mehmood
+    - 11.5:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 11.6:
+        non_striker: M Kyriacou
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 12.1:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasir Mehmood
+    - 12.2:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 12.3:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 12.4:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 12.5:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 12.6:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 13.1:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 13.2:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 13.3:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 13.4:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 13.5:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Mehmood
+    - 13.6:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 14.1:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Kyriacou
+    - 14.2:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 14.3:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 14.4:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 14.5:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 14.6:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 14.7:
+        non_striker: Yasir Mehmood
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 15.1:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 15.2:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 15.3:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 15.4:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 15.5:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yasir Mehmood
+    - 15.6:
+        non_striker: M Kyriacou
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 15.7:
+        non_striker: Yasir Mehmood
+        bowler: T Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 16.1:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Mehmood
+    - 16.2:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Mehmood
+    - 16.3:
+        non_striker: Yasir Mehmood
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 16.4:
+        non_striker: M Kyriacou
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasir Mehmood
+    - 16.5:
+        non_striker: Yasir Mehmood
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 16.6:
+        non_striker: Yasir Mehmood
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kyriacou
+    - 17.1:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kyriacou
+    - 17.2:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 17.3:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kyriacou
+    - 17.4:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kyriacou
+    - 17.5:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 17.6:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kyriacou
+    - 17.7:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kyriacou
+    - 17.8:
+        non_striker: Yasir Mehmood
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kyriacou
+    - 18.1:
+        non_striker: M Kyriacou
+        bowler: Ali Masood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Mehmood

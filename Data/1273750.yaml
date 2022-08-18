@@ -1,0 +1,2139 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  dates:
+  - '2021-11-06'
+  gender: male
+  match_type: T20
+  match_type_number: 1400
+  outcome:
+    winner: South Africa
+    by:
+      runs: 10
+  overs: 20
+  player_of_match:
+  - HE van der Dussen
+  players:
+    South Africa:
+    - RR Hendricks
+    - Q de Kock
+    - HE van der Dussen
+    - AK Markram
+    - T Bavuma
+    - DA Miller
+    - D Pretorius
+    - K Rabada
+    - KA Maharaj
+    - A Nortje
+    - T Shamsi
+    England:
+    - JJ Roy
+    - JC Buttler
+    - MM Ali
+    - JM Bairstow
+    - DJ Malan
+    - LS Livingstone
+    - EJG Morgan
+    - CR Woakes
+    - CJ Jordan
+    - AU Rashid
+    - MA Wood
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AK Markram: 6a26221c
+      AU Rashid: 249d60c9
+      CJ Jordan: ffe699c0
+      CM Brown: 448f4f1c
+      CR Woakes: 4c5d73db
+      D Pretorius: 11614d87
+      DA Miller: d67d5f00
+      DC Boon: e79a1fe3
+      DJ Malan: ad9c32a2
+      EJG Morgan: d2a6c0e6
+      HE van der Dussen: 9948e262
+      JC Buttler: 99b75528
+      JJ Roy: d1c36f5c
+      JM Bairstow: abb83e27
+      JS Wilson: d7f3b72f
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      LS Livingstone: 50c6bc2b
+      MA Wood: 8d92a2c3
+      MM Ali: bb351c23
+      Q de Kock: 372455c4
+      RJ Tucker: 38810cfc
+      RR Hendricks: b8cc58c9
+      T Bavuma: 9ffd1ac1
+      T Shamsi: a03bba42
+  teams:
+  - South Africa
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - CM Brown
+  - JS Wilson
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: MM Ali
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: bowled
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 2.7:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.1:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.6:
+        non_striker: HE van der Dussen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.1:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: CJ Jordan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 9.1:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.2:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.6:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.1:
+        non_striker: Q de Kock
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.2:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: Q de Kock
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 10.4:
+        non_striker: Q de Kock
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.6:
+        non_striker: Q de Kock
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 10.7:
+        non_striker: Q de Kock
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.1:
+        non_striker: Q de Kock
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.2:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 11.3:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 11.4:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.5:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.6:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.1:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.2:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Markram
+    - 12.3:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 12.5:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.6:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.2:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.3:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.4:
+        non_striker: AK Markram
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.5:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.2:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.3:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.5:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.1:
+        non_striker: AK Markram
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 15.2:
+        non_striker: AK Markram
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 15.3:
+        non_striker: AK Markram
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 15.4:
+        non_striker: AK Markram
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.5:
+        non_striker: HE van der Dussen
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 15.6:
+        non_striker: HE van der Dussen
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 16.1:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 16.2:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 16.3:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 16.4:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 16.5:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 16.6:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 17.1:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 17.2:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AK Markram
+    - 17.3:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.4:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HE van der Dussen
+    - 17.5:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 17.6:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 18.1:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 18.2:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 18.3:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 18.4:
+        non_striker: HE van der Dussen
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 18.5:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 18.6:
+        non_striker: AK Markram
+        bowler: MA Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 19.1:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 19.2:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 19.3:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 19.4:
+        non_striker: HE van der Dussen
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 19.5:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 19.6:
+        non_striker: AK Markram
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JJ Roy
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: JJ Roy
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.1:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.4:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.5:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.3:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.4:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 3.5:
+        non_striker: JC Buttler
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.6:
+        non_striker: JJ Roy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.1:
+        non_striker: JJ Roy
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+        wicket:
+          player_out: JJ Roy
+          kind: retired hurt
+    - 4.2:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 4.3:
+        non_striker: MM Ali
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 4.4:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 4.5:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 4.6:
+        non_striker: MM Ali
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.7:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MM Ali
+    - 4.8:
+        non_striker: JC Buttler
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 5.1:
+        non_striker: MM Ali
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 5.2:
+        non_striker: MM Ali
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 5.3:
+        non_striker: MM Ali
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - T Bavuma
+          kind: caught
+    - 5.4:
+        non_striker: MM Ali
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 5.5:
+        non_striker: JM Bairstow
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 5.6:
+        non_striker: JM Bairstow
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.1:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+    - 6.2:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Bairstow
+        wicket:
+          player_out: JM Bairstow
+          kind: lbw
+    - 6.3:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.5:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 6.6:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 7.2:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.3:
+        non_striker: MM Ali
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.4:
+        non_striker: MM Ali
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.6:
+        non_striker: MM Ali
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 8.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 8.6:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 9.1:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.2:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 9.3:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: MM Ali
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.1:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 10.2:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 10.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 10.5:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.6:
+        non_striker: MM Ali
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 11.2:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 11.3:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 11.5:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 11.6:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 11.7:
+        non_striker: MM Ali
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.8:
+        non_striker: DJ Malan
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 12.1:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 12.2:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - DA Miller
+          kind: caught
+    - 12.3:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 12.4:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 12.5:
+        non_striker: DJ Malan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 12.6:
+        non_striker: LS Livingstone
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.1:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 13.2:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 13.3:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 13.4:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 13.5:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.6:
+        non_striker: DJ Malan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 14.1:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 14.2:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 14.3:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 14.4:
+        non_striker: DJ Malan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 14.5:
+        non_striker: DJ Malan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 14.6:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 15.1:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 15.2:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 15.3:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 15.4:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 15.5:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 15.6:
+        non_striker: DJ Malan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 16.1:
+        non_striker: DJ Malan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 16.2:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - K Rabada
+          kind: caught
+    - 16.3:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 16.4:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 16.5:
+        non_striker: LS Livingstone
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 16.6:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 17.1:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 17.2:
+        non_striker: EJG Morgan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 17.3:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 17.4:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 17.5:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJG Morgan
+    - 17.6:
+        non_striker: LS Livingstone
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 18.1:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - DA Miller
+          kind: caught
+    - 18.2:
+        non_striker: CR Woakes
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 18.3:
+        non_striker: CR Woakes
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: EJG Morgan
+    - 18.4:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Woakes
+    - 18.5:
+        non_striker: EJG Morgan
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 18.6:
+        non_striker: CR Woakes
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 18.7:
+        non_striker: CR Woakes
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJG Morgan
+    - 19.1:
+        non_striker: EJG Morgan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+        wicket:
+          player_out: CR Woakes
+          fielders:
+          - A Nortje
+          kind: caught
+    - 19.2:
+        non_striker: CJ Jordan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+        wicket:
+          player_out: EJG Morgan
+          fielders:
+          - KA Maharaj
+          kind: caught
+    - 19.3:
+        non_striker: AU Rashid
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+        wicket:
+          player_out: CJ Jordan
+          fielders:
+          - DA Miller
+          kind: caught
+    - 19.4:
+        non_striker: MA Wood
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 19.5:
+        non_striker: AU Rashid
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Wood
+    - 19.6:
+        non_striker: MA Wood
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid

@@ -1,0 +1,2042 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bulawayo
+  dates:
+  - '2022-05-19'
+  gender: male
+  match_type: T20
+  match_type_number: 1541
+  outcome:
+    winner: Namibia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - CG Williams
+  players:
+    Zimbabwe:
+    - RW Chakabva
+    - W Madhevere
+    - CR Ervine
+    - DT Tiripano
+    - Sikandar Raza
+    - M Shumba
+    - T Munyonga
+    - RP Burl
+    - LM Jongwe
+    - B Mavuta
+    - TL Chatara
+    Namibia:
+    - CG Williams
+    - D la Cock
+    - MG Erasmus
+    - D Wiese
+    - JN Loftie-Eaton
+    - R Trumpelmann
+    - ZE Green
+    - JN Frylinck
+    - HN Ya France
+    - BM Scholtz
+    - T Lungameni
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      B Mavuta: dadb9703
+      BM Scholtz: e85d03d6
+      C Phiri: ade73404
+      CG Williams: e16e7347
+      CR Ervine: c96311d4
+      D Wiese: aa8d28ae
+      D la Cock: 48301a4b
+      DT Tiripano: dbfb8218
+      HN Ya France: 915264c2
+      I Chabi: 5e39110e
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      L Rusere: 6a4734ae
+      LM Jongwe: b8704508
+      M Shumba: 6766ca00
+      MG Erasmus: 95a5e066
+      P Sizara: 5d45bb7f
+      R Trumpelmann: ff6a7ab5
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      Sikandar Raza: 26d041c4
+      T Lungameni: 1688f2dc
+      T Munyonga: fbcfa528
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      ZE Green: 8716233e
+  teams:
+  - Zimbabwe
+  - Namibia
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - C Phiri
+  - L Rusere
+  venue: Queens Sports Club, Bulawayo
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Madhevere
+        batsman: RW Chakabva
+    - 0.2:
+        non_striker: RW Chakabva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 0.3:
+        non_striker: RW Chakabva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 0.4:
+        non_striker: W Madhevere
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 0.5:
+        non_striker: W Madhevere
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 0.6:
+        non_striker: W Madhevere
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          kind: bowled
+    - 1.1:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Ervine
+        batsman: W Madhevere
+    - 1.2:
+        non_striker: W Madhevere
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 1.3:
+        non_striker: CR Ervine
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.4:
+        non_striker: W Madhevere
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 1.5:
+        non_striker: W Madhevere
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 1.6:
+        non_striker: W Madhevere
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 2.1:
+        non_striker: W Madhevere
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.2:
+        non_striker: W Madhevere
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.3:
+        non_striker: W Madhevere
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: W Madhevere
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - MG Erasmus
+          kind: run out
+    - 2.5:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DT Tiripano
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 3.2:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 3.4:
+        non_striker: DT Tiripano
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: DT Tiripano
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: CR Ervine
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 4.1:
+        non_striker: CR Ervine
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 4.2:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 4.4:
+        non_striker: CR Ervine
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 4.5:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: CR Ervine
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 5.2:
+        non_striker: DT Tiripano
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: DT Tiripano
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: DT Tiripano
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - T Lungameni
+          kind: caught
+    - 5.5:
+        non_striker: DT Tiripano
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 5.6:
+        non_striker: Sikandar Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 6.1:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.2:
+        non_striker: Sikandar Raza
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 6.3:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.4:
+        non_striker: Sikandar Raza
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DT Tiripano
+    - 6.5:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.6:
+        non_striker: Sikandar Raza
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 7.1:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.2:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.3:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.4:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.5:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 8.1:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.2:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 8.3:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.4:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.5:
+        non_striker: Sikandar Raza
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 8.6:
+        non_striker: DT Tiripano
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Tiripano
+    - 9.2:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Tiripano
+    - 9.3:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Tiripano
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 9.6:
+        non_striker: DT Tiripano
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: bowled
+    - 10.2:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 10.3:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 10.4:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 10.5:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 10.6:
+        non_striker: DT Tiripano
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 11.1:
+        non_striker: DT Tiripano
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+        wicket:
+          player_out: DT Tiripano
+          fielders:
+          - D la Cock
+          - MG Erasmus
+          kind: run out
+    - 11.2:
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Munyonga
+        batsman: M Shumba
+    - 11.3:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Munyonga
+    - 11.4:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 11.5:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 11.6:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 12.1:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 12.2:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 12.3:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 12.4:
+        non_striker: T Munyonga
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 12.5:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Munyonga
+    - 12.6:
+        non_striker: M Shumba
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Munyonga
+    - 13.1:
+        non_striker: T Munyonga
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 13.2:
+        non_striker: T Munyonga
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Shumba
+    - 13.3:
+        non_striker: T Munyonga
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.4:
+        non_striker: M Shumba
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 13.5:
+        non_striker: M Shumba
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 13.6:
+        non_striker: T Munyonga
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 14.1:
+        non_striker: T Munyonga
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 14.2:
+        non_striker: T Munyonga
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Shumba
+    - 14.3:
+        non_striker: T Munyonga
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 14.4:
+        non_striker: T Munyonga
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 14.5:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 14.6:
+        non_striker: M Shumba
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 15.1:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Munyonga
+    - 15.2:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Munyonga
+    - 15.3:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 15.4:
+        non_striker: T Munyonga
+        bowler: JN Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Shumba
+    - 15.5:
+        non_striker: T Munyonga
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 15.6:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 15.7:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 16.1:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Munyonga
+    - 16.2:
+        non_striker: T Munyonga
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 16.3:
+        non_striker: T Munyonga
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 16.4:
+        non_striker: T Munyonga
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 16.5:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+    - 16.6:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Munyonga
+    - 16.7:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Munyonga
+        wicket:
+          player_out: T Munyonga
+          kind: bowled
+    - 17.1:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RP Burl
+        batsman: M Shumba
+    - 17.2:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RP Burl
+        batsman: M Shumba
+    - 17.3:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 17.4:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 17.5:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 17.6:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 17.7:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: RP Burl
+    - 17.8:
+        non_striker: M Shumba
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 18.1:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 18.2:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 18.3:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 18.4:
+        non_striker: RP Burl
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 18.5:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 18.6:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 18.7:
+        non_striker: M Shumba
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 19.1:
+        non_striker: RP Burl
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 19.2:
+        non_striker: M Shumba
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 19.3:
+        non_striker: RP Burl
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 19.4:
+        non_striker: RP Burl
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+        wicket:
+          player_out: M Shumba
+          kind: bowled
+    - 19.5:
+        non_striker: RP Burl
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+        wicket:
+          player_out: LM Jongwe
+          fielders:
+          - R Trumpelmann
+          kind: caught
+    - 19.6:
+        non_striker: RP Burl
+        bowler: JN Frylinck
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: B Mavuta
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D la Cock
+        batsman: CG Williams
+    - 0.2:
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D la Cock
+        batsman: CG Williams
+    - 0.3:
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D la Cock
+        batsman: CG Williams
+    - 0.4:
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D la Cock
+        batsman: CG Williams
+    - 0.5:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 0.6:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D la Cock
+    - 1.1:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 1.2:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 1.3:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 1.4:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D la Cock
+    - 1.5:
+        non_striker: D la Cock
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 1.6:
+        non_striker: D la Cock
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 2.1:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D la Cock
+    - 2.2:
+        non_striker: D la Cock
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 2.3:
+        non_striker: D la Cock
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 2.4:
+        non_striker: D la Cock
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 2.5:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 2.6:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D la Cock
+    - 3.1:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 3.2:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 3.3:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D la Cock
+    - 3.4:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 3.5:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D la Cock
+    - 3.6:
+        non_striker: D la Cock
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 4.1:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 4.2:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 4.3:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 4.4:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 4.5:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 4.6:
+        non_striker: D la Cock
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 5.1:
+        non_striker: D la Cock
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.2:
+        non_striker: D la Cock
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 5.3:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 5.4:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 5.5:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+        wicket:
+          player_out: D la Cock
+          fielders:
+          - T Munyonga
+          kind: caught
+    - 5.6:
+        non_striker: MG Erasmus
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 6.1:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 6.2:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 6.3:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.4:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 6.5:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.6:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 6.7:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 6.8:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 7.1:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.2:
+        non_striker: MG Erasmus
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CG Williams
+    - 7.3:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.4:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 8.1:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 8.2:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.4:
+        non_striker: MG Erasmus
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 8.5:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.2:
+        non_striker: CG Williams
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Williams
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.6:
+        non_striker: CG Williams
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 10.3:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 10.6:
+        non_striker: CG Williams
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: CG Williams
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 11.2:
+        non_striker: CG Williams
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 11.3:
+        non_striker: CG Williams
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: CG Williams
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 12.1:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 12.4:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: MG Erasmus
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 12.6:
+        non_striker: CG Williams
+        bowler: B Mavuta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 13.2:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 13.4:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          kind: bowled
+    - 13.5:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 13.6:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.1:
+        non_striker: D Wiese
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 14.2:
+        non_striker: CG Williams
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.3:
+        non_striker: D Wiese
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 14.4:
+        non_striker: CG Williams
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.5:
+        non_striker: D Wiese
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 14.6:
+        non_striker: D Wiese
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 15.1:
+        non_striker: D Wiese
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 15.2:
+        non_striker: D Wiese
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 15.3:
+        non_striker: CG Williams
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.4:
+        non_striker: D Wiese
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 15.5:
+        non_striker: D Wiese
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 15.6:
+        non_striker: D Wiese
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 16.1:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 16.2:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.3:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.4:
+        non_striker: D Wiese
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 16.5:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wiese
+    - 16.6:
+        non_striker: CG Williams
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.7:
+        non_striker: D Wiese
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 17.1:
+        non_striker: D Wiese
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 17.2:
+        non_striker: D Wiese
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 17.3:
+        non_striker: D Wiese
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CG Williams
+    - 17.4:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.5:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.6:
+        non_striker: CG Williams
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese

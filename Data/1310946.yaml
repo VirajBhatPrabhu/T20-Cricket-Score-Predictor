@@ -1,0 +1,2200 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2022-06-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1561
+  outcome:
+    winner: Afghanistan
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Najibullah Zadran
+  players:
+    Zimbabwe:
+    - W Madhevere
+    - I Kaia
+    - CR Ervine
+    - RW Chakabva
+    - M Shumba
+    - Sikandar Raza
+    - RP Burl
+    - LM Jongwe
+    - A Ndlovu
+    - TL Chatara
+    - B Muzarabani
+    Afghanistan:
+    - Hazratullah
+    - Rahmanullah Gurbaz
+    - Usman Ghani
+    - Darwish Rasooli
+    - Najibullah Zadran
+    - Mohammad Nabi
+    - Azmatullah Omarzai
+    - Rashid Khan
+    - Karim Janat
+    - Fazalhaq Farooqi
+    - Nijat Masood
+  registry:
+    people:
+      A Ndlovu: 3abe1ef6
+      AJ Pycroft: 685d3f80
+      Azmatullah Omarzai: 8f6dd463
+      B Muzarabani: 449f4e3c
+      C Phiri: ade73404
+      CR Ervine: c96311d4
+      Darwish Rasooli: 3b2114a5
+      Fazalhaq Farooqi: e9c7f0d0
+      Hazratullah: 5ea51c25
+      I Chabi: 5e39110e
+      I Kaia: 5ad8c974
+      Karim Janat: '62175638'
+      L Rusere: 6a4734ae
+      LM Jongwe: b8704508
+      M Shumba: 6766ca00
+      Mohammad Nabi: 62af8546
+      Najibullah Zadran: 1212cbec
+      Nijat Masood: a1bf281e
+      P Sizara: 5d45bb7f
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      Rahmanullah Gurbaz: 0bacade8
+      Rashid Khan: 5f547c8b
+      Sikandar Raza: 26d041c4
+      TL Chatara: 5bbabe59
+      Usman Ghani: e3829b2a
+      W Madhevere: a879b92c
+  teams:
+  - Zimbabwe
+  - Afghanistan
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - I Chabi
+  - L Rusere
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: I Kaia
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 0.2:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 0.3:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 0.4:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 0.5:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 0.6:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 0.7:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.1:
+        non_striker: I Kaia
+        bowler: Nijat Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 1.2:
+        non_striker: I Kaia
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.3:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.4:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.5:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 1.6:
+        non_striker: I Kaia
+        bowler: Nijat Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 1.7:
+        non_striker: I Kaia
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.8:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 2.1:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+        wicket:
+          player_out: I Kaia
+          fielders:
+          - Azmatullah Omarzai
+          kind: caught
+    - 2.2:
+        non_striker: CR Ervine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.3:
+        non_striker: CR Ervine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.4:
+        non_striker: CR Ervine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 2.5:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: W Madhevere
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.2:
+        non_striker: CR Ervine
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.4:
+        non_striker: CR Ervine
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 3.5:
+        non_striker: CR Ervine
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.2:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 4.4:
+        non_striker: CR Ervine
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 4.5:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 4.7:
+        non_striker: W Madhevere
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          kind: caught and bowled
+    - 5.1:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 5.2:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 5.3:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 5.4:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 5.5:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 5.6:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 5.7:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.1:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.2:
+        non_striker: W Madhevere
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RW Chakabva
+    - 6.3:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 6.4:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Madhevere
+    - 6.5:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 6.6:
+        non_striker: W Madhevere
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.1:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.2:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 7.3:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 7.4:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 7.5:
+        non_striker: RW Chakabva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 7.6:
+        non_striker: W Madhevere
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Chakabva
+    - 8.1:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          kind: bowled
+    - 8.2:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 8.3:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 8.4:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 8.5:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 8.6:
+        non_striker: RW Chakabva
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 9.1:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Shumba
+        wicket:
+          player_out: M Shumba
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: stumped
+    - 9.2:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.3:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Chakabva
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 9.6:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.7:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 10.2:
+        non_striker: RW Chakabva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 10.4:
+        non_striker: RW Chakabva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.5:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 10.6:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 11.1:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 11.2:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 11.3:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 11.5:
+        non_striker: RW Chakabva
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 12.1:
+        non_striker: RW Chakabva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: RW Chakabva
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 12.5:
+        non_striker: RW Chakabva
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Chakabva
+    - 13.1:
+        non_striker: RW Chakabva
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          fielders:
+          - Mohammad Nabi
+          kind: caught
+    - 13.3:
+        non_striker: RP Burl
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.5:
+        non_striker: RP Burl
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.1:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.3:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 14.4:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.5:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.6:
+        non_striker: RP Burl
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.7:
+        non_striker: Sikandar Raza
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - Karim Janat
+          kind: run out
+    - 15.1:
+        non_striker: LM Jongwe
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 15.2:
+        non_striker: LM Jongwe
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 15.3:
+        non_striker: Sikandar Raza
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 15.4:
+        non_striker: Sikandar Raza
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 15.5:
+        non_striker: LM Jongwe
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 16.1:
+        non_striker: LM Jongwe
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 16.2:
+        non_striker: LM Jongwe
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 16.3:
+        non_striker: LM Jongwe
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.4:
+        non_striker: Sikandar Raza
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+        wicket:
+          player_out: LM Jongwe
+          fielders:
+          - Rashid Khan
+          kind: run out
+    - 16.5:
+        non_striker: A Ndlovu
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.6:
+        non_striker: Sikandar Raza
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndlovu
+    - 17.1:
+        non_striker: A Ndlovu
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: A Ndlovu
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: Sikandar Raza
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ndlovu
+    - 17.4:
+        non_striker: Sikandar Raza
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndlovu
+    - 17.5:
+        non_striker: Sikandar Raza
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndlovu
+    - 17.6:
+        non_striker: A Ndlovu
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 18.1:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 18.2:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Sikandar Raza
+    - 18.3:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 18.4:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Hazratullah
+          kind: caught
+    - 18.5:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Chatara
+    - 18.6:
+        non_striker: TL Chatara
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndlovu
+    - 18.7:
+        non_striker: A Ndlovu
+        bowler: Nijat Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Chatara
+    - 19.1:
+        non_striker: A Ndlovu
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Chatara
+    - 19.2:
+        non_striker: A Ndlovu
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Chatara
+    - 19.3:
+        non_striker: TL Chatara
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndlovu
+    - 19.4:
+        non_striker: TL Chatara
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ndlovu
+    - 19.5:
+        non_striker: TL Chatara
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndlovu
+    - 19.6:
+        non_striker: TL Chatara
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Ndlovu
+- 2nd innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Hazratullah
+    - 0.2:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 1.1:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 1.5:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.1:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.3:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 2.6:
+        non_striker: Hazratullah
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 3.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Hazratullah
+    - 3.5:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 4.3:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 4.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 4.6:
+        non_striker: Hazratullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.1:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.2:
+        non_striker: Hazratullah
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hazratullah
+    - 5.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 5.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 5.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 5.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 6.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 6.2:
+        non_striker: Hazratullah
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 6.3:
+        non_striker: Hazratullah
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.4:
+        non_striker: Hazratullah
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 6.5:
+        non_striker: Hazratullah
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: A Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hazratullah
+    - 6.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 7.1:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.2:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 7.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 7.5:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 8.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 8.2:
+        non_striker: Hazratullah
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: RP Burl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hazratullah
+    - 8.4:
+        non_striker: Hazratullah
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Hazratullah
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.6:
+        non_striker: Hazratullah
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.1:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 9.2:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 9.4:
+        non_striker: Hazratullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 9.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 10.1:
+        non_striker: Hazratullah
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - RW Chakabva
+          kind: caught
+    - 10.2:
+        non_striker: Usman Ghani
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 10.3:
+        non_striker: Usman Ghani
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 10.4:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Ghani
+    - 10.5:
+        non_striker: Usman Ghani
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 10.6:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+        wicket:
+          player_out: Usman Ghani
+          fielders:
+          - RW Chakabva
+          kind: caught
+    - 11.1:
+        non_striker: Najibullah Zadran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 11.2:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.3:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.4:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 11.5:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 11.6:
+        non_striker: Najibullah Zadran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 12.1:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 12.2:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 12.3:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 12.4:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 12.5:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 12.6:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 13.1:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 13.2:
+        non_striker: Darwish Rasooli
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 13.3:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 13.4:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 13.5:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 13.6:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 14.1:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 14.2:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 14.3:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 14.4:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 14.5:
+        non_striker: Najibullah Zadran
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 14.6:
+        non_striker: Darwish Rasooli
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.1:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 15.2:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.3:
+        non_striker: Najibullah Zadran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+    - 15.4:
+        non_striker: Najibullah Zadran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 15.5:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 15.6:
+        non_striker: Darwish Rasooli
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Najibullah Zadran
+    - 16.1:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 16.2:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 16.3:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Najibullah Zadran
+    - 16.4:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 16.5:
+        non_striker: Najibullah Zadran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Darwish Rasooli
+    - 16.6:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 16.7:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 16.8:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 16.9:
+        non_striker: Darwish Rasooli
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 17.1:
+        non_striker: Darwish Rasooli
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 17.2:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Darwish Rasooli
+    - 17.3:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Darwish Rasooli
+        wicket:
+          player_out: Darwish Rasooli
+          kind: bowled
+    - 17.4:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.5:
+        non_striker: Mohammad Nabi
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 17.6:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 17.7:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 17.8:
+        non_striker: Najibullah Zadran
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.1:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 18.2:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 18.3:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.4:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.5:
+        non_striker: Mohammad Nabi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 18.6:
+        non_striker: Najibullah Zadran
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.1:
+        non_striker: Mohammad Nabi
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najibullah Zadran
+    - 19.2:
+        non_striker: Mohammad Nabi
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran

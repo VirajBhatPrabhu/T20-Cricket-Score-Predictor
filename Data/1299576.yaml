@@ -1,0 +1,1608 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2022-02-21'
+  gender: male
+  match_type: T20
+  match_type_number: 1482
+  outcome:
+    winner: Nepal
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - S Lamichhane
+  players:
+    Canada:
+    - R Pathan
+    - M Spoors
+    - NS Dhaliwal
+    - Ravinderpal Singh
+    - Saad Bin Zafar
+    - Hamza Tariq
+    - H Thaker
+    - Kaleem Sana
+    - Junaid Siddiqui
+    - D Heyliger
+    - Salman Nazar
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - Kushal Malla
+    - DS Airee
+    - Aarif Sheikh
+    - Lokesh Bam
+    - G Malla
+    - KS Airee
+    - S Lamichhane
+    - A Bohara
+    - JK Mukhiya
+  registry:
+    people:
+      A Bohara: 64fb6b15
+      Aarif Sheikh: cd4d7695
+      Aasif Sheikh: dcbea954
+      Akbar Ali: e753931d
+      D Heyliger: f8c72766
+      DS Airee: 1747ea18
+      G Malla: b2e1d224
+      H Thaker: c01d7726
+      Hamza Tariq: 82e81007
+      Harikrishna Pillai: ed918c90
+      JK Mukhiya: f8dcfe4e
+      Junaid Siddiqui: 9025e58f
+      K Bhurtel: e3386c8a
+      KS Airee: 548d4188
+      Kaleem Sana: 14810ee7
+      Kushal Malla: 7e9f1cde
+      Lokesh Bam: 75c8a26b
+      M Spoors: da4a1e46
+      Muhammad Javed: bde2d0ea
+      NS Dhaliwal: cbabd6ad
+      R Pathan: 7c840f73
+      Rahul Asher: 4956b0bf
+      Ravinderpal Singh: f80682f8
+      S Lamichhane: b410bd3d
+      Saad Bin Zafar: f28a60e0
+      Salman Nazar: 679af2e2
+  teams:
+  - Canada
+  - Nepal
+  toss:
+    winner: Canada
+    decision: bat
+  umpires:
+  - Harikrishna Pillai
+  - Rahul Asher
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.2:
+        bowler: KS Airee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.3:
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Spoors
+        batsman: R Pathan
+    - 0.4:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+    - 0.5:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+    - 0.6:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+        wicket:
+          player_out: M Spoors
+          fielders:
+          - Kushal Malla
+          kind: caught
+    - 0.7:
+        non_striker: NS Dhaliwal
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 1.1:
+        non_striker: R Pathan
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 1.2:
+        non_striker: NS Dhaliwal
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 1.3:
+        non_striker: NS Dhaliwal
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 1.4:
+        non_striker: R Pathan
+        bowler: JK Mukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NS Dhaliwal
+    - 1.5:
+        non_striker: R Pathan
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 1.6:
+        non_striker: R Pathan
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NS Dhaliwal
+    - 1.7:
+        non_striker: R Pathan
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 2.1:
+        non_striker: NS Dhaliwal
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pathan
+    - 2.2:
+        non_striker: NS Dhaliwal
+        bowler: KS Airee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pathan
+    - 2.3:
+        non_striker: NS Dhaliwal
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 2.4:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 2.5:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 2.6:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 2.7:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 3.1:
+        non_striker: NS Dhaliwal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Pathan
+    - 3.2:
+        non_striker: NS Dhaliwal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 3.3:
+        non_striker: NS Dhaliwal
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pathan
+    - 3.4:
+        non_striker: R Pathan
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 3.5:
+        non_striker: R Pathan
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 3.6:
+        non_striker: R Pathan
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 4.1:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 4.2:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 4.3:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+        wicket:
+          player_out: NS Dhaliwal
+          fielders:
+          - Lokesh Bam
+          kind: caught
+    - 4.4:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ravinderpal Singh
+    - 4.5:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 4.6:
+        non_striker: R Pathan
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravinderpal Singh
+    - 4.7:
+        non_striker: Ravinderpal Singh
+        bowler: KS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pathan
+    - 5.1:
+        non_striker: R Pathan
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 5.2:
+        non_striker: R Pathan
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+        wicket:
+          player_out: R Pathan
+          fielders:
+          - KS Airee
+          - A Bohara
+          kind: run out
+    - 5.3:
+        bowler: A Bohara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Saad Bin Zafar
+        batsman: Ravinderpal Singh
+    - 5.4:
+        non_striker: Ravinderpal Singh
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 5.5:
+        non_striker: Saad Bin Zafar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+    - 5.6:
+        non_striker: Saad Bin Zafar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravinderpal Singh
+        wicket:
+          player_out: Ravinderpal Singh
+          fielders:
+          - Aasif Sheikh
+          kind: caught
+    - 6.1:
+        non_striker: Saad Bin Zafar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tariq
+    - 6.2:
+        non_striker: Saad Bin Zafar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tariq
+    - 6.3:
+        non_striker: Hamza Tariq
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 6.4:
+        non_striker: Saad Bin Zafar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tariq
+    - 6.5:
+        non_striker: Saad Bin Zafar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tariq
+    - 6.6:
+        non_striker: Saad Bin Zafar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tariq
+        wicket:
+          player_out: Hamza Tariq
+          kind: lbw
+    - 7.1:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Thaker
+        batsman: Saad Bin Zafar
+    - 7.2:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Thaker
+        batsman: Saad Bin Zafar
+    - 7.3:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Thaker
+        batsman: Saad Bin Zafar
+        wicket:
+          player_out: Saad Bin Zafar
+          fielders:
+          - Aasif Sheikh
+          - KS Airee
+          kind: run out
+    - 7.4:
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Thaker
+        batsman: Kaleem Sana
+    - 7.5:
+        non_striker: Kaleem Sana
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.6:
+        non_striker: H Thaker
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 8.1:
+        non_striker: Kaleem Sana
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.2:
+        non_striker: Kaleem Sana
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 8.3:
+        non_striker: H Thaker
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 8.4:
+        non_striker: H Thaker
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 8.5:
+        non_striker: H Thaker
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 8.6:
+        non_striker: H Thaker
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+        wicket:
+          player_out: Kaleem Sana
+          fielders:
+          - Kushal Malla
+          kind: caught
+    - 9.1:
+        non_striker: Junaid Siddiqui
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          kind: lbw
+    - 9.2:
+        non_striker: Junaid Siddiqui
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 9.3:
+        non_striker: D Heyliger
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddiqui
+    - 9.4:
+        non_striker: Junaid Siddiqui
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 9.5:
+        non_striker: D Heyliger
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddiqui
+    - 9.6:
+        non_striker: D Heyliger
+        bowler: Kushal Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddiqui
+    - 10.1:
+        non_striker: D Heyliger
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddiqui
+        wicket:
+          player_out: Junaid Siddiqui
+          fielders:
+          - Aasif Sheikh
+          kind: caught
+    - 10.2:
+        non_striker: D Heyliger
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Nazar
+    - 10.3:
+        non_striker: D Heyliger
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Nazar
+    - 10.4:
+        non_striker: Salman Nazar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 10.5:
+        non_striker: Salman Nazar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 10.6:
+        non_striker: Salman Nazar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 11.1:
+        non_striker: D Heyliger
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Nazar
+    - 11.2:
+        non_striker: Salman Nazar
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Heyliger
+    - 11.3:
+        non_striker: Salman Nazar
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 11.4:
+        non_striker: Salman Nazar
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 11.5:
+        non_striker: Salman Nazar
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Heyliger
+    - 11.6:
+        non_striker: Salman Nazar
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 12.1:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 12.2:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 12.3:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 12.4:
+        non_striker: D Heyliger
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Nazar
+    - 12.5:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 12.6:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 13.1:
+        non_striker: Salman Nazar
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Heyliger
+    - 13.2:
+        non_striker: Salman Nazar
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 13.3:
+        non_striker: Salman Nazar
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 13.4:
+        non_striker: D Heyliger
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Salman Nazar
+    - 13.5:
+        non_striker: D Heyliger
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Salman Nazar
+    - 13.6:
+        non_striker: D Heyliger
+        bowler: JK Mukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Nazar
+    - 14.1:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 14.2:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 14.3:
+        non_striker: D Heyliger
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Nazar
+    - 14.4:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 14.5:
+        non_striker: Salman Nazar
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 14.6:
+        non_striker: D Heyliger
+        bowler: A Bohara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Nazar
+        wicket:
+          player_out: Salman Nazar
+          fielders:
+          - S Lamichhane
+          kind: caught
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aasif Sheikh
+        batsman: K Bhurtel
+    - 0.2:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 0.3:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 0.4:
+        non_striker: Aasif Sheikh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.5:
+        non_striker: Aasif Sheikh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.6:
+        non_striker: Aasif Sheikh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 1.1:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 1.2:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 1.3:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 1.4:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.6:
+        non_striker: Aasif Sheikh
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 2.1:
+        non_striker: Aasif Sheikh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 2.2:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aasif Sheikh
+    - 2.3:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 2.4:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.5:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 2.6:
+        non_striker: Aasif Sheikh
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 3.1:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.2:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aasif Sheikh
+    - 3.3:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.5:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.6:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          kind: lbw
+    - 4.1:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kushal Malla
+        batsman: K Bhurtel
+    - 4.2:
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kushal Malla
+        batsman: K Bhurtel
+    - 4.3:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kushal Malla
+        wicket:
+          player_out: Kushal Malla
+          kind: bowled
+    - 4.4:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 4.5:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 4.6:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Airee
+    - 4.7:
+        non_striker: K Bhurtel
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 5.1:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 5.2:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 5.3:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 5.4:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 5.5:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 5.6:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 6.1:
+        non_striker: DS Airee
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 6.2:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 6.3:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 6.4:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 6.5:
+        non_striker: DS Airee
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 6.6:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.1:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 7.2:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.3:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.4:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 7.5:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.6:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 8.1:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DS Airee
+    - 8.2:
+        non_striker: DS Airee
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 8.3:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 8.4:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 8.5:
+        non_striker: DS Airee
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 8.6:
+        non_striker: K Bhurtel
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 9.1:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 9.2:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 9.3:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 9.4:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 9.5:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 9.6:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 10.1:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 10.2:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 10.3:
+        non_striker: K Bhurtel
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 10.4:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 10.5:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 10.6:
+        non_striker: DS Airee
+        bowler: Salman Nazar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 11.1:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 11.2:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 11.3:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 11.4:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 11.5:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 11.6:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 12.1:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Airee
+    - 12.2:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 12.3:
+        non_striker: DS Airee
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 12.4:
+        non_striker: DS Airee
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 12.5:
+        non_striker: DS Airee
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 12.6:
+        non_striker: DS Airee
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 12.7:
+        non_striker: K Bhurtel
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 13.1:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 13.2:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 13.3:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 13.4:
+        non_striker: K Bhurtel
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 13.5:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 13.6:
+        non_striker: DS Airee
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 14.1:
+        non_striker: DS Airee
+        bowler: Junaid Siddiqui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel

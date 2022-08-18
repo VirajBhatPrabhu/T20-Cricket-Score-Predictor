@@ -1,0 +1,1791 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2021-10-20'
+  gender: male
+  match_type: T20
+  match_type_number: 1328
+  outcome:
+    winner: Seychelles
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - SKDT Madusanka
+  players:
+    Swaziland:
+    - C Forbes
+    - Naeem Gull
+    - Muhammad Amin
+    - Shehzad Patel
+    - J Ghadiyali
+    - JJ Wright
+    - Umair Qasim
+    - M Jele
+    - S Kubheka
+    - N Magagula
+    - L Zulu
+    Seychelles:
+    - N Krishna
+    - T Rajiv
+    - S Udhayan
+    - SKDT Madusanka
+    - Mazharul Islam
+    - KJ Patel
+    - SR Rocket
+    - SR Mohan
+    - HL Harji
+    - D Kalvin
+    - K Govind
+  registry:
+    people:
+      C Forbes: 8a9e3cd0
+      C Thorburn: 904288fe
+      Claus Schumacher: 85645e62
+      D Kalvin: 895ae8b6
+      HL Harji: 29663fda
+      Itangishaka Olivier: 0ee3bb49
+      J Ghadiyali: 53419aff
+      JJ Wright: c5981c9c
+      K Govind: 0371cc19
+      KJ Patel: d6b4e3e2
+      L Zulu: 59e99272
+      M Jele: 1a8cedc8
+      Mazharul Islam: 30564b3e
+      Muhammad Amin: ce9ce42f
+      N Krishna: c62a0327
+      N Magagula: 3a54c25b
+      Naeem Gull: 4c49c917
+      P Byron: 20b559ab
+      S Kubheka: d0178c53
+      S Udhayan: a8d6305d
+      SA Fritz: d15e60c8
+      SKDT Madusanka: 95c2d309
+      SR Mohan: '58533699'
+      SR Rocket: ee3bfb9b
+      Shehzad Patel: 101373a3
+      T Rajiv: 1ab8beda
+      Umair Qasim: e086735b
+  teams:
+  - Swaziland
+  - Seychelles
+  toss:
+    winner: Swaziland
+    decision: bat
+  umpires:
+  - C Thorburn
+  - Claus Schumacher
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Swaziland
+    deliveries:
+    - 0.1:
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naeem Gull
+        batsman: C Forbes
+    - 0.2:
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naeem Gull
+        batsman: C Forbes
+    - 0.3:
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Naeem Gull
+        batsman: C Forbes
+    - 0.4:
+        non_striker: C Forbes
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 0.5:
+        non_striker: Naeem Gull
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 0.6:
+        non_striker: C Forbes
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naeem Gull
+    - 1.1:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 1.2:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+    - 1.3:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naeem Gull
+        wicket:
+          player_out: Naeem Gull
+          fielders:
+          - SR Mohan
+          kind: caught
+    - 1.4:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Amin
+    - 1.5:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 1.6:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amin
+    - 2.1:
+        non_striker: Muhammad Amin
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Forbes
+    - 2.2:
+        non_striker: Muhammad Amin
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Forbes
+    - 2.3:
+        non_striker: Muhammad Amin
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Forbes
+    - 2.4:
+        non_striker: Muhammad Amin
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 2.5:
+        non_striker: C Forbes
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amin
+    - 2.6:
+        non_striker: C Forbes
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 3.1:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forbes
+    - 3.2:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amin
+    - 3.3:
+        non_striker: C Forbes
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 3.4:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forbes
+        wicket:
+          player_out: C Forbes
+          kind: bowled
+    - 3.5:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shehzad Patel
+    - 3.6:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shehzad Patel
+    - 4.1:
+        non_striker: Shehzad Patel
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amin
+    - 4.2:
+        non_striker: Shehzad Patel
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 4.3:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shehzad Patel
+    - 4.4:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shehzad Patel
+    - 4.5:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shehzad Patel
+        wicket:
+          player_out: Shehzad Patel
+          fielders:
+          - Mazharul Islam
+          kind: caught
+    - 4.6:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 5.1:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 5.2:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Amin
+    - 5.3:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 5.4:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 5.5:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 5.6:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 6.1:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Amin
+    - 6.2:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 6.3:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 6.4:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 6.5:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 6.6:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Amin
+    - 7.1:
+        non_striker: Muhammad Amin
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 7.2:
+        non_striker: Muhammad Amin
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 7.3:
+        non_striker: Muhammad Amin
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 7.4:
+        non_striker: J Ghadiyali
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 7.5:
+        non_striker: J Ghadiyali
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Amin
+    - 7.6:
+        non_striker: J Ghadiyali
+        bowler: SKDT Madusanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Amin
+    - 7.7:
+        non_striker: J Ghadiyali
+        bowler: SKDT Madusanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 8.1:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 8.2:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 8.3:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 8.4:
+        non_striker: Muhammad Amin
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 8.5:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 8.6:
+        non_striker: J Ghadiyali
+        bowler: KJ Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 9.1:
+        non_striker: J Ghadiyali
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amin
+    - 9.2:
+        non_striker: J Ghadiyali
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 9.3:
+        non_striker: J Ghadiyali
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 9.4:
+        non_striker: Muhammad Amin
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 9.5:
+        non_striker: Muhammad Amin
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 9.6:
+        non_striker: J Ghadiyali
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Amin
+    - 10.1:
+        non_striker: Muhammad Amin
+        bowler: K Govind
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Ghadiyali
+    - 10.2:
+        non_striker: Muhammad Amin
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Ghadiyali
+    - 10.3:
+        non_striker: Muhammad Amin
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 10.4:
+        non_striker: J Ghadiyali
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 10.5:
+        non_striker: Muhammad Amin
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 10.6:
+        non_striker: J Ghadiyali
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amin
+    - 10.7:
+        non_striker: Muhammad Amin
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 11.1:
+        non_striker: Muhammad Amin
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 11.2:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+    - 11.3:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amin
+        wicket:
+          player_out: Muhammad Amin
+          kind: bowled
+    - 11.4:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 11.5:
+        non_striker: JJ Wright
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 11.6:
+        non_striker: J Ghadiyali
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 12.1:
+        non_striker: J Ghadiyali
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 12.2:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 12.3:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Ghadiyali
+    - 12.4:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 12.5:
+        non_striker: J Ghadiyali
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 12.6:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 13.1:
+        non_striker: JJ Wright
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 13.2:
+        non_striker: J Ghadiyali
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Wright
+    - 13.3:
+        non_striker: J Ghadiyali
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 13.4:
+        non_striker: JJ Wright
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ghadiyali
+    - 13.5:
+        non_striker: J Ghadiyali
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 13.6:
+        non_striker: JJ Wright
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Ghadiyali
+    - 14.1:
+        non_striker: J Ghadiyali
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 14.2:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+    - 14.3:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ghadiyali
+        wicket:
+          player_out: J Ghadiyali
+          fielders:
+          - P Byron (sub)
+          kind: caught
+    - 14.4:
+        non_striker: JJ Wright
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 14.5:
+        non_striker: Umair Qasim
+        bowler: K Govind
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Wright
+    - 14.6:
+        non_striker: Umair Qasim
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Wright
+    - 14.7:
+        non_striker: Umair Qasim
+        bowler: K Govind
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Wright
+    - 14.8:
+        non_striker: Umair Qasim
+        bowler: K Govind
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 15.1:
+        non_striker: Umair Qasim
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Wright
+    - 15.2:
+        non_striker: JJ Wright
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Qasim
+    - 15.3:
+        non_striker: JJ Wright
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 15.4:
+        non_striker: JJ Wright
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+        wicket:
+          player_out: Umair Qasim
+          fielders:
+          - N Krishna
+          kind: caught
+    - 15.5:
+        non_striker: JJ Wright
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+    - 15.6:
+        non_striker: JJ Wright
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+        wicket:
+          player_out: M Jele
+          fielders:
+          - S Udhayan
+          kind: caught
+- 2nd innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Rajiv
+        batsman: N Krishna
+    - 0.2:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Rajiv
+    - 0.3:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 0.4:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 0.5:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 0.6:
+        non_striker: T Rajiv
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 0.7:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 1.1:
+        non_striker: N Krishna
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rajiv
+    - 1.2:
+        non_striker: N Krishna
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rajiv
+    - 1.3:
+        non_striker: N Krishna
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 1.4:
+        non_striker: T Rajiv
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 1.5:
+        non_striker: N Krishna
+        bowler: N Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Rajiv
+    - 1.6:
+        non_striker: N Krishna
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 1.7:
+        non_striker: T Rajiv
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 2.1:
+        non_striker: T Rajiv
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 2.2:
+        non_striker: T Rajiv
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Krishna
+    - 2.3:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 2.4:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Rajiv
+    - 2.5:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 2.6:
+        non_striker: T Rajiv
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.1:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 3.2:
+        non_striker: T Rajiv
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.3:
+        non_striker: T Rajiv
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Krishna
+    - 3.4:
+        non_striker: T Rajiv
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.5:
+        non_striker: T Rajiv
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 3.6:
+        non_striker: T Rajiv
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 4.1:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 4.2:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rajiv
+    - 4.3:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rajiv
+    - 4.4:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 4.5:
+        non_striker: T Rajiv
+        bowler: Umair Qasim
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Krishna
+    - 4.6:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+    - 4.7:
+        non_striker: N Krishna
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rajiv
+    - 5.1:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rajiv
+        wicket:
+          player_out: T Rajiv
+          kind: bowled
+    - 5.2:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Udhayan
+    - 5.3:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Udhayan
+    - 5.4:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Udhayan
+        wicket:
+          player_out: S Udhayan
+          fielders:
+          - Shehzad Patel
+          kind: caught
+    - 5.5:
+        non_striker: N Krishna
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 5.6:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+    - 5.7:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Krishna
+        wicket:
+          player_out: N Krishna
+          fielders:
+          - Naeem Gull
+          kind: caught
+    - 6.1:
+        non_striker: SKDT Madusanka
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 6.2:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 6.3:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 6.4:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 6.5:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 6.6:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 6.7:
+        non_striker: SKDT Madusanka
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 6.8:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 7.1:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 7.2:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 7.3:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 7.4:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 7.5:
+        non_striker: Mazharul Islam
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 7.6:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.1:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 8.2:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 8.3:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 8.4:
+        non_striker: SKDT Madusanka
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 8.5:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 8.6:
+        non_striker: Mazharul Islam
+        bowler: S Kubheka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 9.1:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mazharul Islam
+    - 9.2:
+        non_striker: SKDT Madusanka
+        bowler: J Ghadiyali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mazharul Islam
+    - 9.3:
+        non_striker: Mazharul Islam
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 9.4:
+        non_striker: Mazharul Islam
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKDT Madusanka
+    - 9.5:
+        non_striker: Mazharul Islam
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 9.6:
+        non_striker: Mazharul Islam
+        bowler: J Ghadiyali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 10.1:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKDT Madusanka
+    - 10.2:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 10.3:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 10.4:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 10.5:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 10.6:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SKDT Madusanka
+    - 11.1:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 11.2:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 11.3:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 11.4:
+        non_striker: SKDT Madusanka
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 11.5:
+        non_striker: SKDT Madusanka
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 11.6:
+        non_striker: SKDT Madusanka
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 12.1:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 12.2:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 12.3:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 12.4:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SKDT Madusanka
+    - 12.5:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 12.6:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 12.7:
+        non_striker: Mazharul Islam
+        bowler: Muhammad Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SKDT Madusanka
+    - 12.8:
+        non_striker: SKDT Madusanka
+        bowler: Muhammad Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 13.1:
+        non_striker: SKDT Madusanka
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 13.2:
+        non_striker: Mazharul Islam
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 13.3:
+        non_striker: Mazharul Islam
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 13.4:
+        non_striker: Mazharul Islam
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 13.5:
+        non_striker: Mazharul Islam
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKDT Madusanka
+    - 13.6:
+        non_striker: SKDT Madusanka
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 14.1:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SKDT Madusanka
+    - 14.2:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKDT Madusanka
+    - 14.3:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 14.4:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 14.5:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKDT Madusanka
+    - 14.6:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKDT Madusanka
+    - 14.7:
+        non_striker: Mazharul Islam
+        bowler: N Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKDT Madusanka
+    - 15.1:
+        non_striker: SKDT Madusanka
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 15.2:
+        non_striker: SKDT Madusanka
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mazharul Islam
+    - 15.3:
+        non_striker: SKDT Madusanka
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam

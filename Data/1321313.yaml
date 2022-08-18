@@ -1,0 +1,1454 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2022-06-30'
+  gender: male
+  match_type: T20
+  match_type_number: 1592
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - S Muniandy
+  players:
+    Singapore:
+    - R Rohan
+    - S Chandramohan
+    - Janak Prakash
+    - U Aryaman Sunil
+    - Manpreet Singh
+    - NMS Param
+    - Aman Desai
+    - V Baskaran
+    - R Gaznavi
+    - AR Puri
+    - Amjad Mahboob
+    Malaysia:
+    - Virandeep Singh
+    - Zubaidi Zulkifle
+    - Ahmed Faiz Mohammad Noor
+    - Syed Aziz
+    - M Syahadat Ramli
+    - S Muniandy
+    - Khizar Hayat
+    - Anwar Rahman
+    - Pavandeep Singh
+    - Ainool Hafizs
+    - Muhammad Wafiq
+  registry:
+    people:
+      AR Puri: 1f490b28
+      Ahmed Faiz: f6b4f746
+      Ainool Hafizs: 1bada9da
+      Aman Desai: c10fd8f9
+      Amjad Mahboob: 48f25627
+      Anwar Rahman: 28adcce9
+      Hardeep Jadeja: 552cf5a2
+      Janak Prakash: f092b4c7
+      Khizar Hayat: 78bbeba1
+      M Syahadat Ramli: 5efa8af3
+      Manpreet Singh: e9d6a2ce
+      Muhammad Wafiq: f104c434
+      NMS Param: 270b4de6
+      Pavandeep Singh: 78fcc740
+      Pramesh Parab: ef69619a
+      R Gaznavi: '0079f139'
+      R Rohan: baf0fc26
+      S Chandramohan: 2a6ccc1c
+      S Muniandy: 57fcfd3b
+      Sarika Prasad: 8ff397fa
+      Syed Aziz: 6667067e
+      T Senthil Kumar: 961ddfac
+      U Aryaman Sunil: 13bc54a8
+      V Baskaran: dd5a9067
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Singapore
+  - Malaysia
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - Pramesh Parab
+  - T Senthil Kumar
+  venue: Indian Association Ground, Singapore
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Chandramohan
+        batsman: R Rohan
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Chandramohan
+        batsman: R Rohan
+    - 0.3:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 0.4:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 0.5:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 0.6:
+        non_striker: S Chandramohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 1.1:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 1.2:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rohan
+    - 1.3:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Rohan
+    - 1.4:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 1.5:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Rohan
+    - 1.6:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 1.7:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 1.8:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Rohan
+    - 2.1:
+        non_striker: S Chandramohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 2.2:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 2.3:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 2.4:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Chandramohan
+    - 2.5:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 2.6:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 2.7:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 3.1:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 3.2:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 3.3:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 3.4:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 3.5:
+        non_striker: S Chandramohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 3.6:
+        non_striker: R Rohan
+        bowler: Muhammad Wafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.1:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.2:
+        non_striker: S Chandramohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+    - 4.3:
+        non_striker: S Chandramohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 4.4:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.5:
+        non_striker: S Chandramohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 4.6:
+        non_striker: R Rohan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Chandramohan
+    - 5.1:
+        non_striker: S Chandramohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 5.2:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 5.3:
+        non_striker: S Chandramohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 5.4:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 5.5:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 5.6:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 6.1:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 6.2:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 6.3:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 6.4:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 6.5:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          fielders:
+          - Syed Aziz
+          kind: caught
+    - 6.6:
+        non_striker: R Rohan
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 7.1:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 7.2:
+        non_striker: Janak Prakash
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 7.3:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 7.4:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 7.5:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 7.6:
+        non_striker: R Rohan
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 8.1:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 8.2:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+    - 8.3:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Janak Prakash
+    - 8.4:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Janak Prakash
+    - 8.5:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Janak Prakash
+    - 8.6:
+        non_striker: R Rohan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+        wicket:
+          player_out: Janak Prakash
+          kind: bowled
+    - 9.1:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: U Aryaman Sunil
+        batsman: R Rohan
+    - 9.2:
+        non_striker: R Rohan
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Aryaman Sunil
+    - 9.3:
+        non_striker: U Aryaman Sunil
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rohan
+    - 9.4:
+        non_striker: R Rohan
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Aryaman Sunil
+        wicket:
+          player_out: U Aryaman Sunil
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 9.5:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manpreet Singh
+        batsman: R Rohan
+    - 9.6:
+        non_striker: R Rohan
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Rohan
+    - 10.2:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+        wicket:
+          player_out: R Rohan
+          fielders:
+          - Pavandeep Singh
+          kind: caught
+    - 10.3:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMS Param
+    - 10.4:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMS Param
+    - 10.5:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NMS Param
+        wicket:
+          player_out: NMS Param
+          kind: bowled
+    - 10.6:
+        non_striker: Manpreet Singh
+        bowler: Anwar Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aman Desai
+    - 11.1:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 11.2:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 11.5:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Manpreet Singh
+    - 11.6:
+        non_striker: Aman Desai
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - Zubaidi Zulkifle
+          - Khizar Hayat
+          kind: run out
+    - 11.7:
+        non_striker: V Baskaran
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.1:
+        non_striker: V Baskaran
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 12.2:
+        non_striker: Manpreet Singh
+        bowler: Virandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Baskaran
+    - 12.3:
+        non_striker: V Baskaran
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+        wicket:
+          player_out: V Baskaran
+          fielders:
+          - Virandeep Singh
+          - Syed Aziz
+          kind: run out
+    - 12.4:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Gaznavi
+        batsman: Manpreet Singh
+    - 12.5:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Gaznavi
+        batsman: Manpreet Singh
+    - 12.6:
+        non_striker: R Gaznavi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Virandeep Singh
+    - 0.2:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubaidi Zulkifle
+        batsman: Virandeep Singh
+    - 0.3:
+        non_striker: Virandeep Singh
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.4:
+        non_striker: Virandeep Singh
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Virandeep Singh
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 0.6:
+        non_striker: Virandeep Singh
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 1.1:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 1.3:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - R Gaznavi
+          kind: caught
+    - 1.4:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 1.5:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 1.6:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 2.1:
+        non_striker: Virandeep Singh
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 2.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Virandeep Singh
+    - 2.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 2.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 3.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 3.2:
+        non_striker: Virandeep Singh
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 3.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.4:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 3.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh
+    - 3.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.8:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          kind: bowled
+    - 4.1:
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Syed Aziz
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 4.4:
+        non_striker: Syed Aziz
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 4.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 4.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 4.8:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 5.1:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 5.2:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.3:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.4:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+        wicket:
+          player_out: Ahmed Faiz Mohammad Noor
+          fielders:
+          - S Chandramohan
+          kind: caught
+    - 5.5:
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Syahadat Ramli
+        batsman: Syed Aziz
+    - 5.6:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 5.7:
+        non_striker: M Syahadat Ramli
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 6.1:
+        non_striker: Syed Aziz
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 6.2:
+        non_striker: Syed Aziz
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 6.3:
+        non_striker: Syed Aziz
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 6.4:
+        non_striker: Syed Aziz
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 6.5:
+        non_striker: M Syahadat Ramli
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.6:
+        non_striker: Syed Aziz
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 7.1:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 7.2:
+        non_striker: M Syahadat Ramli
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Syed Aziz
+    - 7.3:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Syahadat Ramli
+    - 7.4:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+    - 7.5:
+        non_striker: Syed Aziz
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 7.6:
+        non_striker: M Syahadat Ramli
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 8.1:
+        non_striker: Syed Aziz
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Syahadat Ramli
+    - 8.2:
+        non_striker: Syed Aziz
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 8.3:
+        non_striker: M Syahadat Ramli
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 8.4:
+        non_striker: Syed Aziz
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Syahadat Ramli
+    - 8.5:
+        non_striker: Syed Aziz
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 8.6:
+        non_striker: M Syahadat Ramli
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 9.1:
+        non_striker: M Syahadat Ramli
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 9.2:
+        non_striker: M Syahadat Ramli
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 9.3:
+        non_striker: Syed Aziz
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 9.4:
+        non_striker: M Syahadat Ramli
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          kind: bowled
+    - 9.5:
+        non_striker: M Syahadat Ramli
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 9.6:
+        non_striker: S Muniandy
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Syahadat Ramli
+    - 10.1:
+        non_striker: M Syahadat Ramli
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 10.2:
+        non_striker: M Syahadat Ramli
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 10.3:
+        non_striker: S Muniandy
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+        wicket:
+          player_out: M Syahadat Ramli
+          kind: bowled
+    - 10.4:
+        non_striker: S Muniandy
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 10.5:
+        non_striker: Khizar Hayat
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 10.6:
+        non_striker: Khizar Hayat
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 11.1:
+        non_striker: S Muniandy
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 11.2:
+        non_striker: Khizar Hayat
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 11.3:
+        non_striker: Khizar Hayat
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 11.4:
+        non_striker: Khizar Hayat
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Muniandy
+    - 11.5:
+        non_striker: Khizar Hayat
+        bowler: Amjad Mahboob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Muniandy
+    - 11.6:
+        non_striker: S Muniandy
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizar Hayat
+    - 12.1:
+        non_striker: S Muniandy
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khizar Hayat

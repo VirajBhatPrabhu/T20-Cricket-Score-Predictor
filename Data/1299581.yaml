@@ -1,0 +1,2043 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2022-02-22'
+  gender: male
+  match_type: T20
+  match_type_number: 1487
+  outcome:
+    winner: Ireland
+    by:
+      runs: 56
+  overs: 20
+  player_of_match:
+  - AR McBrine
+  players:
+    Ireland:
+    - PR Stirling
+    - A Balbirnie
+    - GJ Delany
+    - HT Tector
+    - L Tucker
+    - GH Dockrell
+    - AR McBrine
+    - Simi Singh
+    - MR Adair
+    - CA Young
+    - J Little
+    Oman:
+    - Jatinder Singh
+    - KH Prajapati
+    - Shoaib Khan
+    - Zeeshan Maqsood
+    - Khurram Nawaz
+    - Khawar Ali
+    - Naseem Khushi
+    - Aamir Kaleem
+    - Fayyaz Butt
+    - Kaleemullah
+    - Bilal Khan
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AR McBrine: e957b38f
+      AT Holdstock: 6fa3258c
+      Aamir Kaleem: 7ecb9a14
+      Akbar Ali: e753931d
+      Bilal Khan: dcdb87f2
+      CA Young: bd0a4a7d
+      DN Subedi: fb0a571f
+      Fayyaz Butt: bd9fbd51
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      Jatinder Singh: b80dd12c
+      KH Prajapati: c4e73ff1
+      Kaleemullah: 72253b87
+      Khawar Ali: 934b36a6
+      Khurram Nawaz: 07ff32f5
+      L Tucker: 3979b5e0
+      MR Adair: fc55ec67
+      Muhammad Javed: bde2d0ea
+      Naseem Khushi: c63671e9
+      PR Stirling: cf494ffe
+      Shoaib Khan: 21afb939
+      Simi Singh: c9945bdf
+      Zeeshan Maqsood: '34464143'
+  teams:
+  - Ireland
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - AT Holdstock
+  - Akbar Ali
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Balbirnie
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: Kaleemullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Balbirnie
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: A Balbirnie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          fielders:
+          - Khurram Nawaz
+          kind: caught
+    - 2.3:
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GJ Delany
+        batsman: PR Stirling
+    - 2.4:
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GJ Delany
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: GJ Delany
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - Khawar Ali
+          kind: caught
+    - 2.6:
+        non_striker: GJ Delany
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 3.1:
+        non_striker: HT Tector
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 3.2:
+        non_striker: HT Tector
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 3.3:
+        non_striker: HT Tector
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 3.4:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 3.5:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 3.6:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 4.1:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 4.2:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 4.3:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 4.4:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.5:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 4.6:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.1:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.2:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 5.3:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 5.4:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 5.5:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 5.6:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 6.1:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 6.2:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.3:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 6.4:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 6.5:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 6.6:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 7.1:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.2:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.3:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.4:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 7.5:
+        non_striker: HT Tector
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 7.6:
+        non_striker: GJ Delany
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.1:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 8.2:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 8.3:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.4:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.5:
+        non_striker: HT Tector
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 8.6:
+        non_striker: GJ Delany
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 9.2:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 9.3:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.4:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 9.5:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.6:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 10.1:
+        non_striker: GJ Delany
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.2:
+        non_striker: GJ Delany
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.3:
+        non_striker: HT Tector
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 10.4:
+        non_striker: HT Tector
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 10.5:
+        non_striker: HT Tector
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Delany
+    - 10.6:
+        non_striker: HT Tector
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.1:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.3:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 11.4:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 11.5:
+        non_striker: HT Tector
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 11.6:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.1:
+        non_striker: HT Tector
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 12.2:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Khawar Ali
+          kind: caught
+    - 12.3:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          kind: bowled
+    - 12.4:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 12.5:
+        non_striker: GH Dockrell
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 12.6:
+        non_striker: GJ Delany
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.1:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 13.2:
+        non_striker: GJ Delany
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 13.3:
+        non_striker: GH Dockrell
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - Bilal Khan
+          kind: caught
+    - 13.4:
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR McBrine
+        batsman: GH Dockrell
+    - 13.5:
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR McBrine
+        batsman: GH Dockrell
+    - 13.6:
+        non_striker: AR McBrine
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.1:
+        non_striker: AR McBrine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 14.2:
+        non_striker: AR McBrine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 14.3:
+        non_striker: GH Dockrell
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 14.4:
+        non_striker: GH Dockrell
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 14.5:
+        non_striker: AR McBrine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 14.6:
+        non_striker: AR McBrine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: GH Dockrell
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 15.3:
+        non_striker: AR McBrine
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: GH Dockrell
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 15.5:
+        non_striker: AR McBrine
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: AR McBrine
+        bowler: Khawar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: GH Dockrell
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 16.2:
+        non_striker: GH Dockrell
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 16.3:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 16.4:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - KH Prajapati
+          kind: caught
+    - 16.5:
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Simi Singh
+        batsman: AR McBrine
+    - 16.6:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 17.1:
+        non_striker: Simi Singh
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 17.2:
+        non_striker: Simi Singh
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 17.3:
+        non_striker: Simi Singh
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 17.4:
+        non_striker: Simi Singh
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 17.5:
+        non_striker: AR McBrine
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 17.6:
+        non_striker: Simi Singh
+        bowler: Aamir Kaleem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 18.1:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 18.2:
+        non_striker: Simi Singh
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 18.3:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 18.4:
+        non_striker: Simi Singh
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 18.5:
+        non_striker: AR McBrine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 18.6:
+        non_striker: Simi Singh
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 19.1:
+        non_striker: Simi Singh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 19.2:
+        non_striker: AR McBrine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Simi Singh
+    - 19.3:
+        non_striker: Simi Singh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.4:
+        non_striker: Simi Singh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 19.5:
+        non_striker: Simi Singh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.6:
+        non_striker: Simi Singh
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - Naseem Khushi
+          kind: caught
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KH Prajapati
+        batsman: Jatinder Singh
+    - 0.2:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KH Prajapati
+        batsman: Jatinder Singh
+    - 0.3:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KH Prajapati
+        batsman: Jatinder Singh
+    - 0.4:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 0.5:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 0.6:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 1.1:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.2:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.3:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.4:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 1.5:
+        non_striker: KH Prajapati
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 1.6:
+        non_striker: KH Prajapati
+        bowler: J Little
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Jatinder Singh
+    - 2.1:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 2.2:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 2.3:
+        non_striker: KH Prajapati
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 2.4:
+        non_striker: KH Prajapati
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 2.5:
+        non_striker: Jatinder Singh
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+        wicket:
+          player_out: KH Prajapati
+          fielders:
+          - CA Young
+          kind: caught
+    - 2.6:
+        non_striker: Shoaib Khan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 3.1:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 3.2:
+        non_striker: Shoaib Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 3.3:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 3.4:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Khan
+    - 3.5:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 3.6:
+        non_striker: Jatinder Singh
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 4.1:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 4.2:
+        non_striker: Jatinder Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 4.3:
+        non_striker: Jatinder Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 4.4:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 4.5:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 4.6:
+        non_striker: Jatinder Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 5.1:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          kind: lbw
+    - 5.2:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 5.3:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 5.4:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 5.5:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 5.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 6.1:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 6.2:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 6.3:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 6.4:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 6.5:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 6.6:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 7.1:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 7.2:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 7.3:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 7.4:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 7.5:
+        non_striker: Shoaib Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 7.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.1:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.2:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 8.3:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.4:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 8.5:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 8.6:
+        non_striker: Shoaib Khan
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 9.1:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 9.2:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 9.3:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 9.4:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 9.5:
+        non_striker: Shoaib Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 9.6:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 10.1:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - L Tucker
+          kind: caught
+    - 10.2:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khurram Nawaz
+    - 10.3:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khurram Nawaz
+    - 10.4:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khurram Nawaz
+        wicket:
+          player_out: Khurram Nawaz
+          fielders:
+          - L Tucker
+          kind: caught
+    - 10.5:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawar Ali
+    - 10.6:
+        non_striker: Zeeshan Maqsood
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawar Ali
+    - 11.1:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawar Ali
+    - 11.2:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawar Ali
+    - 11.3:
+        non_striker: Khawar Ali
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 11.4:
+        non_striker: Zeeshan Maqsood
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawar Ali
+    - 11.5:
+        non_striker: Khawar Ali
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 11.6:
+        non_striker: Khawar Ali
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 12.1:
+        non_striker: Khawar Ali
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 12.2:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawar Ali
+    - 12.3:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawar Ali
+    - 12.4:
+        non_striker: Khawar Ali
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 12.5:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khawar Ali
+    - 12.6:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Khawar Ali
+    - 12.7:
+        non_striker: Khawar Ali
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 13.1:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawar Ali
+    - 13.2:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawar Ali
+        wicket:
+          player_out: Khawar Ali
+          kind: lbw
+    - 13.3:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 13.4:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 13.5:
+        non_striker: Zeeshan Maqsood
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khushi
+    - 13.6:
+        non_striker: Naseem Khushi
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 14.1:
+        non_striker: Naseem Khushi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 14.2:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 14.3:
+        non_striker: Zeeshan Maqsood
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+        wicket:
+          player_out: Naseem Khushi
+          fielders:
+          - AR McBrine
+          kind: caught
+    - 14.4:
+        non_striker: Aamir Kaleem
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+        wicket:
+          player_out: Zeeshan Maqsood
+          fielders:
+          - Simi Singh
+          kind: caught
+    - 14.5:
+        non_striker: Aamir Kaleem
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 14.6:
+        non_striker: Fayyaz Butt
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 15.1:
+        non_striker: Aamir Kaleem
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 15.2:
+        non_striker: Fayyaz Butt
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+        wicket:
+          player_out: Aamir Kaleem
+          fielders:
+          - L Tucker
+          kind: stumped
+    - 15.3:
+        non_striker: Fayyaz Butt
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kaleemullah
+    - 15.4:
+        non_striker: Fayyaz Butt
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kaleemullah
+    - 15.5:
+        non_striker: Fayyaz Butt
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+        wicket:
+          player_out: Kaleemullah
+          fielders:
+          - MR Adair
+          kind: caught
+    - 15.6:
+        non_striker: Bilal Khan
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 16.1:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 16.2:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 16.3:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 16.4:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 16.5:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayyaz Butt
+    - 16.6:
+        non_striker: Bilal Khan
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 17.1:
+        non_striker: Fayyaz Butt
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Khan
+    - 17.2:
+        non_striker: Fayyaz Butt
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Khan
+    - 17.3:
+        non_striker: Bilal Khan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 17.4:
+        non_striker: Bilal Khan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 17.5:
+        non_striker: Bilal Khan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayyaz Butt
+    - 17.6:
+        non_striker: Bilal Khan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 17.7:
+        non_striker: Fayyaz Butt
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Khan
+    - 18.1:
+        non_striker: Bilal Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 18.2:
+        non_striker: Bilal Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+    - 18.3:
+        non_striker: Bilal Khan
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+        wicket:
+          player_out: Fayyaz Butt
+          fielders:
+          - MR Adair
+          kind: caught

@@ -1,0 +1,1863 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2022-07-15'
+  gender: male
+  match_type: T20
+  match_type_number: 1656
+  outcome:
+    winner: Serbia
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - NR Johns-Wickberg
+  players:
+    Turkey:
+    - Ilyas Ataullah
+    - Shamsullah Ehsan
+    - I Elec
+    - C Bayraktar
+    - A Turkmen
+    - GG Alta
+    - R Nath
+    - M Ozturk
+    - E Kuyumcu
+    - T Turan
+    - Hasan Cakir
+    Serbia:
+    - WAE Burton
+    - A Dizija
+    - S Ivetic
+    - LA Dunbar
+    - AA Gajic
+    - NR Johns-Wickberg
+    - A Mene-Ejegi
+    - MV Pavlovic
+    - M Sarenac
+    - RL Vitas
+    - V Zimonjic
+  registry:
+    people:
+      A Dizija: 6483c062
+      A Mene-Ejegi: e4f13acd
+      A Paleker: 634b11ac
+      A Turkmen: e56f4180
+      AA Gajic: a768a762
+      C Bayraktar: 0fa92a21
+      E Kuyumcu: 4e6bc859
+      GG Alta: c7bb2416
+      GH Pienaar: 3516e46b
+      Hasan Cakir: a2369eaf
+      I Elec: 4d0d5b7d
+      Ilyas Ataullah: 357484e9
+      LA Dunbar: f50433e9
+      M Ozturk: d62f04f5
+      M Sarenac: f5ba4611
+      MV Pavlovic: 2809b390
+      NR Johns-Wickberg: 3924b2ee
+      R Nath: 126f1e28
+      RL Vitas: 869f61bc
+      Rizwan Akram: b5346f1e
+      S Ivetic: 04ab1575
+      S Kuchimanchi: b0cad015
+      Shamsullah Ehsan: 356bf068
+      T Turan: 2e18b647
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+  teams:
+  - Turkey
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  umpires:
+  - A Paleker
+  - Rizwan Akram
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Shamsullah Ehsan
+        batsman: Ilyas Ataullah
+    - 0.2:
+        non_striker: Shamsullah Ehsan
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ilyas Ataullah
+        wicket:
+          player_out: Ilyas Ataullah
+          fielders:
+          - S Ivetic
+          kind: caught
+    - 0.3:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        batsman: Shamsullah Ehsan
+    - 0.4:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        batsman: Shamsullah Ehsan
+    - 0.5:
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: I Elec
+        batsman: Shamsullah Ehsan
+    - 0.6:
+        non_striker: Shamsullah Ehsan
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+    - 1.1:
+        non_striker: I Elec
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 1.2:
+        non_striker: I Elec
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsullah Ehsan
+    - 1.3:
+        non_striker: I Elec
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 1.4:
+        non_striker: I Elec
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsullah Ehsan
+    - 1.5:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Elec
+    - 1.6:
+        non_striker: I Elec
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 2.1:
+        non_striker: Shamsullah Ehsan
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Elec
+    - 2.2:
+        non_striker: I Elec
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 2.3:
+        non_striker: I Elec
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 2.4:
+        non_striker: I Elec
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 2.5:
+        non_striker: I Elec
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsullah Ehsan
+    - 2.6:
+        non_striker: I Elec
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+    - 3.1:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+    - 3.2:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+    - 3.3:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+    - 3.4:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Elec
+    - 3.5:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+    - 3.6:
+        non_striker: Shamsullah Ehsan
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Elec
+        wicket:
+          player_out: I Elec
+          fielders:
+          - MV Pavlovic
+          kind: caught
+    - 4.1:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Bayraktar
+        batsman: Shamsullah Ehsan
+    - 4.2:
+        non_striker: Shamsullah Ehsan
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bayraktar
+    - 4.3:
+        non_striker: Shamsullah Ehsan
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bayraktar
+    - 4.4:
+        non_striker: C Bayraktar
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsullah Ehsan
+        wicket:
+          player_out: Shamsullah Ehsan
+          fielders:
+          - NR Johns-Wickberg
+          kind: caught
+    - 4.5:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Turkmen
+        batsman: C Bayraktar
+    - 4.6:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Turkmen
+        batsman: C Bayraktar
+    - 4.7:
+        non_striker: C Bayraktar
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 4.8:
+        non_striker: C Bayraktar
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Turkmen
+    - 5.1:
+        non_striker: A Turkmen
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bayraktar
+    - 5.2:
+        non_striker: A Turkmen
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bayraktar
+    - 5.3:
+        non_striker: C Bayraktar
+        bowler: MV Pavlovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 5.4:
+        non_striker: C Bayraktar
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 5.5:
+        non_striker: C Bayraktar
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 5.6:
+        non_striker: C Bayraktar
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Turkmen
+    - 5.7:
+        non_striker: C Bayraktar
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+    - 6.1:
+        non_striker: A Turkmen
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bayraktar
+        wicket:
+          player_out: C Bayraktar
+          fielders:
+          - MV Pavlovic
+          kind: caught
+    - 6.2:
+        non_striker: A Turkmen
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Alta
+    - 6.3:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Turkmen
+    - 6.4:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Turkmen
+        wicket:
+          player_out: A Turkmen
+          fielders:
+          - A Dizija
+          kind: caught
+    - 6.5:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Nath
+        batsman: GG Alta
+    - 6.6:
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Nath
+        batsman: GG Alta
+    - 6.7:
+        non_striker: R Nath
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 7.1:
+        non_striker: GG Alta
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 7.2:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 7.3:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 7.4:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 7.5:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 7.6:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 8.1:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nath
+    - 8.2:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 8.3:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Nath
+    - 8.4:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 8.5:
+        non_striker: GG Alta
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 8.6:
+        non_striker: R Nath
+        bowler: M Sarenac
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GG Alta
+    - 8.7:
+        non_striker: R Nath
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GG Alta
+    - 8.8:
+        non_striker: R Nath
+        bowler: M Sarenac
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 9.1:
+        non_striker: GG Alta
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 9.2:
+        non_striker: GG Alta
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nath
+    - 9.3:
+        non_striker: GG Alta
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 9.4:
+        non_striker: GG Alta
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 9.5:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 9.6:
+        non_striker: R Nath
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 10.1:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 10.2:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 10.3:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 10.4:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Alta
+    - 10.5:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 10.6:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 11.1:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Alta
+    - 11.2:
+        non_striker: GG Alta
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 11.3:
+        non_striker: GG Alta
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 11.4:
+        non_striker: GG Alta
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 11.5:
+        non_striker: GG Alta
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 11.6:
+        non_striker: GG Alta
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 12.1:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 12.2:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Alta
+    - 12.3:
+        non_striker: GG Alta
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 12.4:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+    - 12.5:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GG Alta
+    - 12.6:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GG Alta
+    - 12.7:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Alta
+    - 13.1:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Alta
+        wicket:
+          player_out: GG Alta
+          kind: bowled
+    - 13.2:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 13.3:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 13.4:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 13.5:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 13.6:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 14.1:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Nath
+    - 14.2:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 14.3:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 14.4:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 14.5:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Nath
+    - 14.6:
+        non_striker: M Ozturk
+        bowler: A Mene-Ejegi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 15.1:
+        non_striker: M Ozturk
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 15.2:
+        non_striker: M Ozturk
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 15.3:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ozturk
+    - 15.4:
+        non_striker: M Ozturk
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 15.5:
+        non_striker: M Ozturk
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Nath
+    - 15.6:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ozturk
+    - 16.1:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 16.2:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 16.3:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+    - 16.4:
+        non_striker: R Nath
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ozturk
+        wicket:
+          player_out: M Ozturk
+          fielders:
+          - S Ivetic
+          kind: caught
+    - 16.5:
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Kuyumcu
+        batsman: R Nath
+    - 16.6:
+        non_striker: E Kuyumcu
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+    - 17.1:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kuyumcu
+        wicket:
+          player_out: E Kuyumcu
+          kind: lbw
+    - 17.2:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Turan
+    - 17.3:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Turan
+    - 17.4:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Turan
+    - 17.5:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Turan
+    - 17.6:
+        non_striker: R Nath
+        bowler: NR Johns-Wickberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Turan
+        wicket:
+          player_out: T Turan
+          kind: bowled
+    - 18.1:
+        bowler: AA Gajic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Hasan Cakir
+        batsman: R Nath
+    - 18.2:
+        non_striker: Hasan Cakir
+        bowler: AA Gajic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Nath
+        wicket:
+          player_out: R Nath
+          fielders:
+          - S Ivetic
+          kind: caught
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.3:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.4:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.5:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dizija
+        batsman: WAE Burton
+    - 0.6:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WAE Burton
+    - 1.1:
+        non_striker: WAE Burton
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 1.2:
+        non_striker: WAE Burton
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 1.3:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WAE Burton
+    - 1.4:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 1.5:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 1.6:
+        non_striker: WAE Burton
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 2.1:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WAE Burton
+    - 2.2:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 2.3:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WAE Burton
+    - 2.4:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+    - 2.5:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAE Burton
+    - 2.6:
+        non_striker: WAE Burton
+        bowler: A Turkmen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Dizija
+    - 2.7:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          kind: bowled
+    - 3.1:
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ivetic
+        batsman: A Dizija
+    - 3.2:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 3.3:
+        non_striker: S Ivetic
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Dizija
+    - 3.4:
+        non_striker: S Ivetic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 3.5:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 3.6:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 3.7:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 3.8:
+        non_striker: S Ivetic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 4.1:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.2:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 4.3:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.4:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.5:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 4.6:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 4.7:
+        non_striker: A Dizija
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 5.1:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 5.2:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 5.3:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 5.4:
+        non_striker: S Ivetic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 5.5:
+        non_striker: S Ivetic
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dizija
+    - 5.6:
+        non_striker: A Dizija
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ivetic
+    - 6.1:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 6.2:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+    - 6.3:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          fielders:
+          - R Nath
+          kind: caught
+    - 6.4:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 6.5:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 6.6:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 7.1:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 7.2:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 7.3:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 7.4:
+        non_striker: S Ivetic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 7.5:
+        non_striker: S Ivetic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 7.6:
+        non_striker: S Ivetic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.1:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 8.2:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dunbar
+    - 8.3:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.4:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.5:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 8.6:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 9.1:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 9.2:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 9.3:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 9.4:
+        non_striker: S Ivetic
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 9.5:
+        non_striker: LA Dunbar
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 9.6:
+        non_striker: S Ivetic
+        bowler: I Elec
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: LA Dunbar
+    - 10.1:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.2:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 10.3:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 10.4:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 10.5:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 10.6:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 11.1:
+        non_striker: S Ivetic
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 11.2:
+        non_striker: S Ivetic
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 11.3:
+        non_striker: S Ivetic
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 11.4:
+        non_striker: S Ivetic
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dunbar
+    - 11.5:
+        non_striker: S Ivetic
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 11.6:
+        non_striker: LA Dunbar
+        bowler: E Kuyumcu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 12.1:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Dunbar
+    - 12.2:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ivetic
+    - 12.3:
+        non_striker: LA Dunbar
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 12.4:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 12.5:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dunbar
+    - 12.6:
+        non_striker: S Ivetic
+        bowler: GG Alta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dunbar
+    - 13.1:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ivetic
+    - 13.2:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 13.3:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+    - 13.4:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ivetic
+    - 13.5:
+        non_striker: S Ivetic
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LA Dunbar
+    - 13.6:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ivetic
+        wicket:
+          player_out: S Ivetic
+          kind: lbw
+    - 13.7:
+        non_striker: LA Dunbar
+        bowler: Hasan Cakir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 14.1:
+        non_striker: AA Gajic
+        bowler: T Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dunbar
+    - 14.2:
+        non_striker: LA Dunbar
+        bowler: T Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 14.3:
+        non_striker: LA Dunbar
+        bowler: T Turan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Gajic
+    - 14.4:
+        non_striker: LA Dunbar
+        bowler: T Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Gajic
+    - 14.5:
+        non_striker: LA Dunbar
+        bowler: T Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Gajic

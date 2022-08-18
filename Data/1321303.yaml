@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2022-07-31'
+  gender: male
+  match_type: T20
+  match_type_number: 1715
+  outcome:
+    winner: Luxembourg
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - Jai Sinh
+  players:
+    Luxembourg:
+    - TC Barker
+    - WJ Cope
+    - J Mees
+    - SKS Gill
+    - J Barker
+    - V Vijh
+    - Atif Kamal
+    - Anoop Orsu
+    - S Kushretha
+    - P Malav
+    - A Dhingra
+    Switzerland:
+    - Osama Mahmood
+    - Noorkhan Ahmedi
+    - Jai Sinh
+    - Faheem Nazir
+    - Arjun Vinod
+    - Azeem Nazir
+    - Ali Nayyer
+    - Sathya Narayanan
+    - NK Aneesh Kumar
+    - K Fletcher
+    - Ashwin Vinod
+  registry:
+    people:
+      A Dhingra: 753ada66
+      Ali Nayyer: 4ec0443d
+      Anoop Orsu: 488b7e22
+      Arjun Vinod: 033e9d59
+      Ashwin Vinod: 8a99caa9
+      Atif Kamal: f8bd71c9
+      Azeem Nazir: 9f3f532a
+      Faheem Nazir: 7e00711f
+      J Barker: c18cecbe
+      J Jensen: fc80e7a2
+      J Mees: ab1445ea
+      Jai Sinh: 10ae134c
+      K Fletcher: 443d1fd8
+      K Gallagher: 704afd47
+      NK Aneesh Kumar: e23da78c
+      Noorkhan Ahmedi: b5417394
+      Osama Mahmood: 601544aa
+      P Malav: 02b078b1
+      S Fernando: bbeb5b15
+      S Kuchimanchi: b0cad015
+      S Kushretha: 4e3fd330
+      SKS Gill: faef026c
+      Sathya Narayanan: 8ae49076
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      WJ Cope: fb34b0ec
+  teams:
+  - Luxembourg
+  - Switzerland
+  toss:
+    winner: Luxembourg
+    decision: bat
+  umpires:
+  - S Fernando
+  - S Kuchimanchi
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WJ Cope
+        batsman: TC Barker
+    - 0.2:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WJ Cope
+        batsman: TC Barker
+    - 0.3:
+        non_striker: WJ Cope
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - Sathya Narayanan
+          kind: caught
+    - 0.4:
+        non_striker: WJ Cope
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 0.5:
+        non_striker: WJ Cope
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 0.6:
+        non_striker: WJ Cope
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 1.1:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          fielders:
+          - Sathya Narayanan
+          kind: caught
+    - 1.2:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 1.3:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 1.4:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 1.5:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 1.6:
+        non_striker: J Mees
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 2.1:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 2.2:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 2.3:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 2.4:
+        non_striker: J Mees
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 2.5:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 2.6:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+        wicket:
+          player_out: J Mees
+          fielders:
+          - Azeem Nazir
+          kind: caught
+    - 3.1:
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Barker
+        batsman: SKS Gill
+    - 3.2:
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Barker
+        batsman: SKS Gill
+    - 3.3:
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Barker
+        batsman: SKS Gill
+    - 3.4:
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Barker
+        batsman: SKS Gill
+    - 3.5:
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Barker
+        batsman: SKS Gill
+    - 3.6:
+        non_striker: J Barker
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 4.1:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 4.2:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 4.3:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 4.4:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 4.5:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 4.6:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 4.7:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 5.1:
+        non_striker: SKS Gill
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 5.2:
+        non_striker: SKS Gill
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 5.3:
+        non_striker: J Barker
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 5.4:
+        non_striker: J Barker
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 5.5:
+        non_striker: J Barker
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 5.6:
+        non_striker: J Barker
+        bowler: K Fletcher
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SKS Gill
+    - 6.1:
+        non_striker: SKS Gill
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 6.2:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKS Gill
+    - 6.3:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKS Gill
+    - 6.4:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 6.5:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 6.6:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 6.7:
+        non_striker: J Barker
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 7.1:
+        non_striker: SKS Gill
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 7.2:
+        non_striker: SKS Gill
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 7.3:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+        wicket:
+          player_out: SKS Gill
+          fielders:
+          - NK Aneesh Kumar
+          kind: caught
+    - 7.4:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vijh
+    - 7.5:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 7.6:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 7.7:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 8.1:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Barker
+    - 8.2:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Barker
+    - 8.3:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 8.4:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 8.5:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 8.6:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 8.7:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 8.8:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.1:
+        non_striker: V Vijh
+        bowler: Faheem Nazir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 9.2:
+        non_striker: V Vijh
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 9.3:
+        non_striker: V Vijh
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 9.4:
+        non_striker: V Vijh
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 9.5:
+        non_striker: V Vijh
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 9.6:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 9.7:
+        non_striker: J Barker
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 10.1:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 10.2:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Barker
+    - 10.3:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 10.4:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 10.5:
+        non_striker: J Barker
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 10.6:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 11.1:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 11.2:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 11.3:
+        non_striker: J Barker
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 11.4:
+        non_striker: J Barker
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 11.5:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 11.6:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+        wicket:
+          player_out: J Barker
+          fielders:
+          - Sathya Narayanan
+          kind: caught
+    - 11.7:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Atif Kamal
+    - 12.1:
+        non_striker: Atif Kamal
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Vijh
+    - 12.2:
+        non_striker: Atif Kamal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 12.3:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Kamal
+    - 12.4:
+        non_striker: Atif Kamal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 12.5:
+        non_striker: Atif Kamal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 12.6:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Atif Kamal
+    - 12.7:
+        non_striker: V Vijh
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Atif Kamal
+    - 13.1:
+        non_striker: Atif Kamal
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 13.2:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Atif Kamal
+    - 13.3:
+        non_striker: Atif Kamal
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 13.4:
+        non_striker: Atif Kamal
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 13.5:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Atif Kamal
+    - 13.6:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Atif Kamal
+        wicket:
+          player_out: Atif Kamal
+          fielders:
+          - Ali Nayyer
+          kind: caught
+    - 14.1:
+        non_striker: V Vijh
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 14.2:
+        non_striker: V Vijh
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 14.3:
+        non_striker: V Vijh
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 14.4:
+        non_striker: V Vijh
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 14.5:
+        non_striker: V Vijh
+        bowler: Osama Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anoop Orsu
+    - 14.6:
+        non_striker: Anoop Orsu
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 15.1:
+        non_striker: V Vijh
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 15.2:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Vijh
+    - 15.3:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 15.4:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - Arjun Vinod
+          kind: caught
+    - 15.5:
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kushretha
+        batsman: Anoop Orsu
+    - 15.6:
+        non_striker: S Kushretha
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anoop Orsu
+    - 16.1:
+        non_striker: Anoop Orsu
+        bowler: Osama Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kushretha
+    - 16.2:
+        non_striker: Anoop Orsu
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 16.3:
+        non_striker: S Kushretha
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 16.4:
+        non_striker: Anoop Orsu
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 16.5:
+        non_striker: S Kushretha
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 16.6:
+        non_striker: S Kushretha
+        bowler: Osama Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anoop Orsu
+    - 16.7:
+        non_striker: S Kushretha
+        bowler: Osama Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anoop Orsu
+    - 17.1:
+        non_striker: S Kushretha
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 17.2:
+        non_striker: S Kushretha
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 17.3:
+        non_striker: Anoop Orsu
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kushretha
+    - 17.4:
+        non_striker: Anoop Orsu
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kushretha
+    - 17.5:
+        non_striker: Anoop Orsu
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 17.6:
+        non_striker: S Kushretha
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 18.1:
+        non_striker: S Kushretha
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 18.2:
+        non_striker: Anoop Orsu
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 18.3:
+        non_striker: S Kushretha
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 18.4:
+        non_striker: Anoop Orsu
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kushretha
+    - 18.5:
+        non_striker: Anoop Orsu
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kushretha
+    - 18.6:
+        non_striker: Anoop Orsu
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 19.1:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 19.2:
+        non_striker: S Kushretha
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 19.3:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kushretha
+    - 19.4:
+        non_striker: S Kushretha
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anoop Orsu
+    - 19.5:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kushretha
+        wicket:
+          player_out: S Kushretha
+          kind: bowled
+    - 19.6:
+        non_striker: Anoop Orsu
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malav
+        wicket:
+          player_out: P Malav
+          fielders:
+          - Sathya Narayanan
+          kind: caught
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Osama Mahmood
+        wicket:
+          player_out: Osama Mahmood
+          kind: bowled
+    - 0.2:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 0.3:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 0.4:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 0.5:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 0.6:
+        non_striker: Jai Sinh
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noorkhan Ahmedi
+    - 1.1:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jai Sinh
+    - 1.2:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 1.3:
+        non_striker: Jai Sinh
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noorkhan Ahmedi
+    - 1.4:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 1.5:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 1.6:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 2.1:
+        non_striker: Noorkhan Ahmedi
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 2.2:
+        non_striker: Jai Sinh
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noorkhan Ahmedi
+    - 2.3:
+        non_striker: Jai Sinh
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noorkhan Ahmedi
+    - 2.4:
+        non_striker: Jai Sinh
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Noorkhan Ahmedi
+    - 2.5:
+        non_striker: Jai Sinh
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noorkhan Ahmedi
+    - 2.6:
+        non_striker: Jai Sinh
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noorkhan Ahmedi
+    - 3.1:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+        wicket:
+          player_out: Jai Sinh
+          kind: bowled
+    - 3.2:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 3.3:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 3.4:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 3.5:
+        non_striker: Noorkhan Ahmedi
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+        wicket:
+          player_out: Faheem Nazir
+          fielders:
+          - J Barker
+          kind: caught
+    - 3.6:
+        non_striker: Arjun Vinod
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noorkhan Ahmedi
+    - 4.1:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 4.2:
+        non_striker: Arjun Vinod
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noorkhan Ahmedi
+    - 4.3:
+        non_striker: Noorkhan Ahmedi
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 4.4:
+        non_striker: Arjun Vinod
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noorkhan Ahmedi
+    - 4.5:
+        non_striker: Arjun Vinod
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noorkhan Ahmedi
+        wicket:
+          player_out: Noorkhan Ahmedi
+          kind: bowled
+    - 4.6:
+        non_striker: Arjun Vinod
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 5.1:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 5.2:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+        wicket:
+          player_out: Arjun Vinod
+          kind: lbw
+    - 5.3:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 5.4:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 5.5:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 5.6:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 6.1:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 6.2:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 6.3:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 6.4:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 6.5:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 6.6:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 7.1:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 7.2:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 7.3:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Azeem Nazir
+    - 7.4:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 7.5:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 7.6:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 7.7:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 8.1:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Nayyer
+    - 8.2:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 8.3:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 8.4:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 8.5:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 8.6:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 9.1:
+        non_striker: Ali Nayyer
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 9.2:
+        non_striker: Ali Nayyer
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azeem Nazir
+    - 9.3:
+        non_striker: Ali Nayyer
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 9.4:
+        non_striker: Azeem Nazir
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 9.5:
+        non_striker: Ali Nayyer
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 9.6:
+        non_striker: Azeem Nazir
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 10.1:
+        non_striker: Azeem Nazir
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 10.2:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azeem Nazir
+    - 10.3:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 10.4:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 10.5:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 10.6:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azeem Nazir
+    - 11.1:
+        non_striker: Azeem Nazir
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 11.2:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 11.3:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 11.4:
+        non_striker: Azeem Nazir
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 11.5:
+        non_striker: Azeem Nazir
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 11.6:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 12.1:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 12.2:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 12.3:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ali Nayyer
+    - 12.4:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azeem Nazir
+    - 12.5:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 12.6:
+        non_striker: Azeem Nazir
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 13.1:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 13.2:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azeem Nazir
+    - 13.3:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 13.4:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 13.5:
+        non_striker: Ali Nayyer
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 13.6:
+        non_striker: Azeem Nazir
+        bowler: S Kushretha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 14.1:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azeem Nazir
+    - 14.2:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 14.3:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 14.4:
+        non_striker: Ali Nayyer
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 14.5:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 14.6:
+        non_striker: Azeem Nazir
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 15.1:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azeem Nazir
+    - 15.2:
+        non_striker: Azeem Nazir
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 15.3:
+        non_striker: Azeem Nazir
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 15.4:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+    - 15.5:
+        non_striker: Ali Nayyer
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azeem Nazir
+        wicket:
+          player_out: Azeem Nazir
+          fielders:
+          - A Dhingra
+          kind: caught
+    - 15.6:
+        non_striker: Sathya Narayanan
+        bowler: P Malav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 16.1:
+        non_striker: Ali Nayyer
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sathya Narayanan
+    - 16.2:
+        non_striker: Ali Nayyer
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sathya Narayanan
+        wicket:
+          player_out: Sathya Narayanan
+          fielders:
+          - J Mees
+          - J Barker
+          kind: run out
+    - 16.3:
+        non_striker: Ali Nayyer
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Aneesh Kumar
+    - 16.4:
+        non_striker: NK Aneesh Kumar
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 16.5:
+        non_striker: Ali Nayyer
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+    - 16.6:
+        non_striker: Ali Nayyer
+        bowler: Atif Kamal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Aneesh Kumar
+    - 17.1:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Aneesh Kumar
+    - 17.2:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Aneesh Kumar
+    - 17.3:
+        non_striker: NK Aneesh Kumar
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 17.4:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+    - 17.5:
+        non_striker: Ali Nayyer
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Aneesh Kumar
+    - 17.6:
+        non_striker: NK Aneesh Kumar
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 18.1:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Nayyer
+    - 18.2:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+    - 18.3:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Nayyer
+    - 18.4:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nayyer
+        wicket:
+          player_out: Ali Nayyer
+          fielders:
+          - Atif Kamal
+          kind: caught
+    - 18.5:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 18.6:
+        non_striker: NK Aneesh Kumar
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 19.1:
+        non_striker: K Fletcher
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+    - 19.2:
+        non_striker: K Fletcher
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Aneesh Kumar
+    - 19.3:
+        non_striker: NK Aneesh Kumar
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 19.4:
+        non_striker: NK Aneesh Kumar
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+    - 19.5:
+        non_striker: NK Aneesh Kumar
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+        wicket:
+          player_out: K Fletcher
+          fielders:
+          - J Mees
+          - J Barker
+          kind: run out
+    - 19.6:
+        non_striker: NK Aneesh Kumar
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+        wicket:
+          player_out: Ashwin Vinod
+          kind: bowled

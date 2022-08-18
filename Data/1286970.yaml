@@ -1,0 +1,2223 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-23'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2021-11-22'
+  gender: female
+  match_type: T20
+  match_type_number: 1001
+  outcome:
+    winner: Bhutan
+    by:
+      runs: 40
+  overs: 20
+  player_of_match:
+  - T Zangmo
+  players:
+    Bhutan:
+    - N Choden
+    - S Paldon
+    - D Wangmo
+    - Y Choden
+    - T Zangmo
+    - P Seldon
+    - S Choden
+    - Y Wangmo
+    - A Gurung
+    - K Samten
+    - T Yangchen
+    Kuwait:
+    - Rida Zainab
+    - Priyada Murali
+    - Zeefa Jilani
+    - Khadija Khalil
+    - Amna Tariq
+    - Maryam Omar
+    - SL Gomez
+    - Mariamma Hyder
+    - Maria Jasvi
+    - A Bose
+    - B Shanti
+    - GR Menes
+  registry:
+    people:
+      A Bose: b6f61482
+      A Gurung: 10854c82
+      Akbar Ali: e753931d
+      Amna Tariq: 44b53fba
+      B Shanti: f50ca46d
+      D Wangmo: 760fcf65
+      GR Menes: 50b2f0a8
+      K Samten: 1f795a79
+      Khadija Khalil: 7c61a686
+      Maria Jasvi: 4bed6af7
+      Mariamma Hyder: c8ae2573
+      Maryam Omar: b4d08794
+      N Choden: a904600a
+      P Seldon: c5dd13c3
+      Priyada Murali: f4b942ae
+      Rahul Asher: 4956b0bf
+      Rida Zainab: 4dc4530c
+      S Choden: e1e0775d
+      S Paldon: 47c3d294
+      SL Gomez: 02264be0
+      T Yangchen: 1f09cd22
+      T Zangmo: b1f21c0f
+      VK Jha: 5d46eb72
+      Y Choden: 6f17c546
+      Y Wangmo: 6f3002a0
+      Zeefa Jilani: 3f2b40f0
+  teams:
+  - Bhutan
+  - Kuwait
+  toss:
+    winner: Kuwait
+    decision: field
+  umpires:
+  - Rahul Asher
+  - VK Jha
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Choden
+        batsman: S Paldon
+    - 0.2:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 0.3:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Choden
+    - 0.4:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 0.5:
+        non_striker: N Choden
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 0.6:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 0.7:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Choden
+    - 1.1:
+        non_striker: N Choden
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Paldon
+    - 1.2:
+        non_striker: N Choden
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 1.3:
+        non_striker: S Paldon
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 1.4:
+        non_striker: S Paldon
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Choden
+    - 1.5:
+        non_striker: N Choden
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Paldon
+    - 1.6:
+        non_striker: N Choden
+        bowler: Khadija Khalil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Paldon
+    - 1.7:
+        non_striker: N Choden
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 1.8:
+        non_striker: S Paldon
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+    - 1.9:
+        non_striker: S Paldon
+        bowler: Khadija Khalil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Choden
+        wicket:
+          player_out: N Choden
+          kind: lbw
+    - 2.1:
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Wangmo
+        batsman: S Paldon
+    - 2.2:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wangmo
+        batsman: S Paldon
+    - 2.3:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Wangmo
+        batsman: S Paldon
+    - 2.4:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wangmo
+        batsman: S Paldon
+    - 2.5:
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Wangmo
+        batsman: S Paldon
+    - 2.6:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 2.7:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 2.8:
+        non_striker: S Paldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 3.1:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 3.2:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 3.3:
+        non_striker: S Paldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 3.4:
+        non_striker: S Paldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 3.5:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+    - 3.6:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Paldon
+    - 4.1:
+        non_striker: D Wangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Paldon
+        wicket:
+          player_out: S Paldon
+          kind: bowled
+    - 4.2:
+        non_striker: D Wangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Choden
+    - 4.3:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 4.4:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 4.5:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 4.6:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 4.7:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wangmo
+    - 5.1:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 5.2:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 5.3:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Choden
+    - 5.4:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 5.5:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 5.6:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 6.1:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 6.2:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 6.3:
+        non_striker: D Wangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Choden
+    - 6.4:
+        non_striker: Y Choden
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 6.5:
+        non_striker: D Wangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Choden
+    - 6.6:
+        non_striker: D Wangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 7.1:
+        non_striker: Y Choden
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 7.2:
+        non_striker: D Wangmo
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Choden
+    - 7.3:
+        non_striker: D Wangmo
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Choden
+    - 7.4:
+        non_striker: Y Choden
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wangmo
+    - 7.5:
+        non_striker: Y Choden
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 7.6:
+        non_striker: Y Choden
+        bowler: B Shanti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wangmo
+    - 7.7:
+        non_striker: Y Choden
+        bowler: B Shanti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 8.1:
+        non_striker: D Wangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+    - 8.2:
+        non_striker: D Wangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Choden
+        wicket:
+          player_out: Y Choden
+          kind: bowled
+    - 8.3:
+        non_striker: D Wangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 8.4:
+        non_striker: D Wangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Zangmo
+    - 8.5:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wangmo
+    - 8.6:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 9.1:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 9.2:
+        non_striker: T Zangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+    - 9.3:
+        non_striker: T Zangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wangmo
+    - 9.4:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 9.5:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 9.6:
+        non_striker: D Wangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 10.1:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wangmo
+        wicket:
+          player_out: D Wangmo
+          fielders:
+          - Mariamma Hyder
+          kind: run out
+    - 10.2:
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Seldon
+        batsman: T Zangmo
+    - 10.3:
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Seldon
+        batsman: T Zangmo
+    - 10.4:
+        bowler: Maryam Omar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: P Seldon
+        batsman: T Zangmo
+    - 10.5:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 10.6:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 11.1:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 11.2:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 11.3:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 11.4:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 11.5:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 11.6:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 12.1:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 12.2:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Seldon
+    - 12.3:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 12.4:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 12.5:
+        non_striker: P Seldon
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 12.6:
+        non_striker: P Seldon
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 13.1:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Seldon
+    - 13.2:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 13.3:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 13.4:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 13.5:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 13.6:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 13.7:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 14.1:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 14.2:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 14.3:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 14.4:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 14.5:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 14.6:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 15.1:
+        non_striker: T Zangmo
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 15.2:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 15.3:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Zangmo
+    - 15.4:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 15.5:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 15.6:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Zangmo
+    - 15.7:
+        non_striker: P Seldon
+        bowler: SL Gomez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 16.1:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Seldon
+    - 16.2:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 16.3:
+        non_striker: P Seldon
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 16.4:
+        non_striker: P Seldon
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 16.5:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 16.6:
+        non_striker: T Zangmo
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Seldon
+    - 17.1:
+        non_striker: P Seldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 17.2:
+        non_striker: P Seldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 17.3:
+        non_striker: T Zangmo
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 17.4:
+        non_striker: P Seldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 17.5:
+        non_striker: P Seldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Zangmo
+    - 17.6:
+        non_striker: P Seldon
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 18.1:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 18.2:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Seldon
+    - 18.3:
+        non_striker: T Zangmo
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Seldon
+    - 18.4:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 18.5:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Zangmo
+    - 18.6:
+        non_striker: P Seldon
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 19.1:
+        non_striker: P Seldon
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+        wicket:
+          player_out: P Seldon
+          fielders:
+          - Maryam Omar
+          - A Bose
+          kind: run out
+    - 19.2:
+        non_striker: T Zangmo
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Choden
+        wicket:
+          player_out: S Choden
+          kind: bowled
+    - 19.3:
+        non_striker: T Zangmo
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Wangmo
+    - 19.4:
+        non_striker: Y Wangmo
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Zangmo
+    - 19.5:
+        non_striker: T Zangmo
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Wangmo
+    - 19.6:
+        non_striker: T Zangmo
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Wangmo
+- 2nd innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeefa Jilani
+        replacements:
+          match:
+          - in: GR Menes
+            out: Rida Zainab
+            team: Kuwait
+            reason: unknown
+        batsman: Priyada Murali
+    - 0.2:
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zeefa Jilani
+        batsman: Priyada Murali
+    - 0.3:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 0.4:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeefa Jilani
+    - 0.5:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 0.6:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+    - 0.7:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeefa Jilani
+    - 0.8:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeefa Jilani
+        wicket:
+          player_out: Zeefa Jilani
+          fielders:
+          - S Paldon
+          - Y Wangmo
+          kind: run out
+    - 1.1:
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khadija Khalil
+        batsman: Priyada Murali
+    - 1.2:
+        bowler: T Yangchen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        non_striker: Khadija Khalil
+        batsman: Priyada Murali
+    - 1.3:
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khadija Khalil
+        batsman: Priyada Murali
+    - 1.4:
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khadija Khalil
+        batsman: Priyada Murali
+    - 1.5:
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Khadija Khalil
+        batsman: Priyada Murali
+    - 1.6:
+        non_striker: Khadija Khalil
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 2.1:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 2.2:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 2.3:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 2.4:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 2.5:
+        non_striker: Priyada Murali
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Khadija Khalil
+    - 2.6:
+        non_striker: Khadija Khalil
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 3.1:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khadija Khalil
+    - 3.2:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 3.3:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 3.4:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 3.5:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khadija Khalil
+    - 3.6:
+        non_striker: Priyada Murali
+        bowler: T Yangchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khadija Khalil
+    - 4.1:
+        non_striker: Khadija Khalil
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 4.2:
+        non_striker: Khadija Khalil
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+        wicket:
+          player_out: Khadija Khalil
+          fielders:
+          - S Paldon
+          - T Zangmo
+          kind: run out
+    - 4.3:
+        non_striker: Priyada Murali
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 4.4:
+        non_striker: Priyada Murali
+        bowler: S Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amna Tariq
+    - 4.5:
+        non_striker: Priyada Murali
+        bowler: S Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amna Tariq
+    - 4.6:
+        non_striker: Priyada Murali
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 4.7:
+        non_striker: Priyada Murali
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 4.8:
+        non_striker: Amna Tariq
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 5.1:
+        non_striker: Priyada Murali
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 5.2:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    - 5.3:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 5.4:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 5.5:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+        wicket:
+          player_out: Priyada Murali
+          fielders:
+          - S Choden
+          kind: caught
+    - 5.6:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 6.1:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 6.2:
+        non_striker: Amna Tariq
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 6.3:
+        non_striker: Amna Tariq
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 6.4:
+        non_striker: Amna Tariq
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 6.5:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 6.6:
+        non_striker: Amna Tariq
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 7.1:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 7.2:
+        non_striker: Maryam Omar
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amna Tariq
+    - 7.3:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 7.4:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 7.5:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 7.6:
+        non_striker: Amna Tariq
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 8.1:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amna Tariq
+    - 8.2:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+    - 8.3:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amna Tariq
+        wicket:
+          player_out: Amna Tariq
+          fielders:
+          - S Paldon
+          - D Wangmo
+          kind: run out
+    - 8.4:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 8.5:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 8.6:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 9.1:
+        non_striker: SL Gomez
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 9.2:
+        non_striker: SL Gomez
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 9.3:
+        non_striker: SL Gomez
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 9.4:
+        non_striker: SL Gomez
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 9.5:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+        wicket:
+          player_out: SL Gomez
+          kind: lbw
+    - 9.6:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 10.1:
+        non_striker: Mariamma Hyder
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 10.2:
+        non_striker: Mariamma Hyder
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 10.3:
+        non_striker: Mariamma Hyder
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 10.4:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 10.5:
+        non_striker: Maryam Omar
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mariamma Hyder
+    - 10.6:
+        non_striker: Mariamma Hyder
+        bowler: S Choden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maryam Omar
+    - 10.7:
+        non_striker: Mariamma Hyder
+        bowler: S Choden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 11.1:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 11.2:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mariamma Hyder
+    - 11.3:
+        non_striker: Mariamma Hyder
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 11.4:
+        non_striker: Mariamma Hyder
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 11.5:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 11.6:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 12.1:
+        non_striker: Mariamma Hyder
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maryam Omar
+    - 12.2:
+        non_striker: Mariamma Hyder
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 12.3:
+        non_striker: Maryam Omar
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+    - 12.4:
+        non_striker: Maryam Omar
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mariamma Hyder
+        wicket:
+          player_out: Mariamma Hyder
+          fielders:
+          - N Choden
+          kind: caught
+    - 12.5:
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Maria Jasvi
+        batsman: Maryam Omar
+    - 12.6:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Maryam Omar
+    - 13.1:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+    - 13.2:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maria Jasvi
+    - 13.3:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 13.4:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+    - 13.5:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maria Jasvi
+    - 13.6:
+        non_striker: Maryam Omar
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maria Jasvi
+    - 14.1:
+        non_striker: Maryam Omar
+        bowler: A Gurung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Maria Jasvi
+    - 14.2:
+        non_striker: Maria Jasvi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 14.3:
+        non_striker: Maria Jasvi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 14.4:
+        non_striker: Maria Jasvi
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maryam Omar
+    - 14.5:
+        non_striker: Maryam Omar
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+    - 14.6:
+        non_striker: Maryam Omar
+        bowler: A Gurung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+    - 15.1:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maryam Omar
+    - 15.2:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 15.3:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 15.4:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maryam Omar
+    - 15.5:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+    - 15.6:
+        non_striker: Maria Jasvi
+        bowler: T Zangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maryam Omar
+        wicket:
+          player_out: Maryam Omar
+          fielders:
+          - S Paldon
+          - D Wangmo
+          kind: run out
+    - 16.1:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 16.2:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 16.3:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 16.4:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 16.5:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 16.6:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bose
+    - 17.1:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bose
+    - 17.2:
+        non_striker: A Bose
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+    - 17.3:
+        non_striker: A Bose
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maria Jasvi
+    - 17.4:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 17.5:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 17.6:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 18.1:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 18.2:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+    - 18.3:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bose
+        wicket:
+          player_out: A Bose
+          fielders:
+          - S Choden
+          kind: caught
+    - 18.4:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shanti
+    - 18.5:
+        non_striker: Maria Jasvi
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shanti
+    - 18.6:
+        non_striker: B Shanti
+        bowler: D Wangmo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maria Jasvi
+    - 19.1:
+        non_striker: B Shanti
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maria Jasvi
+        wicket:
+          player_out: B Shanti
+          fielders:
+          - S Paldon
+          - P Seldon
+          kind: run out
+    - 19.2:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Menes
+    - 19.3:
+        non_striker: Maria Jasvi
+        bowler: K Samten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Menes
+        wicket:
+          player_out: GR Menes
+          kind: lbw

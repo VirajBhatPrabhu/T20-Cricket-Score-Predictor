@@ -1,0 +1,2084 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-26'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2021-10-26'
+  gender: male
+  match_type: T20
+  match_type_number: 1366
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - A Nortje
+  players:
+    West Indies:
+    - LMP Simmons
+    - E Lewis
+    - N Pooran
+    - CH Gayle
+    - KA Pollard
+    - AD Russell
+    - SO Hetmyer
+    - DJ Bravo
+    - HR Walsh
+    - AJ Hosein
+    - R Rampaul
+    South Africa:
+    - T Bavuma
+    - RR Hendricks
+    - HE van der Dussen
+    - AK Markram
+    - DA Miller
+    - H Klaasen
+    - D Pretorius
+    - K Rabada
+    - KA Maharaj
+    - A Nortje
+    - T Shamsi
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AD Russell: bbd41817
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      Aleem Dar: f02778d1
+      CB Gaffaney: d5ac41d8
+      CH Gayle: db584dad
+      CM Brown: 448f4f1c
+      D Pretorius: 11614d87
+      DA Miller: d67d5f00
+      DC Boon: e79a1fe3
+      DJ Bravo: 87e562a9
+      E Lewis: 0ebfb1ad
+      H Klaasen: 235c2bb6
+      HE van der Dussen: 9948e262
+      HR Walsh: 1ac2a995
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KA Pollard: a757b0d8
+      LMP Simmons: 89f64c19
+      N Pooran: 3241e3fd
+      PR Reiffel: c9354f29
+      R Rampaul: d68e7f48
+      RR Hendricks: b8cc58c9
+      SO Hetmyer: 48a1d7b7
+      T Bavuma: 9ffd1ac1
+      T Shamsi: a03bba42
+  teams:
+  - West Indies
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - Aleem Dar
+  - PR Reiffel
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 0.2:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Lewis
+    - 0.3:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.4:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 0.5:
+        non_striker: E Lewis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 0.6:
+        non_striker: E Lewis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 0.7:
+        non_striker: E Lewis
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 1.1:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.2:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.3:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.4:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 1.5:
+        non_striker: LMP Simmons
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Lewis
+    - 1.6:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.1:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.2:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.3:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.4:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.5:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.6:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 3.1:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 3.2:
+        non_striker: E Lewis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 3.3:
+        non_striker: LMP Simmons
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 3.4:
+        non_striker: LMP Simmons
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 3.5:
+        non_striker: LMP Simmons
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 3.6:
+        non_striker: LMP Simmons
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 4.1:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Lewis
+    - 4.2:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.3:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.4:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 4.5:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 4.6:
+        non_striker: LMP Simmons
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 5.1:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LMP Simmons
+    - 5.2:
+        non_striker: LMP Simmons
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.3:
+        non_striker: LMP Simmons
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 5.4:
+        non_striker: LMP Simmons
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 5.5:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 5.6:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 6.1:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 6.2:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 6.3:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 6.4:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 6.5:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.6:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 7.1:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 7.2:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 7.3:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 7.4:
+        non_striker: E Lewis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 7.5:
+        non_striker: LMP Simmons
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 7.6:
+        non_striker: LMP Simmons
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 8.1:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 8.2:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 8.3:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 8.4:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 8.5:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 8.6:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 9.1:
+        non_striker: E Lewis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 9.2:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 9.3:
+        non_striker: E Lewis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 9.4:
+        non_striker: E Lewis
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 9.5:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 9.6:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 10.1:
+        non_striker: E Lewis
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 10.2:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 10.3:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Lewis
+    - 10.4:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - K Rabada
+          kind: caught
+    - 10.5:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.6:
+        non_striker: N Pooran
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 10.7:
+        non_striker: N Pooran
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 11.1:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 11.2:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 11.3:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.4:
+        non_striker: N Pooran
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 11.5:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.6:
+        non_striker: LMP Simmons
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 12.2:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - DA Miller
+          kind: caught
+    - 12.3:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 12.4:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 12.5:
+        non_striker: CH Gayle
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 12.6:
+        non_striker: LMP Simmons
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 13.1:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 13.2:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+        wicket:
+          player_out: LMP Simmons
+          kind: bowled
+    - 13.3:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 13.4:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 13.5:
+        non_striker: KA Pollard
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 13.6:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 14.1:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 14.2:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 14.3:
+        non_striker: CH Gayle
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 14.4:
+        non_striker: CH Gayle
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 14.5:
+        non_striker: CH Gayle
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 14.6:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 15.1:
+        non_striker: CH Gayle
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 15.2:
+        non_striker: CH Gayle
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 15.3:
+        non_striker: CH Gayle
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 15.4:
+        non_striker: KA Pollard
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 15.5:
+        non_striker: KA Pollard
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 15.6:
+        non_striker: KA Pollard
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 15.7:
+        non_striker: CH Gayle
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.1:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KA Pollard
+    - 16.2:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 16.3:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 16.5:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.6:
+        non_striker: KA Pollard
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 16.7:
+        non_striker: KA Pollard
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 16.8:
+        non_striker: CH Gayle
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 17.1:
+        non_striker: KA Pollard
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 17.2:
+        non_striker: KA Pollard
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 17.3:
+        non_striker: KA Pollard
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 17.4:
+        non_striker: KA Pollard
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 17.5:
+        non_striker: AD Russell
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 17.6:
+        non_striker: AD Russell
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.1:
+        non_striker: AD Russell
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.2:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          kind: bowled
+    - 18.3:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - DA Miller
+          - H Klaasen
+          kind: run out
+    - 18.5:
+        non_striker: KA Pollard
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.6:
+        non_striker: DJ Bravo
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 19.1:
+        non_striker: KA Pollard
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.2:
+        non_striker: DJ Bravo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - HE van der Dussen
+          kind: caught
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Walsh
+        wicket:
+          player_out: HR Walsh
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 19.4:
+        non_striker: AJ Hosein
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 19.5:
+        non_striker: AJ Hosein
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 19.6:
+        non_striker: AJ Hosein
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 0.2:
+        non_striker: T Bavuma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Bavuma
+    - 0.4:
+        non_striker: T Bavuma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.5:
+        non_striker: T Bavuma
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          fielders:
+          - AD Russell
+          kind: run out
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 1.3:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.6:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.1:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Hendricks
+    - 2.2:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.1:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 3.5:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 4.1:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RR Hendricks
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 4.6:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.1:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 5.2:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.5:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.5:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 6.6:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.7:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.1:
+        non_striker: RR Hendricks
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.2:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 7.3:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.5:
+        non_striker: RR Hendricks
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 7.7:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.1:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.2:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.3:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.5:
+        non_striker: RR Hendricks
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 9.1:
+        non_striker: RR Hendricks
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.2:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: AK Markram
+    - 9.4:
+        non_striker: HE van der Dussen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.6:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.7:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.1:
+        non_striker: AK Markram
+        bowler: HR Walsh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HE van der Dussen
+    - 10.2:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 10.3:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 10.4:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.6:
+        non_striker: AK Markram
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.7:
+        non_striker: HE van der Dussen
+        bowler: HR Walsh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 11.1:
+        non_striker: AK Markram
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.2:
+        non_striker: HE van der Dussen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.3:
+        non_striker: AK Markram
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.4:
+        non_striker: HE van der Dussen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.5:
+        non_striker: HE van der Dussen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.6:
+        non_striker: HE van der Dussen
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 12.1:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.2:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.3:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.6:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.2:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.3:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.4:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.5:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HE van der Dussen
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.2:
+        non_striker: AK Markram
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.5:
+        non_striker: AK Markram
+        bowler: R Rampaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: AK Markram
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 14.7:
+        non_striker: AK Markram
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.1:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 15.2:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 15.3:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.4:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 15.5:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 15.6:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.1:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.2:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 16.3:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 16.4:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.5:
+        non_striker: AK Markram
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 16.6:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 17.1:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.2:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 17.3:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 17.4:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.5:
+        non_striker: AK Markram
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 17.6:
+        non_striker: HE van der Dussen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 18.1:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 18.2:
+        non_striker: HE van der Dussen
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram

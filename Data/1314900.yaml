@@ -1,0 +1,2082 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kirtipur
+  dates:
+  - '2022-05-20'
+  gender: female
+  match_type: T20
+  match_type_number: 1079
+  outcome:
+    winner: Nepal
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - H Roy
+  players:
+    Nepal:
+    - J Pandey
+    - B Rawal
+    - I Barma
+    - SR Magar
+    - S Magar
+    - RC Belbashi
+    - Apsari Begam
+    - D Bhatta
+    - K Kunwar
+    - A Karmacharya
+    - H Roy
+    Uganda:
+    - K Awino
+    - LM Babirye
+    - J Mbabazi
+    - RE Nyangendo
+    - R Musamali
+    - E Anyipo
+    - PE Kulume
+    - C Aweko
+    - S Walaza
+    - Shakirah Sadick
+    - S Akiteng
+  registry:
+    people:
+      A Karmacharya: e1492aed
+      Apsari Begam: eb765b41
+      B Rawal: 4d1cc284
+      C Aweko: 01c1b96c
+      D Bhatta: 7d1a3ff7
+      DN Subedi: fb0a571f
+      E Anyipo: d9e5ecb4
+      H Roy: 7bdbd6d0
+      HR Giri: fea1e74f
+      I Barma: 521abce2
+      J Mbabazi: aaa6e84c
+      J Pandey: e1214f03
+      K Awino: c4e7749a
+      K Kunwar: 97e6e41a
+      LM Babirye: 4b531649
+      Manohar Adhikari: f1194524
+      PE Kulume: bb1a5f8a
+      R Musamali: 017cadb2
+      RC Belbashi: dfdaca74
+      RE Nyangendo: 208ec8a4
+      S Akiteng: cf92d76b
+      S Magar: 4fc3790e
+      S Walaza: f67ea6d2
+      SR Magar: 61c22ad0
+      Sanjay Gurung: 0ef792dc
+      Shakirah Sadick: de99b122
+      VK Jha: 5d46eb72
+  teams:
+  - Nepal
+  - Uganda
+  toss:
+    winner: Nepal
+    decision: bat
+  umpires:
+  - HR Giri
+  - VK Jha
+  venue: Tribhuvan University International Cricket Ground, Kirtipur
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: E Anyipo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Rawal
+        batsman: J Pandey
+    - 0.2:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: B Rawal
+        batsman: J Pandey
+    - 0.3:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Rawal
+        batsman: J Pandey
+    - 0.4:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Rawal
+        batsman: J Pandey
+    - 0.5:
+        non_striker: J Pandey
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.6:
+        non_striker: J Pandey
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 0.7:
+        non_striker: J Pandey
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 1.1:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Pandey
+    - 1.2:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pandey
+    - 1.3:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Pandey
+    - 1.4:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: J Pandey
+    - 1.5:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pandey
+    - 1.6:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+    - 1.7:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Pandey
+    - 1.8:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+    - 2.1:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.2:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.3:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.4:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.5:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Rawal
+    - 2.6:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 2.7:
+        non_striker: J Pandey
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 3.1:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+    - 3.2:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+    - 3.3:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+    - 3.4:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Pandey
+        wicket:
+          player_out: J Pandey
+          kind: caught and bowled
+    - 3.5:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Barma
+        batsman: B Rawal
+    - 3.6:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 4.1:
+        non_striker: I Barma
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 4.2:
+        non_striker: B Rawal
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Barma
+    - 4.3:
+        non_striker: I Barma
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 4.4:
+        non_striker: B Rawal
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 4.5:
+        non_striker: B Rawal
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+    - 4.6:
+        non_striker: B Rawal
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Barma
+        wicket:
+          player_out: I Barma
+          kind: bowled
+    - 5.1:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Magar
+        batsman: B Rawal
+    - 5.2:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SR Magar
+        batsman: B Rawal
+    - 5.3:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Magar
+        batsman: B Rawal
+    - 5.4:
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SR Magar
+        batsman: B Rawal
+    - 5.5:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 5.6:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Magar
+    - 6.1:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 6.2:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 6.3:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 6.4:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 6.5:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar
+    - 6.6:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 7.1:
+        non_striker: SR Magar
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 7.2:
+        non_striker: SR Magar
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 7.3:
+        non_striker: SR Magar
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 7.4:
+        non_striker: SR Magar
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Rawal
+    - 7.5:
+        non_striker: SR Magar
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 7.6:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Magar
+    - 7.7:
+        non_striker: B Rawal
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Magar
+    - 8.1:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+    - 8.2:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SR Magar
+    - 8.3:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 8.4:
+        non_striker: SR Magar
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 8.5:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Magar
+        wicket:
+          player_out: SR Magar
+          fielders:
+          - K Awino
+          - Shakirah Sadick
+          kind: run out
+    - 8.6:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Magar
+    - 8.7:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Magar
+    - 9.1:
+        non_striker: S Magar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 9.2:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Magar
+    - 9.3:
+        non_striker: S Magar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 9.4:
+        non_striker: S Magar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Rawal
+    - 9.5:
+        non_striker: S Magar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 9.6:
+        non_striker: B Rawal
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Magar
+    - 10.1:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Magar
+        wicket:
+          player_out: S Magar
+          kind: bowled
+    - 10.2:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+    - 10.3:
+        non_striker: B Rawal
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Belbashi
+    - 10.4:
+        non_striker: RC Belbashi
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 10.5:
+        non_striker: RC Belbashi
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 10.6:
+        non_striker: RC Belbashi
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Rawal
+    - 11.1:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+    - 11.2:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Rawal
+        wicket:
+          player_out: B Rawal
+          kind: lbw
+    - 11.3:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Apsari Begam
+    - 11.4:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Apsari Begam
+    - 11.5:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Apsari Begam
+    - 11.6:
+        non_striker: Apsari Begam
+        bowler: C Aweko
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RC Belbashi
+    - 11.7:
+        non_striker: RC Belbashi
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Apsari Begam
+    - 12.1:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Belbashi
+        wicket:
+          player_out: RC Belbashi
+          fielders:
+          - K Awino
+          kind: stumped
+    - 12.2:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 12.3:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 12.4:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 12.5:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 12.6:
+        non_striker: Apsari Begam
+        bowler: S Akiteng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 13.1:
+        non_striker: D Bhatta
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Apsari Begam
+    - 13.2:
+        non_striker: Apsari Begam
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 13.3:
+        non_striker: Apsari Begam
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Bhatta
+    - 13.4:
+        non_striker: Apsari Begam
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 13.5:
+        non_striker: Apsari Begam
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Bhatta
+    - 13.6:
+        non_striker: D Bhatta
+        bowler: R Musamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Apsari Begam
+    - 13.7:
+        non_striker: D Bhatta
+        bowler: R Musamali
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Apsari Begam
+    - 13.8:
+        non_striker: Apsari Begam
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 14.1:
+        non_striker: D Bhatta
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Apsari Begam
+    - 14.2:
+        non_striker: Apsari Begam
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+    - 14.3:
+        non_striker: Apsari Begam
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Bhatta
+    - 14.4:
+        non_striker: D Bhatta
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Apsari Begam
+    - 14.5:
+        non_striker: Apsari Begam
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Bhatta
+        wicket:
+          player_out: Apsari Begam
+          fielders:
+          - J Mbabazi
+          - S Walaza
+          kind: run out
+    - 14.6:
+        non_striker: K Kunwar
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Bhatta
+    - 15.1:
+        non_striker: K Kunwar
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Bhatta
+        wicket:
+          player_out: D Bhatta
+          kind: caught and bowled
+    - 15.2:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Karmacharya
+        batsman: K Kunwar
+    - 15.3:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Karmacharya
+        batsman: K Kunwar
+    - 15.4:
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Karmacharya
+        batsman: K Kunwar
+    - 15.5:
+        non_striker: K Kunwar
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Karmacharya
+    - 15.6:
+        non_striker: K Kunwar
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Karmacharya
+    - 16.1:
+        non_striker: K Kunwar
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Karmacharya
+    - 16.2:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Kunwar
+    - 16.3:
+        non_striker: K Kunwar
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Karmacharya
+    - 16.4:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: K Kunwar
+    - 16.5:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kunwar
+    - 16.6:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kunwar
+    - 16.7:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 16.8:
+        non_striker: A Karmacharya
+        bowler: R Musamali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kunwar
+    - 17.1:
+        non_striker: K Kunwar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Karmacharya
+    - 17.2:
+        non_striker: A Karmacharya
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kunwar
+    - 17.3:
+        non_striker: K Kunwar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Karmacharya
+    - 17.4:
+        non_striker: K Kunwar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Karmacharya
+        wicket:
+          player_out: A Karmacharya
+          kind: bowled
+    - 17.5:
+        non_striker: K Kunwar
+        bowler: PE Kulume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Roy
+        wicket:
+          player_out: H Roy
+          fielders:
+          - PE Kulume
+          - Shakirah Sadick
+          kind: run out
+- 2nd innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LM Babirye
+        batsman: K Awino
+    - 0.2:
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LM Babirye
+        batsman: K Awino
+    - 0.3:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 0.4:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 0.5:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 0.6:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 1.1:
+        non_striker: LM Babirye
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.2:
+        non_striker: LM Babirye
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 1.3:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Babirye
+    - 1.4:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 1.5:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 1.6:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+    - 1.7:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Babirye
+    - 1.8:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Babirye
+        wicket:
+          player_out: LM Babirye
+          fielders:
+          - S Magar
+          kind: caught
+    - 2.1:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.2:
+        non_striker: J Mbabazi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.3:
+        non_striker: J Mbabazi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.4:
+        non_striker: J Mbabazi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 2.5:
+        non_striker: J Mbabazi
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 2.6:
+        non_striker: K Awino
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.1:
+        non_striker: J Mbabazi
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.2:
+        non_striker: J Mbabazi
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 3.3:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 3.4:
+        non_striker: K Awino
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 3.5:
+        non_striker: J Mbabazi
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.6:
+        non_striker: J Mbabazi
+        bowler: A Karmacharya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 4.1:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.2:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 4.3:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 4.4:
+        non_striker: K Awino
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 4.5:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 4.6:
+        non_striker: K Awino
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 4.7:
+        non_striker: K Awino
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 5.1:
+        non_striker: K Awino
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 5.2:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 5.3:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          fielders:
+          - J Pandey
+          - Apsari Begam
+          kind: run out
+    - 5.4:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 5.5:
+        non_striker: RE Nyangendo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 5.6:
+        non_striker: RE Nyangendo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.1:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.2:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 6.3:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.4:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mbabazi
+    - 6.5:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 6.6:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 6.7:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 7.1:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 7.2:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 7.3:
+        non_striker: RE Nyangendo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 7.4:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 7.5:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 7.6:
+        non_striker: J Mbabazi
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 8.1:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Nyangendo
+    - 8.2:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RE Nyangendo
+    - 8.3:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 8.4:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 8.5:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 8.6:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 9.1:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.2:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.3:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 9.4:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 9.5:
+        non_striker: J Mbabazi
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 9.6:
+        non_striker: J Mbabazi
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 10.1:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 10.2:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mbabazi
+    - 10.3:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 10.4:
+        non_striker: RE Nyangendo
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 10.5:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 10.6:
+        non_striker: J Mbabazi
+        bowler: SR Magar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Nyangendo
+    - 11.1:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mbabazi
+    - 11.2:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 11.3:
+        non_striker: J Mbabazi
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 11.4:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 11.5:
+        non_striker: J Mbabazi
+        bowler: I Barma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RE Nyangendo
+    - 11.6:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 11.7:
+        non_striker: RE Nyangendo
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 11.8:
+        non_striker: J Mbabazi
+        bowler: I Barma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 12.1:
+        non_striker: J Mbabazi
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 12.2:
+        non_striker: J Mbabazi
+        bowler: H Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RE Nyangendo
+    - 12.3:
+        non_striker: J Mbabazi
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 12.4:
+        non_striker: RE Nyangendo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 12.5:
+        non_striker: RE Nyangendo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 12.6:
+        non_striker: J Mbabazi
+        bowler: H Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RE Nyangendo
+    - 12.7:
+        non_striker: J Mbabazi
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 12.8:
+        non_striker: RE Nyangendo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          kind: bowled
+    - 13.1:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Musamali
+        batsman: RE Nyangendo
+    - 13.2:
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Musamali
+        batsman: RE Nyangendo
+    - 13.3:
+        non_striker: RE Nyangendo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 13.4:
+        non_striker: R Musamali
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Nyangendo
+    - 13.5:
+        non_striker: RE Nyangendo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 13.6:
+        non_striker: R Musamali
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Nyangendo
+    - 14.1:
+        non_striker: RE Nyangendo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: RE Nyangendo
+          fielders:
+          - J Pandey
+          - S Magar
+          kind: run out
+    - 14.2:
+        non_striker: R Musamali
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anyipo
+    - 14.3:
+        non_striker: R Musamali
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 14.4:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 14.5:
+        non_striker: R Musamali
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Anyipo
+    - 14.6:
+        non_striker: R Musamali
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anyipo
+    - 15.1:
+        non_striker: E Anyipo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 15.2:
+        non_striker: R Musamali
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Anyipo
+    - 15.3:
+        non_striker: R Musamali
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 15.4:
+        non_striker: E Anyipo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 15.5:
+        non_striker: E Anyipo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          kind: bowled
+    - 15.6:
+        non_striker: E Anyipo
+        bowler: RC Belbashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kulume
+        wicket:
+          player_out: PE Kulume
+          fielders:
+          - RC Belbashi
+          kind: run out
+    - 16.1:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+    - 16.2:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+        wicket:
+          player_out: C Aweko
+          kind: bowled
+    - 16.3:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Walaza
+    - 16.4:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Walaza
+    - 16.5:
+        non_striker: E Anyipo
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Walaza
+    - 16.6:
+        non_striker: S Walaza
+        bowler: H Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 17.1:
+        non_striker: S Walaza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Anyipo
+    - 17.2:
+        non_striker: S Walaza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Anyipo
+    - 17.3:
+        non_striker: S Walaza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 17.4:
+        non_striker: E Anyipo
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Walaza
+    - 17.5:
+        non_striker: S Walaza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Anyipo
+        wicket:
+          player_out: E Anyipo
+          kind: bowled
+    - 17.6:
+        non_striker: S Walaza
+        bowler: K Kunwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakirah Sadick

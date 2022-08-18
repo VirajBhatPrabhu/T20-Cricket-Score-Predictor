@@ -1,0 +1,1178 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2022-07-28'
+  gender: male
+  match_type: T20
+  match_type_number: 1697
+  outcome:
+    winner: Guernsey
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - MWR Stokes
+  players:
+    Slovenia:
+    - Ramanjot Singh
+    - S Koppolu
+    - Ayyaz Qureshi
+    - Shahid Arshad
+    - MH Oman
+    - Waqar Khan
+    - Taher Muhammad
+    - Mazhar Khan
+    - Bhagwant Sandhu
+    - P Pustoslemsek
+    - NL Ujawe
+    Guernsey:
+    - LC Le Tissier
+    - IDA Damarell
+    - OB Nightingale
+    - J Butler
+    - MWR Stokes
+    - DR Hooper
+    - ACF Stokes
+    - W Peatfield
+    - T Nightingale
+    - LT Bichard
+    - LB Ferbrache
+  registry:
+    people:
+      A Paleker: 634b11ac
+      ACF Stokes: 7f74b21d
+      Ayyaz Qureshi: 50dbc953
+      BS Sandhu: f6e46de7
+      DR Hooper: 0ac067e8
+      IDA Damarell: 580ae7f2
+      J Butler: efcb778e
+      K Gallagher: 704afd47
+      LB Ferbrache: 0f72f582
+      LC Le Tissier: c471750e
+      LT Bichard: dfcdb11e
+      MH Oman: 6005fe89
+      MWR Stokes: c573d173
+      Mazhar Khan: 7b10c047
+      NL Ujawe: 7c7c4988
+      OB Nightingale: 1deb4c0c
+      P Pustoslemsek: de6ad58b
+      Ramanjot Singh: a40710b9
+      S Fernando: bbeb5b15
+      S Koppolu: 3346b14f
+      SB Ravindra: 394ba7a8
+      Shahid Arshad: 587e65cc
+      T Nightingale: 51a125b3
+      Taher Muhammad: '68832922'
+      W Peatfield: 609d6c7c
+      Waqar Khan: da21531c
+  teams:
+  - Slovenia
+  - Guernsey
+  toss:
+    winner: Guernsey
+    decision: field
+  umpires:
+  - A Paleker
+  - S Fernando
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        bowler: W Peatfield
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Koppolu
+        batsman: Ramanjot Singh
+    - 0.2:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Koppolu
+        batsman: Ramanjot Singh
+    - 0.3:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Koppolu
+        batsman: Ramanjot Singh
+    - 0.4:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Koppolu
+        batsman: Ramanjot Singh
+    - 0.5:
+        non_striker: Ramanjot Singh
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 0.6:
+        non_striker: Ramanjot Singh
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+    - 0.7:
+        non_striker: Ramanjot Singh
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Koppolu
+        wicket:
+          player_out: S Koppolu
+          kind: bowled
+    - 1.1:
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayyaz Qureshi
+        batsman: Ramanjot Singh
+    - 1.2:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ayyaz Qureshi
+    - 1.3:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayyaz Qureshi
+    - 1.4:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayyaz Qureshi
+    - 1.5:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayyaz Qureshi
+    - 1.6:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayyaz Qureshi
+    - 1.7:
+        non_striker: Ramanjot Singh
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayyaz Qureshi
+    - 1.8:
+        non_striker: Ayyaz Qureshi
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 2.1:
+        non_striker: Ramanjot Singh
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayyaz Qureshi
+    - 2.2:
+        non_striker: Ramanjot Singh
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayyaz Qureshi
+    - 2.3:
+        non_striker: Ayyaz Qureshi
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ramanjot Singh
+    - 2.4:
+        non_striker: Ramanjot Singh
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayyaz Qureshi
+    - 2.5:
+        non_striker: Ramanjot Singh
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayyaz Qureshi
+    - 2.6:
+        non_striker: Ramanjot Singh
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayyaz Qureshi
+    - 3.1:
+        non_striker: Ayyaz Qureshi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 3.2:
+        non_striker: Ayyaz Qureshi
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+        wicket:
+          player_out: Ayyaz Qureshi
+          fielders:
+          - IDA Damarell
+          - ACF Stokes
+          kind: run out
+    - 3.3:
+        non_striker: Ramanjot Singh
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.4:
+        non_striker: Ramanjot Singh
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.5:
+        non_striker: Ramanjot Singh
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 3.6:
+        non_striker: Ramanjot Singh
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 4.1:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 4.2:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 4.3:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ramanjot Singh
+    - 4.4:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 4.5:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+    - 4.6:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ramanjot Singh
+    - 5.1:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ramanjot Singh
+    - 5.2:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ramanjot Singh
+    - 5.3:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ramanjot Singh
+        wicket:
+          player_out: Ramanjot Singh
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 5.4:
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MH Oman
+        batsman: Shahid Arshad
+    - 5.5:
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MH Oman
+        batsman: Shahid Arshad
+    - 5.6:
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MH Oman
+        batsman: Shahid Arshad
+    - 5.7:
+        non_striker: MH Oman
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.1:
+        non_striker: Shahid Arshad
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Oman
+    - 6.2:
+        non_striker: MH Oman
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 6.3:
+        non_striker: Shahid Arshad
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 6.4:
+        non_striker: Shahid Arshad
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Oman
+    - 6.5:
+        non_striker: MH Oman
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 6.6:
+        non_striker: MH Oman
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.1:
+        non_striker: MH Oman
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.2:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 7.3:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 7.4:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 7.5:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 7.6:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 8.1:
+        non_striker: MH Oman
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 8.2:
+        non_striker: MH Oman
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 8.3:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 8.4:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 8.5:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+    - 8.6:
+        non_striker: Shahid Arshad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Oman
+        wicket:
+          player_out: MH Oman
+          fielders:
+          - MWR Stokes
+          kind: caught
+    - 9.1:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 9.2:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+        wicket:
+          player_out: Waqar Khan
+          fielders:
+          - IDA Damarell
+          - T Nightingale
+          kind: run out
+    - 9.3:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 9.4:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 9.5:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taher Muhammad
+    - 9.6:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 9.7:
+        non_striker: Shahid Arshad
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 10.1:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 10.2:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 10.3:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 10.4:
+        non_striker: Shahid Arshad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+        wicket:
+          player_out: Taher Muhammad
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 10.5:
+        non_striker: Mazhar Khan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+        wicket:
+          player_out: Shahid Arshad
+          kind: bowled
+    - 10.6:
+        non_striker: Mazhar Khan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhagwant Sandhu
+    - 11.1:
+        non_striker: Bhagwant Sandhu
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazhar Khan
+    - 11.2:
+        non_striker: Bhagwant Sandhu
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 11.3:
+        non_striker: Bhagwant Sandhu
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 11.4:
+        non_striker: Bhagwant Sandhu
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazhar Khan
+    - 11.5:
+        non_striker: Mazhar Khan
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhagwant Sandhu
+    - 11.6:
+        non_striker: Mazhar Khan
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhagwant Sandhu
+    - 12.1:
+        non_striker: Bhagwant Sandhu
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mazhar Khan
+    - 12.2:
+        non_striker: Mazhar Khan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhagwant Sandhu
+    - 12.3:
+        non_striker: Bhagwant Sandhu
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 12.4:
+        non_striker: Bhagwant Sandhu
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazhar Khan
+    - 12.5:
+        non_striker: Mazhar Khan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhagwant Sandhu
+        wicket:
+          player_out: Bhagwant Sandhu
+          fielders:
+          - IDA Damarell
+          - DR Hooper
+          kind: run out
+    - 12.6:
+        non_striker: Mazhar Khan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pustoslemsek
+    - 13.1:
+        non_striker: Mazhar Khan
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pustoslemsek
+    - 13.2:
+        non_striker: P Pustoslemsek
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 13.3:
+        non_striker: P Pustoslemsek
+        bowler: W Peatfield
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mazhar Khan
+    - 13.4:
+        non_striker: P Pustoslemsek
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazhar Khan
+    - 13.5:
+        non_striker: Mazhar Khan
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pustoslemsek
+        wicket:
+          player_out: P Pustoslemsek
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 13.6:
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NL Ujawe
+        batsman: Mazhar Khan
+    - 13.7:
+        non_striker: NL Ujawe
+        bowler: W Peatfield
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 14.1:
+        non_striker: Mazhar Khan
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NL Ujawe
+    - 14.2:
+        non_striker: NL Ujawe
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 14.3:
+        non_striker: NL Ujawe
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 14.4:
+        non_striker: NL Ujawe
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+    - 14.5:
+        non_striker: NL Ujawe
+        bowler: DR Hooper
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazhar Khan
+        wicket:
+          player_out: Mazhar Khan
+          kind: bowled
+- 2nd innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IDA Damarell
+        batsman: LC Le Tissier
+    - 0.2:
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IDA Damarell
+        batsman: LC Le Tissier
+    - 0.3:
+        non_striker: LC Le Tissier
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 0.4:
+        non_striker: LC Le Tissier
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 0.5:
+        non_striker: IDA Damarell
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Le Tissier
+    - 0.6:
+        non_striker: IDA Damarell
+        bowler: Taher Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Le Tissier
+    - 1.1:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 1.2:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 1.3:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 1.4:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDA Damarell
+    - 1.5:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDA Damarell
+    - 1.6:
+        non_striker: LC Le Tissier
+        bowler: NL Ujawe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 2.1:
+        non_striker: LC Le Tissier
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDA Damarell
+    - 2.2:
+        non_striker: LC Le Tissier
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 2.3:
+        non_striker: LC Le Tissier
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 2.4:
+        non_striker: IDA Damarell
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Le Tissier
+    - 2.5:
+        non_striker: IDA Damarell
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Le Tissier
+    - 2.6:
+        non_striker: IDA Damarell
+        bowler: Shahid Arshad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Le Tissier
+    - 3.1:
+        non_striker: LC Le Tissier
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 3.2:
+        non_striker: IDA Damarell
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Le Tissier
+    - 3.3:
+        non_striker: IDA Damarell
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Le Tissier
+        wicket:
+          player_out: LC Le Tissier
+          kind: bowled
+    - 3.4:
+        non_striker: IDA Damarell
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 3.5:
+        non_striker: OB Nightingale
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 3.6:
+        non_striker: IDA Damarell
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 4.1:
+        non_striker: IDA Damarell
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OB Nightingale
+    - 4.2:
+        non_striker: IDA Damarell
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 4.3:
+        non_striker: OB Nightingale
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 4.4:
+        non_striker: OB Nightingale
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 4.5:
+        non_striker: IDA Damarell
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 4.6:
+        non_striker: OB Nightingale
+        bowler: Ramanjot Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 5.1:
+        non_striker: IDA Damarell
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 5.2:
+        non_striker: OB Nightingale
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 5.3:
+        non_striker: OB Nightingale
+        bowler: P Pustoslemsek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDA Damarell

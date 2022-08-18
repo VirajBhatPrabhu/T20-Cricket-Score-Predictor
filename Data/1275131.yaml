@@ -1,0 +1,1827 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-21'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2021-09-19'
+  gender: female
+  match_type: T20
+  match_type_number: 976
+  outcome:
+    winner: Tanzania
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - FO Kibasu
+  players:
+    Uganda:
+    - K Awino
+    - J Mbabazi
+    - R Musamali
+    - I Nakisuuyi
+    - NK Bagenda
+    - S Nampiina
+    - P Alako
+    - P Malemikia
+    - I Alumo
+    - E Anyipo
+    - C Aweko
+    Tanzania:
+    - FO Kibasu
+    - S Mtae
+    - M Pascal
+    - MA Swedy
+    - HM Omary
+    - PZ Kamunya
+    - NN Saidi
+    - SF Jerome
+    - LM Massawe
+    - Zinaida Jeremiah
+    - MH Ushanga
+  registry:
+    people:
+      A Louw: 5eecae5d
+      C Aweko: 01c1b96c
+      E Anyipo: d9e5ecb4
+      FO Kibasu: 1c726c76
+      GH Pienaar: 3516e46b
+      HM Omary: 2cbe5db1
+      I Alumo: 6edd8b10
+      I Nakisuuyi: 2f145a4f
+      J Mbabazi: aaa6e84c
+      K Awino: c4e7749a
+      LM Massawe: 4f5a53e3
+      M Pascal: 729c5ab5
+      MA Swedy: 202ce08c
+      MH Ushanga: '0286eabe'
+      NK Bagenda: 5926e145
+      NN Saidi: 16610c7b
+      P Alako: fcf37e14
+      P Malemikia: 554a83e5
+      PZ Kamunya: 6e60bbe2
+      R D'Mello: f3c22863
+      R Musamali: 017cadb2
+      S Bhargava: 81ce2e0e
+      S Mtae: bb641155
+      S Nampiina: 91d9aa26
+      SF Jerome: e393c6c1
+      Zinaida Jeremiah: 967806a5
+  teams:
+  - Uganda
+  - Tanzania
+  toss:
+    winner: Uganda
+    decision: bat
+  umpires:
+  - R D'Mello
+  - S Bhargava
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Uganda
+    deliveries:
+    - 0.1:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.2:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.3:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.4:
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.5:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.6:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Mbabazi
+        batsman: K Awino
+    - 0.7:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 1.1:
+        non_striker: J Mbabazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 1.2:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 1.3:
+        non_striker: J Mbabazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 1.4:
+        non_striker: J Mbabazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 1.5:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Mbabazi
+    - 1.6:
+        non_striker: J Mbabazi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 1.7:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mbabazi
+    - 2.1:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+    - 2.2:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mbabazi
+        wicket:
+          player_out: J Mbabazi
+          kind: lbw
+    - 2.3:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 2.4:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 2.5:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 2.6:
+        non_striker: K Awino
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 3.1:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 3.2:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 3.3:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+    - 3.4:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Awino
+    - 3.5:
+        non_striker: K Awino
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 3.6:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Awino
+        wicket:
+          player_out: K Awino
+          fielders:
+          - FO Kibasu
+          kind: caught
+    - 4.1:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Nakisuuyi
+        batsman: R Musamali
+    - 4.2:
+        non_striker: R Musamali
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 4.3:
+        non_striker: I Nakisuuyi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 4.4:
+        non_striker: I Nakisuuyi
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Musamali
+    - 4.5:
+        non_striker: I Nakisuuyi
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 4.6:
+        non_striker: R Musamali
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 4.7:
+        non_striker: R Musamali
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Nakisuuyi
+    - 5.1:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.2:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.3:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.4:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 5.5:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 5.6:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.1:
+        non_striker: I Nakisuuyi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 6.2:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 6.3:
+        non_striker: I Nakisuuyi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 6.4:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.5:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 6.6:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 7.1:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 7.2:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.3:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Musamali
+    - 7.4:
+        non_striker: R Musamali
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 7.5:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 7.6:
+        non_striker: I Nakisuuyi
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Musamali
+    - 8.1:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.2:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 8.3:
+        non_striker: R Musamali
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 8.4:
+        non_striker: I Nakisuuyi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+    - 8.5:
+        non_striker: I Nakisuuyi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Musamali
+        wicket:
+          player_out: R Musamali
+          fielders:
+          - SF Jerome
+          - LM Massawe
+          kind: run out
+    - 8.6:
+        non_striker: I Nakisuuyi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Bagenda
+    - 9.1:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+    - 9.2:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 9.3:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Nakisuuyi
+    - 9.4:
+        non_striker: I Nakisuuyi
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Bagenda
+    - 9.5:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Nakisuuyi
+    - 9.6:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Nakisuuyi
+    - 9.7:
+        non_striker: NK Bagenda
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: NK Bagenda
+          fielders:
+          - FO Kibasu
+          kind: run out
+    - 10.1:
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Nampiina
+        batsman: I Nakisuuyi
+    - 10.2:
+        non_striker: S Nampiina
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Nakisuuyi
+        wicket:
+          player_out: I Nakisuuyi
+          fielders:
+          - LM Massawe
+          kind: stumped
+    - 10.3:
+        non_striker: S Nampiina
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 10.4:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 10.5:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 10.6:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 11.1:
+        non_striker: S Nampiina
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 11.2:
+        non_striker: S Nampiina
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 11.3:
+        non_striker: S Nampiina
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 11.4:
+        non_striker: S Nampiina
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 11.5:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 11.6:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Nampiina
+    - 12.1:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 12.2:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+    - 12.3:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Nampiina
+    - 12.4:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nampiina
+        wicket:
+          player_out: S Nampiina
+          fielders:
+          - MH Ushanga
+          kind: caught
+    - 12.5:
+        non_striker: P Alako
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 12.6:
+        non_striker: P Malemikia
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 12.7:
+        non_striker: P Malemikia
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 13.1:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+    - 13.2:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 13.3:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Alako
+    - 13.4:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 13.5:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.6:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 13.7:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 14.1:
+        non_striker: P Alako
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 14.2:
+        non_striker: P Malemikia
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 14.3:
+        non_striker: P Malemikia
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 14.4:
+        non_striker: P Alako
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 14.5:
+        non_striker: P Malemikia
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 14.6:
+        non_striker: P Malemikia
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 15.1:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 15.2:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 15.3:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 15.4:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 15.5:
+        non_striker: P Malemikia
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 15.6:
+        non_striker: P Alako
+        bowler: MH Ushanga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Malemikia
+    - 16.1:
+        non_striker: P Malemikia
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.2:
+        non_striker: P Malemikia
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.3:
+        non_striker: P Malemikia
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 16.4:
+        non_striker: P Malemikia
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 16.5:
+        non_striker: P Alako
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Malemikia
+        wicket:
+          player_out: P Malemikia
+          fielders:
+          - LM Massawe
+          kind: caught
+    - 16.6:
+        non_striker: I Alumo
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.1:
+        non_striker: P Alako
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Alumo
+        wicket:
+          player_out: I Alumo
+          fielders:
+          - MA Swedy
+          kind: caught
+    - 17.2:
+        non_striker: P Alako
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 17.3:
+        non_striker: E Anyipo
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 17.4:
+        non_striker: E Anyipo
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+    - 17.5:
+        non_striker: E Anyipo
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Alako
+    - 17.6:
+        non_striker: E Anyipo
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 18.1:
+        non_striker: E Anyipo
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Alako
+    - 18.2:
+        non_striker: P Alako
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Anyipo
+    - 18.3:
+        non_striker: E Anyipo
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Alako
+        wicket:
+          player_out: P Alako
+          kind: bowled
+    - 18.4:
+        non_striker: E Anyipo
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Aweko
+        wicket:
+          player_out: C Aweko
+          fielders:
+          - FO Kibasu
+          - MA Swedy
+          kind: run out
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.2:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.3:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.4:
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.5:
+        bowler: E Anyipo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.6:
+        non_striker: FO Kibasu
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 0.7:
+        non_striker: FO Kibasu
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 1.1:
+        non_striker: FO Kibasu
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 1.2:
+        non_striker: FO Kibasu
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 1.3:
+        non_striker: FO Kibasu
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 1.4:
+        non_striker: S Mtae
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 1.5:
+        non_striker: S Mtae
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 1.6:
+        non_striker: S Mtae
+        bowler: I Alumo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 2.1:
+        non_striker: FO Kibasu
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 2.2:
+        non_striker: FO Kibasu
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 2.3:
+        non_striker: S Mtae
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 2.4:
+        non_striker: S Mtae
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 2.5:
+        non_striker: S Mtae
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 2.6:
+        non_striker: S Mtae
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 3.1:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.2:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.3:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 3.4:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 3.5:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 3.6:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 4.1:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 4.2:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Mtae
+    - 4.3:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mtae
+    - 4.4:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Mtae
+    - 4.5:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 4.6:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 4.7:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 4.8:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 4.9:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 5.1:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 5.2:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 5.3:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 5.4:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 5.5:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 5.6:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 5.7:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 6.1:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 6.2:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 6.3:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 6.4:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 6.5:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 6.6:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 6.7:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 6.8:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 7.1:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 7.2:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 7.3:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 7.4:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 7.5:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 7.6:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 8.1:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 8.2:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 8.3:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 8.4:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 8.5:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 8.6:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 9.1:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 9.2:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 9.3:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 9.4:
+        non_striker: S Mtae
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 9.5:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 9.6:
+        non_striker: FO Kibasu
+        bowler: C Aweko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 10.1:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 10.2:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 10.3:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 10.4:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 10.5:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 10.6:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 11.1:
+        non_striker: S Mtae
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 11.2:
+        non_striker: S Mtae
+        bowler: S Nampiina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 11.3:
+        non_striker: S Mtae
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 11.4:
+        non_striker: S Mtae
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 11.5:
+        non_striker: S Mtae
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 11.6:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 11.7:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+    - 11.8:
+        non_striker: FO Kibasu
+        bowler: S Nampiina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mtae
+    - 12.1:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 12.2:
+        non_striker: S Mtae
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 12.3:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+        wicket:
+          player_out: S Mtae
+          kind: caught and bowled
+    - 12.4:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 12.5:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 12.6:
+        non_striker: FO Kibasu
+        bowler: J Mbabazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pascal
+    - 13.1:
+        non_striker: M Pascal
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 13.2:
+        non_striker: M Pascal
+        bowler: E Anyipo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu

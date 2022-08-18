@@ -1,0 +1,317 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  dates:
+  - '2022-01-22'
+  gender: female
+  match_type: T20
+  match_type_number: 1021
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    England:
+    - DN Wyatt
+    - TT Beaumont
+    - NR Sciver
+    - HC Knight
+    - AE Jones
+    - SIR Dunkley
+    - CE Dean
+    - KH Brunt
+    - S Ecclestone
+    - S Glenn
+    - FR Davies
+    Australia:
+    - MM Lanning
+    - AJ Healy
+    - TM McGrath
+    - RL Haynes
+    - A Gardner
+    - GM Harris
+    - NJ Carey
+    - JL Jonassen
+    - A King
+    - D Brown
+    - ML Schutt
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      AE Jones: b05e45e4
+      AJ Healy: 321644de
+      BNJ Oxenford: c1add349
+      CA Polosak: 26a360d2
+      CE Dean: c6625a26
+      D Brown: 2e81be88
+      DN Wyatt: a139c379
+      Eloise Sheridan: d8d43840
+      FR Davies: 2479daa6
+      GM Harris: '72166006'
+      HC Knight: 4ba0289e
+      JL Jonassen: 0475a86b
+      KH Brunt: 6a434bd3
+      ML Schutt: 17608a6f
+      MM Lanning: 27e003ce
+      MW Graham-Smith: 18aca3ce
+      NJ Carey: dff806f4
+      NR Sciver: f3a18a0c
+      RL Haynes: d7c6b0fb
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      SIR Dunkley: 3a9e9cb2
+      SR Bernard: 800187dc
+      TM McGrath: ca5acfa4
+      TT Beaumont: b2664905
+  teams:
+  - England
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - BNJ Oxenford
+  - MW Graham-Smith
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: TT Beaumont
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.2:
+        non_striker: TT Beaumont
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: TT Beaumont
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.1:
+        non_striker: DN Wyatt
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: D Brown
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: TT Beaumont
+    - 1.4:
+        non_striker: TT Beaumont
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.5:
+        non_striker: TT Beaumont
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.6:
+        non_striker: TT Beaumont
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.7:
+        non_striker: TT Beaumont
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 2.1:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.2:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 2.4:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.5:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 2.6:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.7:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.8:
+        non_striker: DN Wyatt
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.1:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.2:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DN Wyatt
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 3.4:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 3.6:
+        non_striker: TT Beaumont
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: A King
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Beaumont

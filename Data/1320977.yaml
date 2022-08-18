@@ -1,0 +1,1503 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ghent
+  dates:
+  - '2022-07-01'
+  gender: male
+  match_type: T20
+  match_type_number: 1594
+  outcome:
+    winner: Spain
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Yasir Ali
+  players:
+    Portugal:
+    - Kuldeep
+    - SP Gomes
+    - Imran Khan (4)
+    - Najjam Shahzad
+    - Amir Zaib
+    - F Stoman
+    - Sirajullah Khadim
+    - Syed Maisam Ali
+    - Zohaib Sarwar
+    - Amandeep Singh
+    - J Khan
+    Spain:
+    - D Doyle-Calle
+    - Awais Ahmed
+    - C Munoz-Mills
+    - Mohammad Kamran
+    - LA Burns
+    - Raja Adeel
+    - J Trembeath-Moro
+    - Yasir Ali
+    - C Rumistrzewicz
+    - Hamza Dar
+    - Atif Mehmood
+  registry:
+    people:
+      Adriaan van den Dries: 94b5ec3b
+      Amandeep Singh: d0d32c30
+      Amir Zaib: 973006cc
+      Atif Mehmood: 7fcc57bf
+      Awais Ahmed: f9f857dc
+      C Munoz-Mills: 17bc032c
+      C Rumistrzewicz: 3ed4e2ad
+      D Doyle-Calle: 74be2916
+      F Stoman: 69e53eb3
+      Hamza Dar: 557550a4
+      Imran Khan: a0a32dd1
+      J Trembeath-Moro: 788d661c
+      Jonathan Kennedy: f7ad4494
+      Junaid Khan: be0077ba
+      Kuldeep: 61c48027
+      LA Burns: 5b616bf0
+      Mohammad Kamran: 1a628a92
+      Najjam Shahzad: 58aa33cd
+      Phil Whitticase: 99d5f6fa
+      Raja Adeel: 7ee25c46
+      SP Gomes: 30acd4b7
+      Sirajullah Khadim: ff36e706
+      Syed Maisam Ali: e204b898
+      Vinay Malhotra: 452837d1
+      Yasir Ali: '79209272'
+      Zohaib Sarwar: bd3cecc6
+  teams:
+  - Portugal
+  - Spain
+  toss:
+    winner: Portugal
+    decision: bat
+  umpires:
+  - Adriaan van den Dries
+  - Jonathan Kennedy
+  venue: Meersen, Gent
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.2:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.3:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.4:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.5:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.6:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Gomes
+        batsman: Kuldeep
+    - 0.7:
+        non_striker: SP Gomes
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep
+    - 1.1:
+        non_striker: SP Gomes
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 1.2:
+        non_striker: SP Gomes
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 1.3:
+        non_striker: SP Gomes
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kuldeep
+    - 1.4:
+        non_striker: SP Gomes
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 1.5:
+        non_striker: SP Gomes
+        bowler: Raja Adeel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Kuldeep
+    - 1.6:
+        non_striker: Kuldeep
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Gomes
+    - 2.1:
+        non_striker: SP Gomes
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep
+    - 2.2:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Gomes
+    - 2.3:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Gomes
+        wicket:
+          player_out: SP Gomes
+          kind: lbw
+    - 2.4:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 2.5:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 2.6:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 3.1:
+        non_striker: Imran Khan (4)
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kuldeep
+    - 3.2:
+        non_striker: Imran Khan (4)
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep
+    - 3.3:
+        non_striker: Kuldeep
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Khan (4)
+    - 3.4:
+        non_striker: Kuldeep
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 3.5:
+        non_striker: Kuldeep
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 3.6:
+        non_striker: Kuldeep
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Khan (4)
+    - 4.1:
+        non_striker: Imran Khan (4)
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 4.2:
+        non_striker: Imran Khan (4)
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 4.3:
+        non_striker: Imran Khan (4)
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kuldeep
+    - 4.4:
+        non_striker: Imran Khan (4)
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+    - 4.5:
+        non_striker: Imran Khan (4)
+        bowler: Mohammad Kamran
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Kuldeep
+    - 4.6:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 4.7:
+        non_striker: Kuldeep
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Khan (4)
+    - 5.1:
+        non_striker: Kuldeep
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Khan (4)
+    - 5.2:
+        non_striker: Imran Khan (4)
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kuldeep
+    - 5.3:
+        non_striker: Imran Khan (4)
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep
+        wicket:
+          player_out: Kuldeep
+          fielders:
+          - Mohammad Kamran
+          kind: caught
+    - 5.4:
+        non_striker: Imran Khan (4)
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+    - 5.5:
+        non_striker: Imran Khan (4)
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najjam Shahzad
+        wicket:
+          player_out: Najjam Shahzad
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 5.6:
+        non_striker: Imran Khan (4)
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 5.7:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 6.1:
+        non_striker: Imran Khan (4)
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 6.2:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+    - 6.3:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Khan (4)
+        wicket:
+          player_out: Imran Khan (4)
+          kind: lbw
+    - 6.4:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Stoman
+    - 6.5:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Stoman
+    - 6.6:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Stoman
+    - 7.1:
+        non_striker: F Stoman
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+        wicket:
+          player_out: F Stoman
+          fielders:
+          - Awais Ahmed
+          - C Munoz-Mills
+          kind: run out
+    - 7.2:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 7.3:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 7.4:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 7.5:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 7.6:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 8.1:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 8.2:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 8.3:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 8.4:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 8.5:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 8.6:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 9.1:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 9.2:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Zaib
+    - 9.3:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 9.4:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 9.5:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 9.6:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 10.1:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 10.2:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sirajullah Khadim
+    - 10.3:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 10.4:
+        non_striker: Amir Zaib
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 10.5:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Zaib
+    - 10.6:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 11.1:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+    - 11.2:
+        non_striker: Amir Zaib
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 11.3:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 11.4:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+    - 11.5:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Zaib
+        wicket:
+          player_out: Amir Zaib
+          fielders:
+          - Awais Ahmed
+          kind: stumped
+    - 11.6:
+        non_striker: Sirajullah Khadim
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Maisam Ali
+    - 12.1:
+        non_striker: Syed Maisam Ali
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sirajullah Khadim
+    - 12.2:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Maisam Ali
+    - 12.3:
+        non_striker: Sirajullah Khadim
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Maisam Ali
+    - 12.4:
+        non_striker: Syed Maisam Ali
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sirajullah Khadim
+    - 12.5:
+        non_striker: Syed Maisam Ali
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sirajullah Khadim
+        wicket:
+          player_out: Sirajullah Khadim
+          kind: bowled
+    - 12.6:
+        non_striker: Syed Maisam Ali
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 12.7:
+        non_striker: Syed Maisam Ali
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 13.1:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Maisam Ali
+    - 13.2:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Maisam Ali
+    - 13.3:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Maisam Ali
+    - 13.4:
+        non_striker: Syed Maisam Ali
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zohaib Sarwar
+    - 13.5:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Maisam Ali
+    - 13.6:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Maisam Ali
+    - 14.1:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Maisam Ali
+    - 14.2:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 14.3:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zohaib Sarwar
+    - 14.4:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 14.5:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zohaib Sarwar
+    - 14.6:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zohaib Sarwar
+    - 14.7:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Maisam Ali
+    - 14.8:
+        non_striker: Syed Maisam Ali
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zohaib Sarwar
+    - 15.1:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Maisam Ali
+        wicket:
+          player_out: Syed Maisam Ali
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 15.2:
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amandeep Singh
+        batsman: Zohaib Sarwar
+    - 15.3:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+    - 15.4:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+    - 15.5:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+    - 15.6:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amandeep Singh
+    - 16.1:
+        non_striker: Amandeep Singh
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zohaib Sarwar
+    - 16.2:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+    - 16.3:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amandeep Singh
+    - 16.4:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amandeep Singh
+    - 16.5:
+        non_striker: Amandeep Singh
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zohaib Sarwar
+    - 16.6:
+        non_striker: Zohaib Sarwar
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amandeep Singh
+    - 17.1:
+        non_striker: Amandeep Singh
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zohaib Sarwar
+        wicket:
+          player_out: Amandeep Singh
+          fielders:
+          - Awais Ahmed
+          - Yasir Ali
+          kind: run out
+    - 17.2:
+        non_striker: Zohaib Sarwar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Khan
+        wicket:
+          player_out: J Khan
+          kind: bowled
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.2:
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.3:
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.4:
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Awais Ahmed
+        batsman: D Doyle-Calle
+    - 0.5:
+        non_striker: D Doyle-Calle
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 0.6:
+        non_striker: D Doyle-Calle
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 1.1:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 1.2:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 1.3:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 1.4:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 1.5:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 1.6:
+        non_striker: Awais Ahmed
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 2.1:
+        non_striker: D Doyle-Calle
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmed
+    - 2.2:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Doyle-Calle
+    - 2.3:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 2.4:
+        non_striker: D Doyle-Calle
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmed
+    - 2.5:
+        non_striker: D Doyle-Calle
+        bowler: Najjam Shahzad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Awais Ahmed
+    - 2.6:
+        non_striker: D Doyle-Calle
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmed
+    - 2.7:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.8:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 3.1:
+        non_striker: Awais Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 3.2:
+        non_striker: Awais Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 3.3:
+        non_striker: Awais Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 3.4:
+        non_striker: D Doyle-Calle
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 3.5:
+        non_striker: D Doyle-Calle
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 3.6:
+        non_striker: D Doyle-Calle
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 4.1:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 4.2:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+        wicket:
+          player_out: D Doyle-Calle
+          fielders:
+          - F Stoman
+          kind: caught
+    - 4.3:
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Munoz-Mills
+        batsman: Awais Ahmed
+    - 4.4:
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Munoz-Mills
+        batsman: Awais Ahmed
+    - 4.5:
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Munoz-Mills
+        batsman: Awais Ahmed
+    - 4.6:
+        non_striker: Awais Ahmed
+        bowler: Najjam Shahzad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 5.1:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Awais Ahmed
+    - 5.2:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 5.3:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+    - 5.4:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmed
+        wicket:
+          player_out: Awais Ahmed
+          fielders:
+          - Imran Khan (4)
+          kind: caught
+    - 5.5:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+    - 5.6:
+        non_striker: C Munoz-Mills
+        bowler: J Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Kamran
+    - 6.1:
+        non_striker: C Munoz-Mills
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+    - 6.2:
+        non_striker: C Munoz-Mills
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+    - 6.3:
+        non_striker: C Munoz-Mills
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mohammad Kamran
+    - 6.4:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munoz-Mills
+    - 6.5:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 6.6:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 6.7:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munoz-Mills
+    - 7.1:
+        non_striker: C Munoz-Mills
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+    - 7.2:
+        non_striker: C Munoz-Mills
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Kamran
+    - 7.3:
+        non_striker: C Munoz-Mills
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Kamran
+    - 7.4:
+        non_striker: C Munoz-Mills
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Kamran
+    - 7.5:
+        non_striker: Mohammad Kamran
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills
+    - 7.6:
+        non_striker: Mohammad Kamran
+        bowler: Amandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 8.1:
+        non_striker: C Munoz-Mills
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Kamran
+    - 8.2:
+        non_striker: C Munoz-Mills
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Kamran
+    - 8.3:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munoz-Mills
+    - 8.4:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills
+    - 8.5:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munoz-Mills
+    - 8.6:
+        non_striker: Mohammad Kamran
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munoz-Mills

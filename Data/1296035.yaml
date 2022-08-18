@@ -1,0 +1,2100 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-25'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2022-01-23'
+  gender: female
+  match_type: T20
+  match_type_number: 1024
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Mas Elysa
+  players:
+    Kenya:
+    - M Mwangi
+    - Q Abel
+    - M Ngoche
+    - S Juma
+    - S Wetoto
+    - E Wachira
+    - V Ooko
+    - D Njoroge
+    - M Ochieng
+    - L Idambo
+    - F Odhiambo
+    Malaysia:
+    - WA Duraisingam
+    - Wan Julia
+    - Mas Elysa
+    - Ainna Hamizah Hashim
+    - Nur Arianna Natsya
+    - J Intan
+    - Wan Nor Zulaika
+    - Nurilyaa Natasya
+    - Sasha Azmi
+    - Nik Nur Atiela
+    - Nur Dania Syuhada
+  registry:
+    people:
+      Ainna Hamizah Hashim: 4c7744de
+      D Njoroge: 626fbc80
+      E Wachira: f5e70dd4
+      F Odhiambo: 97eb9a07
+      GS Lakshmi: ba8d5615
+      J Intan: 2dfdd316
+      L Idambo: '27339093'
+      M Mwangi: 72de0105
+      M Ngoche: f91abcd6
+      M Ochieng: e3660d2a
+      Mas Elysa: 857de42e
+      N Janani: d06a665d
+      Nik Nur Atiela: cfdfe39c
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Nurilyaa Natasya: 5014c9d9
+      Q Abel: 2e988457
+      S Juma: 333830a5
+      S Wetoto: '16301313'
+      Sasha Azmi: 9e4f6851
+      Shiju Sam: 1e2f3eae
+      V Ooko: 2ae76bf6
+      Vinod Babu: 37e6187d
+      WA Duraisingam: 7467fe01
+      Wan Julia: bee0c85c
+      Wan Nor Zulaika: ae99724d
+  teams:
+  - Kenya
+  - Malaysia
+  toss:
+    winner: Kenya
+    decision: bat
+  umpires:
+  - N Janani
+  - Vinod Babu
+  venue: Kinrara Academy Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Q Abel
+        batsman: M Mwangi
+    - 0.2:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Q Abel
+        batsman: M Mwangi
+    - 0.3:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Q Abel
+        batsman: M Mwangi
+    - 0.4:
+        bowler: WA Duraisingam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Q Abel
+        batsman: M Mwangi
+    - 0.5:
+        non_striker: M Mwangi
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+        wicket:
+          player_out: Q Abel
+          kind: bowled
+    - 0.6:
+        non_striker: M Mwangi
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.1:
+        non_striker: M Ngoche
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 1.2:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.3:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.4:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.5:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.6:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 2.1:
+        non_striker: M Ngoche
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 2.2:
+        non_striker: M Mwangi
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 2.3:
+        non_striker: M Mwangi
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 2.4:
+        non_striker: M Ngoche
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 2.5:
+        non_striker: M Ngoche
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 2.6:
+        non_striker: M Ngoche
+        bowler: WA Duraisingam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mwangi
+    - 2.7:
+        non_striker: M Ngoche
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 3.1:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 3.2:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 3.3:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ngoche
+    - 3.4:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 3.5:
+        non_striker: M Ngoche
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 3.6:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 3.7:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 4.1:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mwangi
+    - 4.2:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 4.3:
+        non_striker: M Mwangi
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 4.4:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 4.5:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 4.6:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 4.7:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 5.1:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 5.2:
+        non_striker: M Ngoche
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 5.3:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 5.4:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 5.5:
+        non_striker: M Mwangi
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 5.6:
+        non_striker: M Ngoche
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 6.1:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mwangi
+    - 6.2:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 6.3:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 6.4:
+        non_striker: M Mwangi
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 6.5:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 6.6:
+        non_striker: M Ngoche
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 7.1:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 7.2:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 7.3:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 7.4:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 7.5:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+        wicket:
+          player_out: M Ngoche
+          fielders:
+          - Sasha Azmi
+          kind: caught
+    - 7.6:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Juma
+    - 7.7:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 8.1:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 8.2:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 8.3:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 8.4:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 8.5:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 8.6:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 9.1:
+        non_striker: S Juma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 9.2:
+        non_striker: S Juma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mwangi
+    - 9.3:
+        non_striker: S Juma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mwangi
+    - 9.4:
+        non_striker: S Juma
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 9.5:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Juma
+    - 9.6:
+        non_striker: M Mwangi
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Juma
+    - 10.1:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 10.2:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 10.3:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mwangi
+    - 10.4:
+        non_striker: M Mwangi
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 10.5:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+    - 10.6:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mwangi
+        wicket:
+          player_out: M Mwangi
+          fielders:
+          - Wan Julia
+          kind: stumped
+    - 11.1:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Wetoto
+        batsman: S Juma
+    - 11.2:
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Wetoto
+        batsman: S Juma
+    - 11.3:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 11.4:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 11.5:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 11.6:
+        non_striker: S Wetoto
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 12.1:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+        wicket:
+          player_out: S Wetoto
+          fielders:
+          - WA Duraisingam
+          kind: caught
+    - 12.2:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 12.3:
+        non_striker: E Wachira
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 12.4:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 12.5:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 12.6:
+        non_striker: E Wachira
+        bowler: Mas Elysa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Juma
+    - 12.7:
+        non_striker: S Juma
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wachira
+    - 13.1:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 13.2:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 13.3:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 13.4:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 13.5:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 13.6:
+        non_striker: S Juma
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 14.1:
+        non_striker: S Juma
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 14.2:
+        non_striker: E Wachira
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Juma
+    - 14.3:
+        non_striker: E Wachira
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Juma
+    - 14.4:
+        non_striker: E Wachira
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 14.5:
+        non_striker: E Wachira
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 14.6:
+        non_striker: S Juma
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 14.7:
+        non_striker: S Juma
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 15.1:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+        wicket:
+          player_out: S Juma
+          fielders:
+          - Mas Elysa
+          kind: caught
+    - 15.2:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 15.3:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 15.4:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 15.5:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 15.6:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 16.1:
+        non_striker: V Ooko
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Wachira
+    - 16.2:
+        non_striker: V Ooko
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 16.3:
+        non_striker: E Wachira
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ooko
+    - 16.4:
+        non_striker: E Wachira
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 16.5:
+        non_striker: V Ooko
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Wachira
+    - 16.6:
+        non_striker: V Ooko
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 16.7:
+        non_striker: V Ooko
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wachira
+    - 17.1:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 17.2:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 17.3:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 17.4:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 17.5:
+        non_striker: E Wachira
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 17.6:
+        non_striker: V Ooko
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 18.1:
+        non_striker: E Wachira
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ooko
+    - 18.2:
+        non_striker: E Wachira
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 18.3:
+        non_striker: V Ooko
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 18.4:
+        non_striker: V Ooko
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Wachira
+    - 18.5:
+        non_striker: V Ooko
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 18.6:
+        non_striker: E Wachira
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ooko
+    - 19.1:
+        non_striker: V Ooko
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 19.2:
+        non_striker: V Ooko
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+    - 19.3:
+        non_striker: V Ooko
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Wachira
+    - 19.4:
+        non_striker: E Wachira
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ooko
+    - 19.5:
+        non_striker: V Ooko
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Wachira
+        wicket:
+          player_out: E Wachira
+          kind: bowled
+    - 19.6:
+        non_striker: V Ooko
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Njoroge
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.2:
+        non_striker: Wan Julia
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          fielders:
+          - S Juma
+          kind: stumped
+    - 0.3:
+        non_striker: Wan Julia
+        bowler: Q Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 0.4:
+        non_striker: Wan Julia
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mas Elysa
+    - 0.5:
+        non_striker: Mas Elysa
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 0.6:
+        non_striker: Mas Elysa
+        bowler: Q Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wan Julia
+    - 0.7:
+        non_striker: Mas Elysa
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Julia
+    - 0.8:
+        non_striker: Mas Elysa
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 1.1:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 1.2:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 1.3:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 1.4:
+        non_striker: Wan Julia
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Wan Julia
+          fielders:
+          - S Juma
+          - F Odhiambo
+          kind: run out
+    - 1.5:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 1.6:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 2.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 2.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 2.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ainna Hamizah Hashim
+    - 3.2:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 3.3:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 3.4:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 3.5:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 3.6:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 3.7:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 4.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 4.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 4.3:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ainna Hamizah Hashim
+    - 4.4:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 4.5:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 4.6:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 4.7:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 5.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 5.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.5:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 5.6:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.4:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.5:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.6:
+        non_striker: Mas Elysa
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 7.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.2:
+        non_striker: Mas Elysa
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 7.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 7.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 7.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.2:
+        non_striker: Mas Elysa
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 8.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.4:
+        non_striker: Mas Elysa
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 8.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 8.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.7:
+        non_striker: Mas Elysa
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 9.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 9.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          kind: bowled
+    - 9.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 9.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 9.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 9.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 10.1:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 10.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 10.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 10.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 10.5:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 10.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 11.1:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 11.2:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 11.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 11.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 11.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 11.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 12.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 12.2:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 12.3:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          kind: bowled
+    - 12.4:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 12.5:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 12.6:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 13.1:
+        non_striker: J Intan
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 13.2:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 13.3:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Intan
+    - 13.4:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Intan
+    - 13.5:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 13.6:
+        non_striker: Nur Arianna Natsya
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 14.1:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 14.2:
+        non_striker: Nur Arianna Natsya
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 14.3:
+        non_striker: J Intan
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nur Arianna Natsya
+    - 14.4:
+        non_striker: J Intan
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 14.5:
+        non_striker: J Intan
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 14.6:
+        non_striker: J Intan
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 15.1:
+        non_striker: J Intan
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 15.2:
+        non_striker: Nur Arianna Natsya
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 15.3:
+        non_striker: Nur Arianna Natsya
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 15.4:
+        non_striker: J Intan
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 15.5:
+        non_striker: J Intan
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 15.6:
+        non_striker: J Intan
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 16.1:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+        wicket:
+          player_out: J Intan
+          fielders:
+          - M Ngoche
+          kind: caught
+    - 16.2:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Nor Zulaika
+    - 16.3:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 16.4:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Nor Zulaika
+    - 16.5:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 16.6:
+        non_striker: Wan Nor Zulaika
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 17.1:
+        non_striker: Wan Nor Zulaika
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 17.2:
+        non_striker: Wan Nor Zulaika
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 17.3:
+        non_striker: Wan Nor Zulaika
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 17.4:
+        non_striker: Nur Arianna Natsya
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 17.5:
+        non_striker: Wan Nor Zulaika
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 17.6:
+        non_striker: Wan Nor Zulaika
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 18.1:
+        non_striker: Wan Nor Zulaika
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 18.2:
+        non_striker: Nur Arianna Natsya
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Nor Zulaika

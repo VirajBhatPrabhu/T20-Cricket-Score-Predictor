@@ -1,0 +1,2170 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2022-07-25'
+  gender: male
+  match_type: T20
+  match_type_number: 1686
+  outcome:
+    winner: Switzerland
+    by:
+      wickets: 1
+  overs: 20
+  players:
+    France:
+    - G Mckeon
+    - HA Jackson
+    - Zain Ahmad
+    - Noman Amjad
+    - Rahmatullah Mangal
+    - L Canessane
+    - Dawood Ahmadzai
+    - Jubaid Ahamed
+    - Abdulmalik Jabarkhel
+    - Ibrahim Jabarkhel
+    - R Mangal
+    Switzerland:
+    - Faheem Nazir
+    - A Andrews
+    - Arjun Vinod
+    - Jai Sinh
+    - Osama Mahmood
+    - Asad Mahmood
+    - Sathya Narayanan
+    - NK Aneesh Kumar
+    - Ali Nayyer
+    - K Fletcher
+    - Ashwin Vinod
+  registry:
+    people:
+      A Andrews: 1d45c01a
+      A Paleker: 634b11ac
+      Abdulmalik Jabarkhel: e3fbe553
+      Ali Nayyer: 4ec0443d
+      Arjun Vinod: 033e9d59
+      Asad Mahmood: 5038c022
+      Ashwin Vinod: 8a99caa9
+      Dawood Ahmadzai: 951686f5
+      Faheem Nazir: 7e00711f
+      G Mckeon: 31366b7e
+      HA Jackson: ee40679e
+      Ibrahim Jabarkhel: c311564c
+      Jai Sinh: 10ae134c
+      Jubaid Ahamed: ea5e0599
+      K Fletcher: 443d1fd8
+      L Canessane: 72a4c3b2
+      NK Aneesh Kumar: e23da78c
+      Noman Amjad: c079c66a
+      Osama Mahmood: 601544aa
+      R Mangal: 5360c9be
+      Rahmatullah Mangal: ec106638
+      SB Ravindra: 394ba7a8
+      Sathya Narayanan: 8ae49076
+      Zain Ahmad: ea2c0aff
+  teams:
+  - France
+  - Switzerland
+  toss:
+    winner: France
+    decision: bat
+  umpires:
+  - A Paleker
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HA Jackson
+        batsman: G Mckeon
+    - 0.2:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HA Jackson
+        batsman: G Mckeon
+    - 0.3:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HA Jackson
+        batsman: G Mckeon
+    - 0.4:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HA Jackson
+        batsman: G Mckeon
+    - 0.5:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HA Jackson
+        batsman: G Mckeon
+    - 0.6:
+        non_striker: HA Jackson
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 1.1:
+        non_striker: G Mckeon
+        bowler: K Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HA Jackson
+    - 1.2:
+        non_striker: G Mckeon
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HA Jackson
+    - 1.3:
+        non_striker: G Mckeon
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 1.4:
+        non_striker: G Mckeon
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 1.5:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 1.6:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 1.7:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 2.1:
+        non_striker: HA Jackson
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 2.2:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 2.3:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 2.4:
+        non_striker: HA Jackson
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 2.5:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 2.6:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 3.1:
+        non_striker: G Mckeon
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 3.2:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.3:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 3.4:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 3.5:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 3.6:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 3.7:
+        non_striker: HA Jackson
+        bowler: K Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 4.1:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 4.2:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Jackson
+    - 4.3:
+        non_striker: HA Jackson
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 4.4:
+        non_striker: HA Jackson
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 4.5:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+    - 4.6:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Jackson
+        wicket:
+          player_out: HA Jackson
+          fielders:
+          - Ashwin Vinod
+          kind: caught
+    - 5.1:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 5.2:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 5.3:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 5.4:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 5.5:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ahmad
+    - 5.6:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 6.1:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 6.2:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: G Mckeon
+    - 6.3:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 6.4:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 6.5:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 6.6:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 6.7:
+        non_striker: Zain Ahmad
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 7.1:
+        non_striker: Zain Ahmad
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 7.2:
+        non_striker: Zain Ahmad
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 7.3:
+        non_striker: Zain Ahmad
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 7.4:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 7.5:
+        non_striker: G Mckeon
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 7.6:
+        non_striker: Zain Ahmad
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 8.1:
+        non_striker: Zain Ahmad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 8.2:
+        non_striker: Zain Ahmad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 8.3:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 8.4:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 8.5:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 8.6:
+        non_striker: Zain Ahmad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 9.1:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 9.2:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 9.3:
+        non_striker: Zain Ahmad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 9.4:
+        non_striker: Zain Ahmad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 9.5:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 9.6:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zain Ahmad
+    - 10.1:
+        non_striker: Zain Ahmad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 10.2:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 10.3:
+        non_striker: Zain Ahmad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 10.4:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zain Ahmad
+    - 10.5:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 10.6:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 11.1:
+        non_striker: Zain Ahmad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 11.2:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 11.3:
+        non_striker: Zain Ahmad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 11.4:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 11.5:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+    - 11.6:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zain Ahmad
+    - 12.1:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Ahmad
+        wicket:
+          player_out: Zain Ahmad
+          kind: bowled
+    - 12.2:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 12.3:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 12.4:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 12.5:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 12.6:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 13.1:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 13.2:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 13.3:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 13.4:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 13.5:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 13.6:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 14.1:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 14.2:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 14.3:
+        non_striker: Noman Amjad
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 14.4:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noman Amjad
+    - 14.5:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 14.6:
+        non_striker: G Mckeon
+        bowler: Arjun Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 15.1:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 15.2:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 15.3:
+        non_striker: G Mckeon
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Noman Amjad
+    - 15.4:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 15.5:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 15.6:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 15.7:
+        non_striker: Noman Amjad
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 16.1:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 16.2:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 16.3:
+        non_striker: Noman Amjad
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 16.4:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 16.5:
+        non_striker: Noman Amjad
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 16.6:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 17.1:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+    - 17.2:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+        wicket:
+          player_out: Noman Amjad
+          kind: bowled
+    - 17.3:
+        non_striker: G Mckeon
+        bowler: Ali Nayyer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmatullah Mangal
+    - 17.4:
+        non_striker: Rahmatullah Mangal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 17.5:
+        non_striker: Rahmatullah Mangal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 17.6:
+        non_striker: Rahmatullah Mangal
+        bowler: Ali Nayyer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 18.1:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmatullah Mangal
+    - 18.2:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmatullah Mangal
+    - 18.3:
+        non_striker: Rahmatullah Mangal
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 18.4:
+        non_striker: G Mckeon
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmatullah Mangal
+    - 18.5:
+        non_striker: Rahmatullah Mangal
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 18.6:
+        non_striker: Rahmatullah Mangal
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 19.1:
+        non_striker: Rahmatullah Mangal
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Mckeon
+    - 19.2:
+        non_striker: Rahmatullah Mangal
+        bowler: Faheem Nazir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 19.3:
+        non_striker: Rahmatullah Mangal
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Mckeon
+    - 19.4:
+        non_striker: Rahmatullah Mangal
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+        wicket:
+          player_out: G Mckeon
+          fielders:
+          - Jai Sinh
+          - Sathya Narayanan
+          kind: run out
+    - 19.5:
+        non_striker: Rahmatullah Mangal
+        bowler: Faheem Nazir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Canessane
+    - 19.6:
+        non_striker: L Canessane
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmatullah Mangal
+    - 19.7:
+        non_striker: L Canessane
+        bowler: Faheem Nazir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmatullah Mangal
+        wicket:
+          player_out: Rahmatullah Mangal
+          fielders:
+          - Sathya Narayanan
+          kind: caught
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Andrews
+        batsman: Faheem Nazir
+    - 0.2:
+        non_striker: Faheem Nazir
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andrews
+    - 0.3:
+        non_striker: Faheem Nazir
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Andrews
+    - 0.4:
+        non_striker: Faheem Nazir
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andrews
+    - 0.5:
+        non_striker: Faheem Nazir
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andrews
+    - 0.6:
+        non_striker: Faheem Nazir
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andrews
+    - 1.1:
+        non_striker: A Andrews
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 1.2:
+        non_striker: A Andrews
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 1.3:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Andrews
+        wicket:
+          player_out: A Andrews
+          fielders:
+          - Ibrahim Jabarkhel
+          kind: caught
+    - 1.4:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 1.5:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 1.6:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 2.1:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 2.2:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 2.3:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 2.4:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 2.5:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 2.6:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 3.1:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 3.2:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 3.3:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 3.4:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 3.5:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 3.6:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 4.1:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 4.2:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arjun Vinod
+    - 4.3:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Arjun Vinod
+    - 4.4:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 4.5:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 4.6:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arjun Vinod
+    - 5.1:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 5.2:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 5.3:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 5.4:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 5.5:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Arjun Vinod
+    - 5.6:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 6.1:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 6.2:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 6.3:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 6.4:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 6.5:
+        non_striker: Arjun Vinod
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 6.6:
+        non_striker: Faheem Nazir
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 7.1:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 7.2:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 7.3:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 7.4:
+        non_striker: Faheem Nazir
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 7.5:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 7.6:
+        non_striker: Arjun Vinod
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 8.1:
+        non_striker: Faheem Nazir
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 8.2:
+        non_striker: Arjun Vinod
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 8.3:
+        non_striker: Arjun Vinod
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 8.4:
+        non_striker: Arjun Vinod
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 8.5:
+        non_striker: Arjun Vinod
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 8.6:
+        non_striker: Faheem Nazir
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 9.1:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 9.2:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+        wicket:
+          player_out: Arjun Vinod
+          fielders:
+          - HA Jackson
+          kind: caught
+    - 9.3:
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jai Sinh
+        batsman: Faheem Nazir
+    - 9.4:
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jai Sinh
+        batsman: Faheem Nazir
+    - 9.5:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 9.6:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 10.1:
+        non_striker: Jai Sinh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 10.2:
+        non_striker: Jai Sinh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 10.3:
+        non_striker: Faheem Nazir
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 10.4:
+        non_striker: Jai Sinh
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 10.5:
+        non_striker: Faheem Nazir
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+        wicket:
+          player_out: Jai Sinh
+          fielders:
+          - Dawood Ahmadzai
+          kind: caught
+    - 10.6:
+        non_striker: Osama Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 11.1:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Osama Mahmood
+        wicket:
+          player_out: Osama Mahmood
+          fielders:
+          - G Mckeon
+          kind: caught
+    - 11.2:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Mahmood
+    - 11.3:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Mahmood
+    - 11.4:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 11.5:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 11.6:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 12.1:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 12.2:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 12.3:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Nazir
+    - 12.4:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faheem Nazir
+    - 12.5:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 12.6:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Nazir
+    - 12.7:
+        non_striker: Asad Mahmood
+        bowler: R Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 13.1:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+    - 13.2:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Faheem Nazir
+    - 13.3:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Nazir
+    - 13.4:
+        non_striker: Faheem Nazir
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 13.5:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Nazir
+        wicket:
+          player_out: Faheem Nazir
+          fielders:
+          - HA Jackson
+          - Zain Ahmad
+          kind: run out
+    - 13.6:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sathya Narayanan
+    - 14.1:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sathya Narayanan
+    - 14.2:
+        non_striker: Sathya Narayanan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 14.3:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sathya Narayanan
+    - 14.4:
+        non_striker: Sathya Narayanan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Mahmood
+    - 14.5:
+        non_striker: Sathya Narayanan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 14.6:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sathya Narayanan
+    - 15.1:
+        non_striker: Sathya Narayanan
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 15.2:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sathya Narayanan
+    - 15.3:
+        non_striker: Sathya Narayanan
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 15.4:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sathya Narayanan
+        wicket:
+          player_out: Sathya Narayanan
+          fielders:
+          - HA Jackson
+          kind: stumped
+    - 15.5:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NK Aneesh Kumar
+    - 15.6:
+        non_striker: Asad Mahmood
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Aneesh Kumar
+        wicket:
+          player_out: NK Aneesh Kumar
+          fielders:
+          - Dawood Ahmadzai
+          kind: caught
+    - 15.7:
+        non_striker: Ali Nayyer
+        bowler: Zain Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Mahmood
+    - 16.1:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Nayyer
+    - 16.2:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 16.3:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Mahmood
+    - 16.4:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Nayyer
+    - 16.5:
+        non_striker: Asad Mahmood
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 16.6:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Mahmood
+        wicket:
+          player_out: Asad Mahmood
+          fielders:
+          - Zain Ahmad
+          kind: caught
+    - 17.1:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Fletcher
+        batsman: Ali Nayyer
+    - 17.2:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Fletcher
+        batsman: Ali Nayyer
+    - 17.3:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Fletcher
+        batsman: Ali Nayyer
+    - 17.4:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Fletcher
+        batsman: Ali Nayyer
+    - 17.5:
+        non_striker: Ali Nayyer
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fletcher
+    - 17.6:
+        non_striker: K Fletcher
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Nayyer
+    - 18.1:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K Fletcher
+    - 18.2:
+        non_striker: K Fletcher
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 18.3:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fletcher
+    - 18.4:
+        non_striker: K Fletcher
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 18.5:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fletcher
+        wicket:
+          player_out: K Fletcher
+          kind: bowled
+    - 18.6:
+        non_striker: Ali Nayyer
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 18.7:
+        non_striker: Ashwin Vinod
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Nayyer
+    - 19.1:
+        non_striker: Ali Nayyer
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 19.2:
+        non_striker: Ashwin Vinod
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Nayyer
+    - 19.3:
+        non_striker: Ali Nayyer
+        bowler: G Mckeon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ashwin Vinod
+    - 19.4:
+        non_striker: Ali Nayyer
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 19.5:
+        non_striker: Ashwin Vinod
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Nayyer
+    - 19.6:
+        non_striker: Ashwin Vinod
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Nayyer
+    - 19.7:
+        non_striker: Ashwin Vinod
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Nayyer

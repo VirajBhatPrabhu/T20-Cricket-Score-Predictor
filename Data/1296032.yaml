@@ -1,0 +1,924 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2022-01-22'
+  gender: female
+  match_type: T20
+  match_type_number: 1020
+  outcome:
+    winner: Scotland
+    by:
+      runs: 16
+  overs: 20
+  players:
+    Scotland:
+    - SJ Bryce
+    - A Aitken
+    - KE Bryce
+    - K McGill
+    - R Slater
+    - CM Scott
+    - A Lister
+    - K Fraser
+    - PA Chatterji
+    - HRA Rainey
+    - AH Maqsood
+    Kenya:
+    - Q Abel
+    - V Abuga
+    - M Ngoche
+    - S Wetoto
+    - S Juma
+    - M Mwangi
+    - J Otieno
+    - E Wachira
+    - M Ochieng
+    - L Idambo
+    - F Odhiambo
+  registry:
+    people:
+      A Aitken: 25c73eb6
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      CM Scott: e0da9b14
+      E Wachira: f5e70dd4
+      F Odhiambo: 97eb9a07
+      GS Lakshmi: ba8d5615
+      HRA Rainey: 7027d12f
+      J Otieno: f48f03c6
+      K Fraser: a0a65375
+      K McGill: bba7558e
+      KE Bryce: f13d3eba
+      L Idambo: '27339093'
+      M Mwangi: 72de0105
+      M Ngoche: f91abcd6
+      M Ochieng: e3660d2a
+      N Janani: d06a665d
+      PA Chatterji: 8e7be59c
+      Q Abel: 2e988457
+      R Slater: 8a452195
+      S Juma: 333830a5
+      S Wetoto: '16301313'
+      SJ Bryce: 2ca65aee
+      V Abuga: 1ce58052
+      V Kalidas: 42d76418
+      Vinod Babu: 37e6187d
+  teams:
+  - Scotland
+  - Kenya
+  toss:
+    winner: Kenya
+    decision: field
+  umpires:
+  - N Janani
+  - V Kalidas
+  venue: Kinrara Academy Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.3:
+        non_striker: A Aitken
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - M Ochieng
+          kind: caught
+    - 0.4:
+        non_striker: A Aitken
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.5:
+        non_striker: A Aitken
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 0.6:
+        non_striker: A Aitken
+        bowler: L Idambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.1:
+        non_striker: KE Bryce
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 1.2:
+        non_striker: KE Bryce
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 1.3:
+        non_striker: A Aitken
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.4:
+        non_striker: A Aitken
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 1.5:
+        non_striker: A Aitken
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 1.6:
+        non_striker: KE Bryce
+        bowler: M Ochieng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 2.1:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.2:
+        non_striker: KE Bryce
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 2.3:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.4:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.5:
+        non_striker: KE Bryce
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 2.6:
+        non_striker: KE Bryce
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 3.1:
+        non_striker: KE Bryce
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 3.2:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 3.3:
+        non_striker: KE Bryce
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aitken
+    - 3.4:
+        non_striker: KE Bryce
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 3.5:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 4.1:
+        non_striker: KE Bryce
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 4.2:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.3:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.5:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 4.6:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.7:
+        non_striker: A Aitken
+        bowler: Q Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 5.2:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 5.3:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.4:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+    - 5.5:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K McGill
+    - 5.6:
+        non_striker: A Aitken
+        bowler: S Wetoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 6.1:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 6.2:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K McGill
+    - 6.3:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 6.4:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K McGill
+    - 6.5:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 6.6:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K McGill
+    - 6.7:
+        non_striker: A Aitken
+        bowler: E Wachira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 7.1:
+        non_striker: A Aitken
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K McGill
+    - 7.2:
+        non_striker: A Aitken
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+        wicket:
+          player_out: K McGill
+          fielders:
+          - M Ngoche
+          kind: caught
+    - 7.3:
+        non_striker: A Aitken
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 7.4:
+        non_striker: R Slater
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 7.5:
+        non_striker: R Slater
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Aitken
+    - 7.6:
+        non_striker: R Slater
+        bowler: F Odhiambo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Aitken
+    - 7.7:
+        non_striker: R Slater
+        bowler: F Odhiambo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Abuga
+        batsman: Q Abel
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Abuga
+        batsman: Q Abel
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Abuga
+        batsman: Q Abel
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: V Abuga
+        batsman: Q Abel
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Abuga
+        batsman: Q Abel
+    - 0.6:
+        non_striker: V Abuga
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q Abel
+    - 1.1:
+        non_striker: Q Abel
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Abuga
+    - 1.2:
+        non_striker: V Abuga
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Abel
+        wicket:
+          player_out: Q Abel
+          fielders:
+          - CM Scott
+          kind: caught
+    - 1.3:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Abuga
+        wicket:
+          player_out: V Abuga
+          kind: bowled
+    - 1.4:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 1.5:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Wetoto
+    - 1.6:
+        non_striker: S Wetoto
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 1.7:
+        non_striker: S Wetoto
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 2.1:
+        non_striker: M Ngoche
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 2.2:
+        non_striker: M Ngoche
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 2.3:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 2.4:
+        non_striker: M Ngoche
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 2.5:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 2.6:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+    - 3.1:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Wetoto
+    - 3.2:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 3.3:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 3.4:
+        non_striker: S Wetoto
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 3.5:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Wetoto
+    - 3.6:
+        non_striker: M Ngoche
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 4.1:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 4.2:
+        non_striker: M Ngoche
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Wetoto
+    - 4.3:
+        non_striker: M Ngoche
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 4.4:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 4.5:
+        non_striker: M Ngoche
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 4.6:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ngoche
+    - 5.1:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ngoche
+        wicket:
+          player_out: M Ngoche
+          fielders:
+          - PA Chatterji
+          kind: caught
+    - 5.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Juma
+        batsman: S Wetoto
+    - 5.3:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 5.4:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Juma
+    - 5.5:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 5.6:
+        non_striker: S Wetoto
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 6.1:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 6.2:
+        non_striker: S Juma
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wetoto
+    - 6.3:
+        non_striker: S Juma
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 6.4:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 6.5:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 6.6:
+        non_striker: S Wetoto
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 7.1:
+        non_striker: S Wetoto
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Juma
+    - 7.2:
+        non_striker: S Wetoto
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 7.3:
+        non_striker: S Wetoto
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma
+    - 7.4:
+        non_striker: S Wetoto
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Juma
+    - 7.5:
+        non_striker: S Juma
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wetoto
+    - 7.6:
+        non_striker: S Wetoto
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Juma

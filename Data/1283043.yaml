@@ -1,0 +1,2227 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2021-11-02'
+  gender: male
+  match_type: T20
+  match_type_number: 1385
+  outcome:
+    winner: Tanzania
+    by:
+      runs: 87
+  overs: 20
+  player_of_match:
+  - II Selemani
+  players:
+    Tanzania:
+    - AR Patwa
+    - II Selemani
+    - JC Darji
+    - Jitin Singh
+    - S Thakor
+    - HA Chohan
+    - SA Jumbe
+    - K Nassoro
+    - AM Kimote
+    - N Mapunda
+    - RK Kiseto
+    Mozambique:
+    - J Bulele
+    - F Damiao Couana
+    - JJ Huo
+    - L Emilio
+    - FA Cossa
+    - SDJJ Dima
+    - SF Nhavotso
+    - VE Tembo
+    - GO Sopinho
+    - LA Simango
+    - ZE Matsinhe
+  registry:
+    people:
+      AM Kimote: 34e36b65
+      AR Patwa: b43f7a6a
+      Claus Schumacher: 85645e62
+      ET Dube: 4c0891bc
+      F Damiao Couana: 2c535f08
+      FA Cossa: 3b52d247
+      GO Sopinho: '019e7a95'
+      HA Chohan: 847b4bdd
+      I Chabi: 5e39110e
+      II Selemani: b2dadc51
+      J Bulele: 2dde3e62
+      JC Darji: 6d5983d4
+      JJ Huo: d816fc1c
+      Jitin Singh: b7db83eb
+      K Nassoro: 29ee9bf9
+      L Emilio: 31adde7f
+      LA Simango: 16084b50
+      N Mapunda: a94c2947
+      RK Kiseto: 780d1997
+      S Kintu: ff387f93
+      S Thakor: '0848ac5f'
+      SA Jumbe: '91056862'
+      SDJJ Dima: b8b95e44
+      SF Nhavotso: 8b6aebf7
+      VE Tembo: 1439a13c
+      ZE Matsinhe: 03ef382c
+  teams:
+  - Tanzania
+  - Mozambique
+  toss:
+    winner: Tanzania
+    decision: bat
+  umpires:
+  - Claus Schumacher
+  - S Kintu
+  venue: Gahanga International Cricket Stadium. Rwanda
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: LA Simango
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.2:
+        bowler: LA Simango
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.3:
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.4:
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.5:
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.6:
+        bowler: LA Simango
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: AR Patwa
+    - 0.7:
+        non_striker: II Selemani
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+        wicket:
+          player_out: AR Patwa
+          fielders:
+          - GO Sopinho
+          kind: caught
+    - 0.8:
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JC Darji
+        batsman: II Selemani
+    - 0.9:
+        non_striker: JC Darji
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.1:
+        non_striker: JC Darji
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 1.2:
+        non_striker: JC Darji
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 1.3:
+        non_striker: JC Darji
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 1.4:
+        non_striker: JC Darji
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.5:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Darji
+    - 1.6:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Darji
+    - 2.1:
+        non_striker: JC Darji
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.2:
+        non_striker: II Selemani
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Darji
+        wicket:
+          player_out: JC Darji
+          fielders:
+          - L Emilio
+          kind: caught
+    - 2.3:
+        non_striker: II Selemani
+        bowler: LA Simango
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Jitin Singh
+    - 2.4:
+        non_striker: II Selemani
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 2.5:
+        non_striker: Jitin Singh
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.6:
+        non_striker: Jitin Singh
+        bowler: LA Simango
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 3.1:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 3.2:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 3.3:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 3.4:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 3.5:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 3.6:
+        non_striker: II Selemani
+        bowler: ZE Matsinhe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 4.1:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 4.2:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 4.3:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 4.4:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 4.5:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 4.6:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 5.1:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: II Selemani
+    - 5.2:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: II Selemani
+    - 5.3:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: II Selemani
+    - 5.4:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 5.5:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 5.6:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.7:
+        non_striker: II Selemani
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 5.8:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 5.9:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.10:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 6.1:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 6.2:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 6.3:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 6.4:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 6.5:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 6.6:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 7.1:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 7.2:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 7.3:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 7.4:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 7.5:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 7.6:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 8.1:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 8.2:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 8.3:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jitin Singh
+    - 8.4:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 8.5:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 8.6:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 9.1:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 9.2:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 9.3:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 9.4:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jitin Singh
+    - 9.5:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 9.6:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 10.1:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Jitin Singh
+    - 10.2:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 10.3:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 10.4:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 10.5:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 10.6:
+        non_striker: Jitin Singh
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 10.7:
+        non_striker: II Selemani
+        bowler: J Bulele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 11.1:
+        non_striker: II Selemani
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 11.2:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 11.3:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 11.4:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 11.5:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 11.6:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 11.7:
+        non_striker: Jitin Singh
+        bowler: FA Cossa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.1:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 12.2:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 12.3:
+        non_striker: Jitin Singh
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.4:
+        non_striker: II Selemani
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 12.5:
+        non_striker: II Selemani
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 12.6:
+        non_striker: II Selemani
+        bowler: F Damiao Couana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 13.1:
+        non_striker: II Selemani
+        bowler: SDJJ Dima
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Jitin Singh
+    - 13.2:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          fielders:
+          - SF Nhavotso
+          kind: caught
+    - 13.3:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 13.4:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+    - 13.5:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 13.6:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 14.1:
+        non_striker: Jitin Singh
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thakor
+    - 14.2:
+        non_striker: Jitin Singh
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 14.3:
+        non_striker: Jitin Singh
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Thakor
+    - 14.4:
+        non_striker: Jitin Singh
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 14.5:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 14.6:
+        non_striker: Jitin Singh
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 15.1:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Thakor
+    - 15.2:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+    - 15.3:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Thakor
+    - 15.4:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jitin Singh
+    - 15.5:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jitin Singh
+    - 15.6:
+        non_striker: Jitin Singh
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Thakor
+    - 16.1:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jitin Singh
+    - 16.2:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jitin Singh
+    - 16.3:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jitin Singh
+    - 16.4:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jitin Singh
+        wicket:
+          player_out: Jitin Singh
+          kind: bowled
+    - 16.5:
+        non_striker: S Thakor
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HA Chohan
+    - 16.6:
+        non_striker: HA Chohan
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Thakor
+    - 17.1:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HA Chohan
+    - 17.2:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HA Chohan
+    - 17.3:
+        non_striker: S Thakor
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HA Chohan
+        wicket:
+          player_out: HA Chohan
+          fielders:
+          - J Bulele
+          kind: caught
+    - 17.4:
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SA Jumbe
+        batsman: S Thakor
+    - 17.5:
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: SA Jumbe
+        batsman: S Thakor
+    - 17.6:
+        non_striker: SA Jumbe
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Thakor
+        wicket:
+          player_out: S Thakor
+          fielders:
+          - J Bulele
+          kind: caught
+    - 18.1:
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Nassoro
+        batsman: SA Jumbe
+    - 18.2:
+        non_striker: SA Jumbe
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Nassoro
+    - 18.3:
+        non_striker: SA Jumbe
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nassoro
+    - 18.4:
+        non_striker: SA Jumbe
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nassoro
+    - 18.5:
+        non_striker: SA Jumbe
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 18.6:
+        non_striker: K Nassoro
+        bowler: SF Nhavotso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Jumbe
+    - 19.1:
+        non_striker: K Nassoro
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 19.2:
+        non_striker: K Nassoro
+        bowler: SDJJ Dima
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SA Jumbe
+    - 19.3:
+        non_striker: SA Jumbe
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+    - 19.4:
+        non_striker: K Nassoro
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Jumbe
+    - 19.5:
+        non_striker: K Nassoro
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SA Jumbe
+    - 19.6:
+        non_striker: SA Jumbe
+        bowler: SDJJ Dima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Nassoro
+- 2nd innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: J Bulele
+    - 0.2:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: J Bulele
+    - 0.3:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: F Damiao Couana
+        batsman: J Bulele
+    - 0.4:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: J Bulele
+    - 0.5:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Damiao Couana
+        batsman: J Bulele
+    - 0.6:
+        non_striker: F Damiao Couana
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 1.1:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 1.2:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 1.3:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 1.4:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Damiao Couana
+    - 1.5:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Damiao Couana
+    - 1.6:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 2.1:
+        non_striker: F Damiao Couana
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 2.2:
+        non_striker: J Bulele
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+    - 2.3:
+        non_striker: J Bulele
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Damiao Couana
+    - 2.4:
+        non_striker: J Bulele
+        bowler: HA Chohan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Damiao Couana
+    - 2.5:
+        non_striker: J Bulele
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Damiao Couana
+    - 2.6:
+        non_striker: F Damiao Couana
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 2.7:
+        non_striker: J Bulele
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Damiao Couana
+        wicket:
+          player_out: F Damiao Couana
+          fielders:
+          - S Thakor
+          kind: caught
+    - 3.1:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 3.2:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 3.3:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Huo
+    - 3.4:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 3.5:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 3.6:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 4.1:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.2:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.3:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.4:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.5:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.6:
+        non_striker: JJ Huo
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.1:
+        non_striker: J Bulele
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+        wicket:
+          player_out: JJ Huo
+          kind: bowled
+    - 5.2:
+        non_striker: J Bulele
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Emilio
+    - 5.3:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 5.4:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.5:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 5.6:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Bulele
+    - 6.1:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Emilio
+    - 6.2:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Emilio
+    - 6.3:
+        non_striker: L Emilio
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 6.4:
+        non_striker: L Emilio
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 6.5:
+        non_striker: L Emilio
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 6.6:
+        non_striker: L Emilio
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 7.1:
+        non_striker: J Bulele
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Emilio
+    - 7.2:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: J Bulele
+    - 7.3:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 7.4:
+        non_striker: L Emilio
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 7.5:
+        non_striker: J Bulele
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Emilio
+        wicket:
+          player_out: L Emilio
+          kind: bowled
+    - 7.6:
+        non_striker: J Bulele
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 8.1:
+        non_striker: FA Cossa
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 8.2:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 8.3:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 8.4:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 8.5:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 8.6:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 9.1:
+        non_striker: FA Cossa
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 9.2:
+        non_striker: J Bulele
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 9.3:
+        non_striker: J Bulele
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Cossa
+    - 9.4:
+        non_striker: J Bulele
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Cossa
+    - 9.5:
+        non_striker: J Bulele
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 9.6:
+        non_striker: J Bulele
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Cossa
+    - 10.1:
+        non_striker: FA Cossa
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 10.2:
+        non_striker: FA Cossa
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 10.3:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FA Cossa
+    - 10.4:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FA Cossa
+    - 10.5:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 10.6:
+        non_striker: J Bulele
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 10.7:
+        non_striker: FA Cossa
+        bowler: RK Kiseto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Bulele
+    - 11.1:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FA Cossa
+    - 11.2:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 11.3:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 11.4:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 11.5:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Cossa
+    - 11.6:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 11.7:
+        non_striker: J Bulele
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 12.1:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Cossa
+    - 12.2:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 12.3:
+        non_striker: J Bulele
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 12.4:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 12.5:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+        wicket:
+          player_out: J Bulele
+          fielders:
+          - N Mapunda
+          kind: stumped
+    - 12.6:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SDJJ Dima
+    - 13.1:
+        non_striker: SDJJ Dima
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 13.2:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SDJJ Dima
+    - 13.3:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SDJJ Dima
+    - 13.4:
+        non_striker: SDJJ Dima
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 13.5:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SDJJ Dima
+        wicket:
+          player_out: SDJJ Dima
+          kind: bowled
+    - 13.6:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Nhavotso
+    - 14.1:
+        non_striker: SF Nhavotso
+        bowler: S Thakor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: FA Cossa
+    - 14.2:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Nhavotso
+    - 14.3:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Nhavotso
+    - 14.4:
+        non_striker: SF Nhavotso
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 14.5:
+        non_striker: SF Nhavotso
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+    - 14.6:
+        non_striker: SF Nhavotso
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 14.7:
+        non_striker: FA Cossa
+        bowler: S Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Nhavotso
+    - 15.1:
+        non_striker: SF Nhavotso
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Cossa
+    - 15.2:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Nhavotso
+    - 15.3:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Nhavotso
+        wicket:
+          player_out: SF Nhavotso
+          kind: bowled
+    - 15.4:
+        non_striker: FA Cossa
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 15.5:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 15.6:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FA Cossa
+    - 15.7:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Cossa
+        wicket:
+          player_out: FA Cossa
+          kind: lbw
+    - 16.1:
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GO Sopinho
+        batsman: VE Tembo
+    - 16.2:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GO Sopinho
+        wicket:
+          player_out: GO Sopinho
+          kind: bowled
+    - 16.3:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Simango
+    - 16.4:
+        non_striker: LA Simango
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 16.5:
+        non_striker: LA Simango
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 16.6:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Simango
+    - 17.1:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Simango
+    - 17.2:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Simango
+    - 17.3:
+        non_striker: LA Simango
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 17.4:
+        non_striker: VE Tembo
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Simango
+    - 17.5:
+        non_striker: LA Simango
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 17.6:
+        non_striker: LA Simango
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 18.1:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Simango
+    - 18.2:
+        non_striker: LA Simango
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 18.3:
+        non_striker: LA Simango
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 18.4:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Simango
+    - 18.5:
+        non_striker: LA Simango
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 18.6:
+        non_striker: VE Tembo
+        bowler: HA Chohan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Simango
+    - 19.1:
+        non_striker: VE Tembo
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Simango
+    - 19.2:
+        non_striker: VE Tembo
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Simango
+    - 19.3:
+        non_striker: VE Tembo
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Simango
+    - 19.4:
+        non_striker: VE Tembo
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Simango
+    - 19.5:
+        non_striker: LA Simango
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 19.6:
+        non_striker: LA Simango
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+        wicket:
+          player_out: VE Tembo
+          fielders:
+          - AR Patwa
+          kind: caught

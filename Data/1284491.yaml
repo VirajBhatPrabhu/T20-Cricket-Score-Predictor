@@ -1,0 +1,2097 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Doha
+  dates:
+  - '2021-10-24'
+  gender: male
+  match_type: T20
+  match_type_number: 1358
+  outcome:
+    winner: Qatar
+    by:
+      runs: 98
+  overs: 20
+  player_of_match:
+  - Mohammad Rizlan
+  players:
+    Qatar:
+    - AR Berenger
+    - Kamran Khan (2)
+    - Mohammad Rizlan
+    - Muhammad Tanveer
+    - I Liyanage
+    - Zaheer Ibrahim
+    - Iqbal Hussain
+    - Muhammad Murad
+    - Gayan Munaweera
+    - Mohammed Nadeem
+    - Musawar Shah
+    Maldives:
+    - Azyan Farhath
+    - Ahmed Hassan
+    - Umar Adam
+    - Mohamed Rishwan
+    - Ibrahim Nashath
+    - Hassan Rasheed
+    - Mohamed Azzam
+    - Ibrahim Hassan
+    - Mohamed Mahfooz
+    - Ibrahim Rizan
+    - Ameel Mauroof
+  registry:
+    people:
+      AR Berenger: f994f4ca
+      Ahmed Hassan: 7c885103
+      Akbar Ali: e753931d
+      Ameel Mauroof: 1579d497
+      Azyan Farhath: 3e06e7ac
+      BB Pradhan: 8603d942
+      Dharmang Patel: 643f2e6a
+      Gayan Munaweera: 62141a22
+      Hassan Rasheed: 1ca51098
+      I Liyanage: 826e1017
+      Ibrahim Hassan: 4add4c98
+      Ibrahim Nashath: 98514dce
+      Ibrahim Rizan: 7267e3cd
+      Iqbal Hussain: b9fd3959
+      Kamran Khan: 922e3dcc
+      M Nayyar: b7bccddb
+      Mohamed Azzam: e43c9818
+      Mohamed Mahfooz: 44f5a3e4
+      Mohamed Rishwan: 7d15170b
+      Mohammad Rizlan: 82afc034
+      Mohammed Nadeem: 856cbb1e
+      Muhammad Murad: df3947f4
+      Muhammad Tanveer: aef39fe4
+      Musawar Shah: d482c8b8
+      Shivani Mishra: 2982a0c7
+      Umar Adam: 5d77a96a
+      Zaheer Ibrahim: d754fde8
+  teams:
+  - Qatar
+  - Maldives
+  toss:
+    winner: Maldives
+    decision: field
+  umpires:
+  - Akbar Ali
+  - BB Pradhan
+  venue: West End Park International Cricket Stadium, Doha
+innings:
+- 1st innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kamran Khan (2)
+        batsman: AR Berenger
+    - 0.2:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamran Khan (2)
+        wicket:
+          player_out: Kamran Khan (2)
+          fielders:
+          - Ibrahim Rizan
+          kind: caught
+    - 0.3:
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Rizlan
+        batsman: AR Berenger
+    - 0.4:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 0.5:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 0.6:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Rizlan
+    - 1.1:
+        non_striker: AR Berenger
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizlan
+    - 1.2:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Berenger
+    - 1.3:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Berenger
+    - 1.4:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Berenger
+    - 1.5:
+        non_striker: AR Berenger
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizlan
+    - 1.6:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Berenger
+    - 2.1:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 2.2:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 2.3:
+        non_striker: AR Berenger
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 2.4:
+        non_striker: Mohammad Rizlan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Berenger
+    - 2.5:
+        non_striker: Mohammad Rizlan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Berenger
+        wicket:
+          player_out: AR Berenger
+          fielders:
+          - Ahmed Hassan
+          kind: caught
+    - 2.6:
+        non_striker: Mohammad Rizlan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Tanveer
+    - 3.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 3.2:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 3.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizlan
+    - 3.4:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 3.5:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 3.6:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 3.7:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizlan
+    - 4.1:
+        non_striker: Muhammad Tanveer
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 4.2:
+        non_striker: Mohammad Rizlan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 4.3:
+        non_striker: Mohammad Rizlan
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 4.4:
+        non_striker: Muhammad Tanveer
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 4.5:
+        non_striker: Muhammad Tanveer
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 4.6:
+        non_striker: Muhammad Tanveer
+        bowler: Umar Adam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizlan
+    - 5.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.2:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 5.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 5.4:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 5.5:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 5.6:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 6.2:
+        non_striker: Mohammad Rizlan
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 6.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizlan
+    - 6.4:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizlan
+    - 6.5:
+        non_striker: Mohammad Rizlan
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Muhammad Tanveer
+    - 6.6:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 7.1:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 7.2:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 7.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 7.4:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 7.5:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 7.6:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 8.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 8.2:
+        non_striker: Mohammad Rizlan
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 8.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 8.4:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 8.5:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 8.6:
+        non_striker: Muhammad Tanveer
+        bowler: Ameel Mauroof
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 9.1:
+        non_striker: Mohammad Rizlan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 9.2:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 9.3:
+        non_striker: Mohammad Rizlan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 9.4:
+        non_striker: Mohammad Rizlan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 9.5:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizlan
+    - 9.6:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 10.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 10.2:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 10.3:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 10.4:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 10.5:
+        non_striker: Mohammad Rizlan
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 10.6:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 11.1:
+        non_striker: Mohammad Rizlan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 11.2:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 11.3:
+        non_striker: Mohammad Rizlan
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 11.4:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizlan
+    - 11.5:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizlan
+    - 11.6:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+    - 11.7:
+        non_striker: Muhammad Tanveer
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizlan
+    - 12.1:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizlan
+        wicket:
+          player_out: Mohammad Rizlan
+          kind: lbw
+    - 12.2:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 12.3:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 12.4:
+        non_striker: Muhammad Tanveer
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 12.5:
+        non_striker: I Liyanage
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 12.6:
+        non_striker: I Liyanage
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Tanveer
+    - 12.7:
+        non_striker: I Liyanage
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 13.1:
+        non_striker: Muhammad Tanveer
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 13.2:
+        non_striker: I Liyanage
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 13.3:
+        non_striker: I Liyanage
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: Muhammad Tanveer
+          fielders:
+          - Ahmed Hassan
+          kind: caught
+    - 13.4:
+        non_striker: I Liyanage
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+    - 13.5:
+        non_striker: I Liyanage
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Ibrahim
+    - 13.6:
+        non_striker: Zaheer Ibrahim
+        bowler: Umar Adam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 14.1:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Liyanage
+    - 14.2:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 14.3:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 14.4:
+        non_striker: I Liyanage
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaheer Ibrahim
+    - 14.5:
+        non_striker: I Liyanage
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Ibrahim
+    - 14.6:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Liyanage
+    - 15.1:
+        non_striker: I Liyanage
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+    - 15.2:
+        non_striker: I Liyanage
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+    - 15.3:
+        non_striker: I Liyanage
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Ibrahim
+    - 15.4:
+        non_striker: Zaheer Ibrahim
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+        wicket:
+          player_out: I Liyanage
+          kind: lbw
+    - 15.5:
+        non_striker: Zaheer Ibrahim
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hussain
+    - 15.6:
+        non_striker: Iqbal Hussain
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Ibrahim
+    - 16.1:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaheer Ibrahim
+    - 16.2:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Iqbal Hussain
+    - 16.3:
+        non_striker: Zaheer Ibrahim
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hussain
+    - 16.4:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+    - 16.5:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+    - 16.6:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaheer Ibrahim
+    - 17.1:
+        non_striker: Zaheer Ibrahim
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hussain
+    - 17.2:
+        non_striker: Iqbal Hussain
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zaheer Ibrahim
+    - 17.3:
+        non_striker: Iqbal Hussain
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaheer Ibrahim
+        wicket:
+          player_out: Zaheer Ibrahim
+          fielders:
+          - Mohamed Rishwan
+          kind: caught
+    - 17.4:
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Murad
+        batsman: Iqbal Hussain
+    - 17.5:
+        non_striker: Iqbal Hussain
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Muhammad Murad
+    - 17.6:
+        non_striker: Iqbal Hussain
+        bowler: Mohamed Mahfooz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Murad
+    - 18.1:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Iqbal Hussain
+    - 18.2:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iqbal Hussain
+    - 18.3:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Iqbal Hussain
+    - 18.4:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hussain
+    - 18.5:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Murad
+    - 18.6:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Murad
+    - 18.7:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Rizan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Murad
+    - 19.1:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Murad
+    - 19.2:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Murad
+    - 19.3:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hussain
+    - 19.4:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Iqbal Hussain
+    - 19.5:
+        non_striker: Iqbal Hussain
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Murad
+    - 19.6:
+        non_striker: Muhammad Murad
+        bowler: Ibrahim Nashath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Iqbal Hussain
+- 2nd innings:
+    team: Maldives
+    deliveries:
+    - 0.1:
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ahmed Hassan
+        batsman: Azyan Farhath
+    - 0.2:
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Hassan
+        batsman: Azyan Farhath
+    - 0.3:
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Hassan
+        batsman: Azyan Farhath
+    - 0.4:
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Hassan
+        batsman: Azyan Farhath
+    - 0.5:
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Hassan
+        batsman: Azyan Farhath
+    - 0.6:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 1.1:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Hassan
+    - 1.2:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 1.3:
+        non_striker: Ahmed Hassan
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 1.4:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 1.5:
+        non_striker: Ahmed Hassan
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 1.6:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 2.1:
+        non_striker: Azyan Farhath
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.2:
+        non_striker: Azyan Farhath
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.3:
+        non_striker: Azyan Farhath
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 2.4:
+        non_striker: Azyan Farhath
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 2.5:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 2.6:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+    - 3.1:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.2:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.3:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.4:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 3.5:
+        non_striker: Azyan Farhath
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 3.6:
+        non_striker: Ahmed Hassan
+        bowler: Muhammad Murad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azyan Farhath
+    - 4.1:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azyan Farhath
+        wicket:
+          player_out: Azyan Farhath
+          fielders:
+          - Iqbal Hussain
+          kind: caught
+    - 4.2:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 4.3:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 4.4:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 4.5:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 4.6:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 5.1:
+        non_striker: Umar Adam
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 5.2:
+        non_striker: Umar Adam
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 5.3:
+        non_striker: Umar Adam
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 5.4:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umar Adam
+    - 5.5:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+    - 5.6:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umar Adam
+        wicket:
+          player_out: Umar Adam
+          kind: bowled
+    - 5.7:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 6.1:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 6.2:
+        non_striker: Mohamed Rishwan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 6.3:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 6.4:
+        non_striker: Mohamed Rishwan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 6.5:
+        non_striker: Ahmed Hassan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 6.6:
+        non_striker: Mohamed Rishwan
+        bowler: Musawar Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 7.1:
+        non_striker: Mohamed Rishwan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 7.2:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 7.3:
+        non_striker: Mohamed Rishwan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Hassan
+    - 7.4:
+        non_striker: Mohamed Rishwan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 7.5:
+        non_striker: Mohamed Rishwan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 7.6:
+        non_striker: Ahmed Hassan
+        bowler: Gayan Munaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 8.1:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 8.2:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 8.3:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 8.4:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Hassan
+    - 8.5:
+        non_striker: Ahmed Hassan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 8.6:
+        non_striker: Ahmed Hassan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+    - 9.1:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Hassan
+    - 9.2:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+        wicket:
+          player_out: Ahmed Hassan
+          fielders:
+          - Gayan Munaweera
+          kind: caught
+    - 9.3:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 9.4:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 9.5:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 9.6:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Nashath
+    - 9.7:
+        non_striker: Mohamed Rishwan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 10.1:
+        non_striker: Ibrahim Nashath
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Rishwan
+    - 10.2:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 10.3:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 10.4:
+        non_striker: Mohamed Rishwan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Nashath
+    - 10.5:
+        non_striker: Ibrahim Nashath
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Rishwan
+        wicket:
+          player_out: Mohamed Rishwan
+          fielders:
+          - Mohammad Rizlan
+          kind: caught
+    - 10.6:
+        non_striker: Ibrahim Nashath
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 11.1:
+        non_striker: Hassan Rasheed
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 11.2:
+        non_striker: Hassan Rasheed
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+    - 11.3:
+        non_striker: Hassan Rasheed
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Nashath
+    - 11.4:
+        non_striker: Ibrahim Nashath
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 11.5:
+        non_striker: Ibrahim Nashath
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+    - 11.6:
+        non_striker: Ibrahim Nashath
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Rasheed
+        wicket:
+          player_out: Hassan Rasheed
+          kind: bowled
+    - 12.1:
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Azzam
+        batsman: Ibrahim Nashath
+    - 12.2:
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohamed Azzam
+        batsman: Ibrahim Nashath
+    - 12.3:
+        non_striker: Mohamed Azzam
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Nashath
+        wicket:
+          player_out: Ibrahim Nashath
+          fielders:
+          - Dharmang Patel (sub)
+          kind: caught
+    - 12.4:
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ibrahim Hassan
+        batsman: Mohamed Azzam
+    - 12.5:
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ibrahim Hassan
+        batsman: Mohamed Azzam
+    - 12.6:
+        non_striker: Ibrahim Hassan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+    - 13.1:
+        non_striker: Mohamed Azzam
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 13.2:
+        non_striker: Mohamed Azzam
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Hassan
+    - 13.3:
+        non_striker: Ibrahim Hassan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Azzam
+        wicket:
+          player_out: Mohamed Azzam
+          fielders:
+          - Mohammad Rizlan
+          kind: stumped
+    - 13.4:
+        non_striker: Ibrahim Hassan
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 13.5:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 13.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+    - 14.1:
+        non_striker: Ibrahim Hassan
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 14.2:
+        non_striker: Mohamed Mahfooz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Hassan
+        wicket:
+          player_out: Ibrahim Hassan
+          fielders:
+          - Iqbal Hussain
+          kind: caught
+    - 14.3:
+        non_striker: Mohamed Mahfooz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+    - 14.4:
+        non_striker: Mohamed Mahfooz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rizan
+        wicket:
+          player_out: Ibrahim Rizan
+          fielders:
+          - AR Berenger
+          kind: caught
+    - 14.5:
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ameel Mauroof
+        batsman: Mohamed Mahfooz
+    - 14.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Mohammed Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameel Mauroof
+    - 15.1:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameel Mauroof
+    - 15.2:
+        non_striker: Ameel Mauroof
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 15.3:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 15.4:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 15.5:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 15.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Iqbal Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameel Mauroof
+    - 16.1:
+        non_striker: Mohamed Mahfooz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 16.2:
+        non_striker: Mohamed Mahfooz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 16.3:
+        non_striker: Mohamed Mahfooz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 16.4:
+        non_striker: Mohamed Mahfooz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameel Mauroof
+    - 16.5:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 16.6:
+        non_striker: Mohamed Mahfooz
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 17.1:
+        non_striker: Ameel Mauroof
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 17.2:
+        non_striker: Mohamed Mahfooz
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 17.3:
+        non_striker: Mohamed Mahfooz
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ameel Mauroof
+    - 17.4:
+        non_striker: Mohamed Mahfooz
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ameel Mauroof
+    - 17.5:
+        non_striker: Ameel Mauroof
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 17.6:
+        non_striker: Ameel Mauroof
+        bowler: Zaheer Ibrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Mahfooz
+    - 18.1:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 18.2:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Mahfooz
+    - 18.3:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 18.4:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+    - 18.5:
+        non_striker: Ameel Mauroof
+        bowler: Muhammad Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Mahfooz
+        wicket:
+          player_out: Mohamed Mahfooz
+          kind: lbw

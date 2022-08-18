@@ -1,0 +1,1976 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-02-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Canberra
+  dates:
+  - '2022-02-15'
+  gender: male
+  match_type: T20
+  match_type_number: 1466
+  outcome:
+    winner: Australia
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - KW Richardson
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - MD Gunathilaka
+    - KIC Asalanka
+    - BKG Mendis
+    - LD Chandimal
+    - MD Shanaka
+    - C Karunaratne
+    - PVD Chameera
+    - JDF Vandersay
+    - M Theekshana
+    - N Thushara
+    Australia:
+    - BR McDermott
+    - AC Agar
+    - AJ Finch
+    - GJ Maxwell
+    - JP Inglis
+    - MP Stoinis
+    - MS Wade
+    - DR Sams
+    - MA Starc
+    - KW Richardson
+    - JR Hazlewood
+  registry:
+    people:
+      AC Agar: a2421394
+      AJ Finch: b8d490fd
+      BKG Mendis: 5d1e7582
+      BR McDermott: c41043e6
+      C Karunaratne: fb3e0d39
+      DC Boon: e79a1fe3
+      DM Koch: 6d10c034
+      DR Sams: caf69bf7
+      GJ Maxwell: b681e71e
+      JDF Vandersay: aceb7654
+      JP Inglis: 989889ff
+      JR Hazlewood: '03806cf8'
+      KIC Asalanka: 732c038e
+      KW Richardson: dfc4d8b5
+      LD Chandimal: 8dd02a98
+      M Theekshana: f24c6701
+      MA Starc: 3fb19989
+      MD Gunathilaka: 509a7ca1
+      MD Shanaka: 3ff033bb
+      MP Stoinis: d9273ee7
+      MS Wade: afa7e784
+      N Thushara: ee1b6c27
+      P Nissanka: 8ee36b18
+      PVD Chameera: 327b58d3
+      RJ Tucker: 38810cfc
+      SAJ Craig: 689f2eed
+      SJ Nogajski: 9b3f9323
+  teams:
+  - Sri Lanka
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - RJ Tucker
+  - SAJ Craig
+  venue: Manuka Oval, Canberra
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 0.7:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.8:
+        non_striker: MD Gunathilaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 1.5:
+        non_striker: MD Gunathilaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: MD Gunathilaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.1:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+        wicket:
+          player_out: MD Gunathilaka
+          fielders:
+          - JR Hazlewood
+          kind: caught
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - MS Wade
+          kind: caught
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: P Nissanka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 4.7:
+        non_striker: BKG Mendis
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.5:
+        non_striker: BKG Mendis
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: P Nissanka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: caught and bowled
+    - 6.4:
+        non_striker: P Nissanka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 6.6:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 7.2:
+        non_striker: LD Chandimal
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - DR Sams
+          kind: caught
+    - 7.3:
+        non_striker: LD Chandimal
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 7.4:
+        non_striker: MD Shanaka
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 7.5:
+        non_striker: LD Chandimal
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.6:
+        non_striker: LD Chandimal
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.1:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 8.2:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 8.3:
+        non_striker: LD Chandimal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.4:
+        non_striker: LD Chandimal
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.5:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 8.6:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 9.1:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.2:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.3:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 9.4:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 9.5:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 9.6:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.1:
+        non_striker: LD Chandimal
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.2:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 10.3:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 10.4:
+        non_striker: LD Chandimal
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.5:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 10.6:
+        non_striker: LD Chandimal
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 11.1:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 11.2:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 11.3:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 11.4:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.5:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 11.6:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.1:
+        non_striker: MD Shanaka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 12.2:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 12.3:
+        non_striker: MD Shanaka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 12.4:
+        non_striker: MD Shanaka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 12.5:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.6:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.1:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LD Chandimal
+    - 13.2:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 13.3:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.4:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.5:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 13.6:
+        non_striker: LD Chandimal
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.7:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 14.1:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 14.2:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Chandimal
+    - 14.3:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 14.4:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 14.5:
+        non_striker: LD Chandimal
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.6:
+        non_striker: LD Chandimal
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 15.1:
+        non_striker: MD Shanaka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 15.2:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.3:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.4:
+        non_striker: MD Shanaka
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 15.5:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 15.6:
+        non_striker: LD Chandimal
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          kind: bowled
+    - 16.2:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 16.3:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 16.4:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 16.5:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 16.6:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: C Karunaratne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 17.2:
+        non_striker: C Karunaratne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 17.5:
+        non_striker: C Karunaratne
+        bowler: MA Starc
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: MD Shanaka
+    - 17.6:
+        non_striker: C Karunaratne
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.7:
+        non_striker: MD Shanaka
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 18.1:
+        non_striker: MD Shanaka
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 18.2:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 18.3:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 18.4:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 18.5:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 18.6:
+        non_striker: C Karunaratne
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 19.1:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 19.2:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Karunaratne
+    - 19.3:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+        wicket:
+          player_out: C Karunaratne
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 19.4:
+        non_striker: PVD Chameera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 19.5:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PVD Chameera
+    - 19.6:
+        non_striker: MD Shanaka
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 0.2:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.3:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.4:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 0.5:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.6:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.1:
+        non_striker: AJ Finch
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AC Agar
+    - 1.2:
+        non_striker: AJ Finch
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Agar
+    - 1.3:
+        non_striker: AC Agar
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.4:
+        non_striker: AC Agar
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.5:
+        non_striker: AC Agar
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 1.6:
+        non_striker: AC Agar
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 1.7:
+        non_striker: AJ Finch
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Agar
+    - 2.1:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 2.2:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 2.3:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 2.4:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.5:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 2.6:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.1:
+        non_striker: AJ Finch
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 3.2:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: C Karunaratne
+            out: N Thushara
+            reason: injury
+            role: bowler
+        batsman: AC Agar
+    - 3.3:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 3.4:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 3.5:
+        non_striker: AC Agar
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.6:
+        non_striker: AC Agar
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 4.1:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 4.2:
+        non_striker: AC Agar
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 4.3:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 4.4:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+        wicket:
+          player_out: AC Agar
+          kind: lbw
+    - 4.5:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 4.6:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.1:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 5.2:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.3:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.4:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.5:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.6:
+        non_striker: GJ Maxwell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 6.1:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 6.2:
+        non_striker: GJ Maxwell
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 6.3:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 6.4:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 6.5:
+        non_striker: GJ Maxwell
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 6.6:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.1:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.2:
+        non_striker: GJ Maxwell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 7.3:
+        non_striker: GJ Maxwell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 7.4:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.5:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.6:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 8.1:
+        non_striker: GJ Maxwell
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 8.2:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 8.3:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.4:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.5:
+        non_striker: GJ Maxwell
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 8.6:
+        non_striker: GJ Maxwell
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.1:
+        non_striker: GJ Maxwell
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.2:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 9.3:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 9.4:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.5:
+        non_striker: GJ Maxwell
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 9.6:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.1:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 10.3:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 10.5:
+        non_striker: JP Inglis
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 10.6:
+        non_striker: AJ Finch
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 11.1:
+        non_striker: JP Inglis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.2:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 11.3:
+        non_striker: JP Inglis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.4:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 11.5:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 11.6:
+        non_striker: AJ Finch
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 12.1:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 12.2:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 12.3:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 12.4:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 12.5:
+        non_striker: AJ Finch
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 12.6:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 13.1:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 13.2:
+        non_striker: JP Inglis
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 13.3:
+        non_striker: JP Inglis
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 13.4:
+        non_striker: JP Inglis
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 13.5:
+        non_striker: AJ Finch
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 13.6:
+        non_striker: JP Inglis
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 14.1:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 14.2:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.3:
+        non_striker: MP Stoinis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 14.4:
+        non_striker: MP Stoinis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 14.5:
+        non_striker: JP Inglis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.6:
+        non_striker: MP Stoinis
+        bowler: JDF Vandersay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 15.1:
+        non_striker: MP Stoinis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 15.2:
+        non_striker: MP Stoinis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 15.3:
+        non_striker: MP Stoinis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 15.4:
+        non_striker: JP Inglis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 15.5:
+        non_striker: JP Inglis
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 15.6:
+        non_striker: MP Stoinis
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 16.1:
+        non_striker: MP Stoinis
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 16.2:
+        non_striker: JP Inglis
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 16.3:
+        non_striker: JP Inglis
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 16.4:
+        non_striker: JP Inglis
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 16.5:
+        non_striker: JP Inglis
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis

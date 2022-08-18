@@ -1,0 +1,2243 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2022-06-17'
+  gender: female
+  match_type: T20
+  match_type_number: 1122
+  outcome:
+    winner: Malaysia
+    by:
+      runs: 117
+  overs: 20
+  player_of_match:
+  - Mas Elysa
+  players:
+    Malaysia:
+    - WA Duraisingam
+    - Wan Julia
+    - Mas Elysa
+    - Siow Tzin Yee
+    - Ainna Hamizah Hashim
+    - J Intan
+    - Aisya Eleesa
+    - Nur Arianna Natsya
+    - Nik Nur Atiela
+    - Nur Dania Syuhada
+    - Sasha Azmi
+    Singapore:
+    - V Pasupathy
+    - Ada Bhasin
+    - Shafina Mahesh
+    - GK Diviya
+    - Vinu Kumar
+    - PSR Gurusinghe
+    - CH Abeyratne
+    - I Shukla
+    - JS Pooranakaran
+    - Damini Ramesh
+    - Zay Hua Tan
+  registry:
+    people:
+      Ada Bhasin: b1c113d7
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      CH Abeyratne: ef423744
+      DN Subedi: fb0a571f
+      Damini Ramesh: c4480b25
+      Edwin Seah: be24f868
+      GK Diviya: 992979fa
+      I Shukla: ce490298
+      J Intan: 2dfdd316
+      JS Pooranakaran: 417bde96
+      Mas Elysa: 857de42e
+      Nik Nur Atiela: cfdfe39c
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      PSR Gurusinghe: 591a7004
+      Samad Akbar: f05bd21b
+      Sasha Azmi: 9e4f6851
+      Shafina Mahesh: 0c40b02d
+      Siow Tzin Yee: 686b7194
+      Tabarak Dar: 2259c12d
+      V Pasupathy: 8b002990
+      Vinu Kumar: 3775b9f9
+      WA Duraisingam: 7467fe01
+      Wan Julia: bee0c85c
+      Zay Hua Tan: b0576916
+  teams:
+  - Malaysia
+  - Singapore
+  toss:
+    winner: Malaysia
+    decision: bat
+  umpires:
+  - DN Subedi
+  - Samad Akbar
+  venue: Kinrara Academy Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.2:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 0.3:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 0.4:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Julia
+    - 0.5:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 0.6:
+        non_striker: Wan Julia
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Julia
+    - 1.2:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Wan Julia
+    - 1.3:
+        non_striker: Wan Julia
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 1.4:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Wan Julia
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Julia
+    - 1.6:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Julia
+    - 1.7:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+        wicket:
+          player_out: Wan Julia
+          fielders:
+          - JS Pooranakaran
+          kind: caught
+    - 1.8:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 2.1:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mas Elysa
+    - 2.2:
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 2.3:
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WA Duraisingam
+    - 2.4:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.5:
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WA Duraisingam
+    - 2.6:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 3.1:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.2:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: WA Duraisingam
+    - 3.3:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.4:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.5:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 3.6:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 3.7:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 3.8:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.1:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 4.2:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 4.3:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.4:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 4.5:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.6:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 5.1:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 5.2:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mas Elysa
+    - 5.3:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 5.4:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 5.5:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 5.6:
+        non_striker: WA Duraisingam
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.7:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 5.8:
+        non_striker: Mas Elysa
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 6.1:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 6.2:
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 6.4:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.5:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.6:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 7.1:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WA Duraisingam
+    - 7.2:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.3:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 7.4:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 7.5:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.6:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.1:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.2:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.3:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 8.4:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.5:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.6:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 8.7:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.1:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mas Elysa
+    - 9.2:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Mas Elysa
+    - 9.3:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 9.4:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.5:
+        non_striker: Mas Elysa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 9.6:
+        non_striker: Mas Elysa
+        bowler: Damini Ramesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 9.7:
+        non_striker: Mas Elysa
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 9.8:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Mas Elysa
+    - 9.9:
+        non_striker: WA Duraisingam
+        bowler: Damini Ramesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 10.1:
+        non_striker: Mas Elysa
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 10.2:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.3:
+        non_striker: Mas Elysa
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 10.4:
+        non_striker: Mas Elysa
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 10.5:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.6:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.1:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 11.2:
+        non_striker: WA Duraisingam
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 11.3:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 11.4:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 11.5:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: WA Duraisingam
+    - 11.6:
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 12.1:
+        non_striker: Mas Elysa
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 12.2:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mas Elysa
+    - 12.3:
+        non_striker: Mas Elysa
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 12.4:
+        non_striker: Mas Elysa
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 12.5:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 12.6:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 12.7:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 13.1:
+        non_striker: WA Duraisingam
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 13.2:
+        non_striker: WA Duraisingam
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 13.3:
+        non_striker: WA Duraisingam
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 13.4:
+        non_striker: WA Duraisingam
+        bowler: I Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mas Elysa
+    - 13.5:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 13.6:
+        non_striker: Mas Elysa
+        bowler: I Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 14.1:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          fielders:
+          - Vinu Kumar
+          kind: caught
+    - 14.2:
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Siow Tzin Yee
+        batsman: WA Duraisingam
+    - 14.3:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 14.4:
+        non_striker: Siow Tzin Yee
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 14.5:
+        non_striker: WA Duraisingam
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 14.6:
+        non_striker: Siow Tzin Yee
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Duraisingam
+    - 15.1:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 15.2:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 15.3:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 15.4:
+        non_striker: Siow Tzin Yee
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 15.5:
+        non_striker: Siow Tzin Yee
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 15.6:
+        non_striker: WA Duraisingam
+        bowler: CH Abeyratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 16.1:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 16.2:
+        non_striker: WA Duraisingam
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Siow Tzin Yee
+    - 16.3:
+        non_striker: Siow Tzin Yee
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 16.4:
+        non_striker: Siow Tzin Yee
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 16.5:
+        non_striker: Siow Tzin Yee
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: bowled
+    - 16.6:
+        non_striker: Siow Tzin Yee
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 17.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 17.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Siow Tzin Yee
+    - 17.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+    - 17.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Siow Tzin Yee
+    - 17.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Siow Tzin Yee
+        wicket:
+          player_out: Siow Tzin Yee
+          kind: bowled
+    - 17.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 17.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 18.1:
+        non_striker: J Intan
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 18.2:
+        non_striker: J Intan
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 18.3:
+        non_striker: J Intan
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 18.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 18.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 18.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: GK Diviya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 19.1:
+        non_striker: J Intan
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ainna Hamizah Hashim
+    - 19.2:
+        non_striker: J Intan
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 19.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Intan
+    - 19.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 19.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 19.6:
+        non_striker: J Intan
+        bowler: Ada Bhasin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ainna Hamizah Hashim
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.2:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.3:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.4:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.5:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.6:
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ada Bhasin
+        batsman: V Pasupathy
+    - 0.7:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+    - 1.1:
+        non_striker: Ada Bhasin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 1.2:
+        non_striker: Ada Bhasin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Pasupathy
+    - 1.3:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ada Bhasin
+        wicket:
+          player_out: Ada Bhasin
+          kind: lbw
+    - 1.4:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.5:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.6:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 2.1:
+        non_striker: Shafina Mahesh
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 2.2:
+        non_striker: Shafina Mahesh
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Pasupathy
+    - 2.3:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 2.4:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 2.5:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 2.6:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 2.7:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 2.8:
+        non_striker: V Pasupathy
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 3.1:
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Pasupathy
+    - 3.2:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 3.3:
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 3.4:
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Pasupathy
+    - 3.5:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 3.6:
+        non_striker: V Pasupathy
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 4.1:
+        non_striker: Shafina Mahesh
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 4.2:
+        non_striker: Shafina Mahesh
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Pasupathy
+    - 4.3:
+        non_striker: V Pasupathy
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.4:
+        non_striker: V Pasupathy
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.5:
+        non_striker: V Pasupathy
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.6:
+        non_striker: V Pasupathy
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 5.1:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 5.2:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 5.3:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 5.4:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 5.5:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 5.6:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Pasupathy
+    - 5.7:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 6.1:
+        non_striker: V Pasupathy
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 6.2:
+        non_striker: V Pasupathy
+        bowler: Aisya Eleesa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafina Mahesh
+    - 6.3:
+        non_striker: V Pasupathy
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 6.4:
+        non_striker: V Pasupathy
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 6.5:
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+    - 6.6:
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Pasupathy
+        wicket:
+          player_out: V Pasupathy
+          fielders:
+          - Wan Julia
+          kind: caught
+    - 6.7:
+        non_striker: GK Diviya
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.1:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+    - 7.2:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Diviya
+        wicket:
+          player_out: GK Diviya
+          kind: lbw
+    - 7.3:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vinu Kumar
+    - 7.4:
+        non_striker: Vinu Kumar
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 7.5:
+        non_striker: Vinu Kumar
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 7.6:
+        non_striker: Shafina Mahesh
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.1:
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.2:
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 8.3:
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 8.4:
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+        wicket:
+          player_out: Shafina Mahesh
+          fielders:
+          - Sasha Azmi
+          kind: caught
+    - 8.5:
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 8.6:
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 9.1:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 9.2:
+        non_striker: Vinu Kumar
+        bowler: Sasha Azmi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PSR Gurusinghe
+    - 9.3:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - Mas Elysa
+          kind: caught
+    - 9.4:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 9.5:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CH Abeyratne
+    - 9.6:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 9.7:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PSR Gurusinghe
+    - 10.1:
+        non_striker: PSR Gurusinghe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 10.2:
+        non_striker: PSR Gurusinghe
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Abeyratne
+    - 10.3:
+        non_striker: CH Abeyratne
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 10.4:
+        non_striker: CH Abeyratne
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 10.5:
+        non_striker: CH Abeyratne
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 10.6:
+        non_striker: CH Abeyratne
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 11.1:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 11.2:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 11.3:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 11.4:
+        non_striker: CH Abeyratne
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 11.5:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 11.6:
+        non_striker: PSR Gurusinghe
+        bowler: Sasha Azmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+    - 12.1:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: PSR Gurusinghe
+    - 12.2:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 12.3:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 12.4:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.5:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.6:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 12.7:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PSR Gurusinghe
+    - 12.8:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.9:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: PSR Gurusinghe
+          fielders:
+          - Aisya Eleesa
+          kind: caught
+    - 12.10:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Shukla
+    - 12.11:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 12.12:
+        non_striker: CH Abeyratne
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Shukla
+    - 13.1:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Shukla
+    - 13.2:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 13.3:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 13.4:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 13.5:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 13.6:
+        non_striker: CH Abeyratne
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Shukla
+    - 13.7:
+        non_striker: I Shukla
+        bowler: Mas Elysa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Abeyratne
+    - 13.8:
+        non_striker: I Shukla
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Abeyratne
+        wicket:
+          player_out: CH Abeyratne
+          fielders:
+          - Siow Tzin Yee
+          kind: caught
+    - 14.1:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Pooranakaran
+    - 14.2:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Pooranakaran
+    - 14.3:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Pooranakaran
+        wicket:
+          player_out: JS Pooranakaran
+          fielders:
+          - Sasha Azmi
+          kind: caught
+    - 14.4:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Damini Ramesh
+    - 14.5:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Damini Ramesh
+    - 14.6:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Damini Ramesh
+    - 14.7:
+        non_striker: I Shukla
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Damini Ramesh
+    - 15.1:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Shukla
+    - 15.2:
+        non_striker: I Shukla
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Damini Ramesh
+    - 15.3:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 15.4:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 15.5:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 15.6:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Shukla
+    - 16.1:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 16.2:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 16.3:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 16.4:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+    - 16.5:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Shukla
+        wicket:
+          player_out: I Shukla
+          kind: bowled
+    - 16.6:
+        non_striker: Damini Ramesh
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zay Hua Tan
+    - 17.1:
+        non_striker: Zay Hua Tan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Damini Ramesh
+    - 17.2:
+        non_striker: Zay Hua Tan
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Damini Ramesh
+    - 17.3:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zay Hua Tan
+    - 17.4:
+        non_striker: Damini Ramesh
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zay Hua Tan
+        wicket:
+          player_out: Zay Hua Tan
+          fielders:
+          - Wan Julia
+          kind: stumped

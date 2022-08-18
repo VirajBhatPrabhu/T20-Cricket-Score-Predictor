@@ -1,0 +1,2121 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2022-07-16'
+  gender: male
+  match_type: T20
+  match_type_number: 1663
+  outcome:
+    winner: Italy
+    by:
+      runs: 166
+  overs: 20
+  players:
+    Italy:
+    - J Mosca
+    - Baljit Singh
+    - M Campopiano
+    - AJ Mosca
+    - GP Meade
+    - HJ Manenti
+    - Manpreet Singh
+    - DKD Warnakulasuriya
+    - Jaspreet Singh
+    - Bashar Khan
+    - Ali Hasan
+    Croatia:
+    - JD Newton
+    - WK Bitis
+    - SD Valjalo
+    - JM Vujinovich
+    - DJ Turkich
+    - CP Turkich
+    - D Marsic
+    - J Grzinic
+    - B Jerkovic
+    - Sohail Ahmad
+    - Naseem Khan
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Mosca: 19c56e6e
+      Adnan Khan: 45ec7a99
+      Adriaan van den Dries: 94b5ec3b
+      Ali Hasan: cae17490
+      B Jerkovic: 63bd7086
+      Baljit Singh: 39f0b039
+      Bashar Khan: 308ca4bd
+      CP Turkich: 6264d645
+      D Marsic: 16fa34cf
+      DJ Turkich: '96013995'
+      DKD Warnakulasuriya: 832b77c6
+      GH Pienaar: 3516e46b
+      GP Meade: 3957a70a
+      HJ Manenti: 0e56c514
+      J Grzinic: 03c94c2f
+      J Mosca: 8f02f6a8
+      JD Newton: ec201565
+      JM Vujinovich: 99ad98b0
+      Jaspreet Singh: d76ab352
+      M Campopiano: 26d80a9d
+      Manpreet Singh: e9d6a2ce
+      Naseem Khan: cfbd3998
+      SD Valjalo: 62d3f506
+      Sohail Ahmad: 7e439c80
+      WK Bitis: b34de9a6
+  teams:
+  - Italy
+  - Croatia
+  toss:
+    winner: Italy
+    decision: bat
+  umpires:
+  - Adriaan van den Dries
+  - A Paleker
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Baljit Singh
+        batsman: J Mosca
+    - 0.2:
+        non_striker: J Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 0.3:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 0.4:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - CP Turkich
+          kind: caught
+    - 0.5:
+        bowler: JD Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Campopiano
+        batsman: Baljit Singh
+    - 0.6:
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Campopiano
+        batsman: Baljit Singh
+    - 0.7:
+        non_striker: M Campopiano
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baljit Singh
+    - 1.1:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 1.2:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+        wicket:
+          player_out: M Campopiano
+          fielders:
+          - Naseem Khan
+          kind: caught
+    - 1.3:
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AJ Mosca
+        batsman: Baljit Singh
+    - 1.4:
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Mosca
+        batsman: Baljit Singh
+    - 1.5:
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AJ Mosca
+        batsman: Baljit Singh
+    - 1.6:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 2.1:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 2.2:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.3:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 2.4:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.5:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 2.6:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Baljit Singh
+    - 3.1:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 3.2:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 3.3:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 3.4:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 3.5:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 3.6:
+        non_striker: Baljit Singh
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.1:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.2:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Baljit Singh
+    - 4.3:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baljit Singh
+    - 4.4:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 4.5:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 4.6:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 5.1:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baljit Singh
+    - 5.2:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 5.3:
+        non_striker: Baljit Singh
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 5.4:
+        non_striker: Baljit Singh
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 5.5:
+        non_striker: Baljit Singh
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.6:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baljit Singh
+    - 6.1:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.2:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 6.3:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 6.4:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 6.5:
+        non_striker: Baljit Singh
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.6:
+        non_striker: AJ Mosca
+        bowler: JD Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Baljit Singh
+    - 7.1:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 7.2:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 7.3:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 7.4:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 7.5:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Baljit Singh
+    - 7.6:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Baljit Singh
+    - 8.1:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 8.2:
+        non_striker: AJ Mosca
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 8.3:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 8.4:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 8.5:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 8.6:
+        non_striker: AJ Mosca
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Baljit Singh
+    - 9.1:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.2:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Baljit Singh
+    - 9.3:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 9.4:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.5:
+        non_striker: AJ Mosca
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 9.6:
+        non_striker: Baljit Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.1:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 10.2:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 10.3:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.4:
+        non_striker: AJ Mosca
+        bowler: WK Bitis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Baljit Singh
+    - 10.5:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 10.6:
+        non_striker: Baljit Singh
+        bowler: WK Bitis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 11.1:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baljit Singh
+    - 11.2:
+        non_striker: Baljit Singh
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 11.3:
+        non_striker: Baljit Singh
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 11.4:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Baljit Singh
+    - 11.5:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Baljit Singh
+    - 11.6:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baljit Singh
+        wicket:
+          player_out: Baljit Singh
+          fielders:
+          - D Marsic
+          kind: caught
+    - 12.1:
+        non_striker: AJ Mosca
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 12.2:
+        non_striker: AJ Mosca
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 12.3:
+        non_striker: AJ Mosca
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 12.4:
+        non_striker: AJ Mosca
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 12.5:
+        non_striker: GP Meade
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 12.6:
+        non_striker: GP Meade
+        bowler: Sohail Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 13.1:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 13.2:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 13.3:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 13.4:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 13.5:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AJ Mosca
+    - 13.6:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 14.1:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 14.2:
+        non_striker: AJ Mosca
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 14.3:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 14.4:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 14.5:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 14.6:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Mosca
+    - 14.7:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 15.1:
+        non_striker: AJ Mosca
+        bowler: DJ Turkich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GP Meade
+    - 15.2:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          fielders:
+          - CP Turkich
+          kind: caught
+    - 15.3:
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Manenti
+        batsman: GP Meade
+    - 15.4:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 15.5:
+        non_striker: GP Meade
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 15.6:
+        non_striker: HJ Manenti
+        bowler: DJ Turkich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 16.1:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 16.2:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 16.3:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 16.4:
+        non_striker: HJ Manenti
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 16.5:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 16.6:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 17.1:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GP Meade
+    - 17.2:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 17.3:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GP Meade
+    - 17.4:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 17.5:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 17.6:
+        non_striker: HJ Manenti
+        bowler: SD Valjalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 18.1:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJ Manenti
+    - 18.2:
+        non_striker: HJ Manenti
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 18.3:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 18.4:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 18.5:
+        non_striker: GP Meade
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - JD Newton
+          kind: caught
+    - 18.6:
+        non_striker: Manpreet Singh
+        bowler: JM Vujinovich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 19.1:
+        non_striker: Manpreet Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GP Meade
+    - 19.2:
+        non_striker: Manpreet Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GP Meade
+    - 19.3:
+        non_striker: Manpreet Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 19.4:
+        non_striker: Manpreet Singh
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GP Meade
+    - 19.5:
+        non_striker: GP Meade
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 19.6:
+        non_striker: GP Meade
+        bowler: B Jerkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+- 2nd innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WK Bitis
+        batsman: JD Newton
+    - 0.2:
+        non_striker: WK Bitis
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Newton
+        wicket:
+          player_out: JD Newton
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 0.3:
+        non_striker: WK Bitis
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 0.4:
+        non_striker: WK Bitis
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 0.5:
+        non_striker: SD Valjalo
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 0.6:
+        non_striker: SD Valjalo
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 1.1:
+        non_striker: WK Bitis
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+    - 1.2:
+        non_striker: WK Bitis
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Valjalo
+    - 1.3:
+        non_striker: SD Valjalo
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 1.4:
+        non_striker: SD Valjalo
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Bitis
+    - 1.5:
+        non_striker: SD Valjalo
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Bitis
+    - 1.6:
+        non_striker: WK Bitis
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+        wicket:
+          player_out: WK Bitis
+          fielders:
+          - Baljit Singh
+          kind: run out
+    - 2.1:
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JM Vujinovich
+        batsman: SD Valjalo
+    - 2.2:
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JM Vujinovich
+        batsman: SD Valjalo
+    - 2.3:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Valjalo
+        wicket:
+          player_out: SD Valjalo
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 2.4:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 2.5:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 2.6:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Turkich
+    - 3.1:
+        non_striker: DJ Turkich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 3.2:
+        non_striker: DJ Turkich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 3.3:
+        non_striker: DJ Turkich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 3.4:
+        non_striker: DJ Turkich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 3.5:
+        non_striker: DJ Turkich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 3.6:
+        non_striker: JM Vujinovich
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 4.1:
+        non_striker: DJ Turkich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 4.2:
+        non_striker: DJ Turkich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vujinovich
+    - 4.3:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 4.4:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 4.5:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 4.6:
+        non_striker: JM Vujinovich
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 5.1:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Turkich
+    - 5.2:
+        non_striker: DJ Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vujinovich
+    - 5.3:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+    - 5.4:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Turkich
+        wicket:
+          player_out: DJ Turkich
+          fielders:
+          - Baljit Singh
+          kind: caught
+    - 5.5:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 5.6:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 6.1:
+        non_striker: JM Vujinovich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 6.2:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 6.3:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 6.4:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 6.5:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 6.6:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 7.1:
+        non_striker: JM Vujinovich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CP Turkich
+    - 7.2:
+        non_striker: CP Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+    - 7.3:
+        non_striker: CP Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vujinovich
+        wicket:
+          player_out: JM Vujinovich
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 7.4:
+        non_striker: CP Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 7.5:
+        non_striker: CP Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 7.6:
+        non_striker: CP Turkich
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 8.1:
+        non_striker: D Marsic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 8.2:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 8.3:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 8.4:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 8.5:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+    - 8.6:
+        non_striker: CP Turkich
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Marsic
+        wicket:
+          player_out: D Marsic
+          fielders:
+          - Bashar Khan
+          - Ali Hasan
+          kind: run out
+    - 9.1:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 9.2:
+        non_striker: J Grzinic
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 9.3:
+        non_striker: J Grzinic
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 9.4:
+        non_striker: J Grzinic
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 9.5:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 9.6:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 10.1:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 10.2:
+        non_striker: CP Turkich
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 10.3:
+        non_striker: CP Turkich
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 10.4:
+        non_striker: CP Turkich
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 10.5:
+        non_striker: CP Turkich
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 10.6:
+        non_striker: CP Turkich
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Grzinic
+    - 11.1:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 11.2:
+        non_striker: J Grzinic
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Turkich
+    - 11.3:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 11.4:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 11.5:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 11.6:
+        non_striker: CP Turkich
+        bowler: Baljit Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 12.1:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+    - 12.2:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Turkich
+        wicket:
+          player_out: CP Turkich
+          fielders:
+          - Manpreet Singh
+          kind: stumped
+    - 12.3:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 12.4:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 12.5:
+        non_striker: B Jerkovic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 12.6:
+        non_striker: B Jerkovic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 13.1:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 13.2:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 13.3:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 13.4:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 13.5:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 13.6:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 14.1:
+        non_striker: B Jerkovic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 14.2:
+        non_striker: B Jerkovic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 14.3:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 14.4:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 14.5:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 14.6:
+        non_striker: J Grzinic
+        bowler: DKD Warnakulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 15.1:
+        non_striker: B Jerkovic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 15.2:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Jerkovic
+    - 15.3:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 15.4:
+        non_striker: B Jerkovic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 15.5:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Jerkovic
+    - 15.6:
+        non_striker: J Grzinic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 15.7:
+        non_striker: B Jerkovic
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 16.1:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 16.2:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 16.3:
+        non_striker: B Jerkovic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 16.4:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 16.5:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Jerkovic
+    - 16.6:
+        non_striker: B Jerkovic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 17.1:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 17.2:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 17.3:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Jerkovic
+    - 17.4:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 17.5:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Jerkovic
+    - 17.6:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Jerkovic
+    - 17.7:
+        non_striker: J Grzinic
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 18.1:
+        non_striker: B Jerkovic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 18.2:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 18.3:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 18.4:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 18.5:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 18.6:
+        non_striker: J Grzinic
+        bowler: Bashar Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 19.1:
+        non_striker: B Jerkovic
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 19.2:
+        non_striker: B Jerkovic
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Grzinic
+    - 19.3:
+        non_striker: J Grzinic
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Jerkovic
+    - 19.4:
+        non_striker: J Grzinic
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: B Jerkovic
+    - 19.5:
+        non_striker: B Jerkovic
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic
+    - 19.6:
+        non_striker: B Jerkovic
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grzinic

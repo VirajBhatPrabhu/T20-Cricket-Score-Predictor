@@ -1,0 +1,2215 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2022-01-19'
+  gender: female
+  match_type: T20
+  match_type_number: 1017
+  outcome:
+    winner: Scotland
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  players:
+    Scotland:
+    - SJ Bryce
+    - A Aitken
+    - KE Bryce
+    - K McGill
+    - A Lister
+    - CM Scott
+    - R Slater
+    - K Fraser
+    - PA Chatterji
+    - HRA Rainey
+    - AH Maqsood
+    Malaysia:
+    - WA Duraisingam
+    - Wan Julia
+    - Mas Elysa
+    - Yusrina Yaakop
+    - Ainna Hamizah Hashim
+    - Nurilyaa Natasya
+    - Nur Arianna Natsya
+    - J Intan
+    - Wan Nor Zulaika
+    - Nik Nur Atiela
+    - Nur Dania Syuhada
+  registry:
+    people:
+      A Aitken: 25c73eb6
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      Ainna Hamizah Hashim: 4c7744de
+      CM Scott: e0da9b14
+      GS Lakshmi: ba8d5615
+      HRA Rainey: 7027d12f
+      J Intan: 2dfdd316
+      K Fraser: a0a65375
+      K McGill: bba7558e
+      KE Bryce: f13d3eba
+      Mas Elysa: 857de42e
+      Nik Nur Atiela: cfdfe39c
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Nurilyaa Natasya: 5014c9d9
+      PA Chatterji: 8e7be59c
+      R Slater: 8a452195
+      SJ Bryce: 2ca65aee
+      Shiju Sam: 1e2f3eae
+      V Kalidas: 42d76418
+      Vinod Babu: 37e6187d
+      WA Duraisingam: 7467fe01
+      Wan Julia: bee0c85c
+      Wan Nor Zulaika: ae99724d
+      Yusrina Yaakop: c74d14f1
+  teams:
+  - Scotland
+  - Malaysia
+  toss:
+    winner: Scotland
+    decision: bat
+  umpires:
+  - Shiju Sam
+  - Vinod Babu
+  venue: Kinrara Academy Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.2:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.3:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.4:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.5:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Aitken
+        batsman: SJ Bryce
+    - 0.6:
+        non_striker: SJ Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 1.1:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 1.2:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 1.3:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 1.4:
+        non_striker: SJ Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 1.5:
+        non_striker: SJ Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 1.6:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 2.1:
+        non_striker: SJ Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 2.2:
+        non_striker: SJ Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 2.3:
+        non_striker: A Aitken
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 2.4:
+        non_striker: A Aitken
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 2.5:
+        non_striker: SJ Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 2.6:
+        non_striker: A Aitken
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 3.1:
+        non_striker: SJ Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 3.2:
+        non_striker: SJ Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 3.3:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 3.4:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Bryce
+    - 3.5:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 3.6:
+        non_striker: SJ Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 3.7:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.1:
+        non_striker: SJ Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 4.2:
+        non_striker: SJ Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 4.3:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.4:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - Ainna Hamizah Hashim
+          kind: caught
+    - 4.6:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 5.1:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.2:
+        non_striker: KE Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 5.3:
+        non_striker: KE Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 5.4:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.5:
+        non_striker: A Aitken
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: KE Bryce
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 6.1:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aitken
+    - 6.2:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 6.3:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.4:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.5:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 7.1:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 7.3:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 7.4:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.5:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.6:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 8.1:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.2:
+        non_striker: KE Bryce
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 8.3:
+        non_striker: KE Bryce
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 8.4:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.6:
+        non_striker: KE Bryce
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 9.1:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 9.2:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.3:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 9.4:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 9.5:
+        non_striker: A Aitken
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.6:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 10.1:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 10.2:
+        non_striker: KE Bryce
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 10.3:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 10.4:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 10.5:
+        non_striker: A Aitken
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: KE Bryce
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 11.1:
+        non_striker: KE Bryce
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 11.2:
+        non_striker: A Aitken
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: KE Bryce
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 11.4:
+        non_striker: A Aitken
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.5:
+        non_striker: KE Bryce
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken
+    - 11.6:
+        non_striker: KE Bryce
+        bowler: Wan Nor Zulaika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 12.1:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 12.2:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken
+    - 12.4:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.5:
+        non_striker: A Aitken
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.6:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+    - 13.1:
+        non_striker: A Aitken
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.2:
+        non_striker: KE Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aitken
+    - 13.3:
+        non_striker: KE Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken
+        wicket:
+          player_out: A Aitken
+          fielders:
+          - Wan Julia
+          kind: stumped
+    - 13.4:
+        non_striker: KE Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 13.5:
+        non_striker: KE Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 13.6:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 14.1:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 14.2:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 14.3:
+        non_striker: K McGill
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.4:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K McGill
+    - 14.5:
+        non_striker: K McGill
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 14.6:
+        non_striker: KE Bryce
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+    - 15.1:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 15.2:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 15.3:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 15.4:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 15.5:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 15.6:
+        non_striker: K McGill
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 15.7:
+        non_striker: KE Bryce
+        bowler: Nik Nur Atiela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K McGill
+        wicket:
+          player_out: K McGill
+          fielders:
+          - Wan Julia
+          kind: stumped
+    - 16.1:
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Lister
+        batsman: KE Bryce
+    - 16.2:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 16.3:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - Nur Arianna Natsya
+          kind: caught
+    - 16.4:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Scott
+    - 16.5:
+        non_striker: CM Scott
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 16.6:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Scott
+        wicket:
+          player_out: CM Scott
+          kind: caught and bowled
+    - 17.1:
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Slater
+        batsman: KE Bryce
+    - 17.2:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 17.3:
+        non_striker: R Slater
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 17.4:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Slater
+    - 17.5:
+        non_striker: R Slater
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 17.6:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 18.1:
+        non_striker: R Slater
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 18.2:
+        non_striker: R Slater
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 18.3:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 18.4:
+        non_striker: KE Bryce
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 18.5:
+        non_striker: R Slater
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 18.6:
+        non_striker: R Slater
+        bowler: Mas Elysa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 19.1:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Slater
+    - 19.2:
+        non_striker: R Slater
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 19.3:
+        non_striker: R Slater
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 19.4:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Slater
+    - 19.5:
+        non_striker: KE Bryce
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Slater
+    - 19.6:
+        non_striker: R Slater
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.2:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Julia
+        batsman: WA Duraisingam
+    - 0.6:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 1.1:
+        non_striker: Wan Julia
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 1.2:
+        non_striker: Wan Julia
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 1.3:
+        non_striker: Wan Julia
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 1.4:
+        non_striker: Wan Julia
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 1.5:
+        non_striker: WA Duraisingam
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 1.6:
+        non_striker: WA Duraisingam
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Julia
+    - 2.1:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 2.2:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 2.3:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 2.4:
+        non_striker: WA Duraisingam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 2.5:
+        non_striker: WA Duraisingam
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 2.6:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Duraisingam
+    - 2.7:
+        non_striker: Wan Julia
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Duraisingam
+    - 3.1:
+        non_striker: WA Duraisingam
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 3.2:
+        non_striker: Wan Julia
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Duraisingam
+    - 3.3:
+        non_striker: WA Duraisingam
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Julia
+    - 3.4:
+        non_striker: WA Duraisingam
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 3.5:
+        non_striker: WA Duraisingam
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Julia
+    - 3.6:
+        non_striker: Wan Julia
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+    - 4.1:
+        non_striker: WA Duraisingam
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 4.2:
+        non_striker: WA Duraisingam
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+    - 4.3:
+        non_striker: WA Duraisingam
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Julia
+        wicket:
+          player_out: Wan Julia
+          fielders:
+          - A Aitken
+          kind: caught
+    - 4.4:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Mas Elysa
+        batsman: WA Duraisingam
+    - 4.5:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mas Elysa
+        batsman: WA Duraisingam
+    - 4.6:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: bowled
+    - 5.1:
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.2:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.3:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.4:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.5:
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.6:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.7:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yusrina Yaakop
+        batsman: Mas Elysa
+    - 5.8:
+        non_striker: Yusrina Yaakop
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 6.1:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusrina Yaakop
+    - 6.2:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yusrina Yaakop
+        wicket:
+          player_out: Yusrina Yaakop
+          kind: lbw
+    - 6.3:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.4:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.5:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 6.6:
+        non_striker: Mas Elysa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 7.1:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.2:
+        non_striker: Mas Elysa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 7.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 7.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurilyaa Natasya
+    - 7.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurilyaa Natasya
+    - 7.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurilyaa Natasya
+        wicket:
+          player_out: Nurilyaa Natasya
+          kind: lbw
+    - 8.1:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Nur Arianna Natsya
+        batsman: Ainna Hamizah Hashim
+    - 8.2:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nur Arianna Natsya
+        batsman: Ainna Hamizah Hashim
+    - 8.3:
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nur Arianna Natsya
+        batsman: Ainna Hamizah Hashim
+    - 8.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 8.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 8.6:
+        non_striker: Nur Arianna Natsya
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.1:
+        non_striker: Nur Arianna Natsya
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nur Arianna Natsya
+    - 9.3:
+        non_striker: Nur Arianna Natsya
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.4:
+        non_striker: Nur Arianna Natsya
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 9.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 9.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 9.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+    - 10.1:
+        non_striker: Nur Arianna Natsya
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ainna Hamizah Hashim
+    - 10.2:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          fielders:
+          - HRA Rainey
+          kind: caught
+    - 10.3:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Intan
+    - 10.4:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Intan
+    - 10.5:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 10.6:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Intan
+    - 10.7:
+        non_striker: Ainna Hamizah Hashim
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 11.1:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 11.2:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.3:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.4:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.5:
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.6:
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.7:
+        bowler: HRA Rainey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Wan Nor Zulaika
+        batsman: J Intan
+    - 11.8:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 12.1:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 12.2:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Intan
+    - 12.3:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Intan
+    - 12.4:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 12.5:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 12.6:
+        non_striker: J Intan
+        bowler: CM Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 12.7:
+        non_striker: Wan Nor Zulaika
+        bowler: CM Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Intan
+    - 12.8:
+        non_striker: J Intan
+        bowler: CM Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 13.1:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 13.2:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 13.3:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 13.4:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Nor Zulaika
+    - 13.5:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 13.6:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wan Nor Zulaika
+    - 13.7:
+        non_striker: J Intan
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 14.1:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 14.2:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Intan
+    - 14.3:
+        non_striker: J Intan
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Nor Zulaika
+    - 14.4:
+        non_striker: J Intan
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Wan Nor Zulaika
+    - 14.5:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 14.6:
+        non_striker: J Intan
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 15.1:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Intan
+    - 15.2:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Wan Nor Zulaika
+    - 15.3:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 15.4:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 15.5:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 15.6:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 15.7:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 15.8:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 16.1:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 16.2:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 16.3:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 16.4:
+        non_striker: Wan Nor Zulaika
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 16.5:
+        non_striker: J Intan
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 16.6:
+        non_striker: J Intan
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Wan Nor Zulaika
+    - 17.1:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 17.2:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 17.3:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 17.4:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wan Nor Zulaika
+    - 17.5:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 17.6:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 18.1:
+        non_striker: J Intan
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 18.2:
+        non_striker: Wan Nor Zulaika
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 18.3:
+        non_striker: Wan Nor Zulaika
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+    - 18.4:
+        non_striker: Wan Nor Zulaika
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Intan
+    - 18.5:
+        non_striker: Wan Nor Zulaika
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 18.6:
+        non_striker: J Intan
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 19.1:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Intan
+    - 19.2:
+        non_striker: J Intan
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wan Nor Zulaika
+    - 19.3:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Intan
+        wicket:
+          player_out: J Intan
+          fielders:
+          - CM Scott
+          kind: caught
+    - 19.4:
+        non_striker: Wan Nor Zulaika
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nik Nur Atiela
+    - 19.5:
+        non_striker: Nik Nur Atiela
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wan Nor Zulaika
+    - 19.6:
+        non_striker: Nik Nur Atiela
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wan Nor Zulaika

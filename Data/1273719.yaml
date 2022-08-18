@@ -1,0 +1,2070 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-20'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  dates:
+  - '2021-10-20'
+  gender: male
+  match_type: T20
+  match_type_number: 1331
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 70
+  overs: 20
+  player_of_match:
+  - PWH de Silva
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - MDKJ Perera
+    - LD Chandimal
+    - WIA Fernando
+    - PWH de Silva
+    - PBB Rajapaksa
+    - MD Shanaka
+    - C Karunaratne
+    - PVD Chameera
+    - M Theekshana
+    - CBRLS Kumara
+    Ireland:
+    - PR Stirling
+    - KJ O'Brien
+    - A Balbirnie
+    - GJ Delany
+    - C Campher
+    - HT Tector
+    - NA Rock
+    - MR Adair
+    - Simi Singh
+    - CA Young
+    - J Little
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      C Campher: 478a63e7
+      C Karunaratne: fb3e0d39
+      CA Young: bd0a4a7d
+      CBRLS Kumara: 4751caa3
+      GJ Delany: 33b3d2df
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      J Srinath: bad31fac
+      KJ O'Brien: 243431b5
+      L Rusere: 6a4734ae
+      LD Chandimal: 8dd02a98
+      M Theekshana: f24c6701
+      MA Gough: 76752ac8
+      MD Shanaka: 3ff033bb
+      MDKJ Perera: f21043a5
+      MR Adair: fc55ec67
+      NA Rock: 43f4087c
+      Nitin Menon: e1d41d9e
+      P Nissanka: 8ee36b18
+      P Wilson: 68304a36
+      PBB Rajapaksa: 6c882e9a
+      PR Stirling: cf494ffe
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      Simi Singh: c9945bdf
+      WIA Fernando: 9550470d
+  teams:
+  - Sri Lanka
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Nitin Menon
+  - P Wilson
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: MDKJ Perera
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - GJ Delany
+          kind: caught
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 0.4:
+        non_striker: LD Chandimal
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Chandimal
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LD Chandimal
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Chandimal
+        wicket:
+          player_out: LD Chandimal
+          kind: bowled
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          kind: bowled
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 1.7:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 2.1:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 3.1:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 3.2:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 3.3:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 3.4:
+        non_striker: PWH de Silva
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 4.1:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.3:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.4:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 4.6:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.1:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.3:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.4:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.5:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.6:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 6.1:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.4:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.6:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.1:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.2:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 7.3:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 7.4:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.5:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 7.6:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 8.1:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 8.2:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 8.3:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 8.4:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 8.5:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.6:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.1:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.2:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.3:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 9.4:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.5:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.6:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 10.1:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.2:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.3:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.4:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.5:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 10.6:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.1:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.2:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 11.3:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 11.4:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 11.5:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 11.6:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 12.1:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.2:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 12.3:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.4:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 12.5:
+        non_striker: PWH de Silva
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 12.6:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.1:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 13.2:
+        non_striker: PWH de Silva
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.3:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.4:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 13.5:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 13.6:
+        non_striker: P Nissanka
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 14.1:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 14.2:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 14.3:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 14.4:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 14.5:
+        non_striker: PWH de Silva
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.6:
+        non_striker: P Nissanka
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 15.1:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 15.2:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - CA Young
+          kind: caught
+    - 15.3:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 15.4:
+        non_striker: PBB Rajapaksa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 15.5:
+        non_striker: PBB Rajapaksa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.6:
+        non_striker: PBB Rajapaksa
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 16.1:
+        non_striker: PBB Rajapaksa
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 16.2:
+        non_striker: PBB Rajapaksa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 16.3:
+        non_striker: PBB Rajapaksa
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 16.4:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 16.5:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - HT Tector
+          kind: caught
+    - 16.6:
+        non_striker: MD Shanaka
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 16.7:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 17.2:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 17.4:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.5:
+        non_striker: MD Shanaka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 17.6:
+        non_striker: P Nissanka
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.1:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 18.2:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.3:
+        non_striker: MD Shanaka
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Nissanka
+    - 18.4:
+        non_striker: P Nissanka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.5:
+        non_striker: MD Shanaka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - NA Rock
+          kind: caught
+    - 18.6:
+        non_striker: MD Shanaka
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+    - 19.1:
+        non_striker: C Karunaratne
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 19.2:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Karunaratne
+    - 19.3:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+        wicket:
+          player_out: C Karunaratne
+          kind: bowled
+    - 19.4:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 19.5:
+        non_striker: PVD Chameera
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.6:
+        non_striker: PVD Chameera
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: KJ O'Brien
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 0.4:
+        non_striker: KJ O'Brien
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: KJ O'Brien
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ O'Brien
+    - 0.7:
+        non_striker: PR Stirling
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          fielders:
+          - M Theekshana
+          kind: caught
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - CBRLS Kumara
+          kind: caught
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 2.5:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 2.6:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Delany
+    - 3.1:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.2:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Balbirnie
+    - 3.4:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: GJ Delany
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.1:
+        non_striker: GJ Delany
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          kind: bowled
+    - 4.3:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.4:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.5:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.6:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 6.1:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.2:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.4:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 6.5:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 6.6:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.1:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher
+    - 7.2:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.3:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 7.4:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 7.6:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.1:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.2:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.3:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 8.4:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.5:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 8.6:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.1:
+        non_striker: C Campher
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.2:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.3:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: C Campher
+    - 9.4:
+        non_striker: C Campher
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.5:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 9.6:
+        non_striker: C Campher
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.1:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.2:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 10.3:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 10.4:
+        non_striker: A Balbirnie
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.5:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 10.6:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.1:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.2:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.3:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 11.4:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Campher
+    - 11.5:
+        non_striker: A Balbirnie
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.6:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 11.7:
+        non_striker: C Campher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 12.1:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher
+    - 12.2:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.3:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 12.4:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.5:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          kind: bowled
+    - 12.6:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.1:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.2:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.3:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 13.4:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.5:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - MDKJ Perera
+          kind: caught
+    - 13.6:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 14.1:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 14.2:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - MDKJ Perera
+          kind: stumped
+    - 14.3:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 14.4:
+        non_striker: MR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 14.5:
+        non_striker: A Balbirnie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 14.6:
+        non_striker: MR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 15.1:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - PVD Chameera
+          kind: run out
+    - 15.2:
+        non_striker: Simi Singh
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 15.3:
+        non_striker: A Balbirnie
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 15.4:
+        non_striker: Simi Singh
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 15.5:
+        non_striker: Simi Singh
+        bowler: CBRLS Kumara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Young
+    - 15.6:
+        non_striker: CA Young
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 16.1:
+        non_striker: CA Young
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 16.2:
+        non_striker: Simi Singh
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 16.3:
+        non_striker: Simi Singh
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 16.4:
+        non_striker: Simi Singh
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 16.5:
+        non_striker: Simi Singh
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 16.6:
+        non_striker: CA Young
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 17.1:
+        non_striker: Simi Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+        wicket:
+          player_out: CA Young
+          kind: bowled
+    - 17.2:
+        non_striker: Simi Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 17.3:
+        non_striker: J Little
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 17.4:
+        non_striker: J Little
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 17.5:
+        non_striker: J Little
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 17.6:
+        non_striker: Simi Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 18.1:
+        non_striker: J Little
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 18.2:
+        non_striker: J Little
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 18.3:
+        non_striker: Simi Singh
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+        wicket:
+          player_out: J Little
+          kind: bowled

@@ -1,0 +1,2313 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2022-07-03'
+  gender: male
+  match_type: T20
+  match_type_number: 1605
+  outcome:
+    winner: Papua New Guinea
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - TP Ura
+  players:
+    Singapore:
+    - R Rohan
+    - S Chandramohan
+    - R Gaznavi
+    - Aman Desai
+    - A Mutreja
+    - Janak Prakash
+    - U Aryaman Sunil
+    - V Baskaran
+    - Amjad Mahboob
+    - NA Karnik
+    - AR Puri
+    Papua New Guinea:
+    - L Siaka
+    - A Vala
+    - CJA Amini
+    - S Bau
+    - TP Ura
+    - R Hekure
+    - N Vanua
+    - HGV Vare
+    - D Ravu
+    - SK Atai
+    - SI Kamea
+  registry:
+    people:
+      A Mutreja: a2ec22d2
+      A Vala: 72e60730
+      AR Puri: 1f490b28
+      Aman Desai: c10fd8f9
+      Amjad Mahboob: 48f25627
+      CJA Amini: 4d84ad05
+      D Ravu: 053f3ce3
+      HGV Vare: 98299b67
+      Hardeep Jadeja: 552cf5a2
+      Janak Prakash: f092b4c7
+      L Siaka: 6b4593ee
+      N Vanua: a36915ce
+      NA Karnik: 835a58da
+      R Gaznavi: '0079f139'
+      R Hekure: c70448aa
+      R Rohan: baf0fc26
+      R Selvaratnam: ba23c98e
+      S Bau: 9a95bebb
+      S Chandramohan: 2a6ccc1c
+      SI Kamea: 0730a707
+      SK Atai: a64e3b89
+      Sarika Prasad: 8ff397fa
+      T Senthil Kumar: 961ddfac
+      TP Ura: a82eb3fb
+      U Aryaman Sunil: 13bc54a8
+      V Baskaran: dd5a9067
+  teams:
+  - Singapore
+  - Papua New Guinea
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - Hardeep Jadeja
+  - T Senthil Kumar
+  venue: Indian Association Ground, Singapore
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: SK Atai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Chandramohan
+        batsman: R Rohan
+    - 0.2:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rohan
+        wicket:
+          player_out: R Rohan
+          kind: bowled
+    - 0.3:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 0.4:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 0.5:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 0.6:
+        non_striker: R Gaznavi
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 0.7:
+        non_striker: R Gaznavi
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 1.1:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Gaznavi
+    - 1.2:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Gaznavi
+    - 1.3:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 1.4:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 1.5:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+        wicket:
+          player_out: R Gaznavi
+          fielders:
+          - N Vanua
+          kind: caught
+    - 1.6:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Aman Desai
+    - 2.1:
+        non_striker: S Chandramohan
+        bowler: S Bau
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 2.2:
+        non_striker: S Chandramohan
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 2.3:
+        non_striker: Aman Desai
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 2.4:
+        non_striker: S Chandramohan
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 2.5:
+        non_striker: Aman Desai
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 2.6:
+        non_striker: Aman Desai
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 2.7:
+        non_striker: S Chandramohan
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 3.1:
+        non_striker: Aman Desai
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 3.2:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 3.3:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 3.4:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 3.5:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aman Desai
+    - 3.6:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 4.1:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 4.2:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 4.3:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 4.4:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 4.5:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 4.6:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 5.1:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.2:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.3:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 5.4:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.5:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 5.6:
+        non_striker: Aman Desai
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 6.1:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 6.2:
+        non_striker: Aman Desai
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 6.3:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 6.4:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 6.5:
+        non_striker: S Chandramohan
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 6.6:
+        non_striker: Aman Desai
+        bowler: SK Atai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 7.1:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 7.2:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 7.3:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 7.4:
+        non_striker: Aman Desai
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 7.5:
+        non_striker: Aman Desai
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 7.6:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 8.1:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aman Desai
+    - 8.2:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 8.3:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 8.4:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 8.5:
+        non_striker: Aman Desai
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 8.6:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - L Siaka
+          kind: caught
+    - 9.1:
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mutreja
+        batsman: S Chandramohan
+    - 9.2:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mutreja
+    - 9.3:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 9.4:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 9.5:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+    - 9.6:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 9.7:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.1:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.2:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 10.3:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 10.4:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mutreja
+    - 10.5:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 10.6:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 11.1:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mutreja
+    - 11.2:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 11.3:
+        non_striker: A Mutreja
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 11.4:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 11.5:
+        non_striker: A Mutreja
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 11.6:
+        non_striker: A Mutreja
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 12.1:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mutreja
+    - 12.2:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 12.3:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 12.4:
+        non_striker: A Mutreja
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 12.5:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mutreja
+    - 12.6:
+        non_striker: S Chandramohan
+        bowler: CJA Amini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mutreja
+    - 13.1:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 13.2:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mutreja
+    - 13.3:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 13.4:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 13.5:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Chandramohan
+    - 13.6:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mutreja
+    - 13.7:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 13.8:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 14.1:
+        non_striker: A Mutreja
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 14.2:
+        non_striker: A Mutreja
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 14.3:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mutreja
+    - 14.4:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 14.5:
+        non_striker: A Mutreja
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 14.6:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Mutreja
+    - 14.7:
+        non_striker: A Mutreja
+        bowler: D Ravu
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Chandramohan
+    - 14.8:
+        non_striker: S Chandramohan
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mutreja
+    - 15.1:
+        non_striker: A Mutreja
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 15.2:
+        non_striker: A Mutreja
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 15.3:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mutreja
+    - 15.4:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mutreja
+    - 15.5:
+        non_striker: S Chandramohan
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 15.6:
+        non_striker: A Mutreja
+        bowler: SI Kamea
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 16.1:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 16.2:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 16.3:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chandramohan
+    - 16.4:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 16.5:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mutreja
+    - 16.6:
+        non_striker: S Chandramohan
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 16.7:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chandramohan
+    - 16.8:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chandramohan
+    - 16.9:
+        non_striker: A Mutreja
+        bowler: R Hekure
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chandramohan
+    - 17.1:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 17.2:
+        non_striker: A Mutreja
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+    - 17.3:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mutreja
+    - 17.4:
+        non_striker: A Mutreja
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chandramohan
+        wicket:
+          player_out: A Mutreja
+          fielders:
+          - HGV Vare
+          - SI Kamea
+          kind: run out
+    - 17.5:
+        non_striker: S Chandramohan
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Janak Prakash
+    - 17.6:
+        non_striker: Janak Prakash
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chandramohan
+        wicket:
+          player_out: S Chandramohan
+          fielders:
+          - HGV Vare
+          kind: caught
+    - 18.1:
+        bowler: D Ravu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: U Aryaman Sunil
+        batsman: Janak Prakash
+    - 18.2:
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: U Aryaman Sunil
+        batsman: Janak Prakash
+    - 18.3:
+        non_striker: U Aryaman Sunil
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Janak Prakash
+        wicket:
+          player_out: Janak Prakash
+          kind: bowled
+    - 18.4:
+        non_striker: U Aryaman Sunil
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Baskaran
+    - 18.5:
+        non_striker: V Baskaran
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Aryaman Sunil
+    - 18.6:
+        non_striker: U Aryaman Sunil
+        bowler: D Ravu
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: V Baskaran
+    - 18.7:
+        non_striker: U Aryaman Sunil
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Baskaran
+    - 18.8:
+        non_striker: U Aryaman Sunil
+        bowler: D Ravu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Baskaran
+        wicket:
+          player_out: V Baskaran
+          fielders:
+          - A Vala
+          kind: caught
+    - 19.1:
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amjad Mahboob
+        batsman: U Aryaman Sunil
+    - 19.2:
+        non_striker: U Aryaman Sunil
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Mahboob
+    - 19.3:
+        non_striker: Amjad Mahboob
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Aryaman Sunil
+    - 19.4:
+        non_striker: U Aryaman Sunil
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amjad Mahboob
+    - 19.5:
+        non_striker: Amjad Mahboob
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Aryaman Sunil
+    - 19.6:
+        non_striker: Amjad Mahboob
+        bowler: N Vanua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Aryaman Sunil
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vala
+        batsman: L Siaka
+    - 0.2:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vala
+        batsman: L Siaka
+    - 0.3:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Vala
+        batsman: L Siaka
+    - 0.4:
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Vala
+        batsman: L Siaka
+    - 0.5:
+        non_striker: L Siaka
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vala
+    - 0.6:
+        non_striker: A Vala
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+    - 1.1:
+        non_striker: L Siaka
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Vala
+    - 1.2:
+        non_striker: A Vala
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+    - 1.3:
+        non_striker: A Vala
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+    - 1.4:
+        non_striker: A Vala
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+        wicket:
+          player_out: L Siaka
+          fielders:
+          - Janak Prakash
+          kind: caught
+    - 1.5:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJA Amini
+        batsman: A Vala
+    - 1.6:
+        non_striker: CJA Amini
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vala
+    - 2.1:
+        non_striker: A Vala
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJA Amini
+    - 2.2:
+        non_striker: A Vala
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJA Amini
+    - 2.3:
+        non_striker: CJA Amini
+        bowler: Amjad Mahboob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Vala
+    - 2.4:
+        non_striker: CJA Amini
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Vala
+        wicket:
+          player_out: A Vala
+          fielders:
+          - S Chandramohan
+          kind: caught
+    - 2.5:
+        non_striker: CJA Amini
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 2.6:
+        non_striker: CJA Amini
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 2.7:
+        non_striker: CJA Amini
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 3.1:
+        non_striker: S Bau
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJA Amini
+    - 3.2:
+        non_striker: S Bau
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJA Amini
+        wicket:
+          player_out: CJA Amini
+          fielders:
+          - A Mutreja
+          kind: caught
+    - 3.3:
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TP Ura
+        batsman: S Bau
+    - 3.4:
+        non_striker: S Bau
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 3.5:
+        non_striker: S Bau
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 3.6:
+        non_striker: S Bau
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 3.7:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 4.1:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 4.2:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 4.3:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 4.4:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 4.5:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 4.6:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 4.7:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 4.8:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 4.9:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 4.10:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 4.11:
+        non_striker: S Bau
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 5.1:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+        wicket:
+          player_out: S Bau
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 5.2:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hekure
+    - 5.3:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hekure
+    - 5.4:
+        non_striker: R Hekure
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 5.5:
+        non_striker: R Hekure
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 5.6:
+        non_striker: R Hekure
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 6.1:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hekure
+    - 6.2:
+        non_striker: R Hekure
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 6.3:
+        non_striker: R Hekure
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 6.4:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Hekure
+    - 6.5:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hekure
+    - 6.6:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hekure
+    - 7.1:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hekure
+        wicket:
+          player_out: R Hekure
+          kind: bowled
+    - 7.2:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 7.3:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 7.4:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 7.5:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 7.6:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 7.7:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 8.1:
+        non_striker: TP Ura
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vanua
+    - 8.2:
+        non_striker: TP Ura
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 8.3:
+        non_striker: TP Ura
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 8.4:
+        non_striker: N Vanua
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 8.5:
+        non_striker: N Vanua
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 8.6:
+        non_striker: N Vanua
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 9.1:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 9.2:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 9.3:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 9.4:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 9.5:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 9.6:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 9.7:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vanua
+    - 9.8:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 10.1:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vanua
+    - 10.2:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 10.3:
+        non_striker: N Vanua
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.4:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vanua
+    - 10.5:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 10.6:
+        non_striker: N Vanua
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 11.1:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 11.2:
+        non_striker: N Vanua
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 11.3:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 11.4:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 11.5:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vanua
+    - 11.6:
+        non_striker: TP Ura
+        bowler: V Baskaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 12.1:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 12.2:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 12.3:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Vanua
+    - 12.4:
+        non_striker: N Vanua
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 12.5:
+        non_striker: N Vanua
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 12.6:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 12.7:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 13.1:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 13.2:
+        non_striker: N Vanua
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 13.3:
+        non_striker: N Vanua
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 13.4:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 13.5:
+        non_striker: N Vanua
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 13.6:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+    - 14.1:
+        non_striker: N Vanua
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 14.2:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 14.3:
+        non_striker: N Vanua
+        bowler: Janak Prakash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TP Ura
+    - 14.4:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vanua
+    - 14.5:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 14.6:
+        non_striker: N Vanua
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 15.1:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 15.2:
+        non_striker: N Vanua
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 15.3:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 15.4:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 15.5:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Vanua
+    - 15.6:
+        non_striker: TP Ura
+        bowler: U Aryaman Sunil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vanua
+    - 16.1:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Vanua
+    - 16.2:
+        non_striker: N Vanua
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 16.3:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vanua
+        wicket:
+          player_out: N Vanua
+          kind: bowled
+    - 16.4:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HGV Vare
+    - 16.5:
+        non_striker: HGV Vare
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 16.6:
+        non_striker: TP Ura
+        bowler: Amjad Mahboob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HGV Vare
+    - 17.1:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HGV Vare
+    - 17.2:
+        non_striker: HGV Vare
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 17.3:
+        non_striker: HGV Vare
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 17.4:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HGV Vare
+    - 17.5:
+        non_striker: HGV Vare
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 17.6:
+        non_striker: HGV Vare
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 18.1:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HGV Vare
+    - 18.2:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HGV Vare
+    - 18.3:
+        non_striker: HGV Vare
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 18.4:
+        non_striker: HGV Vare
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 18.5:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HGV Vare
+    - 18.6:
+        non_striker: TP Ura
+        bowler: Janak Prakash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HGV Vare
+        wicket:
+          player_out: HGV Vare
+          kind: bowled
+    - 19.1:
+        bowler: NA Karnik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Ravu
+        batsman: TP Ura
+    - 19.2:
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ravu
+        batsman: TP Ura
+    - 19.3:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ravu
+    - 19.4:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ravu
+    - 19.5:
+        non_striker: TP Ura
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ravu
+    - 19.6:
+        non_striker: D Ravu
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura

@@ -1,0 +1,2193 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2022-07-29'
+  gender: male
+  match_type: T20
+  match_type_number: 1701
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 102
+  overs: 20
+  player_of_match:
+  - MS Chapman
+  players:
+    New Zealand:
+    - D Cleaver
+    - FH Allen
+    - MS Chapman
+    - DJ Mitchell
+    - MG Bracewell
+    - JDS Neesham
+    - MJ Santner
+    - MJG Rippon
+    - IS Sodhi
+    - JA Duffy
+    - BV Sears
+    Scotland:
+    - HG Munsey
+    - MA Jones
+    - MH Cross
+    - RD Berrington
+    - OJ Hairs
+    - CN Greaves
+    - MA Leask
+    - MRJ Watt
+    - GT Main
+    - AC Evans
+    - Hamza Tahir
+  registry:
+    people:
+      AC Evans: e9a870ed
+      BV Sears: e1891e00
+      CN Greaves: f42064d5
+      D Cleaver: e3a949be
+      DA Haggo: e6789a88
+      DH Mclean: 281d4749
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GT Main: 4ebc70ca
+      HG Munsey: ff014c34
+      Hamza Tahir: 34cb2f69
+      IS Sodhi: 641ac5ff
+      JA Duffy: dadbdb68
+      JDS Neesham: 9219eff0
+      MA Jones: 05f96194
+      MA Leask: '28131839'
+      MG Bracewell: e38bce7a
+      MH Cross: 8b261d84
+      MJ Santner: e4a0deae
+      MJG Rippon: b03db6fa
+      MRJ Watt: 1252f71a
+      MS Chapman: 7fa12533
+      OJ Hairs: c8a7b014
+      RD Berrington: e21bc7f3
+      Ryan Milne: d2343b26
+      Wayne Noon: 736e1761
+  teams:
+  - New Zealand
+  - Scotland
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - DH Mclean
+  - Ryan Milne
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 0.4:
+        non_striker: D Cleaver
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.5:
+        non_striker: D Cleaver
+        bowler: Hamza Tahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 0.6:
+        non_striker: FH Allen
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.1:
+        non_striker: D Cleaver
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.2:
+        non_striker: D Cleaver
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 1.3:
+        non_striker: FH Allen
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 1.4:
+        non_striker: FH Allen
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.5:
+        non_striker: FH Allen
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 1.6:
+        non_striker: FH Allen
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 2.2:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 2.4:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.5:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.6:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.7:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.2:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.3:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.4:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 3.5:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 3.6:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.7:
+        non_striker: D Cleaver
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 4.1:
+        non_striker: MS Chapman
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.2:
+        non_striker: MS Chapman
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.3:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.6:
+        non_striker: D Cleaver
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 5.1:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Cleaver
+    - 5.3:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 5.4:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - OJ Hairs
+          kind: caught
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.7:
+        non_striker: DJ Mitchell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.6:
+        non_striker: DJ Mitchell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: MA Leask
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 7.4:
+        non_striker: MS Chapman
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 8.1:
+        non_striker: MS Chapman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.4:
+        non_striker: MS Chapman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: MS Chapman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.1:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.4:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - AC Evans
+          kind: caught
+    - 11.1:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 11.2:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.3:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 11.4:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MG Bracewell
+    - 11.5:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.6:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 11.7:
+        non_striker: MS Chapman
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 12.1:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 12.2:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 12.3:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.4:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.5:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.6:
+        non_striker: MG Bracewell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.1:
+        non_striker: MG Bracewell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 13.2:
+        non_striker: MG Bracewell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 13.3:
+        non_striker: MG Bracewell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.4:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 13.5:
+        non_striker: MG Bracewell
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.6:
+        non_striker: MS Chapman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Bracewell
+    - 14.1:
+        non_striker: MG Bracewell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.2:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 14.3:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 14.4:
+        non_striker: MS Chapman
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 14.5:
+        non_striker: MG Bracewell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 14.6:
+        non_striker: MG Bracewell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 15.1:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 15.2:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 15.3:
+        non_striker: JDS Neesham
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 15.4:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 15.5:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.6:
+        non_striker: MG Bracewell
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 16.1:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Bracewell
+    - 16.2:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.3:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 16.4:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 16.5:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 16.6:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 17.1:
+        non_striker: JDS Neesham
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 17.2:
+        non_striker: JDS Neesham
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 17.3:
+        non_striker: MG Bracewell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 17.4:
+        non_striker: MG Bracewell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 17.5:
+        non_striker: JDS Neesham
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 17.6:
+        non_striker: JDS Neesham
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 18.1:
+        non_striker: MG Bracewell
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 18.2:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 18.3:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bracewell
+    - 18.4:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 18.5:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 18.6:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Bracewell
+    - 18.7:
+        non_striker: JDS Neesham
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Bracewell
+    - 19.1:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 19.2:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JDS Neesham
+    - 19.3:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: MG Bracewell
+    - 19.4:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.5:
+        non_striker: JDS Neesham
+        bowler: GT Main
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Bracewell
+    - 19.6:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 19.7:
+        non_striker: MG Bracewell
+        bowler: GT Main
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - MRJ Watt
+          kind: caught
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.3:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.4:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.5:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: MA Jones
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: MA Jones
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 1.2:
+        non_striker: MA Jones
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.3:
+        non_striker: MA Jones
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.4:
+        non_striker: MA Jones
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+        wicket:
+          player_out: MA Jones
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 2.1:
+        non_striker: MH Cross
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: MH Cross
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.3:
+        non_striker: HG Munsey
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.4:
+        non_striker: HG Munsey
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 2.5:
+        non_striker: HG Munsey
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MH Cross
+    - 2.6:
+        non_striker: HG Munsey
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.7:
+        non_striker: HG Munsey
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 3.1:
+        non_striker: MH Cross
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.2:
+        non_striker: MH Cross
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: lbw
+    - 3.3:
+        non_striker: MH Cross
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 3.4:
+        non_striker: RD Berrington
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 3.5:
+        non_striker: RD Berrington
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 3.6:
+        non_striker: RD Berrington
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Hairs
+    - 4.1:
+        non_striker: OJ Hairs
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: OJ Hairs
+          fielders:
+          - D Cleaver
+          kind: run out
+    - 4.2:
+        non_striker: RD Berrington
+        bowler: BV Sears
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: CN Greaves
+    - 4.3:
+        non_striker: RD Berrington
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 4.4:
+        non_striker: RD Berrington
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 4.5:
+        non_striker: RD Berrington
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 4.6:
+        non_striker: RD Berrington
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 5.1:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 5.2:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.3:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 5.4:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 5.5:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 5.6:
+        non_striker: RD Berrington
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 6.1:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: RD Berrington
+    - 6.2:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.3:
+        non_striker: RD Berrington
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 6.4:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.5:
+        non_striker: RD Berrington
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 6.6:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 7.1:
+        non_striker: RD Berrington
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 7.2:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 7.3:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 7.4:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 7.5:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 7.6:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 8.1:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 8.2:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 8.3:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 8.4:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Greaves
+    - 8.5:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 8.6:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 9.1:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 9.2:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Greaves
+    - 9.3:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Greaves
+    - 9.4:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CN Greaves
+    - 9.5:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 9.6:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Greaves
+    - 9.7:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 10.1:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Leask
+    - 10.2:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.3:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 10.4:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 10.5:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 10.6:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.7:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 11.1:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 11.2:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 11.3:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 11.4:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 11.5:
+        non_striker: CN Greaves
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 11.6:
+        non_striker: MA Leask
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 12.1:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.2:
+        non_striker: CN Greaves
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.3:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 12.4:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+        wicket:
+          player_out: CN Greaves
+          kind: caught and bowled
+    - 12.5:
+        non_striker: MA Leask
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 12.6:
+        non_striker: MRJ Watt
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.1:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.2:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 13.3:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MRJ Watt
+    - 13.4:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 13.5:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.6:
+        non_striker: MA Leask
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 14.1:
+        non_striker: MRJ Watt
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 14.2:
+        non_striker: MRJ Watt
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.3:
+        non_striker: MA Leask
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MRJ Watt
+    - 14.4:
+        non_striker: MA Leask
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 14.5:
+        non_striker: MRJ Watt
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 14.6:
+        non_striker: MRJ Watt
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 15.1:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          fielders:
+          - D Cleaver
+          kind: stumped
+    - 15.2:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 15.3:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Main
+    - 15.4:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 15.5:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 15.6:
+        non_striker: MRJ Watt
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 16.1:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.2:
+        non_striker: MRJ Watt
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Main
+    - 16.3:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 16.4:
+        non_striker: AC Evans
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GT Main
+    - 16.5:
+        non_striker: AC Evans
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 16.6:
+        non_striker: AC Evans
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GT Main
+    - 17.1:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Evans
+    - 17.2:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Evans
+    - 17.3:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Evans
+    - 17.4:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Evans
+    - 17.5:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Evans
+    - 17.6:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Evans
+        wicket:
+          player_out: AC Evans
+          fielders:
+          - JA Duffy
+          kind: caught
+    - 17.7:
+        non_striker: GT Main
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tahir
+    - 18.1:
+        non_striker: Hamza Tahir
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Main
+    - 18.2:
+        non_striker: GT Main
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tahir
+    - 18.3:
+        non_striker: Hamza Tahir
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 18.4:
+        non_striker: Hamza Tahir
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 18.5:
+        non_striker: Hamza Tahir
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 18.6:
+        non_striker: Hamza Tahir
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 19.1:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tahir
+    - 19.2:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Tahir
+    - 19.3:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tahir
+    - 19.4:
+        non_striker: Hamza Tahir
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Main
+    - 19.5:
+        non_striker: Hamza Tahir
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GT Main
+    - 19.6:
+        non_striker: GT Main
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Tahir

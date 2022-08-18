@@ -1,0 +1,2039 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  dates:
+  - '2022-07-30'
+  gender: female
+  match_type: T20
+  match_type_number: 1179
+  outcome:
+    winner: England
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    Sri Lanka:
+    - RMVD Gunaratne
+    - AC Jayangani
+    - GWHM Perera
+    - NND de Silva
+    - WK Dilhari
+    - MAA Sanjeewani
+    - KADA Kanchana
+    - OU Ranasinghe
+    - BMSM Kumari
+    - I Ranaweera
+    - WGAKK Kulasuriya
+    England:
+    - DN Wyatt
+    - SIR Dunkley
+    - A Capsey
+    - NR Sciver
+    - AE Jones
+    - ME Bouchier
+    - S Ecclestone
+    - KH Brunt
+    - FG Kemp
+    - IECM Wong
+    - S Glenn
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AC Jayangani: ac56b5a7
+      AE Jones: b05e45e4
+      BMSM Kumari: b55fb828
+      CA Polosak: 26a360d2
+      DN Wyatt: a139c379
+      Eloise Sheridan: d8d43840
+      FG Kemp: abc9f8a4
+      GS Lakshmi: ba8d5615
+      GWHM Perera: 53068b45
+      I Ranaweera: a61850e6
+      IECM Wong: e5b17517
+      JM Williams: b61d9d70
+      KADA Kanchana: 4ac6664d
+      KH Brunt: 6a434bd3
+      MAA Sanjeewani: 318a4039
+      ME Bouchier: c2554b59
+      NND de Silva: f0b4294e
+      NR Sciver: f3a18a0c
+      OU Ranasinghe: 52d3b7ff
+      RMVD Gunaratne: 9e866b59
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      SIR Dunkley: 3a9e9cb2
+      VG Rathi: 144e5b16
+      WGAKK Kulasuriya: 550373ea
+      WK Dilhari: c34a15e6
+  teams:
+  - Sri Lanka
+  - England
+  toss:
+    winner: Sri Lanka
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - JM Williams
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          kind: lbw
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 0.5:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GWHM Perera
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 1.7:
+        non_striker: AC Jayangani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 2.1:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: GWHM Perera
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 3.2:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 3.3:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.4:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.6:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 3.7:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.8:
+        non_striker: GWHM Perera
+        bowler: A Capsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GWHM Perera
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 4.3:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 4.4:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GWHM Perera
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 4.7:
+        non_striker: GWHM Perera
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+        wicket:
+          player_out: GWHM Perera
+          kind: caught and bowled
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 5.5:
+        non_striker: NND de Silva
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.6:
+        non_striker: NND de Silva
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.1:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: AC Jayangani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 6.4:
+        non_striker: AC Jayangani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.5:
+        non_striker: AC Jayangani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.6:
+        non_striker: AC Jayangani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 7.1:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: bowled
+    - 7.2:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 7.3:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 7.4:
+        non_striker: WK Dilhari
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 7.5:
+        non_striker: WK Dilhari
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 7.6:
+        non_striker: WK Dilhari
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 8.1:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.2:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.3:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 8.4:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 8.5:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 8.6:
+        non_striker: WK Dilhari
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 8.7:
+        non_striker: WK Dilhari
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 9.1:
+        non_striker: WK Dilhari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 9.2:
+        non_striker: WK Dilhari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.3:
+        non_striker: WK Dilhari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 9.4:
+        non_striker: WK Dilhari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.5:
+        non_striker: WK Dilhari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 9.6:
+        non_striker: NND de Silva
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 10.1:
+        non_striker: WK Dilhari
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 10.2:
+        non_striker: WK Dilhari
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 10.3:
+        non_striker: WK Dilhari
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 10.4:
+        non_striker: WK Dilhari
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 10.5:
+        non_striker: NND de Silva
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WK Dilhari
+    - 10.6:
+        non_striker: WK Dilhari
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 11.1:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 11.2:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          fielders:
+          - A Capsey
+          kind: caught
+    - 11.3:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 11.4:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 11.5:
+        non_striker: NND de Silva
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 11.6:
+        non_striker: MAA Sanjeewani
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 12.1:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 12.2:
+        non_striker: MAA Sanjeewani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 12.3:
+        non_striker: MAA Sanjeewani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 12.4:
+        non_striker: MAA Sanjeewani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 12.5:
+        non_striker: MAA Sanjeewani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 12.6:
+        non_striker: NND de Silva
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 13.1:
+        non_striker: MAA Sanjeewani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 13.2:
+        non_striker: MAA Sanjeewani
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+        wicket:
+          player_out: NND de Silva
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 13.3:
+        non_striker: KADA Kanchana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 13.4:
+        non_striker: KADA Kanchana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 13.5:
+        non_striker: KADA Kanchana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 13.6:
+        non_striker: KADA Kanchana
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+        wicket:
+          player_out: MAA Sanjeewani
+          fielders:
+          - AE Jones
+          kind: caught
+    - 14.1:
+        non_striker: OU Ranasinghe
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KADA Kanchana
+    - 14.2:
+        non_striker: OU Ranasinghe
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KADA Kanchana
+    - 14.3:
+        non_striker: KADA Kanchana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 14.4:
+        non_striker: KADA Kanchana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 14.5:
+        non_striker: KADA Kanchana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 14.6:
+        non_striker: KADA Kanchana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 15.1:
+        non_striker: OU Ranasinghe
+        bowler: S Ecclestone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: KADA Kanchana
+    - 15.2:
+        non_striker: OU Ranasinghe
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KADA Kanchana
+    - 15.3:
+        non_striker: KADA Kanchana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 15.4:
+        non_striker: KADA Kanchana
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 15.5:
+        non_striker: OU Ranasinghe
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KADA Kanchana
+    - 15.6:
+        non_striker: OU Ranasinghe
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KADA Kanchana
+    - 16.1:
+        non_striker: KADA Kanchana
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OU Ranasinghe
+    - 16.2:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KADA Kanchana
+        wicket:
+          player_out: KADA Kanchana
+          fielders:
+          - KH Brunt
+          kind: caught
+    - 16.3:
+        non_striker: BMSM Kumari
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OU Ranasinghe
+    - 16.4:
+        non_striker: BMSM Kumari
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 16.5:
+        non_striker: BMSM Kumari
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 16.6:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 16.7:
+        non_striker: BMSM Kumari
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OU Ranasinghe
+    - 16.8:
+        non_striker: BMSM Kumari
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 17.1:
+        non_striker: BMSM Kumari
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 17.2:
+        non_striker: OU Ranasinghe
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 17.3:
+        non_striker: OU Ranasinghe
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BMSM Kumari
+    - 17.4:
+        non_striker: BMSM Kumari
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 17.5:
+        non_striker: OU Ranasinghe
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 17.6:
+        non_striker: OU Ranasinghe
+        bowler: IECM Wong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMSM Kumari
+    - 17.7:
+        non_striker: OU Ranasinghe
+        bowler: IECM Wong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BMSM Kumari
+    - 18.1:
+        non_striker: BMSM Kumari
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 18.2:
+        non_striker: OU Ranasinghe
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 18.3:
+        non_striker: BMSM Kumari
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 18.4:
+        non_striker: BMSM Kumari
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OU Ranasinghe
+    - 18.5:
+        non_striker: BMSM Kumari
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 18.6:
+        non_striker: BMSM Kumari
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 19.1:
+        non_striker: BMSM Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 19.2:
+        non_striker: BMSM Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OU Ranasinghe
+    - 19.3:
+        non_striker: BMSM Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+        wicket:
+          player_out: OU Ranasinghe
+          fielders:
+          - AE Jones
+          kind: caught
+    - 19.4:
+        non_striker: BMSM Kumari
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 19.5:
+        non_striker: I Ranaweera
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+        wicket:
+          player_out: BMSM Kumari
+          kind: bowled
+    - 19.6:
+        non_striker: I Ranaweera
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WGAKK Kulasuriya
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: SIR Dunkley
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 0.2:
+        non_striker: SIR Dunkley
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: SIR Dunkley
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: DN Wyatt
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 1.3:
+        non_striker: SIR Dunkley
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 1.4:
+        non_striker: SIR Dunkley
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - KADA Kanchana
+          kind: caught
+    - 1.5:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 2.1:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 2.2:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SIR Dunkley
+    - 2.3:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SIR Dunkley
+    - 2.4:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.5:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.6:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 2.7:
+        non_striker: A Capsey
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SIR Dunkley
+    - 3.2:
+        non_striker: SIR Dunkley
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 3.3:
+        non_striker: SIR Dunkley
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 3.4:
+        non_striker: SIR Dunkley
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 3.5:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+    - 3.6:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: bowled
+    - 4.1:
+        non_striker: NR Sciver
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 4.2:
+        non_striker: NR Sciver
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 4.3:
+        non_striker: NR Sciver
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 4.4:
+        non_striker: NR Sciver
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 4.5:
+        non_striker: NR Sciver
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 4.6:
+        non_striker: A Capsey
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 5.1:
+        non_striker: NR Sciver
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.2:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 5.3:
+        non_striker: NR Sciver
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.4:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 5.5:
+        non_striker: NR Sciver
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 5.6:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver
+    - 6.1:
+        non_striker: NR Sciver
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 6.2:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 6.3:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 6.4:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 6.5:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 6.6:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 7.1:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 7.2:
+        non_striker: NR Sciver
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.3:
+        non_striker: NR Sciver
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 7.4:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 7.5:
+        non_striker: NR Sciver
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 7.6:
+        non_striker: NR Sciver
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 8.1:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver
+    - 8.2:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver
+    - 8.3:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+        wicket:
+          player_out: NR Sciver
+          kind: lbw
+    - 8.4:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 8.5:
+        non_striker: AE Jones
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 8.6:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 9.1:
+        non_striker: AE Jones
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 9.2:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 9.3:
+        non_striker: AE Jones
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 9.4:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 9.5:
+        non_striker: AE Jones
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 9.6:
+        non_striker: AE Jones
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 10.1:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - BMSM Kumari
+          kind: caught
+    - 10.2:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 10.3:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 10.4:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 10.5:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 10.6:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 10.7:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 11.1:
+        non_striker: ME Bouchier
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 11.2:
+        non_striker: ME Bouchier
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 11.3:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 11.4:
+        non_striker: ME Bouchier
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 11.5:
+        non_striker: ME Bouchier
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 11.6:
+        non_striker: A Capsey
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 12.1:
+        non_striker: ME Bouchier
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 12.2:
+        non_striker: A Capsey
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 12.3:
+        non_striker: ME Bouchier
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 12.4:
+        non_striker: ME Bouchier
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 12.5:
+        non_striker: A Capsey
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 12.6:
+        non_striker: ME Bouchier
+        bowler: KADA Kanchana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 13.1:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 13.2:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 13.3:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 13.4:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 13.5:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 13.6:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 14.1:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 14.2:
+        non_striker: ME Bouchier
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 14.3:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 14.4:
+        non_striker: A Capsey
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 14.5:
+        non_striker: ME Bouchier
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 14.6:
+        non_striker: ME Bouchier
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.1:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 15.2:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 15.3:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 15.4:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 15.5:
+        non_striker: A Capsey
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 15.6:
+        non_striker: ME Bouchier
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 16.1:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 16.2:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 16.3:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 16.4:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 16.5:
+        non_striker: A Capsey
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 16.6:
+        non_striker: ME Bouchier
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - MAA Sanjeewani
+          kind: stumped
+    - 17.1:
+        non_striker: S Ecclestone
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier

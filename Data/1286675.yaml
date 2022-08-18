@@ -1,0 +1,2120 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-11'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: North Sound
+  dates:
+  - '2021-11-10'
+  gender: male
+  match_type: T20
+  match_type_number: 1414
+  outcome:
+    winner: Argentina
+    by:
+      runs: 59
+  overs: 20
+  player_of_match:
+  - A Ferguson
+  players:
+    Argentina:
+    - P Baron
+    - LA Musiani
+    - A Ferguson
+    - A Kirschbaum
+    - RM Siri
+    - R Escobar
+    - H Fennell
+    - J Hurley
+    - PL Bruno
+    - T Rossi
+    - A Husain
+    Belize:
+    - AK Muslar
+    - KJ Young
+    - AA Banner
+    - TW Samuels
+    - C Brown
+    - BS Stephenson
+    - TAW Patterson
+    - GG Banner
+    - ML Castillo
+    - Garret Banner
+    - NN Banner
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      AA Banner: 02d11602
+      AK Muslar: 93f72fdc
+      AR Maddela: 5c861579
+      BS Stephenson: db571b24
+      C Brown: d504bc4c
+      Denavon Hayles: 5cbeeb02
+      GG Banner: aeb893b4
+      Garret Banner: ac1ddea1
+      H Fennell: 0d38ab25
+      J Hurley: a1aeb715
+      JM Williams: b61d9d70
+      KJ Young: 8bba9ec2
+      LA Musiani: efbd35a9
+      ML Castillo: 9853b404
+      NN Banner: '0697b5a1'
+      P Baron: c6d1b1e4
+      PL Bruno: 4ed0bf6a
+      R Escobar: 9fa5496f
+      RM Siri: f1737607
+      T Rossi: 5470418a
+      TAW Patterson: 5abb0f07
+      TW Samuels: df3438ae
+      Vijaya Mallela: 85b6244a
+  teams:
+  - Argentina
+  - Belize
+  toss:
+    winner: Argentina
+    decision: bat
+  umpires:
+  - AR Maddela
+  - Vijaya Mallela
+  venue: Sir Vivian Richards Stadium, North Sound, Antigua
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 0.2:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LA Musiani
+        batsman: P Baron
+    - 0.3:
+        non_striker: P Baron
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 0.4:
+        non_striker: P Baron
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 0.5:
+        non_striker: LA Musiani
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 0.6:
+        non_striker: LA Musiani
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 1.1:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Musiani
+    - 1.2:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Musiani
+    - 1.3:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Musiani
+    - 1.4:
+        non_striker: LA Musiani
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 1.5:
+        non_striker: LA Musiani
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 1.6:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Musiani
+    - 1.7:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Musiani
+        wicket:
+          player_out: LA Musiani
+          fielders:
+          - KJ Young
+          kind: run out
+    - 2.1:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: A Ferguson
+    - 2.2:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Kirschbaum
+        batsman: A Ferguson
+    - 2.3:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kirschbaum
+        batsman: A Ferguson
+    - 2.4:
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kirschbaum
+        batsman: A Ferguson
+    - 2.5:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: bowled
+    - 2.6:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 3.1:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 3.2:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 3.3:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 3.4:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 3.5:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Siri
+    - 3.6:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 4.1:
+        non_striker: RM Siri
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 4.2:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 4.3:
+        non_striker: RM Siri
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 4.4:
+        non_striker: RM Siri
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 4.5:
+        non_striker: RM Siri
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 4.6:
+        non_striker: RM Siri
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 5.1:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Ferguson
+    - 5.2:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 5.3:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 5.4:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 5.5:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 5.6:
+        non_striker: RM Siri
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 6.1:
+        non_striker: RM Siri
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 6.2:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Siri
+    - 6.3:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 6.4:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Siri
+    - 6.5:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 6.6:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 7.1:
+        non_striker: RM Siri
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 7.2:
+        non_striker: RM Siri
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 7.3:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 7.4:
+        non_striker: RM Siri
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 7.5:
+        non_striker: RM Siri
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 7.6:
+        non_striker: RM Siri
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 8.1:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 8.2:
+        non_striker: RM Siri
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 8.3:
+        non_striker: RM Siri
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 8.4:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Siri
+    - 8.5:
+        non_striker: RM Siri
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 8.6:
+        non_striker: RM Siri
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 9.1:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+    - 9.2:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Siri
+    - 9.3:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Siri
+        wicket:
+          player_out: RM Siri
+          fielders:
+          - AK Muslar
+          kind: stumped
+    - 9.4:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.5:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 9.6:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 10.1:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 10.2:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.3:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.4:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 10.5:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 10.6:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.1:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 11.2:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 11.3:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.4:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 11.5:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 11.6:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.7:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 12.1:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 12.2:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 12.3:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 12.4:
+        non_striker: R Escobar
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 12.5:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 12.6:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Escobar
+    - 12.7:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Escobar
+    - 12.8:
+        non_striker: A Ferguson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Escobar
+    - 13.1:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 13.2:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 13.3:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 13.4:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 13.5:
+        non_striker: R Escobar
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 13.6:
+        non_striker: A Ferguson
+        bowler: KJ Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 14.1:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 14.2:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 14.3:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Escobar
+    - 14.4:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 14.5:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 14.6:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 14.7:
+        non_striker: A Ferguson
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Escobar
+    - 15.1:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 15.2:
+        non_striker: A Ferguson
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.3:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 15.4:
+        non_striker: A Ferguson
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.5:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 15.6:
+        non_striker: A Ferguson
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 16.1:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 16.2:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 16.3:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 16.4:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 16.5:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 16.6:
+        non_striker: R Escobar
+        bowler: TW Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 17.1:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 17.2:
+        non_striker: A Ferguson
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 17.3:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Ferguson
+    - 17.4:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 17.5:
+        non_striker: R Escobar
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 17.6:
+        non_striker: A Ferguson
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 18.1:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 18.2:
+        non_striker: R Escobar
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 18.3:
+        non_striker: R Escobar
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 18.4:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 18.5:
+        non_striker: R Escobar
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 18.6:
+        non_striker: A Ferguson
+        bowler: Garret Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 19.1:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 19.2:
+        non_striker: R Escobar
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.3:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 19.4:
+        non_striker: R Escobar
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 19.5:
+        non_striker: R Escobar
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 19.6:
+        non_striker: R Escobar
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 19.7:
+        non_striker: A Ferguson
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Escobar
+- 2nd innings:
+    team: Belize
+    deliveries:
+    - 0.1:
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: KJ Young
+        batsman: AK Muslar
+    - 0.2:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: KJ Young
+        batsman: AK Muslar
+    - 0.3:
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: KJ Young
+        batsman: AK Muslar
+    - 0.4:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Young
+    - 0.5:
+        non_striker: KJ Young
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 0.6:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Young
+    - 0.7:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Young
+        wicket:
+          player_out: KJ Young
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 1.1:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Banner
+    - 1.2:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Banner
+        wicket:
+          player_out: AA Banner
+          fielders:
+          - RM Siri
+          kind: caught
+    - 1.3:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 1.4:
+        non_striker: TW Samuels
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 1.5:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TW Samuels
+    - 1.6:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 2.1:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TW Samuels
+    - 2.2:
+        non_striker: TW Samuels
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 2.3:
+        non_striker: TW Samuels
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Muslar
+    - 2.4:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TW Samuels
+    - 2.5:
+        non_striker: AK Muslar
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TW Samuels
+        wicket:
+          player_out: TW Samuels
+          fielders:
+          - A Ferguson
+          kind: run out
+    - 2.6:
+        non_striker: C Brown
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+    - 3.1:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 3.2:
+        non_striker: AK Muslar
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brown
+    - 3.3:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Muslar
+        wicket:
+          player_out: AK Muslar
+          kind: lbw
+    - 3.4:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 3.5:
+        non_striker: BS Stephenson
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Brown
+    - 3.6:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Stephenson
+    - 4.1:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Stephenson
+        wicket:
+          player_out: BS Stephenson
+          fielders:
+          - RM Siri
+          kind: caught
+    - 4.2:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 4.3:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 4.4:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 4.5:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 4.6:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 5.1:
+        non_striker: TAW Patterson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brown
+    - 5.2:
+        non_striker: TAW Patterson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 5.3:
+        non_striker: TAW Patterson
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brown
+    - 5.4:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+    - 5.5:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TAW Patterson
+        wicket:
+          player_out: TAW Patterson
+          fielders:
+          - R Escobar
+          kind: caught
+    - 5.6:
+        non_striker: C Brown
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 6.1:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 6.2:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 6.3:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 6.4:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brown
+    - 6.5:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 6.6:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brown
+    - 7.1:
+        non_striker: C Brown
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GG Banner
+    - 7.2:
+        non_striker: C Brown
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GG Banner
+    - 7.3:
+        non_striker: C Brown
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+    - 7.4:
+        non_striker: C Brown
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 7.5:
+        non_striker: GG Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 7.6:
+        non_striker: GG Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brown
+    - 8.1:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 8.2:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 8.3:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Brown
+    - 8.4:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Banner
+    - 8.5:
+        non_striker: GG Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brown
+    - 8.6:
+        non_striker: C Brown
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Banner
+        wicket:
+          player_out: GG Banner
+          fielders:
+          - T Rossi
+          kind: caught
+    - 9.1:
+        non_striker: C Brown
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 9.2:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+    - 9.3:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brown
+        wicket:
+          player_out: C Brown
+          kind: lbw
+    - 9.4:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 9.5:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 9.6:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 10.1:
+        non_striker: Garret Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 10.2:
+        non_striker: Garret Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Castillo
+    - 10.3:
+        non_striker: Garret Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 10.4:
+        non_striker: ML Castillo
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 10.5:
+        non_striker: ML Castillo
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 10.6:
+        non_striker: Garret Banner
+        bowler: J Hurley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Castillo
+    - 11.1:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Garret Banner
+    - 11.2:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 11.3:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 11.4:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 11.5:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 11.6:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 11.7:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 12.1:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Castillo
+    - 12.2:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Castillo
+    - 12.3:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 12.4:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 12.5:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 12.6:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 12.7:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 13.1:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 13.2:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Castillo
+    - 13.3:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 13.4:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Garret Banner
+    - 13.5:
+        non_striker: ML Castillo
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 13.6:
+        non_striker: Garret Banner
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 14.1:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 14.2:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 14.3:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 14.4:
+        non_striker: ML Castillo
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 14.5:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 14.6:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+    - 15.1:
+        non_striker: ML Castillo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Garret Banner
+    - 15.2:
+        non_striker: ML Castillo
+        bowler: A Husain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Garret Banner
+    - 15.3:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Castillo
+    - 15.4:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Castillo
+    - 15.5:
+        non_striker: ML Castillo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 15.6:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Castillo
+        wicket:
+          player_out: ML Castillo
+          fielders:
+          - P Baron
+          kind: caught
+    - 15.7:
+        non_striker: NN Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 16.1:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 16.2:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 16.3:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 16.4:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 16.5:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Garret Banner
+    - 16.6:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 17.1:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 17.2:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 17.3:
+        non_striker: NN Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 17.4:
+        non_striker: NN Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Garret Banner
+    - 17.5:
+        non_striker: NN Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 17.6:
+        non_striker: Garret Banner
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 18.1:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 18.2:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+    - 18.3:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Banner
+    - 18.4:
+        non_striker: NN Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Garret Banner
+    - 18.5:
+        non_striker: Garret Banner
+        bowler: LA Musiani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Banner
+        wicket:
+          player_out: NN Banner
+          kind: bowled

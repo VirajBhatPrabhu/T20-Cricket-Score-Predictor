@@ -1,0 +1,2215 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Waterloo
+  dates:
+  - '2022-07-03'
+  gender: male
+  match_type: T20
+  match_type_number: 1604
+  outcome:
+    winner: Israel
+    by:
+      runs: 12
+  overs: 20
+  players:
+    Israel:
+    - Yogev Nagavkar
+    - G Schachat
+    - E Solomon
+    - J Evans
+    - M Cohen
+    - E Kahamker
+    - E Samson
+    - Elan Talker
+    - Yair Nagavkar
+    - Niv Nagavkar
+    - T Kahamker
+    Hungary:
+    - Zeeshan Kukikhel
+    - Abhijeet Ahuja
+    - Zahir Mohammed
+    - S Ashwathnarayana
+    - AG Weligamage
+    - HV Mandhyan
+    - Ali Farasat
+    - Ali Yalmaz
+    - SA Mohandas
+    - Akramullah Malikzada
+    - BP Adapaka
+  registry:
+    people:
+      AG Weligamage: 747209e0
+      Abhijeet Ahuja: b91083bd
+      Adriaan van den Dries: 94b5ec3b
+      Akramullah Malikzada: dd3df124
+      Ali Farasat: 5845b99b
+      Ali Yalmaz: 026e1314
+      BP Adapaka: e6082b10
+      E Kahamker: 41acc8bf
+      E Samson: d11272c4
+      E Solomon: 8da9a284
+      Elan Talker: bb939fa3
+      G Schachat: ff92e604
+      HV Mandhyan: 11f56b14
+      J Evans: 027662be
+      Jonathan Kennedy: f7ad4494
+      M Cohen: fc75bbba
+      Niv Nagavkar: e2abcf16
+      Phil Whitticase: 99d5f6fa
+      S Ashwathnarayana: 8f8d30be
+      SA Mohandas: 8b0b3bba
+      T Kahamker: 125853c3
+      Vinay Malhotra: 452837d1
+      Yair Nagavkar: 138e30ab
+      Yogev Nagavkar: c85bea6b
+      Zahir Mohammed: 7c38942a
+      Zeeshan Kukikhel: 5d6a1f76
+  teams:
+  - Israel
+  - Hungary
+  toss:
+    winner: Hungary
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - Vinay Malhotra
+  venue: Royal Brussels Cricket Club Ground, Waterloo
+innings:
+- 1st innings:
+    team: Israel
+    deliveries:
+    - 0.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Schachat
+        batsman: Yogev Nagavkar
+    - 0.2:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Schachat
+        batsman: Yogev Nagavkar
+    - 0.3:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Schachat
+        batsman: Yogev Nagavkar
+    - 0.4:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+        wicket:
+          player_out: Yogev Nagavkar
+          fielders:
+          - S Ashwathnarayana
+          kind: caught
+    - 0.5:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Solomon
+    - 0.6:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 0.7:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Solomon
+    - 1.1:
+        non_striker: E Solomon
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 1.2:
+        non_striker: E Solomon
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 1.3:
+        non_striker: E Solomon
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 1.4:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 1.5:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 1.6:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 2.1:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 2.2:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 2.3:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 2.4:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 2.5:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 2.6:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 2.7:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 3.1:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 3.2:
+        non_striker: E Solomon
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 3.3:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 3.4:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 3.5:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 3.6:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 4.1:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 4.2:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 4.3:
+        non_striker: E Solomon
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 4.4:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 4.5:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 4.6:
+        non_striker: G Schachat
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 5.1:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 5.2:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 5.3:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 5.4:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 5.5:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 5.6:
+        non_striker: E Solomon
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 5.7:
+        non_striker: G Schachat
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 6.1:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 6.2:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 6.3:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 6.4:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 6.5:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 6.6:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 7.1:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 7.2:
+        non_striker: E Solomon
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 7.3:
+        non_striker: E Solomon
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 7.4:
+        non_striker: E Solomon
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 7.5:
+        non_striker: E Solomon
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 7.6:
+        non_striker: E Solomon
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 8.1:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 8.2:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 8.3:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 8.4:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 8.5:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 8.6:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 8.7:
+        non_striker: E Solomon
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 8.8:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+        wicket:
+          player_out: E Solomon
+          fielders:
+          - S Ashwathnarayana
+          kind: caught
+    - 9.1:
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Evans
+        batsman: G Schachat
+    - 9.2:
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Evans
+        batsman: G Schachat
+    - 9.3:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Evans
+    - 9.4:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 9.5:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 9.6:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 9.7:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+    - 10.1:
+        non_striker: J Evans
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 10.2:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Evans
+    - 10.3:
+        non_striker: J Evans
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 10.4:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Evans
+    - 10.5:
+        non_striker: J Evans
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 10.6:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+    - 11.1:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Schachat
+    - 11.2:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 11.3:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 11.4:
+        non_striker: J Evans
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 11.5:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Evans
+    - 11.6:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+    - 11.7:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Evans
+    - 12.1:
+        non_striker: J Evans
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 12.2:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+        wicket:
+          player_out: J Evans
+          fielders:
+          - Ali Yalmaz
+          kind: caught
+    - 12.3:
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Cohen
+        batsman: G Schachat
+    - 12.4:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 12.5:
+        non_striker: M Cohen
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 12.6:
+        non_striker: G Schachat
+        bowler: HV Mandhyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Cohen
+    - 13.1:
+        non_striker: M Cohen
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 13.2:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 13.3:
+        non_striker: M Cohen
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 13.4:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 13.5:
+        non_striker: M Cohen
+        bowler: BP Adapaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Schachat
+    - 13.6:
+        non_striker: G Schachat
+        bowler: BP Adapaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Cohen
+    - 14.1:
+        non_striker: M Cohen
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 14.2:
+        non_striker: G Schachat
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 14.3:
+        non_striker: M Cohen
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Schachat
+    - 14.4:
+        non_striker: M Cohen
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 14.5:
+        non_striker: G Schachat
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Cohen
+    - 14.6:
+        non_striker: G Schachat
+        bowler: Akramullah Malikzada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 15.1:
+        non_striker: G Schachat
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Cohen
+    - 15.2:
+        non_striker: G Schachat
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Cohen
+    - 15.3:
+        non_striker: G Schachat
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 15.4:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 15.5:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 15.6:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Schachat
+    - 15.7:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 16.1:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 16.2:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 16.3:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 16.4:
+        non_striker: G Schachat
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 16.5:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Schachat
+    - 16.6:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+        wicket:
+          player_out: G Schachat
+          fielders:
+          - AG Weligamage
+          kind: caught
+    - 17.1:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+    - 17.2:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kahamker
+    - 17.3:
+        non_striker: E Kahamker
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cohen
+    - 17.4:
+        non_striker: E Kahamker
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 17.5:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+    - 17.6:
+        non_striker: M Cohen
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kahamker
+    - 18.1:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kahamker
+    - 18.2:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kahamker
+    - 18.3:
+        non_striker: E Kahamker
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Cohen
+    - 18.4:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kahamker
+    - 18.5:
+        non_striker: M Cohen
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kahamker
+    - 18.6:
+        non_striker: E Kahamker
+        bowler: Ali Yalmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Cohen
+        wicket:
+          player_out: M Cohen
+          kind: bowled
+    - 19.1:
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: E Samson
+        batsman: E Kahamker
+    - 19.2:
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Samson
+        batsman: E Kahamker
+    - 19.3:
+        non_striker: E Kahamker
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Samson
+    - 19.4:
+        non_striker: E Kahamker
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Samson
+    - 19.5:
+        non_striker: E Samson
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kahamker
+    - 19.6:
+        non_striker: E Samson
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+        wicket:
+          player_out: E Kahamker
+          kind: bowled
+- 2nd innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Abhijeet Ahuja
+        batsman: Zeeshan Kukikhel
+    - 0.2:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhijeet Ahuja
+        batsman: Zeeshan Kukikhel
+    - 0.3:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhijeet Ahuja
+        batsman: Zeeshan Kukikhel
+    - 0.4:
+        non_striker: Zeeshan Kukikhel
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 0.5:
+        non_striker: Zeeshan Kukikhel
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 0.6:
+        non_striker: Zeeshan Kukikhel
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 1.1:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Kukikhel
+    - 1.2:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Kukikhel
+        wicket:
+          player_out: Zeeshan Kukikhel
+          fielders:
+          - G Schachat
+          kind: caught
+    - 1.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 1.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 1.5:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 1.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 2.1:
+        non_striker: Zahir Mohammed
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 2.2:
+        non_striker: Zahir Mohammed
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 2.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 2.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 2.5:
+        non_striker: Abhijeet Ahuja
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 2.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 3.1:
+        non_striker: Zahir Mohammed
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 3.2:
+        non_striker: Zahir Mohammed
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 3.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 3.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 3.5:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zahir Mohammed
+    - 3.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 4.1:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zahir Mohammed
+    - 4.2:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zahir Mohammed
+    - 4.3:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 4.4:
+        non_striker: Zahir Mohammed
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+        wicket:
+          player_out: Zahir Mohammed
+          fielders:
+          - G Schachat
+          kind: run out
+    - 4.5:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+    - 4.6:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+    - 4.7:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ashwathnarayana
+    - 5.1:
+        non_striker: Abhijeet Ahuja
+        bowler: T Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ashwathnarayana
+    - 5.2:
+        non_striker: Abhijeet Ahuja
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+    - 5.3:
+        non_striker: Abhijeet Ahuja
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ashwathnarayana
+    - 5.4:
+        non_striker: Abhijeet Ahuja
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ashwathnarayana
+    - 5.5:
+        non_striker: S Ashwathnarayana
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhijeet Ahuja
+    - 5.6:
+        non_striker: S Ashwathnarayana
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 5.7:
+        non_striker: Abhijeet Ahuja
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+    - 6.1:
+        non_striker: S Ashwathnarayana
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 6.2:
+        non_striker: S Ashwathnarayana
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 6.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+    - 6.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ashwathnarayana
+        wicket:
+          player_out: S Ashwathnarayana
+          fielders:
+          - Niv Nagavkar
+          kind: caught
+    - 6.5:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 6.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 7.1:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 7.2:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 7.3:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 7.4:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 7.5:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 7.6:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AG Weligamage
+    - 8.1:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 8.2:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 8.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 8.4:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 8.5:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 8.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AG Weligamage
+    - 9.1:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AG Weligamage
+    - 9.2:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 9.3:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AG Weligamage
+    - 9.4:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhijeet Ahuja
+    - 9.5:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 9.6:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AG Weligamage
+    - 9.7:
+        non_striker: Abhijeet Ahuja
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 9.8:
+        non_striker: AG Weligamage
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 10.1:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 10.2:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 10.3:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 10.4:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+    - 10.5:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 10.6:
+        non_striker: Abhijeet Ahuja
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 11.1:
+        non_striker: AG Weligamage
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 11.2:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 11.3:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AG Weligamage
+    - 11.4:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Weligamage
+    - 11.5:
+        non_striker: AG Weligamage
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhijeet Ahuja
+    - 11.6:
+        non_striker: Abhijeet Ahuja
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AG Weligamage
+    - 12.1:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhijeet Ahuja
+    - 12.2:
+        non_striker: AG Weligamage
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhijeet Ahuja
+        wicket:
+          player_out: Abhijeet Ahuja
+          fielders:
+          - Niv Nagavkar
+          kind: caught
+    - 12.3:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HV Mandhyan
+        batsman: AG Weligamage
+    - 12.4:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HV Mandhyan
+        batsman: AG Weligamage
+    - 12.5:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HV Mandhyan
+        batsman: AG Weligamage
+    - 12.6:
+        non_striker: HV Mandhyan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 13.1:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AG Weligamage
+    - 13.2:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AG Weligamage
+    - 13.3:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 13.4:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 13.5:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 13.6:
+        non_striker: HV Mandhyan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Weligamage
+    - 14.1:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+    - 14.2:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Weligamage
+        wicket:
+          player_out: AG Weligamage
+          kind: bowled
+    - 14.3:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.4:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 14.5:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 14.6:
+        non_striker: Ali Farasat
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 15.1:
+        non_striker: Ali Farasat
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 15.2:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 15.3:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Farasat
+    - 15.4:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 15.5:
+        non_striker: Ali Farasat
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 15.6:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Farasat
+    - 16.1:
+        non_striker: Ali Farasat
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HV Mandhyan
+    - 16.2:
+        non_striker: Ali Farasat
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 16.3:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Farasat
+    - 16.4:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 16.5:
+        non_striker: HV Mandhyan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 16.6:
+        non_striker: Ali Farasat
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 16.7:
+        non_striker: Ali Farasat
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 17.1:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Farasat
+    - 17.2:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 17.3:
+        non_striker: Ali Farasat
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 17.4:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Farasat
+    - 17.5:
+        non_striker: HV Mandhyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Farasat
+    - 17.6:
+        non_striker: Ali Farasat
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Mandhyan
+    - 18.1:
+        non_striker: HV Mandhyan
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+        wicket:
+          player_out: Ali Farasat
+          fielders:
+          - M Cohen
+          kind: stumped
+    - 18.2:
+        non_striker: HV Mandhyan
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Yalmaz
+    - 18.3:
+        non_striker: HV Mandhyan
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Yalmaz
+    - 18.4:
+        non_striker: Ali Yalmaz
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Mandhyan
+    - 18.5:
+        non_striker: HV Mandhyan
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Yalmaz
+    - 18.6:
+        non_striker: Ali Yalmaz
+        bowler: E Samson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+    - 19.1:
+        non_striker: HV Mandhyan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Yalmaz
+    - 19.2:
+        non_striker: HV Mandhyan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Yalmaz
+    - 19.3:
+        non_striker: HV Mandhyan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Yalmaz
+        wicket:
+          player_out: Ali Yalmaz
+          fielders:
+          - M Cohen
+          kind: stumped
+    - 19.4:
+        non_striker: HV Mandhyan
+        bowler: T Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Mohandas
+    - 19.5:
+        non_striker: HV Mandhyan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+        wicket:
+          player_out: SA Mohandas
+          kind: caught and bowled
+    - 19.6:
+        non_striker: Akramullah Malikzada
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Mandhyan
+        wicket:
+          player_out: HV Mandhyan
+          kind: bowled
+    - 19.7:
+        non_striker: Akramullah Malikzada
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BP Adapaka

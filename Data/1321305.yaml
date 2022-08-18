@@ -1,0 +1,2080 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2022-07-08'
+  gender: male
+  match_type: T20
+  match_type_number: 1619
+  outcome:
+    winner: Austria
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Razmal Shigiwal
+  players:
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - J Mees
+    - SKS Gill
+    - V Vijh
+    - Anoop Orsu
+    - J Barker
+    - M Dixit
+    - A Nanda
+    - A Dhingra
+    - WJ Cope
+    Austria:
+    - M Simpson-Parker
+    - Mirza Ahsan
+    - Razmal Shigiwal
+    - Habib Ahmadzai
+    - Shahil Momin
+    - MPS Cheema
+    - N Wijesekera
+    - Jaweed Sadran
+    - Aqib Iqbal
+    - Sahel Zadran
+    - Itibarshah Deedar
+  registry:
+    people:
+      A Dhingra: 753ada66
+      A Ganeshan: d72a2d32
+      A Nanda: 704e0160
+      Anoop Orsu: 488b7e22
+      Aqib Iqbal: 14157abf
+      G Venkateswaran: a4bcaba7
+      Habib Ahmadzai: fa794790
+      Itibarshah Deedar: 711e73ac
+      J Barker: c18cecbe
+      J Mees: ab1445ea
+      Jaweed Sadran: c1f05d1d
+      M Dixit: d85d52c2
+      M Simpson-Parker: fecd828e
+      MPS Cheema: 97181d1b
+      Mirza Ahsan: 6b74c13b
+      N Wijesekera: 85dcc96d
+      RM Eames: fa1c618e
+      Razmal Shigiwal: 60cc80ac
+      SKS Gill: faef026c
+      Sahel Zadran: dae28050
+      Shahil Momin: 46821fbd
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      WJ Cope: fb34b0ec
+  teams:
+  - Luxembourg
+  - Austria
+  toss:
+    winner: Austria
+    decision: field
+  umpires:
+  - A Ganeshan
+  - RM Eames
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: G Venkateswaran
+        batsman: TC Barker
+    - 0.2:
+        non_striker: TC Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 0.3:
+        non_striker: TC Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Venkateswaran
+    - 0.4:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+    - 0.5:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          kind: bowled
+    - 0.6:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 1.1:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 1.2:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Venkateswaran
+    - 1.3:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 1.4:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 1.5:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 1.6:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 1.7:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 2.1:
+        non_striker: J Mees
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 2.2:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 2.3:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 2.4:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 2.5:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 2.6:
+        non_striker: G Venkateswaran
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 3.1:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 3.2:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 3.3:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Mees
+    - 3.4:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 3.5:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 3.6:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 3.7:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 4.1:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 4.2:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 4.3:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Venkateswaran
+    - 4.4:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Venkateswaran
+    - 4.5:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 4.6:
+        non_striker: G Venkateswaran
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 4.7:
+        non_striker: G Venkateswaran
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 5.1:
+        non_striker: J Mees
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 5.2:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 5.3:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 5.4:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 5.5:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 5.6:
+        non_striker: G Venkateswaran
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 6.1:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Venkateswaran
+    - 6.2:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 6.3:
+        non_striker: G Venkateswaran
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Mees
+    - 6.4:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Venkateswaran
+    - 6.5:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Venkateswaran
+    - 6.6:
+        non_striker: J Mees
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 7.1:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mees
+    - 7.2:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 7.3:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mees
+    - 7.4:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 7.5:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+    - 7.6:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 8.1:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mees
+    - 8.2:
+        non_striker: J Mees
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 8.3:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mees
+        wicket:
+          player_out: J Mees
+          kind: bowled
+    - 8.4:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKS Gill
+    - 8.5:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 8.6:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 8.7:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Venkateswaran
+    - 9.1:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 9.2:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 9.3:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 9.4:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 9.5:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKS Gill
+    - 9.6:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 10.1:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 10.2:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 10.3:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 10.4:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 10.5:
+        non_striker: G Venkateswaran
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 10.6:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 11.1:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 11.2:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 11.3:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Venkateswaran
+    - 11.4:
+        non_striker: G Venkateswaran
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 11.5:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+    - 11.6:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Venkateswaran
+        wicket:
+          player_out: G Venkateswaran
+          kind: caught and bowled
+    - 12.1:
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: V Vijh
+        batsman: SKS Gill
+    - 12.2:
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Vijh
+        batsman: SKS Gill
+    - 12.3:
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Vijh
+        batsman: SKS Gill
+    - 12.4:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 12.5:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 12.6:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 13.1:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Vijh
+    - 13.2:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Vijh
+    - 13.3:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 13.4:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 13.5:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 13.6:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Vijh
+    - 13.7:
+        non_striker: V Vijh
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SKS Gill
+    - 13.8:
+        non_striker: V Vijh
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 13.9:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+    - 14.1:
+        non_striker: V Vijh
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 14.2:
+        non_striker: V Vijh
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 14.3:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - Itibarshah Deedar
+          kind: caught
+    - 14.4:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+    - 14.5:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anoop Orsu
+        wicket:
+          player_out: Anoop Orsu
+          kind: bowled
+    - 14.6:
+        non_striker: SKS Gill
+        bowler: Jaweed Sadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 15.1:
+        non_striker: SKS Gill
+        bowler: Shahil Momin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Barker
+    - 15.2:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SKS Gill
+    - 15.3:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 15.4:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SKS Gill
+    - 15.5:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 15.6:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 15.7:
+        non_striker: J Barker
+        bowler: Shahil Momin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 16.1:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 16.2:
+        non_striker: J Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 16.3:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 16.4:
+        non_striker: J Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 16.5:
+        non_striker: J Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 16.6:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 17.1:
+        non_striker: SKS Gill
+        bowler: Sahel Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Barker
+    - 17.2:
+        non_striker: J Barker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SKS Gill
+    - 17.3:
+        non_striker: J Barker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 17.4:
+        non_striker: SKS Gill
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 17.5:
+        non_striker: SKS Gill
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 17.6:
+        non_striker: J Barker
+        bowler: Sahel Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 18.1:
+        non_striker: J Barker
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 18.2:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 18.3:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barker
+    - 18.4:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 18.5:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Barker
+    - 18.6:
+        non_striker: SKS Gill
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 19.1:
+        non_striker: J Barker
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 19.2:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 19.3:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Barker
+    - 19.4:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 19.5:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barker
+    - 19.6:
+        non_striker: J Barker
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SKS Gill
+    - 19.7:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Barker
+    - 19.8:
+        non_striker: SKS Gill
+        bowler: Itibarshah Deedar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Barker
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mirza Ahsan
+        batsman: M Simpson-Parker
+    - 0.2:
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mirza Ahsan
+        batsman: M Simpson-Parker
+    - 0.3:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mirza Ahsan
+    - 0.4:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mirza Ahsan
+        wicket:
+          player_out: Mirza Ahsan
+          fielders:
+          - V Vijh
+          kind: caught
+    - 0.5:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 0.6:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 0.7:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 1.1:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Simpson-Parker
+    - 1.2:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 1.3:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 1.4:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Razmal Shigiwal
+    - 1.5:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Razmal Shigiwal
+    - 1.6:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 1.7:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 1.8:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 1.9:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 2.1:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 2.2:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Razmal Shigiwal
+    - 2.3:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 2.4:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 2.5:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 2.6:
+        non_striker: Razmal Shigiwal
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 2.7:
+        non_striker: M Simpson-Parker
+        bowler: WJ Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 3.1:
+        non_striker: M Simpson-Parker
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 3.2:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 3.3:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Simpson-Parker
+    - 3.4:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 3.5:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 3.6:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 4.1:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 4.2:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M Simpson-Parker
+    - 4.3:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Razmal Shigiwal
+    - 4.4:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 4.5:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Razmal Shigiwal
+    - 4.6:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Simpson-Parker
+    - 4.7:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Simpson-Parker
+    - 4.8:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Simpson-Parker
+    - 4.9:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 5.1:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 5.2:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 5.3:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 5.4:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 5.5:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 5.6:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 6.1:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 6.2:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 6.3:
+        non_striker: Razmal Shigiwal
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 6.4:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 6.5:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 6.6:
+        non_striker: M Simpson-Parker
+        bowler: A Dhingra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 7.1:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 7.2:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Razmal Shigiwal
+    - 7.3:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 7.4:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 7.5:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Simpson-Parker
+    - 7.6:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 8.1:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Razmal Shigiwal
+    - 8.2:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 8.3:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 8.4:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 8.5:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 8.6:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 9.1:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 9.2:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 9.3:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 9.4:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 9.5:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 9.6:
+        non_striker: M Simpson-Parker
+        bowler: M Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Razmal Shigiwal
+    - 10.1:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 10.2:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Simpson-Parker
+    - 10.3:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 10.4:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 10.5:
+        non_striker: M Simpson-Parker
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 10.6:
+        non_striker: Razmal Shigiwal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Simpson-Parker
+    - 11.1:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+    - 11.2:
+        non_striker: Razmal Shigiwal
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Simpson-Parker
+        wicket:
+          player_out: M Simpson-Parker
+          fielders:
+          - Anoop Orsu
+          kind: caught
+    - 11.3:
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habib Ahmadzai
+        batsman: Razmal Shigiwal
+    - 11.4:
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Habib Ahmadzai
+        batsman: Razmal Shigiwal
+    - 11.5:
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habib Ahmadzai
+        batsman: Razmal Shigiwal
+    - 11.6:
+        non_striker: Habib Ahmadzai
+        bowler: M Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 12.1:
+        non_striker: Habib Ahmadzai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+    - 12.2:
+        non_striker: Habib Ahmadzai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 12.3:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Ahmadzai
+    - 12.4:
+        non_striker: Habib Ahmadzai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Razmal Shigiwal
+    - 12.5:
+        non_striker: Habib Ahmadzai
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 12.6:
+        non_striker: Razmal Shigiwal
+        bowler: A Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Ahmadzai
+    - 13.1:
+        non_striker: Razmal Shigiwal
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Ahmadzai
+    - 13.2:
+        non_striker: Razmal Shigiwal
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Ahmadzai
+    - 13.3:
+        non_striker: Habib Ahmadzai
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Razmal Shigiwal
+    - 13.4:
+        non_striker: Habib Ahmadzai
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Razmal Shigiwal
+    - 13.5:
+        non_striker: Razmal Shigiwal
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Ahmadzai
+    - 13.6:
+        non_striker: Razmal Shigiwal
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Habib Ahmadzai
+    - 14.1:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Habib Ahmadzai
+    - 14.2:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Ahmadzai
+    - 14.3:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Habib Ahmadzai
+    - 14.4:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Habib Ahmadzai
+    - 14.5:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Ahmadzai
+    - 14.6:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habib Ahmadzai
+        wicket:
+          player_out: Habib Ahmadzai
+          fielders:
+          - J Barker
+          kind: caught
+    - 14.7:
+        non_striker: Razmal Shigiwal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+    - 15.1:
+        non_striker: Shahil Momin
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Razmal Shigiwal
+        wicket:
+          player_out: Razmal Shigiwal
+          fielders:
+          - J Barker
+          kind: caught
+    - 15.2:
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPS Cheema
+        batsman: Shahil Momin
+    - 15.3:
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MPS Cheema
+        batsman: Shahil Momin
+    - 15.4:
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MPS Cheema
+        batsman: Shahil Momin
+    - 15.5:
+        non_striker: MPS Cheema
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahil Momin
+        wicket:
+          player_out: Shahil Momin
+          kind: lbw
+    - 15.6:
+        non_striker: MPS Cheema
+        bowler: SKS Gill
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Wijesekera
+    - 16.1:
+        non_striker: MPS Cheema
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Wijesekera
+    - 16.2:
+        non_striker: MPS Cheema
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wijesekera

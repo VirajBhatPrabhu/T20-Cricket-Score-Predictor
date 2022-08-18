@@ -1,0 +1,2144 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2021-10-05'
+  gender: male
+  match_type: T20
+  match_type_number: 1281
+  outcome:
+    winner: Namibia
+    by:
+      runs: 17
+  overs: 20
+  player_of_match:
+  - JN Frylinck
+  players:
+    Namibia:
+    - SJ Baard
+    - ZE Green
+    - CG Williams
+    - MG Erasmus
+    - D Wiese
+    - JJ Smit
+    - JN Frylinck
+    - R Trumpelmann
+    - HN Ya France
+    - K Birkenstock
+    - BM Scholtz
+    United Arab Emirates:
+    - Waseem Muhammad
+    - Chirag Suri
+    - CP Rizwan
+    - Muhammad Usman
+    - Basil Hameed
+    - Rohan Mustafa
+    - Kashif Daud
+    - Ahmed Raza
+    - V Aravind
+    - Sultan Ahmed (2)
+    - Zahoor Khan
+  registry:
+    people:
+      A Louw: 5eecae5d
+      Ahmed Raza: 79b4839e
+      BM Scholtz: e85d03d6
+      Basil Hameed: adbf0400
+      CG Williams: e16e7347
+      CP Rizwan: e5309baa
+      Chirag Suri: 6176f240
+      D Wiese: aa8d28ae
+      HN Ya France: 915264c2
+      Iftikhar Ali: fc537391
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      K Birkenstock: 27b8d7b6
+      Kashif Daud: 24fcd95d
+      MG Erasmus: 95a5e066
+      Muhammad Usman: '45642393'
+      R Trumpelmann: ff6a7ab5
+      Rohan Mustafa: d1988788
+      SJ Baard: e8511411
+      Sultan Ahmed: '07687c15'
+      V Aravind: cddafe26
+      WC Labrooy: 29d4e29b
+      Waseem Muhammad: 6f02fe2a
+      ZE Green: 8716233e
+      Zahoor Khan: f0e293b0
+  teams:
+  - Namibia
+  - United Arab Emirates
+  toss:
+    winner: United Arab Emirates
+    decision: field
+  umpires:
+  - A Louw
+  - Iftikhar Ali
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: ZE Green
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Baard
+    - 0.2:
+        non_striker: ZE Green
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 0.3:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 0.4:
+        non_striker: ZE Green
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 0.5:
+        non_striker: ZE Green
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 0.6:
+        non_striker: ZE Green
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 1.1:
+        non_striker: ZE Green
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 1.2:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 1.3:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 1.4:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZE Green
+    - 1.5:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          fielders:
+          - CP Rizwan
+          kind: caught
+    - 1.6:
+        non_striker: CG Williams
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 1.7:
+        non_striker: CG Williams
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 2.1:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 2.2:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 2.3:
+        non_striker: CG Williams
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Baard
+    - 2.4:
+        non_striker: CG Williams
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 2.5:
+        non_striker: CG Williams
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 2.6:
+        non_striker: CG Williams
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Baard
+    - 3.1:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 3.2:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: CG Williams
+    - 3.3:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 3.4:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 3.5:
+        non_striker: CG Williams
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 3.6:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 4.1:
+        non_striker: CG Williams
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 4.2:
+        non_striker: CG Williams
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 4.3:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 4.4:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 4.5:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 4.6:
+        non_striker: CG Williams
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Baard
+    - 5.1:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.2:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 5.3:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 5.4:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 5.5:
+        non_striker: CG Williams
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 5.6:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 6.1:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 6.2:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 6.3:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 6.4:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 6.5:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 6.6:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 7.1:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 7.2:
+        non_striker: CG Williams
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 7.3:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 7.4:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 7.5:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 7.6:
+        non_striker: SJ Baard
+        bowler: Sultan Ahmed (2)
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 8.1:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 8.2:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 8.3:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 8.4:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 8.5:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Williams
+    - 8.6:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 9.1:
+        non_striker: CG Williams
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SJ Baard
+    - 9.2:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.3:
+        non_striker: CG Williams
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 9.4:
+        non_striker: SJ Baard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CG Williams
+    - 9.5:
+        non_striker: CG Williams
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 9.6:
+        non_striker: CG Williams
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 10.1:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 10.2:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Williams
+    - 10.3:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 10.4:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 10.5:
+        non_striker: SJ Baard
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 10.6:
+        non_striker: CG Williams
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 11.1:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 11.2:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Williams
+    - 11.3:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 11.4:
+        non_striker: CG Williams
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 11.5:
+        non_striker: SJ Baard
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+        wicket:
+          player_out: CG Williams
+          fielders:
+          - Sultan Ahmed (2)
+          kind: caught
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 12.1:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: MG Erasmus
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 12.3:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 12.4:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: SJ Baard
+        bowler: Kashif Daud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 13.2:
+        non_striker: SJ Baard
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: SJ Baard
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.4:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+        wicket:
+          player_out: SJ Baard
+          fielders:
+          - Kashif Daud
+          kind: caught
+    - 13.5:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 13.6:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Wiese
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 14.2:
+        non_striker: MG Erasmus
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.3:
+        non_striker: D Wiese
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.5:
+        non_striker: D Wiese
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.6:
+        non_striker: MG Erasmus
+        bowler: Ahmed Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.1:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 15.2:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.3:
+        non_striker: D Wiese
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 15.4:
+        non_striker: D Wiese
+        bowler: Waseem Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 15.5:
+        non_striker: D Wiese
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: D Wiese
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.7:
+        non_striker: MG Erasmus
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: bowled
+    - 16.1:
+        non_striker: JJ Smit
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 16.2:
+        non_striker: MG Erasmus
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 16.4:
+        non_striker: JJ Smit
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 16.5:
+        non_striker: JJ Smit
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 16.6:
+        non_striker: JJ Smit
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 17.1:
+        non_striker: MG Erasmus
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.2:
+        non_striker: JJ Smit
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.3:
+        non_striker: MG Erasmus
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 17.4:
+        non_striker: MG Erasmus
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.5:
+        non_striker: JJ Smit
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 17.6:
+        non_striker: JJ Smit
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          kind: bowled
+    - 18.1:
+        non_striker: JN Frylinck
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 18.2:
+        non_striker: JN Frylinck
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 18.3:
+        non_striker: JN Frylinck
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 18.4:
+        non_striker: JJ Smit
+        bowler: Rohan Mustafa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JN Frylinck
+    - 18.5:
+        non_striker: JN Frylinck
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - Ahmed Raza
+          kind: caught
+    - 18.6:
+        non_striker: R Trumpelmann
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 19.1:
+        non_striker: JN Frylinck
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 19.2:
+        non_striker: R Trumpelmann
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 19.3:
+        non_striker: R Trumpelmann
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JN Frylinck
+    - 19.4:
+        non_striker: JN Frylinck
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 19.5:
+        non_striker: HN Ya France
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          kind: bowled
+    - 19.6:
+        non_striker: HN Ya France
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Birkenstock
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.7:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 1.2:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chirag Suri
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 1.7:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chirag Suri
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chirag Suri
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 2.6:
+        non_striker: Chirag Suri
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 3.5:
+        non_striker: Chirag Suri
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 4.1:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 4.3:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.4:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 4.5:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+        wicket:
+          player_out: Chirag Suri
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 5.1:
+        non_striker: CP Rizwan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: CP Rizwan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.3:
+        non_striker: CP Rizwan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.4:
+        non_striker: CP Rizwan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Rizwan
+    - 5.6:
+        non_striker: Waseem Muhammad
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 6.1:
+        non_striker: Waseem Muhammad
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 6.2:
+        non_striker: CP Rizwan
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.3:
+        non_striker: Waseem Muhammad
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CP Rizwan
+    - 6.4:
+        non_striker: Waseem Muhammad
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 6.5:
+        non_striker: CP Rizwan
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.6:
+        non_striker: CP Rizwan
+        bowler: K Birkenstock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 7.1:
+        non_striker: Waseem Muhammad
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Rizwan
+    - 7.2:
+        non_striker: Waseem Muhammad
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 7.3:
+        non_striker: CP Rizwan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 7.5:
+        non_striker: CP Rizwan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CP Rizwan
+    - 8.2:
+        non_striker: CP Rizwan
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.3:
+        non_striker: Waseem Muhammad
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CP Rizwan
+        wicket:
+          player_out: CP Rizwan
+          fielders:
+          - K Birkenstock
+          kind: caught
+    - 8.4:
+        non_striker: Waseem Muhammad
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 8.5:
+        non_striker: Waseem Muhammad
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+    - 8.6:
+        non_striker: Waseem Muhammad
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 9.1:
+        non_striker: Muhammad Usman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 9.2:
+        non_striker: Muhammad Usman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 9.3:
+        non_striker: Muhammad Usman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.4:
+        non_striker: Waseem Muhammad
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 9.5:
+        non_striker: Muhammad Usman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 9.6:
+        non_striker: Muhammad Usman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 10.1:
+        non_striker: Waseem Muhammad
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 10.2:
+        non_striker: Waseem Muhammad
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 10.3:
+        non_striker: Waseem Muhammad
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 10.4:
+        non_striker: Muhammad Usman
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 10.5:
+        non_striker: Waseem Muhammad
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 10.6:
+        non_striker: Muhammad Usman
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 11.1:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 11.2:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 11.3:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 11.4:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 11.5:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - ZE Green
+          kind: caught
+    - 11.6:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 12.1:
+        non_striker: Muhammad Usman
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+    - 12.2:
+        non_striker: Muhammad Usman
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 12.3:
+        non_striker: Basil Hameed
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 12.4:
+        non_striker: Basil Hameed
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 12.5:
+        non_striker: Muhammad Usman
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Basil Hameed
+    - 12.6:
+        non_striker: Muhammad Usman
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 13.1:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+    - 13.2:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Basil Hameed
+    - 13.3:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Basil Hameed
+    - 13.4:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 13.5:
+        non_striker: Basil Hameed
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 13.6:
+        non_striker: Basil Hameed
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 14.1:
+        non_striker: Muhammad Usman
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 14.2:
+        non_striker: Basil Hameed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 14.3:
+        non_striker: Basil Hameed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+    - 14.4:
+        non_striker: Basil Hameed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 14.5:
+        non_striker: Basil Hameed
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 14.6:
+        non_striker: Muhammad Usman
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 15.1:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+        wicket:
+          player_out: Basil Hameed
+          fielders:
+          - D Wiese
+          kind: caught
+    - 15.2:
+        non_striker: Rohan Mustafa
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 15.3:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 15.4:
+        non_striker: Kashif Daud
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 15.5:
+        non_striker: Kashif Daud
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 15.6:
+        non_striker: Muhammad Usman
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Daud
+    - 16.1:
+        non_striker: Kashif Daud
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 16.2:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kashif Daud
+    - 16.3:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kashif Daud
+    - 16.4:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kashif Daud
+    - 16.5:
+        non_striker: Kashif Daud
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+    - 16.6:
+        non_striker: Kashif Daud
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 16.7:
+        non_striker: Muhammad Usman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kashif Daud
+    - 17.1:
+        non_striker: Kashif Daud
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 17.2:
+        non_striker: Kashif Daud
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 17.3:
+        non_striker: Muhammad Usman
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kashif Daud
+        wicket:
+          player_out: Kashif Daud
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 17.4:
+        non_striker: Ahmed Raza
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 17.5:
+        non_striker: Ahmed Raza
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Usman
+    - 17.6:
+        non_striker: Ahmed Raza
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+        wicket:
+          player_out: Muhammad Usman
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 18.1:
+        non_striker: Ahmed Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Aravind
+    - 18.2:
+        non_striker: V Aravind
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Raza
+    - 18.3:
+        non_striker: Ahmed Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Aravind
+    - 18.4:
+        non_striker: Ahmed Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Aravind
+    - 18.5:
+        non_striker: Ahmed Raza
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Aravind
+    - 18.6:
+        non_striker: V Aravind
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Raza
+    - 19.1:
+        non_striker: Ahmed Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Aravind
+    - 19.2:
+        non_striker: Ahmed Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+        wicket:
+          player_out: V Aravind
+          kind: bowled
+    - 19.3:
+        non_striker: Ahmed Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultan Ahmed (2)
+    - 19.4:
+        non_striker: Ahmed Raza
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultan Ahmed (2)
+        wicket:
+          player_out: Sultan Ahmed (2)
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 19.5:
+        non_striker: Zahoor Khan
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Raza
+    - 19.6:
+        non_striker: Zahoor Khan
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Raza

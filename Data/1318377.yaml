@@ -1,0 +1,1993 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2022-06-10'
+  gender: female
+  match_type: T20
+  match_type_number: 1097
+  outcome:
+    winner: Tanzania
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - Zinaida Jeremiah
+  players:
+    Tanzania:
+    - FO Kibasu
+    - S Mtae
+    - SH Mohamedi
+    - HM Omary
+    - NN Saidi
+    - MA Swedy
+    - SF Jerome
+    - Zinaida Jeremiah
+    - PZ Kamunya
+    - AS Qwele
+    - T Shabani
+    Botswana:
+    - F Samanyika
+    - O Batisani
+    - S Mosweu
+    - T Modise
+    - L Mophakedi
+    - T Shadrack
+    - G Matome
+    - T Motlhabaphuti
+    - T Legaabile
+    - O Kgeresi
+    - M Ramafifi
+  registry:
+    people:
+      AS Qwele: 26b3df21
+      F Samanyika: c42eed38
+      FO Kibasu: 1c726c76
+      G Matome: a6898f7a
+      Gaston Niyibizi: eb99c84c
+      HM Omary: 2cbe5db1
+      Itangishaka Olivier: 0ee3bb49
+      L Mophakedi: c8cdbb92
+      M Ramafifi: 40d1b7bd
+      MA Swedy: 202ce08c
+      NN Saidi: 16610c7b
+      O Batisani: 7ff6c967
+      O Kgeresi: cba01c28
+      PZ Kamunya: 6e60bbe2
+      S Mosweu: 10726a80
+      S Mtae: bb641155
+      SF Jerome: e393c6c1
+      SH Mohamedi: 10ab6a37
+      T Legaabile: c7e59109
+      T Modise: 4569f6c7
+      T Motlhabaphuti: 1fb3e04f
+      T Shabani: 2c83f1f7
+      T Shadrack: 6d972d02
+      Vicky Prajapati: 8926ed4e
+      Zinaida Jeremiah: 967806a5
+  teams:
+  - Tanzania
+  - Botswana
+  toss:
+    winner: Tanzania
+    decision: bat
+  umpires:
+  - Gaston Niyibizi
+  - Vicky Prajapati
+  venue: Integrated Polytechnic Regional Centre
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.2:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.3:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.4:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.5:
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mtae
+        batsman: FO Kibasu
+    - 0.6:
+        non_striker: S Mtae
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 1.1:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 1.2:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 1.3:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 1.4:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FO Kibasu
+    - 1.5:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 1.6:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mtae
+    - 1.7:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 1.8:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 2.1:
+        non_striker: FO Kibasu
+        bowler: T Shadrack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Mtae
+    - 2.2:
+        non_striker: S Mtae
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 2.3:
+        non_striker: S Mtae
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 2.4:
+        non_striker: S Mtae
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 2.5:
+        non_striker: S Mtae
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 2.6:
+        non_striker: FO Kibasu
+        bowler: T Shadrack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mtae
+    - 3.1:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.2:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.3:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.4:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.5:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 3.6:
+        non_striker: S Mtae
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 4.1:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mtae
+        wicket:
+          player_out: S Mtae
+          kind: bowled
+    - 4.2:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 4.3:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Mohamedi
+    - 4.4:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 4.5:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 4.6:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 5.1:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 5.2:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Mohamedi
+    - 5.3:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Mohamedi
+    - 5.4:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 5.5:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 5.6:
+        non_striker: FO Kibasu
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Mohamedi
+    - 6.1:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 6.2:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 6.3:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 6.4:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 6.5:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SH Mohamedi
+    - 6.6:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 7.1:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Mohamedi
+    - 7.2:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 7.3:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 7.4:
+        non_striker: SH Mohamedi
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 7.5:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 7.6:
+        non_striker: SH Mohamedi
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 8.1:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 8.2:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 8.3:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 8.4:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 8.5:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 8.6:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Mohamedi
+    - 9.1:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 9.2:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 9.3:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Mohamedi
+    - 9.4:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 9.5:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 9.6:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+    - 10.1:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 10.2:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 10.3:
+        non_striker: SH Mohamedi
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 10.4:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Mohamedi
+    - 10.5:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Mohamedi
+        wicket:
+          player_out: SH Mohamedi
+          kind: bowled
+    - 10.6:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 10.7:
+        non_striker: FO Kibasu
+        bowler: F Samanyika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Omary
+    - 11.1:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 11.2:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 11.3:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 11.4:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: FO Kibasu
+    - 11.5:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 11.6:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 12.1:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 12.2:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 12.3:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 12.4:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 12.5:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 12.6:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 13.1:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 13.2:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 13.3:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FO Kibasu
+    - 13.4:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 13.5:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 13.6:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 14.1:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 14.2:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 14.3:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FO Kibasu
+    - 14.4:
+        non_striker: FO Kibasu
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 14.5:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 14.6:
+        non_striker: HM Omary
+        bowler: S Mosweu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+    - 15.1:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 15.2:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 15.3:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 15.4:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 15.5:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 15.6:
+        non_striker: FO Kibasu
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 16.1:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FO Kibasu
+    - 16.2:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FO Kibasu
+        wicket:
+          player_out: FO Kibasu
+          kind: bowled
+    - 16.3:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Saidi
+    - 16.4:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Saidi
+    - 16.5:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Saidi
+    - 16.6:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Saidi
+    - 17.1:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Saidi
+    - 17.2:
+        non_striker: NN Saidi
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 17.3:
+        non_striker: NN Saidi
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 17.4:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Saidi
+    - 17.5:
+        non_striker: HM Omary
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Saidi
+    - 17.6:
+        non_striker: NN Saidi
+        bowler: G Matome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 18.1:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Saidi
+    - 18.2:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NN Saidi
+    - 18.3:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NN Saidi
+    - 18.4:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NN Saidi
+    - 18.5:
+        non_striker: NN Saidi
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Omary
+    - 18.6:
+        non_striker: HM Omary
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NN Saidi
+    - 18.7:
+        non_striker: NN Saidi
+        bowler: T Motlhabaphuti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HM Omary
+    - 19.1:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Omary
+    - 19.2:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 19.3:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+    - 19.4:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Omary
+        wicket:
+          player_out: HM Omary
+          fielders:
+          - T Legaabile
+          kind: run out
+    - 19.5:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+    - 19.6:
+        non_striker: NN Saidi
+        bowler: T Legaabile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Swedy
+- 2nd innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Batisani
+        batsman: F Samanyika
+    - 0.2:
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Batisani
+        batsman: F Samanyika
+    - 0.3:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 0.4:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 0.5:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Batisani
+    - 0.6:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Batisani
+    - 1.1:
+        non_striker: O Batisani
+        bowler: AS Qwele
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: F Samanyika
+    - 1.2:
+        non_striker: O Batisani
+        bowler: AS Qwele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 1.3:
+        non_striker: F Samanyika
+        bowler: AS Qwele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Batisani
+    - 1.4:
+        non_striker: F Samanyika
+        bowler: AS Qwele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Batisani
+    - 1.5:
+        non_striker: O Batisani
+        bowler: AS Qwele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 1.6:
+        non_striker: O Batisani
+        bowler: AS Qwele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Samanyika
+    - 1.7:
+        non_striker: F Samanyika
+        bowler: AS Qwele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+    - 1.8:
+        non_striker: F Samanyika
+        bowler: AS Qwele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Batisani
+        wicket:
+          player_out: O Batisani
+          fielders:
+          - Zinaida Jeremiah
+          kind: caught
+    - 1.9:
+        non_striker: F Samanyika
+        bowler: AS Qwele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 2.1:
+        non_striker: S Mosweu
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 2.2:
+        non_striker: S Mosweu
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 2.3:
+        non_striker: S Mosweu
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 2.4:
+        non_striker: S Mosweu
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 2.5:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mosweu
+    - 2.6:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mosweu
+    - 2.7:
+        non_striker: F Samanyika
+        bowler: NN Saidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 3.1:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 3.2:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 3.3:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Samanyika
+    - 3.4:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 3.5:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Samanyika
+    - 3.6:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 3.7:
+        non_striker: S Mosweu
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 4.1:
+        non_striker: F Samanyika
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mosweu
+    - 4.2:
+        non_striker: F Samanyika
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 4.3:
+        non_striker: F Samanyika
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 4.4:
+        non_striker: F Samanyika
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+    - 4.5:
+        non_striker: F Samanyika
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mosweu
+        wicket:
+          player_out: S Mosweu
+          fielders:
+          - NN Saidi
+          kind: caught
+    - 4.6:
+        non_striker: T Modise
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Samanyika
+    - 5.1:
+        non_striker: T Modise
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 5.2:
+        non_striker: T Modise
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+    - 5.3:
+        non_striker: T Modise
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Samanyika
+        wicket:
+          player_out: F Samanyika
+          fielders:
+          - AS Qwele
+          kind: run out
+    - 5.4:
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Mophakedi
+        batsman: T Modise
+    - 5.5:
+        non_striker: T Modise
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+    - 5.6:
+        non_striker: T Modise
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mophakedi
+    - 6.1:
+        non_striker: T Modise
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mophakedi
+        wicket:
+          player_out: L Mophakedi
+          fielders:
+          - SH Mohamedi
+          kind: caught
+    - 6.2:
+        non_striker: T Modise
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 6.3:
+        non_striker: T Modise
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 6.4:
+        non_striker: T Shadrack
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Modise
+    - 6.5:
+        non_striker: T Shadrack
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Modise
+    - 6.6:
+        non_striker: T Modise
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 7.1:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Modise
+    - 7.2:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Modise
+        wicket:
+          player_out: T Modise
+          kind: bowled
+    - 7.3:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+    - 7.4:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Matome
+        wicket:
+          player_out: G Matome
+          kind: lbw
+    - 7.5:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Motlhabaphuti
+    - 7.6:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Motlhabaphuti
+    - 8.1:
+        non_striker: T Motlhabaphuti
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 8.2:
+        non_striker: T Motlhabaphuti
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 8.3:
+        non_striker: T Shadrack
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Motlhabaphuti
+    - 8.4:
+        non_striker: T Shadrack
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Motlhabaphuti
+        wicket:
+          player_out: T Motlhabaphuti
+          fielders:
+          - NN Saidi
+          kind: caught
+    - 8.5:
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Legaabile
+        batsman: T Shadrack
+    - 8.6:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 9.1:
+        non_striker: T Legaabile
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 9.2:
+        non_striker: T Legaabile
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 9.3:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 9.4:
+        non_striker: T Legaabile
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+    - 9.5:
+        non_striker: T Legaabile
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shadrack
+    - 9.6:
+        non_striker: T Shadrack
+        bowler: PZ Kamunya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 10.1:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Shadrack
+    - 10.2:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shadrack
+        wicket:
+          player_out: T Shadrack
+          fielders:
+          - SH Mohamedi
+          kind: caught
+    - 10.3:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 10.4:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 10.5:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 10.6:
+        non_striker: T Legaabile
+        bowler: Zinaida Jeremiah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Kgeresi
+    - 11.1:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 11.2:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 11.3:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 11.4:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 11.5:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 11.6:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 12.1:
+        non_striker: O Kgeresi
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 12.2:
+        non_striker: T Legaabile
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Kgeresi
+    - 12.3:
+        non_striker: O Kgeresi
+        bowler: FO Kibasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 12.4:
+        non_striker: O Kgeresi
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 12.5:
+        non_striker: O Kgeresi
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 12.6:
+        non_striker: T Legaabile
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 12.7:
+        non_striker: T Legaabile
+        bowler: FO Kibasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 13.1:
+        non_striker: O Kgeresi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 13.2:
+        non_striker: O Kgeresi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Legaabile
+    - 13.3:
+        non_striker: O Kgeresi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Legaabile
+    - 13.4:
+        non_striker: O Kgeresi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 13.5:
+        non_striker: O Kgeresi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 13.6:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 14.1:
+        non_striker: O Kgeresi
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 14.2:
+        non_striker: T Legaabile
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 14.3:
+        non_striker: T Legaabile
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Kgeresi
+    - 14.4:
+        non_striker: T Legaabile
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Kgeresi
+    - 14.5:
+        non_striker: O Kgeresi
+        bowler: T Shabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Legaabile
+    - 14.6:
+        non_striker: O Kgeresi
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+        wicket:
+          player_out: O Kgeresi
+          fielders:
+          - Zinaida Jeremiah
+          kind: run out
+    - 14.7:
+        non_striker: T Legaabile
+        bowler: T Shabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ramafifi
+    - 15.1:
+        non_striker: M Ramafifi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Legaabile
+    - 15.2:
+        non_striker: M Ramafifi
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Legaabile
+    - 15.3:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ramafifi
+    - 15.4:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ramafifi
+    - 15.5:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ramafifi
+    - 15.6:
+        non_striker: T Legaabile
+        bowler: SF Jerome
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ramafifi
+        wicket:
+          player_out: M Ramafifi
+          kind: bowled

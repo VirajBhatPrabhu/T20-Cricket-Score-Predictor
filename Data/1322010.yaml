@@ -1,0 +1,1433 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2022-07-11'
+  gender: male
+  match_type: T20
+  match_type_number: 1632
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Syed Aziz
+  players:
+    Bhutan:
+    - RM Dorji
+    - T Wangchuk
+    - Tenjin Rabgey
+    - T Jamtsho
+    - J Singye
+    - Namgay Thinley
+    - GK Ghalley
+    - S Pradhan
+    - Ngawang Thinley
+    - Manoj Adhikari
+    - S Yeshi
+    Malaysia:
+    - Syed Aziz
+    - Zubaidi Zulkifle
+    - Ahmed Faiz Mohammad Noor
+    - Virandeep Singh
+    - Ainool Hafizs
+    - S Muniandy
+    - Pavandeep Singh
+    - S Vijay Unni
+    - M Syahadat Ramli
+    - Khizar Hayat
+    - Syazrul Idrus
+  registry:
+    people:
+      Ahmed Faiz: f6b4f746
+      Ainool Hafizs: 1bada9da
+      B Ramani: 92ad5353
+      GK Ghalley: 2d1b6dee
+      J Singye: '28574428'
+      Khizar Hayat: 78bbeba1
+      M Syahadat Ramli: 5efa8af3
+      Manoj Adhikari: 26529e00
+      Mathan Kumar: da596754
+      N Sivan: 8f4a0102
+      Namgay Thinley: 9c333e40
+      Ngawang Thinley: cc62ec8a
+      Pavandeep Singh: 78fcc740
+      RM Dorji: 3d7f02d4
+      S Muniandy: 57fcfd3b
+      S Pradhan: 04f0d409
+      S Vijay Unni: f737ab44
+      S Yeshi: 0c24fb7b
+      Syazrul Idrus: 6dba59e0
+      Syed Aziz: 6667067e
+      T Jamtsho: c01d1c0a
+      T Wangchuk: 39799e49
+      Tenjin Rabgey: 1fed517a
+      V Kalidas: 42d76418
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Bhutan
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - N Sivan
+  - V Kalidas
+  venue: UKM-YSD Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Wangchuk
+        batsman: RM Dorji
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Wangchuk
+        batsman: RM Dorji
+    - 0.3:
+        non_striker: RM Dorji
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+        wicket:
+          player_out: RM Dorji
+          fielders:
+          - Khizar Hayat
+          - Ainool Hafizs
+          kind: run out
+    - 0.4:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 0.5:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 0.6:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 1.1:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.2:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.3:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          fielders:
+          - Ainool Hafizs
+          kind: caught
+    - 1.4:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 1.5:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 1.6:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 2.1:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+    - 2.2:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 2.3:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 2.4:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 2.5:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 2.6:
+        non_striker: T Wangchuk
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 3.1:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 3.2:
+        non_striker: T Wangchuk
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 3.3:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+    - 3.4:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+        wicket:
+          player_out: T Wangchuk
+          fielders:
+          - Khizar Hayat
+          kind: caught
+    - 3.5:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 3.6:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Singye
+    - 4.1:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 4.2:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+    - 4.3:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Singye
+    - 4.4:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Singye
+        wicket:
+          player_out: J Singye
+          kind: lbw
+    - 4.5:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 4.6:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 5.1:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 5.2:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 5.3:
+        non_striker: T Jamtsho
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 5.4:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 5.5:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 5.6:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Jamtsho
+    - 5.7:
+        non_striker: Namgay Thinley
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 6.1:
+        non_striker: Namgay Thinley
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 6.2:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 6.3:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 6.4:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 6.5:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 6.6:
+        non_striker: T Jamtsho
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.1:
+        non_striker: Namgay Thinley
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 7.2:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.3:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.4:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.5:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.6:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 8.1:
+        non_striker: T Jamtsho
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 8.2:
+        non_striker: Namgay Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 8.3:
+        non_striker: T Jamtsho
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 8.4:
+        non_striker: T Jamtsho
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 8.5:
+        non_striker: Namgay Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Jamtsho
+    - 8.6:
+        non_striker: Namgay Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 9.1:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 9.2:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 9.3:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          fielders:
+          - S Vijay Unni
+          kind: caught
+    - 9.4:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 9.5:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 9.6:
+        non_striker: GK Ghalley
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 10.1:
+        non_striker: GK Ghalley
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Jamtsho
+    - 10.2:
+        non_striker: GK Ghalley
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 10.3:
+        non_striker: GK Ghalley
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 10.4:
+        non_striker: GK Ghalley
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 10.5:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 10.6:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 11.1:
+        non_striker: GK Ghalley
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 11.2:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 11.3:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 11.4:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 11.5:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          fielders:
+          - Virandeep Singh
+          - Ainool Hafizs
+          kind: run out
+    - 11.6:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pradhan
+    - 12.1:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 12.2:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 12.3:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 12.4:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pradhan
+    - 12.5:
+        non_striker: T Jamtsho
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pradhan
+    - 12.6:
+        non_striker: S Pradhan
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 13.1:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 13.2:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 13.3:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 13.4:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pradhan
+    - 13.5:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+    - 13.6:
+        non_striker: T Jamtsho
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pradhan
+    - 14.1:
+        non_striker: S Pradhan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 14.2:
+        non_striker: T Jamtsho
+        bowler: Syed Aziz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Pradhan
+    - 14.3:
+        non_striker: S Pradhan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 14.4:
+        non_striker: T Jamtsho
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pradhan
+        wicket:
+          player_out: S Pradhan
+          kind: bowled
+    - 14.5:
+        non_striker: T Jamtsho
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 14.6:
+        non_striker: T Jamtsho
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 14.7:
+        non_striker: T Jamtsho
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 15.1:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 15.2:
+        non_striker: T Jamtsho
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 15.3:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 15.4:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manoj Adhikari
+    - 15.5:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manoj Adhikari
+    - 15.6:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manoj Adhikari
+    - 16.1:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ngawang Thinley
+    - 16.2:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 16.3:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ngawang Thinley
+    - 16.4:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 16.5:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 16.6:
+        non_striker: Manoj Adhikari
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 17.1:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manoj Adhikari
+    - 17.2:
+        non_striker: Manoj Adhikari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 17.3:
+        non_striker: Manoj Adhikari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 17.4:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manoj Adhikari
+    - 17.5:
+        non_striker: Ngawang Thinley
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manoj Adhikari
+    - 17.6:
+        non_striker: Manoj Adhikari
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+    - 18.1:
+        non_striker: Ngawang Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manoj Adhikari
+    - 18.2:
+        non_striker: Manoj Adhikari
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ngawang Thinley
+    - 18.3:
+        non_striker: Ngawang Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manoj Adhikari
+        wicket:
+          player_out: Manoj Adhikari
+          kind: lbw
+    - 18.4:
+        non_striker: Ngawang Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 18.5:
+        non_striker: Ngawang Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 18.6:
+        non_striker: Ngawang Thinley
+        bowler: Khizar Hayat
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Yeshi
+    - 19.1:
+        non_striker: S Yeshi
+        bowler: Syazrul Idrus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ngawang Thinley
+        wicket:
+          player_out: Ngawang Thinley
+          fielders:
+          - S Muniandy
+          kind: caught
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.2:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.3:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.4:
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubaidi Zulkifle
+        batsman: Syed Aziz
+    - 0.5:
+        non_striker: Syed Aziz
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 0.6:
+        non_striker: Syed Aziz
+        bowler: S Pradhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 1.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 1.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 1.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 1.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.1:
+        non_striker: Syed Aziz
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 2.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 2.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 2.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 2.6:
+        non_striker: Syed Aziz
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 3.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 3.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 3.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Syed Aziz
+    - 3.4:
+        non_striker: Syed Aziz
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: lbw
+    - 3.5:
+        non_striker: Syed Aziz
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 3.6:
+        non_striker: Syed Aziz
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 3.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 4.1:
+        non_striker: Syed Aziz
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.2:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 4.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 4.4:
+        non_striker: Syed Aziz
+        bowler: T Wangchuk
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ahmed Faiz Mohammad Noor
+    - 4.5:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 4.6:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 4.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 5.1:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.2:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.3:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.4:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.5:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.6:
+        non_striker: Syed Aziz
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 5.7:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: J Singye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Aziz
+    - 6.1:
+        non_striker: Syed Aziz
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.2:
+        non_striker: Syed Aziz
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz Mohammad Noor
+    - 6.3:
+        non_striker: Ahmed Faiz Mohammad Noor
+        bowler: Ngawang Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz

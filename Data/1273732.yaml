@@ -1,0 +1,2109 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-28'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  dates:
+  - '2021-10-27'
+  gender: male
+  match_type: T20
+  match_type_number: 1371
+  outcome:
+    winner: Namibia
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - R Trumpelmann
+  players:
+    Scotland:
+    - HG Munsey
+    - MH Cross
+    - CS MacLeod
+    - RD Berrington
+    - CD Wallace
+    - MA Leask
+    - CN Greaves
+    - MRJ Watt
+    - JH Davey
+    - SM Sharif
+    - BTJ Wheal
+    Namibia:
+    - CG Williams
+    - M van Lingen
+    - ZE Green
+    - MG Erasmus
+    - D Wiese
+    - JJ Smit
+    - JN Frylinck
+    - HN Ya France
+    - JN Loftie-Eaton
+    - R Trumpelmann
+    - BM Scholtz
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      BM Scholtz: e85d03d6
+      BTJ Wheal: 3f61a062
+      CD Wallace: 7b5c6c0b
+      CG Williams: e16e7347
+      CN Greaves: f42064d5
+      CS MacLeod: 9c376401
+      D Wiese: aa8d28ae
+      HG Munsey: ff014c34
+      HN Ya France: 915264c2
+      J Srinath: bad31fac
+      JH Davey: d3868bd0
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      L Rusere: 6a4734ae
+      M van Lingen: 7eb36269
+      MA Leask: '28131839'
+      MG Erasmus: 95a5e066
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      Nitin Menon: e1d41d9e
+      R Trumpelmann: ff6a7ab5
+      RD Berrington: e21bc7f3
+      RJ Tucker: 38810cfc
+      SM Sharif: f43dd8c2
+      ZE Green: 8716233e
+  teams:
+  - Scotland
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - AT Holdstock
+  - RJ Tucker
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: bowled
+    - 0.2:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 0.3:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 0.4:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 0.5:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+        wicket:
+          player_out: CS MacLeod
+          fielders:
+          - ZE Green
+          kind: caught
+    - 0.6:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          kind: lbw
+    - 0.7:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 0.8:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 1.1:
+        non_striker: CD Wallace
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.2:
+        non_striker: CD Wallace
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 1.3:
+        non_striker: MH Cross
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 1.4:
+        non_striker: MH Cross
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 1.5:
+        non_striker: CD Wallace
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.6:
+        non_striker: CD Wallace
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.1:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 2.2:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 2.3:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 2.4:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 2.5:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 2.6:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 3.1:
+        non_striker: CD Wallace
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.2:
+        non_striker: CD Wallace
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 3.3:
+        non_striker: MH Cross
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 3.4:
+        non_striker: CD Wallace
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.5:
+        non_striker: CD Wallace
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.6:
+        non_striker: CD Wallace
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.1:
+        non_striker: MH Cross
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 4.2:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.3:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.4:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.5:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 4.6:
+        non_striker: CD Wallace
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MH Cross
+    - 5.1:
+        non_striker: CD Wallace
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MH Cross
+    - 5.2:
+        non_striker: CD Wallace
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 5.3:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 5.4:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+        wicket:
+          player_out: CD Wallace
+          kind: lbw
+    - 5.5:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 5.6:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 5.7:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 6.1:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.2:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.3:
+        non_striker: MH Cross
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 6.4:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.5:
+        non_striker: MH Cross
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 6.6:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 7.1:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 7.2:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.3:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 7.4:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 7.5:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 7.6:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.1:
+        non_striker: MA Leask
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.2:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 8.3:
+        non_striker: MH Cross
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 8.4:
+        non_striker: MA Leask
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 8.5:
+        non_striker: MA Leask
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 8.6:
+        non_striker: MA Leask
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.1:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.2:
+        non_striker: MH Cross
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 9.3:
+        non_striker: MH Cross
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 9.4:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 9.5:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.6:
+        non_striker: MH Cross
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.1:
+        non_striker: MH Cross
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.2:
+        non_striker: MA Leask
+        bowler: M van Lingen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 10.3:
+        non_striker: MH Cross
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.4:
+        non_striker: MA Leask
+        bowler: M van Lingen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 10.5:
+        non_striker: MH Cross
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 10.6:
+        non_striker: MH Cross
+        bowler: M van Lingen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Leask
+    - 11.1:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          kind: bowled
+    - 11.2:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 11.3:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 11.4:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 11.5:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 11.6:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 12.1:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 12.2:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 12.3:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 12.4:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.5:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Leask
+    - 12.6:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.1:
+        non_striker: CN Greaves
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 13.2:
+        non_striker: CN Greaves
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.3:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 13.4:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 13.5:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Greaves
+    - 13.6:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 14.1:
+        non_striker: MA Leask
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Greaves
+    - 14.2:
+        non_striker: MA Leask
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 14.3:
+        non_striker: MA Leask
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 14.4:
+        non_striker: MA Leask
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 14.5:
+        non_striker: CN Greaves
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.6:
+        non_striker: MA Leask
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 15.1:
+        non_striker: CN Greaves
+        bowler: HN Ya France
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Leask
+    - 15.2:
+        non_striker: MA Leask
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 15.3:
+        non_striker: MA Leask
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 15.4:
+        non_striker: MA Leask
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 15.5:
+        non_striker: CN Greaves
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 15.6:
+        non_striker: CN Greaves
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 16.1:
+        non_striker: MA Leask
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 16.2:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          kind: bowled
+    - 16.3:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 16.4:
+        non_striker: CN Greaves
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.5:
+        non_striker: MRJ Watt
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+    - 16.6:
+        non_striker: MRJ Watt
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 17.1:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.2:
+        non_striker: MRJ Watt
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 17.3:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 17.4:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.5:
+        non_striker: MRJ Watt
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 17.6:
+        non_striker: MRJ Watt
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 18.1:
+        non_striker: CN Greaves
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 18.2:
+        non_striker: JH Davey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 18.3:
+        non_striker: JH Davey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 18.4:
+        non_striker: CN Greaves
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 18.5:
+        non_striker: CN Greaves
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 18.6:
+        non_striker: JH Davey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 19.1:
+        non_striker: JH Davey
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 19.2:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Davey
+    - 19.3:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 19.4:
+        non_striker: JH Davey
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 19.5:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JH Davey
+    - 19.6:
+        non_striker: CN Greaves
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 19.7:
+        non_striker: JH Davey
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+        wicket:
+          player_out: CN Greaves
+          fielders:
+          - D Wiese
+          kind: run out
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: M van Lingen
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 0.2:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M van Lingen
+    - 0.3:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.4:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 0.5:
+        non_striker: M van Lingen
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 0.6:
+        non_striker: M van Lingen
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 1.1:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.2:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.3:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 1.4:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 1.5:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 1.6:
+        non_striker: M van Lingen
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 2.1:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.2:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.3:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.4:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 2.5:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.6:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.1:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 3.2:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 3.3:
+        non_striker: CG Williams
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M van Lingen
+    - 3.4:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 3.5:
+        non_striker: CG Williams
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.6:
+        non_striker: CG Williams
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.1:
+        non_striker: M van Lingen
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 4.2:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.3:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.4:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 4.5:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 4.6:
+        non_striker: CG Williams
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 5.1:
+        non_striker: CG Williams
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 5.2:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 5.3:
+        non_striker: CG Williams
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 5.4:
+        non_striker: ZE Green
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.5:
+        non_striker: ZE Green
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 5.6:
+        non_striker: ZE Green
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 6.1:
+        non_striker: ZE Green
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 6.2:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 6.3:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 6.4:
+        non_striker: ZE Green
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 6.5:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 6.6:
+        non_striker: CG Williams
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 7.1:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 7.2:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 7.3:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 7.4:
+        non_striker: ZE Green
+        bowler: CN Greaves
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: CG Williams
+    - 7.5:
+        non_striker: ZE Green
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 7.6:
+        non_striker: ZE Green
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 8.1:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 8.2:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 8.3:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 8.4:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZE Green
+    - 8.5:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZE Green
+    - 8.6:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZE Green
+    - 8.7:
+        non_striker: ZE Green
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Williams
+    - 9.1:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 9.2:
+        non_striker: MG Erasmus
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.4:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Erasmus
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 9.6:
+        non_striker: CG Williams
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 10.6:
+        non_striker: CG Williams
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 11.2:
+        non_striker: CG Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          kind: bowled
+    - 11.3:
+        non_striker: CG Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 11.4:
+        non_striker: D Wiese
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Williams
+    - 11.5:
+        non_striker: CG Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 11.6:
+        non_striker: CG Williams
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 12.1:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+    - 12.2:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Williams
+    - 12.3:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Williams
+        wicket:
+          player_out: CG Williams
+          fielders:
+          - MH Cross
+          kind: stumped
+    - 12.4:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.5:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 12.6:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: JJ Smit
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 13.2:
+        non_striker: JJ Smit
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 13.3:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.4:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 13.5:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.6:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.1:
+        non_striker: D Wiese
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 14.2:
+        non_striker: D Wiese
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.3:
+        non_striker: JJ Smit
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 14.4:
+        non_striker: JJ Smit
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.5:
+        non_striker: D Wiese
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Smit
+    - 14.6:
+        non_striker: D Wiese
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 14.7:
+        non_striker: D Wiese
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.1:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 15.2:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 15.3:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 15.4:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 15.5:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 15.6:
+        non_striker: D Wiese
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 16.1:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.2:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 16.3:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.4:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 16.5:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 16.6:
+        non_striker: D Wiese
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 17.1:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.2:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wiese
+    - 17.3:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.4:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 17.5:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.6:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 18.1:
+        non_striker: JJ Smit
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 18.2:
+        non_striker: JN Frylinck
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 18.3:
+        non_striker: JN Frylinck
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 18.4:
+        non_striker: JJ Smit
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - CS MacLeod
+          kind: caught
+    - 18.5:
+        non_striker: JJ Smit
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 18.6:
+        non_striker: JJ Smit
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 19.1:
+        non_striker: HN Ya France
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit

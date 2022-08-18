@@ -1,0 +1,2234 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ghent
+  dates:
+  - '2022-07-01'
+  gender: male
+  match_type: T20
+  match_type_number: 1596
+  outcome:
+    winner: Malta
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - HS Gericke
+  players:
+    Malta:
+    - B Arora
+    - SSM Stanislaus
+    - B George
+    - HS Gericke
+    - VP Thamotharam
+    - Zeeshan Khan
+    - Aaftab Alam Khan
+    - Bilal Muhammad
+    - Imran Ameer
+    - J Shaju
+    - Washeem Abbas
+    Israel:
+    - Yogev Nagavkar
+    - S Bangera
+    - J Evans
+    - E Solomon
+    - E Kahamker
+    - A Amado
+    - Niv Nagavkar
+    - G Schachat
+    - Yair Nagavkar
+    - T Kahamker
+    - L Kamarlekar
+  registry:
+    people:
+      A Amado: 14ea3348
+      Aaftab Alam Khan: 9dbc77b3
+      Adriaan van den Dries: 94b5ec3b
+      B Arora: 39e9f0c9
+      B George: 1bdbf53b
+      Bilal Muhammad: eb5aa5b9
+      E Kahamker: 41acc8bf
+      E Solomon: 8da9a284
+      G Chaturvedi: e1c92333
+      G Schachat: ff92e604
+      HS Gericke: c28a293e
+      Imran Ameer: b8e65260
+      J Evans: 027662be
+      J Shaju: d8bee9a1
+      Jonathan Kennedy: f7ad4494
+      L Kamarlekar: 6024d149
+      Niv Nagavkar: e2abcf16
+      Phil Whitticase: 99d5f6fa
+      S Bangera: 856fc47a
+      SSM Stanislaus: 34dd3fd9
+      T Kahamker: 125853c3
+      VP Thamotharam: eb40ed89
+      Vinay Malhotra: 452837d1
+      Washeem Abbas: 6de4e430
+      Yair Nagavkar: 138e30ab
+      Yogev Nagavkar: c85bea6b
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Malta
+  - Israel
+  toss:
+    winner: Israel
+    decision: field
+  umpires:
+  - Jonathan Kennedy
+  - Vinay Malhotra
+  venue: Meersen, Gent
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SSM Stanislaus
+        batsman: B Arora
+    - 0.2:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SSM Stanislaus
+    - 0.3:
+        non_striker: SSM Stanislaus
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 0.4:
+        non_striker: SSM Stanislaus
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 0.5:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 0.6:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 1.1:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.2:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 1.3:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 1.4:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 1.5:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 1.6:
+        non_striker: B Arora
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 1.7:
+        non_striker: B Arora
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 1.8:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 2.1:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.2:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.3:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.4:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 2.5:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 2.6:
+        non_striker: B Arora
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 3.1:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 3.2:
+        non_striker: B Arora
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 3.3:
+        non_striker: B Arora
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 3.4:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Arora
+    - 3.5:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 3.6:
+        non_striker: SSM Stanislaus
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Arora
+    - 3.7:
+        non_striker: B Arora
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SSM Stanislaus
+    - 4.1:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 4.2:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.3:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.4:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Arora
+    - 4.5:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+    - 4.6:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Arora
+        wicket:
+          player_out: B Arora
+          fielders:
+          - L Kamarlekar
+          kind: caught
+    - 4.7:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B George
+    - 4.8:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B George
+    - 4.9:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 4.10:
+        non_striker: SSM Stanislaus
+        bowler: A Amado
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+    - 5.1:
+        non_striker: B George
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SSM Stanislaus
+    - 5.2:
+        non_striker: B George
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.3:
+        non_striker: B George
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+    - 5.4:
+        non_striker: B George
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSM Stanislaus
+    - 5.5:
+        non_striker: SSM Stanislaus
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B George
+    - 5.6:
+        non_striker: B George
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSM Stanislaus
+        wicket:
+          player_out: SSM Stanislaus
+          fielders:
+          - Yair Nagavkar
+          kind: caught
+    - 6.1:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HS Gericke
+        batsman: B George
+    - 6.2:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HS Gericke
+        batsman: B George
+    - 6.3:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HS Gericke
+        batsman: B George
+    - 6.4:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HS Gericke
+        batsman: B George
+    - 6.5:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HS Gericke
+        batsman: B George
+    - 6.6:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B George
+        wicket:
+          player_out: B George
+          fielders:
+          - E Solomon
+          kind: caught
+    - 7.1:
+        bowler: T Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 7.2:
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 7.3:
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 7.4:
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 7.5:
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VP Thamotharam
+        batsman: HS Gericke
+    - 7.6:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+    - 7.7:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 8.1:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 8.2:
+        non_striker: VP Thamotharam
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 8.3:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VP Thamotharam
+    - 8.4:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VP Thamotharam
+    - 8.5:
+        non_striker: VP Thamotharam
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+    - 8.6:
+        non_striker: VP Thamotharam
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+    - 9.1:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VP Thamotharam
+        wicket:
+          player_out: VP Thamotharam
+          fielders:
+          - L Kamarlekar
+          kind: caught
+    - 9.2:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 9.3:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 9.4:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 9.5:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 9.6:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 10.1:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 10.2:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 10.3:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 10.4:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 10.5:
+        non_striker: Zeeshan Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 10.6:
+        non_striker: Zeeshan Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 11.1:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Gericke
+    - 11.2:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Gericke
+    - 11.3:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HS Gericke
+    - 11.4:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HS Gericke
+    - 11.5:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 11.6:
+        non_striker: HS Gericke
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 11.7:
+        non_striker: Zeeshan Khan
+        bowler: T Kahamker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 12.1:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Gericke
+    - 12.2:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 12.3:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 12.4:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 12.5:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 12.6:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 13.1:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 13.2:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Gericke
+    - 13.3:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 13.4:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 13.5:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HS Gericke
+    - 13.6:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HS Gericke
+    - 13.7:
+        non_striker: Zeeshan Khan
+        bowler: E Kahamker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HS Gericke
+    - 14.1:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 14.2:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 14.3:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HS Gericke
+    - 14.4:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Gericke
+    - 14.5:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Khan
+    - 14.6:
+        non_striker: Zeeshan Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+        wicket:
+          player_out: Zeeshan Khan
+          fielders:
+          - E Solomon
+          - L Kamarlekar
+          kind: run out
+    - 14.7:
+        non_striker: HS Gericke
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aaftab Alam Khan
+    - 15.1:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+    - 15.2:
+        non_striker: HS Gericke
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaftab Alam Khan
+    - 15.3:
+        non_striker: Aaftab Alam Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Gericke
+        wicket:
+          player_out: HS Gericke
+          fielders:
+          - A Amado
+          kind: caught
+    - 15.4:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Muhammad
+        batsman: Aaftab Alam Khan
+    - 15.5:
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Bilal Muhammad
+        batsman: Aaftab Alam Khan
+    - 15.6:
+        non_striker: Bilal Muhammad
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaftab Alam Khan
+    - 16.1:
+        non_striker: Aaftab Alam Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Muhammad
+    - 16.2:
+        non_striker: Bilal Muhammad
+        bowler: J Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aaftab Alam Khan
+    - 16.3:
+        non_striker: Aaftab Alam Khan
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Muhammad
+        wicket:
+          player_out: Bilal Muhammad
+          fielders:
+          - T Kahamker
+          kind: caught
+    - 16.4:
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Imran Ameer
+        batsman: Aaftab Alam Khan
+    - 16.5:
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Imran Ameer
+        batsman: Aaftab Alam Khan
+    - 16.6:
+        non_striker: Imran Ameer
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaftab Alam Khan
+        wicket:
+          player_out: Aaftab Alam Khan
+          fielders:
+          - L Kamarlekar
+          kind: caught
+    - 17.1:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Shaju
+        batsman: Imran Ameer
+    - 17.2:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Shaju
+        batsman: Imran Ameer
+    - 17.3:
+        non_striker: Imran Ameer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shaju
+    - 17.4:
+        non_striker: J Shaju
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+    - 17.5:
+        non_striker: Imran Ameer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaju
+    - 17.6:
+        non_striker: Imran Ameer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaju
+    - 18.1:
+        non_striker: J Shaju
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+    - 18.2:
+        non_striker: Imran Ameer
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Shaju
+        wicket:
+          player_out: J Shaju
+          kind: lbw
+    - 18.3:
+        non_striker: Imran Ameer
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washeem Abbas
+    - 18.4:
+        non_striker: Washeem Abbas
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+    - 18.5:
+        non_striker: Imran Ameer
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washeem Abbas
+    - 18.6:
+        non_striker: Washeem Abbas
+        bowler: J Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+    - 19.1:
+        non_striker: Washeem Abbas
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Ameer
+    - 19.2:
+        non_striker: Washeem Abbas
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ameer
+    - 19.3:
+        non_striker: Washeem Abbas
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Ameer
+    - 19.4:
+        non_striker: Washeem Abbas
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ameer
+        wicket:
+          player_out: Imran Ameer
+          fielders:
+          - L Kamarlekar
+          kind: caught
+- 2nd innings:
+    team: Israel
+    deliveries:
+    - 0.1:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Bangera
+        batsman: Yogev Nagavkar
+    - 0.2:
+        non_striker: S Bangera
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+        wicket:
+          player_out: S Bangera
+          fielders:
+          - HS Gericke
+          - Washeem Abbas
+          kind: run out
+    - 0.3:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Evans
+        batsman: Yogev Nagavkar
+    - 0.4:
+        bowler: Washeem Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Evans
+        batsman: Yogev Nagavkar
+    - 0.5:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Evans
+        batsman: Yogev Nagavkar
+    - 0.6:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Evans
+        batsman: Yogev Nagavkar
+    - 0.7:
+        non_striker: J Evans
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 1.1:
+        non_striker: J Evans
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yogev Nagavkar
+    - 1.2:
+        non_striker: J Evans
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 1.3:
+        non_striker: J Evans
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yogev Nagavkar
+    - 1.4:
+        non_striker: J Evans
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yogev Nagavkar
+    - 1.5:
+        non_striker: J Evans
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 1.6:
+        non_striker: Yogev Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Evans
+    - 2.1:
+        non_striker: J Evans
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 2.2:
+        non_striker: Yogev Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+    - 2.3:
+        non_striker: Yogev Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+    - 2.4:
+        non_striker: Yogev Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Evans
+        wicket:
+          player_out: J Evans
+          fielders:
+          - Imran Ameer
+          kind: caught
+    - 2.5:
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Solomon
+        batsman: Yogev Nagavkar
+    - 2.6:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 3.1:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yogev Nagavkar
+    - 3.2:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yogev Nagavkar
+    - 3.3:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 3.4:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yogev Nagavkar
+    - 3.5:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yogev Nagavkar
+    - 3.6:
+        non_striker: Yogev Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 3.7:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yogev Nagavkar
+    - 4.1:
+        non_striker: Yogev Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 4.2:
+        non_striker: Yogev Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Solomon
+    - 4.3:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 4.4:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 4.5:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 4.6:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 4.7:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 5.1:
+        non_striker: Yogev Nagavkar
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 5.2:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 5.3:
+        non_striker: Yogev Nagavkar
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 5.4:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 5.5:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 5.6:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yogev Nagavkar
+    - 6.1:
+        non_striker: Yogev Nagavkar
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 6.2:
+        non_striker: Yogev Nagavkar
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 6.3:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 6.4:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yogev Nagavkar
+    - 6.5:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 6.6:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 7.1:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 7.2:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 7.3:
+        non_striker: Yogev Nagavkar
+        bowler: J Shaju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Solomon
+    - 7.4:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yogev Nagavkar
+    - 7.5:
+        non_striker: E Solomon
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 7.6:
+        non_striker: Yogev Nagavkar
+        bowler: J Shaju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 8.1:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 8.2:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 8.3:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+    - 8.4:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yogev Nagavkar
+    - 8.5:
+        non_striker: Yogev Nagavkar
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 8.6:
+        non_striker: Yogev Nagavkar
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 9.1:
+        non_striker: Yogev Nagavkar
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 9.2:
+        non_striker: Yogev Nagavkar
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 9.3:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yogev Nagavkar
+        wicket:
+          player_out: Yogev Nagavkar
+          fielders:
+          - G Chaturvedi (sub)
+          kind: caught
+    - 9.4:
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Kahamker
+        batsman: E Solomon
+    - 9.5:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kahamker
+    - 9.6:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Kahamker
+    - 10.1:
+        non_striker: E Kahamker
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 10.2:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Kahamker
+    - 10.3:
+        non_striker: E Kahamker
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 10.4:
+        non_striker: E Kahamker
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 10.5:
+        non_striker: E Kahamker
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 10.6:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+    - 11.1:
+        non_striker: E Kahamker
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 11.2:
+        non_striker: E Kahamker
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 11.3:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Kahamker
+    - 11.4:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+    - 11.5:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Kahamker
+        wicket:
+          player_out: E Kahamker
+          kind: bowled
+    - 11.6:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Amado
+    - 12.1:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Amado
+    - 12.2:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Amado
+    - 12.3:
+        non_striker: A Amado
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 12.4:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Amado
+    - 12.5:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Amado
+    - 12.6:
+        non_striker: E Solomon
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Amado
+    - 13.1:
+        non_striker: A Amado
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Solomon
+    - 13.2:
+        non_striker: A Amado
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 13.3:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Amado
+    - 13.4:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Amado
+        wicket:
+          player_out: A Amado
+          kind: bowled
+    - 13.5:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niv Nagavkar
+    - 13.6:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Niv Nagavkar
+    - 14.1:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Niv Nagavkar
+        wicket:
+          player_out: Niv Nagavkar
+          fielders:
+          - G Chaturvedi (sub)
+          kind: caught
+    - 14.2:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Schachat
+    - 14.3:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 14.4:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 14.5:
+        non_striker: G Schachat
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 14.6:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 14.7:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 15.1:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 15.2:
+        non_striker: G Schachat
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 15.3:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 15.4:
+        non_striker: G Schachat
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+    - 15.5:
+        non_striker: G Schachat
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 15.6:
+        non_striker: E Solomon
+        bowler: B Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 16.1:
+        non_striker: G Schachat
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 16.2:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 16.3:
+        non_striker: G Schachat
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 16.4:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 16.5:
+        non_striker: G Schachat
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 16.6:
+        non_striker: E Solomon
+        bowler: VP Thamotharam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 17.1:
+        non_striker: G Schachat
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Solomon
+    - 17.2:
+        non_striker: G Schachat
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 17.3:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 17.4:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 17.5:
+        non_striker: G Schachat
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Solomon
+    - 17.6:
+        non_striker: E Solomon
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 18.1:
+        non_striker: E Solomon
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 18.2:
+        non_striker: G Schachat
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Solomon
+        wicket:
+          player_out: E Solomon
+          kind: bowled
+    - 18.3:
+        non_striker: G Schachat
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yair Nagavkar
+    - 18.4:
+        non_striker: Yair Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Schachat
+    - 18.5:
+        non_striker: Yair Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Schachat
+    - 18.6:
+        non_striker: Yair Nagavkar
+        bowler: Washeem Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 19.1:
+        non_striker: Yair Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat
+    - 19.2:
+        non_striker: G Schachat
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yair Nagavkar
+    - 19.3:
+        non_striker: G Schachat
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yair Nagavkar
+    - 19.4:
+        non_striker: Yair Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Schachat
+    - 19.5:
+        non_striker: Yair Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Schachat
+    - 19.6:
+        non_striker: Yair Nagavkar
+        bowler: Bilal Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Schachat

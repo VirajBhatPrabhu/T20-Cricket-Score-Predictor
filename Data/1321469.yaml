@@ -1,0 +1,2164 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bulawayo
+  dates:
+  - '2022-07-12'
+  gender: male
+  match_type: T20
+  match_type_number: 1638
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 23
+  overs: 20
+  player_of_match:
+  - SC Williams
+  players:
+    Zimbabwe:
+    - CR Ervine
+    - RW Chakabva
+    - SC Williams
+    - W Madhevere
+    - Sikandar Raza
+    - M Shumba
+    - RP Burl
+    - LM Jongwe
+    - WP Masakadza
+    - B Muzarabani
+    - TL Chatara
+    Jersey:
+    - H Carlyon
+    - NA Greenwood
+    - AM Tribe
+    - JW Jenner
+    - BDH Stevens
+    - B Ward
+    - J Sumerauer
+    - DG Blampied
+    - JE Dunford
+    - CW Perchard
+    - EJB Miles
+  registry:
+    people:
+      AM Tribe: 86f84b37
+      B Muzarabani: 449f4e3c
+      B Ward: 9e0bd203
+      BDH Stevens: f8035c2a
+      BP Jele: 7bb1331e
+      CR Ervine: c96311d4
+      CW Perchard: 9f998ed8
+      DG Blampied: d8976cb7
+      EJB Miles: 6b46ce43
+      Gazi Sohel: f0df3ed7
+      H Carlyon: 42bf1b7d
+      J Sumerauer: 0b581ed6
+      JE Dunford: 89a7dd4a
+      JW Jenner: 32a8161e
+      LM Jongwe: b8704508
+      M Shumba: 6766ca00
+      NA Greenwood: 7ca68967
+      RP Burl: b08252b8
+      RW Chakabva: 2f0d7e4a
+      S George: 6d9e5a54
+      S Wadvalla: c1a1acf3
+      SC Williams: afe57f7a
+      Sikandar Raza: 26d041c4
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Zimbabwe
+  - Jersey
+  toss:
+    winner: Jersey
+    decision: field
+  umpires:
+  - BP Jele
+  - S George
+  venue: Queens Sports Club, Bulawayo
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: BDH Stevens
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RW Chakabva
+        batsman: CR Ervine
+    - 0.2:
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RW Chakabva
+        batsman: CR Ervine
+    - 0.3:
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RW Chakabva
+        batsman: CR Ervine
+    - 0.4:
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RW Chakabva
+        batsman: CR Ervine
+    - 0.5:
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RW Chakabva
+        batsman: CR Ervine
+    - 0.6:
+        non_striker: RW Chakabva
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - CW Perchard
+          kind: caught
+    - 0.7:
+        non_striker: RW Chakabva
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 1.1:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Williams
+    - 1.2:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 1.3:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 1.4:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 1.5:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 1.6:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 1.7:
+        non_striker: RW Chakabva
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 2.1:
+        non_striker: SC Williams
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Chakabva
+    - 2.2:
+        non_striker: SC Williams
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 2.3:
+        non_striker: SC Williams
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 2.4:
+        non_striker: SC Williams
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 2.5:
+        non_striker: RW Chakabva
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 2.6:
+        non_striker: RW Chakabva
+        bowler: BDH Stevens
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 3.1:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Chakabva
+    - 3.2:
+        non_striker: RW Chakabva
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 3.3:
+        non_striker: RW Chakabva
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 3.4:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+    - 3.5:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Chakabva
+        wicket:
+          player_out: RW Chakabva
+          fielders:
+          - J Sumerauer
+          - EJB Miles
+          kind: run out
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 4.1:
+        non_striker: W Madhevere
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 4.2:
+        non_striker: W Madhevere
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 4.3:
+        non_striker: W Madhevere
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 4.4:
+        non_striker: SC Williams
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 4.5:
+        non_striker: SC Williams
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 4.6:
+        non_striker: W Madhevere
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 5.1:
+        non_striker: W Madhevere
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 5.2:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 5.3:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 5.4:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          kind: lbw
+    - 5.5:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 5.6:
+        non_striker: SC Williams
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.1:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 6.2:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.3:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 6.4:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 6.5:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 6.6:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 6.7:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.1:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 7.2:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 7.3:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.4:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 7.5:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.2:
+        non_striker: Sikandar Raza
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 8.3:
+        non_striker: SC Williams
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.4:
+        non_striker: SC Williams
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 8.5:
+        non_striker: Sikandar Raza
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 8.6:
+        non_striker: SC Williams
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 9.2:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.3:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 9.6:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 10.2:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 10.3:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SC Williams
+    - 10.5:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: SC Williams
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.7:
+        non_striker: Sikandar Raza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.1:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.2:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.3:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.5:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: SC Williams
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          kind: bowled
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 12.3:
+        non_striker: M Shumba
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 12.5:
+        non_striker: M Shumba
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.1:
+        non_striker: Sikandar Raza
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 13.2:
+        non_striker: M Shumba
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.3:
+        non_striker: M Shumba
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 13.4:
+        bowler: B Ward
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RP Burl
+        batsman: M Shumba
+    - 13.5:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RP Burl
+        batsman: M Shumba
+    - 13.6:
+        non_striker: M Shumba
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.7:
+        non_striker: RP Burl
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 14.1:
+        non_striker: M Shumba
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 14.2:
+        non_striker: M Shumba
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.3:
+        non_striker: M Shumba
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.4:
+        non_striker: M Shumba
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 14.5:
+        non_striker: M Shumba
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.6:
+        non_striker: RP Burl
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 14.7:
+        non_striker: RP Burl
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 15.1:
+        non_striker: M Shumba
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.2:
+        non_striker: RP Burl
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 15.3:
+        non_striker: M Shumba
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.4:
+        non_striker: M Shumba
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.5:
+        non_striker: RP Burl
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 15.6:
+        non_striker: M Shumba
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 16.1:
+        non_striker: RP Burl
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shumba
+    - 16.2:
+        non_striker: M Shumba
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 16.3:
+        non_striker: RP Burl
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+        wicket:
+          player_out: M Shumba
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 16.4:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LM Jongwe
+        batsman: RP Burl
+    - 16.5:
+        non_striker: RP Burl
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 16.6:
+        non_striker: LM Jongwe
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 17.1:
+        non_striker: LM Jongwe
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - J Sumerauer
+          kind: caught
+    - 17.2:
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WP Masakadza
+        batsman: LM Jongwe
+    - 17.3:
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WP Masakadza
+        batsman: LM Jongwe
+    - 17.4:
+        non_striker: LM Jongwe
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+    - 17.5:
+        non_striker: LM Jongwe
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 17.6:
+        non_striker: WP Masakadza
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 18.1:
+        non_striker: WP Masakadza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 18.2:
+        non_striker: WP Masakadza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 18.3:
+        non_striker: LM Jongwe
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WP Masakadza
+    - 18.4:
+        non_striker: WP Masakadza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LM Jongwe
+    - 18.5:
+        non_striker: WP Masakadza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 18.6:
+        non_striker: WP Masakadza
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 19.1:
+        non_striker: LM Jongwe
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 19.2:
+        non_striker: WP Masakadza
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: LM Jongwe
+    - 19.3:
+        non_striker: LM Jongwe
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+        wicket:
+          player_out: WP Masakadza
+          fielders:
+          - B Ward
+          kind: caught
+    - 19.4:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: B Muzarabani
+        batsman: LM Jongwe
+    - 19.5:
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Muzarabani
+        batsman: LM Jongwe
+    - 19.6:
+        non_striker: B Muzarabani
+        bowler: EJB Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.2:
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.3:
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.4:
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.5:
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.6:
+        non_striker: NA Greenwood
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.1:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.2:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.3:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 1.4:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 1.5:
+        non_striker: NA Greenwood
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 1.6:
+        non_striker: NA Greenwood
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 2.1:
+        non_striker: NA Greenwood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.2:
+        non_striker: NA Greenwood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 2.4:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Greenwood
+    - 2.5:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 2.6:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 2.7:
+        non_striker: NA Greenwood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 3.1:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          fielders:
+          - CR Ervine
+          kind: caught
+    - 3.2:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 3.3:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 3.4:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.5:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 3.6:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.1:
+        non_striker: AM Tribe
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 4.2:
+        non_striker: AM Tribe
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 4.3:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.4:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.5:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 4.6:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Tribe
+    - 5.1:
+        non_striker: AM Tribe
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 5.2:
+        non_striker: AM Tribe
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 5.3:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Tribe
+    - 5.4:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 5.5:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 5.6:
+        non_striker: AM Tribe
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 5.7:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.1:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 6.2:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 6.3:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.4:
+        non_striker: AM Tribe
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 6.5:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 6.6:
+        non_striker: AM Tribe
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.1:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 7.2:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.3:
+        non_striker: AM Tribe
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 7.4:
+        non_striker: AM Tribe
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 7.5:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 7.6:
+        non_striker: AM Tribe
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 8.1:
+        non_striker: AM Tribe
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 8.2:
+        non_striker: AM Tribe
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 8.3:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 8.4:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 8.5:
+        non_striker: AM Tribe
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 8.6:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 9.1:
+        non_striker: AM Tribe
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 9.2:
+        non_striker: AM Tribe
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 9.3:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 9.4:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 9.5:
+        non_striker: JW Jenner
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 9.6:
+        non_striker: JW Jenner
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 10.1:
+        non_striker: JW Jenner
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 10.2:
+        non_striker: JW Jenner
+        bowler: SC Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Carlyon
+    - 10.3:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 10.4:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 10.5:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 10.6:
+        non_striker: JW Jenner
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 11.1:
+        non_striker: JW Jenner
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 11.2:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.3:
+        non_striker: JW Jenner
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 11.4:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          fielders:
+          - WP Masakadza
+          kind: caught
+    - 11.5:
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BDH Stevens
+        batsman: H Carlyon
+    - 11.6:
+        non_striker: BDH Stevens
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 12.1:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BDH Stevens
+    - 12.2:
+        non_striker: BDH Stevens
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 12.3:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BDH Stevens
+    - 12.4:
+        non_striker: BDH Stevens
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 12.5:
+        non_striker: H Carlyon
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BDH Stevens
+    - 12.6:
+        non_striker: BDH Stevens
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 13.1:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BDH Stevens
+    - 13.2:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BDH Stevens
+        wicket:
+          player_out: BDH Stevens
+          fielders:
+          - M Shumba
+          kind: caught
+    - 13.3:
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Ward
+        batsman: H Carlyon
+    - 13.4:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.5:
+        non_striker: B Ward
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 13.6:
+        non_striker: H Carlyon
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 14.1:
+        non_striker: B Ward
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 14.2:
+        non_striker: H Carlyon
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 14.3:
+        non_striker: H Carlyon
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 14.4:
+        non_striker: H Carlyon
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 14.5:
+        non_striker: B Ward
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 14.6:
+        non_striker: B Ward
+        bowler: M Shumba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 15.1:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 15.2:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 15.3:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 15.4:
+        non_striker: H Carlyon
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.5:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 15.6:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 16.1:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 16.2:
+        non_striker: B Ward
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 16.3:
+        non_striker: B Ward
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 16.4:
+        non_striker: H Carlyon
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 16.5:
+        non_striker: B Ward
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 16.6:
+        non_striker: B Ward
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 17.1:
+        non_striker: B Ward
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 17.2:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 17.3:
+        non_striker: B Ward
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Carlyon
+    - 17.4:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 17.5:
+        non_striker: H Carlyon
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 17.6:
+        non_striker: B Ward
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 18.1:
+        non_striker: H Carlyon
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 18.2:
+        non_striker: B Ward
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 18.3:
+        non_striker: H Carlyon
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 18.4:
+        non_striker: B Ward
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 18.5:
+        non_striker: H Carlyon
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 18.6:
+        non_striker: H Carlyon
+        bowler: LM Jongwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 19.1:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          fielders:
+          - RW Chakabva
+          kind: caught
+    - 19.2:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Sumerauer
+    - 19.3:
+        non_striker: J Sumerauer
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 19.4:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Sumerauer
+    - 19.5:
+        non_striker: J Sumerauer
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 19.6:
+        non_striker: B Ward
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer

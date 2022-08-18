@@ -1,0 +1,1883 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  dates:
+  - '2021-10-27'
+  gender: male
+  match_type: T20
+  match_type_number: 1369
+  outcome:
+    winner: England
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - JJ Roy
+  players:
+    Bangladesh:
+    - Liton Das
+    - Mohammad Naim
+    - Shakib Al Hasan
+    - Mushfiqur Rahim
+    - Mahmudullah
+    - Afif Hossain
+    - Nurul Hasan
+    - Mahedi Hasan
+    - Nasum Ahmed
+    - Mustafizur Rahman
+    - Shoriful Islam
+    England:
+    - JJ Roy
+    - JC Buttler
+    - DJ Malan
+    - JM Bairstow
+    - EJG Morgan
+    - LS Livingstone
+    - MM Ali
+    - CR Woakes
+    - CJ Jordan
+    - AU Rashid
+    - TS Mills
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      Afif Hossain: '37138918'
+      CJ Jordan: ffe699c0
+      CR Woakes: 4c5d73db
+      DJ Malan: ad9c32a2
+      EJG Morgan: d2a6c0e6
+      J Srinath: bad31fac
+      JC Buttler: 99b75528
+      JJ Roy: d1c36f5c
+      JM Bairstow: abb83e27
+      L Rusere: 6a4734ae
+      LS Livingstone: 50c6bc2b
+      Liton Das: 0404d43c
+      MM Ali: bb351c23
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Mohammad Naim: 7923a51d
+      Mushfiqur Rahim: a94e08ea
+      Mustafizur Rahman: 0a8fce53
+      Nasum Ahmed: 37654b75
+      Nitin Menon: e1d41d9e
+      Nurul Hasan: d365d463
+      RJ Tucker: 38810cfc
+      Shakib Al Hasan: 7dc35884
+      Shoriful Islam: bb34fd31
+      TS Mills: 245c97cb
+  teams:
+  - Bangladesh
+  - England
+  toss:
+    winner: Bangladesh
+    decision: bat
+  umpires:
+  - L Rusere
+  - Nitin Menon
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.3:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.4:
+        non_striker: Liton Das
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 0.5:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 0.6:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 1.1:
+        non_striker: Liton Das
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.2:
+        non_striker: Liton Das
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+    - 1.3:
+        non_striker: Liton Das
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Naim
+    - 1.4:
+        non_striker: Liton Das
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 1.5:
+        non_striker: Mohammad Naim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Mohammad Naim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Liton Das
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Naim
+    - 2.2:
+        non_striker: Mohammad Naim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - LS Livingstone
+          kind: caught
+    - 2.3:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Naim
+        wicket:
+          player_out: Mohammad Naim
+          fielders:
+          - CR Woakes
+          kind: caught
+    - 2.4:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 2.5:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 2.6:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 3.1:
+        non_striker: Shakib Al Hasan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 3.2:
+        non_striker: Shakib Al Hasan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 3.3:
+        non_striker: Mushfiqur Rahim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 3.4:
+        non_striker: Mushfiqur Rahim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 3.5:
+        non_striker: Shakib Al Hasan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 3.6:
+        non_striker: Shakib Al Hasan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 4.1:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 4.2:
+        non_striker: Mushfiqur Rahim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.3:
+        non_striker: Mushfiqur Rahim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.4:
+        non_striker: Mushfiqur Rahim
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 4.5:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 4.6:
+        non_striker: Shakib Al Hasan
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 5.1:
+        non_striker: Mushfiqur Rahim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: Mushfiqur Rahim
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 5.3:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.4:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.5:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.6:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.1:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.2:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.3:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.4:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 6.5:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.6:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 7.1:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 7.2:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 7.3:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 7.4:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.5:
+        non_striker: Mushfiqur Rahim
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mahmudullah
+    - 7.6:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.7:
+        non_striker: Mushfiqur Rahim
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmudullah
+    - 7.8:
+        non_striker: Mushfiqur Rahim
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.1:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.2:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 8.3:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 8.4:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.6:
+        non_striker: Mahmudullah
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.1:
+        non_striker: Mushfiqur Rahim
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.2:
+        non_striker: Mahmudullah
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 9.4:
+        non_striker: Mushfiqur Rahim
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.5:
+        non_striker: Mahmudullah
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 9.6:
+        non_striker: Mahmudullah
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Mushfiqur Rahim
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 10.2:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 10.3:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 10.4:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          kind: lbw
+    - 10.5:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 10.6:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 11.1:
+        non_striker: Afif Hossain
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 11.2:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+    - 11.3:
+        non_striker: Mahmudullah
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 11.4:
+        non_striker: Afif Hossain
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 11.5:
+        non_striker: Afif Hossain
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 11.6:
+        non_striker: Afif Hossain
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.1:
+        non_striker: Afif Hossain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.2:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Afif Hossain
+    - 12.3:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Afif Hossain
+    - 12.4:
+        non_striker: Afif Hossain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - JC Buttler
+          - TS Mills
+          kind: run out
+    - 12.5:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 12.6:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.1:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 13.2:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.3:
+        non_striker: Nurul Hasan
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.4:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nurul Hasan
+    - 13.5:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 13.6:
+        non_striker: Nurul Hasan
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.7:
+        non_striker: Nurul Hasan
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.1:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 14.2:
+        non_striker: Nurul Hasan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.3:
+        non_striker: Nurul Hasan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.4:
+        non_striker: Mahmudullah
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 14.5:
+        non_striker: Nurul Hasan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - CR Woakes
+          kind: caught
+    - 14.6:
+        non_striker: Nurul Hasan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.1:
+        non_striker: Mahedi Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 15.2:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.3:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 15.4:
+        non_striker: Mahedi Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 15.5:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 15.6:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 16.1:
+        non_striker: Mahedi Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 16.2:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 16.3:
+        non_striker: Mahedi Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 16.4:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 16.5:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 16.6:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 17.1:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - CR Woakes
+          kind: caught
+    - 17.2:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 17.3:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 17.4:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasum Ahmed
+    - 17.5:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 17.6:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 18.1:
+        non_striker: Nasum Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 18.2:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasum Ahmed
+    - 18.3:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 18.4:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 18.5:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasum Ahmed
+    - 18.6:
+        non_striker: Nurul Hasan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasum Ahmed
+    - 19.1:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 19.2:
+        non_striker: Nurul Hasan
+        bowler: TS Mills
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nasum Ahmed
+    - 19.3:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 19.4:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 19.5:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nurul Hasan
+    - 19.6:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 19.7:
+        non_striker: Nasum Ahmed
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+        wicket:
+          player_out: Mustafizur Rahman
+          kind: bowled
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.4:
+        non_striker: JJ Roy
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.7:
+        non_striker: JC Buttler
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.1:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: JC Buttler
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.4:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.6:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: JC Buttler
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.4:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.5:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.7:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.1:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.4:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.5:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Mohammad Naim
+          kind: caught
+    - 4.6:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.1:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 5.2:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.3:
+        non_striker: JJ Roy
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.4:
+        non_striker: JJ Roy
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.5:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 5.6:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JJ Roy
+    - 6.1:
+        non_striker: JJ Roy
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: JJ Roy
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.3:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 6.4:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 6.5:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.6:
+        non_striker: JJ Roy
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 7.2:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.3:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.4:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.6:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 8.4:
+        non_striker: JJ Roy
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 8.6:
+        non_striker: JJ Roy
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.7:
+        non_striker: DJ Malan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 9.1:
+        non_striker: DJ Malan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 9.2:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: DJ Malan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 9.7:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.8:
+        non_striker: DJ Malan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 10.1:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 10.2:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 10.4:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.5:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.6:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 11.2:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.3:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 11.5:
+        non_striker: DJ Malan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 11.6:
+        non_striker: JJ Roy
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 12.1:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 12.2:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Roy
+    - 12.3:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 12.4:
+        non_striker: JJ Roy
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 12.5:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - Nasum Ahmed
+          kind: caught
+    - 12.6:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Bairstow
+    - 13.1:
+        non_striker: JM Bairstow
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 13.2:
+        non_striker: JM Bairstow
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.3:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 13.4:
+        non_striker: JM Bairstow
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 13.5:
+        non_striker: JM Bairstow
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 13.6:
+        non_striker: DJ Malan
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Bairstow
+    - 14.1:
+        non_striker: DJ Malan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Bairstow

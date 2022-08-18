@@ -1,0 +1,2229 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-08'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sharjah
+  dates:
+  - '2021-11-07'
+  gender: male
+  match_type: T20
+  match_type_number: 1406
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 72
+  overs: 20
+  player_of_match:
+  - Shoaib Malik
+  players:
+    Pakistan:
+    - Mohammad Rizwan
+    - Babar Azam
+    - Fakhar Zaman
+    - Mohammad Hafeez
+    - Shoaib Malik
+    - Asif Ali
+    - Shadab Khan
+    - Imad Wasim
+    - Hasan Ali
+    - Haris Rauf
+    - Shaheen Shah Afridi
+    Scotland:
+    - HG Munsey
+    - KJ Coetzer
+    - MH Cross
+    - RD Berrington
+    - DE Budge
+    - MA Leask
+    - CN Greaves
+    - MRJ Watt
+    - SM Sharif
+    - BTJ Wheal
+    - Hamza Tahir
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      Asif Ali: 0a4736eb
+      BTJ Wheal: 3f61a062
+      Babar Azam: 8a75e999
+      CN Greaves: f42064d5
+      DC Boon: e79a1fe3
+      DE Budge: 0d37dea9
+      Fakhar Zaman: 1777c020
+      HG Munsey: ff014c34
+      Hamza Tahir: 34cb2f69
+      Haris Rauf: 24bb1c2f
+      Hasan Ali: 2911de16
+      Imad Wasim: 9cb8d7a6
+      KJ Coetzer: 85d8110a
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Rizwan: 2f26ac1a
+      P Wilson: 68304a36
+      PR Reiffel: c9354f29
+      RD Berrington: e21bc7f3
+      RJ Tucker: 38810cfc
+      SM Sharif: f43dd8c2
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Shoaib Malik: 64c34cd0
+  teams:
+  - Pakistan
+  - Scotland
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - P Wilson
+  - RJ Tucker
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.2:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.3:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.4:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 0.5:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.1:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.3:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.4:
+        non_striker: Mohammad Rizwan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 1.5:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.6:
+        non_striker: Mohammad Rizwan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.1:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.3:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.6:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.7:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.8:
+        non_striker: Mohammad Rizwan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.9:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Mohammad Rizwan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 4.2:
+        non_striker: Mohammad Rizwan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 4.5:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.6:
+        non_striker: Babar Azam
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.1:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.3:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.5:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - MH Cross
+          kind: caught
+    - 6.2:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.4:
+        non_striker: Fakhar Zaman
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.5:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.1:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.2:
+        non_striker: Fakhar Zaman
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 7.3:
+        non_striker: Fakhar Zaman
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.5:
+        non_striker: Fakhar Zaman
+        bowler: RD Berrington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Fakhar Zaman
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.7:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 8.1:
+        non_striker: Fakhar Zaman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 8.2:
+        non_striker: Fakhar Zaman
+        bowler: MRJ Watt
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Babar Azam
+    - 8.3:
+        non_striker: Fakhar Zaman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 8.5:
+        non_striker: Fakhar Zaman
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 9.1:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 9.2:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 9.3:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - MA Leask
+          kind: caught
+    - 9.5:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 9.6:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 10.1:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 10.2:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 10.3:
+        non_striker: Mohammad Hafeez
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Mohammad Hafeez
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.5:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 11.1:
+        non_striker: Mohammad Hafeez
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 11.2:
+        non_striker: Mohammad Hafeez
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 11.4:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 11.6:
+        non_striker: Mohammad Hafeez
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.1:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.4:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.5:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.6:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 12.7:
+        non_striker: Mohammad Hafeez
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.1:
+        non_striker: Mohammad Hafeez
+        bowler: RD Berrington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 13.2:
+        non_striker: Mohammad Hafeez
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.3:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 13.4:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 13.5:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 13.6:
+        non_striker: Mohammad Hafeez
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.7:
+        non_striker: Babar Azam
+        bowler: RD Berrington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 14.1:
+        non_striker: Mohammad Hafeez
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Babar Azam
+    - 14.2:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Hafeez
+    - 14.3:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 14.4:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 14.5:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 14.6:
+        non_striker: Babar Azam
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+        wicket:
+          player_out: Mohammad Hafeez
+          kind: lbw
+    - 15.1:
+        non_striker: Shoaib Malik
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.2:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.3:
+        non_striker: Shoaib Malik
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 15.4:
+        non_striker: Shoaib Malik
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.5:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 15.6:
+        non_striker: Babar Azam
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.1:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.2:
+        non_striker: Shoaib Malik
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 16.3:
+        non_striker: Shoaib Malik
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 16.4:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 16.5:
+        non_striker: Babar Azam
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 16.6:
+        non_striker: Shoaib Malik
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 17.1:
+        non_striker: Babar Azam
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 17.2:
+        non_striker: Shoaib Malik
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 17.3:
+        non_striker: Shoaib Malik
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 17.4:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 17.5:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 17.6:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 18.1:
+        non_striker: Shoaib Malik
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 18.2:
+        non_striker: Asif Ali
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Malik
+    - 18.3:
+        non_striker: Asif Ali
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 18.4:
+        non_striker: Asif Ali
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 18.5:
+        non_striker: Shoaib Malik
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 18.6:
+        non_striker: Asif Ali
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 19.1:
+        non_striker: Shoaib Malik
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 19.2:
+        non_striker: Shoaib Malik
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 19.3:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 19.4:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 19.5:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+    - 19.6:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Malik
+    - 19.7:
+        non_striker: Asif Ali
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Malik
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.3:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 0.4:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.5:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.7:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.2:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.3:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 1.6:
+        non_striker: KJ Coetzer
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.1:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HG Munsey
+    - 2.3:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.4:
+        non_striker: HG Munsey
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.5:
+        non_striker: HG Munsey
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 2.6:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 2.7:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.8:
+        non_striker: KJ Coetzer
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.1:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.2:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.3:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.4:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 3.5:
+        non_striker: KJ Coetzer
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: KJ Coetzer
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 4.2:
+        non_striker: KJ Coetzer
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.3:
+        non_striker: KJ Coetzer
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.4:
+        non_striker: HG Munsey
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 4.5:
+        non_striker: KJ Coetzer
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.6:
+        non_striker: KJ Coetzer
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.1:
+        non_striker: HG Munsey
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.2:
+        non_striker: HG Munsey
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.3:
+        non_striker: HG Munsey
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+        wicket:
+          player_out: KJ Coetzer
+          kind: bowled
+    - 5.4:
+        non_striker: HG Munsey
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 5.5:
+        non_striker: HG Munsey
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 5.6:
+        non_striker: MH Cross
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 6.1:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.2:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.3:
+        non_striker: MH Cross
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.4:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MH Cross
+    - 6.5:
+        non_striker: MH Cross
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.6:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 7.1:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.2:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 7.3:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 7.4:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 7.5:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.6:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 7.7:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.8:
+        non_striker: MH Cross
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - Imad Wasim
+          kind: run out
+    - 8.1:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.2:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.3:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.4:
+        non_striker: HG Munsey
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.5:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 8.6:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 9.1:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.2:
+        non_striker: RD Berrington
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 9.3:
+        non_striker: RD Berrington
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 9.4:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.5:
+        non_striker: HG Munsey
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.6:
+        non_striker: RD Berrington
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.1:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          fielders:
+          - Haris Rauf
+          kind: caught
+    - 10.2:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Budge
+    - 10.3:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Budge
+        wicket:
+          player_out: DE Budge
+          kind: bowled
+    - 10.4:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 10.5:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.6:
+        non_striker: MA Leask
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 11.1:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 11.2:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: RD Berrington
+    - 11.3:
+        non_striker: RD Berrington
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 11.4:
+        non_striker: RD Berrington
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 11.5:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 11.6:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 11.7:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 11.8:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 12.1:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.2:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.3:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 12.4:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 12.5:
+        non_striker: RD Berrington
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 12.6:
+        non_striker: MA Leask
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 13.1:
+        non_striker: MA Leask
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 13.2:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 13.3:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.4:
+        non_striker: MA Leask
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 13.5:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 13.6:
+        non_striker: MA Leask
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 14.1:
+        non_striker: RD Berrington
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 14.2:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 14.3:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 14.4:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 14.5:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 14.6:
+        non_striker: MA Leask
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.1:
+        non_striker: MA Leask
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 15.2:
+        non_striker: MA Leask
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 15.3:
+        non_striker: MA Leask
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 15.4:
+        non_striker: MA Leask
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.5:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          kind: bowled
+    - 15.6:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 15.7:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 16.1:
+        non_striker: CN Greaves
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 16.2:
+        non_striker: CN Greaves
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 16.3:
+        non_striker: CN Greaves
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 16.4:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 16.5:
+        non_striker: CN Greaves
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 16.6:
+        non_striker: CN Greaves
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 17.1:
+        non_striker: RD Berrington
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 17.2:
+        non_striker: RD Berrington
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 17.3:
+        non_striker: CN Greaves
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.4:
+        non_striker: CN Greaves
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 17.5:
+        non_striker: CN Greaves
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 17.6:
+        non_striker: CN Greaves
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 18.1:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 18.2:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 18.3:
+        non_striker: CN Greaves
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 18.4:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 18.5:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CN Greaves
+    - 18.6:
+        non_striker: CN Greaves
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 18.7:
+        non_striker: RD Berrington
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 19.1:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CN Greaves
+    - 19.2:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 19.3:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+        wicket:
+          player_out: CN Greaves
+          kind: bowled
+    - 19.4:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 19.5:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 19.6:
+        non_striker: MRJ Watt
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.7:
+        non_striker: RD Berrington
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt

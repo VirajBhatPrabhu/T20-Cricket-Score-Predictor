@@ -1,0 +1,2138 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-09'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Carrara
+  dates:
+  - '2021-10-09'
+  gender: female
+  match_type: T20
+  match_type_number: 982
+  outcome:
+    winner: Australia
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - TM McGrath
+  players:
+    India:
+    - S Mandhana
+    - Shafali Verma
+    - JI Rodrigues
+    - H Kaur
+    - YH Bhatia
+    - RM Ghosh
+    - DB Sharma
+    - P Vastrakar
+    - S Pandey
+    - Renuka Singh
+    - RS Gayakwad
+    Australia:
+    - AJ Healy
+    - BL Mooney
+    - MM Lanning
+    - A Gardner
+    - EA Perry
+    - TM McGrath
+    - NJ Carey
+    - G Wareham
+    - S Molineux
+    - HJ Darlington
+    - TJ Vlaeminck
+  registry:
+    people:
+      A Gardner: bc969efb
+      AJ Healy: 321644de
+      BL Mooney: 52d1dbc8
+      BNJ Oxenford: c1add349
+      CA Polosak: 26a360d2
+      DB Sharma: 201fef33
+      EA Perry: be150fc8
+      Eloise Sheridan: d8d43840
+      G Wareham: f0b4e47d
+      H Kaur: 53cd8da6
+      HJ Darlington: 50b558d2
+      JI Rodrigues: cb08b611
+      MM Lanning: 27e003ce
+      NJ Carey: dff806f4
+      P Vastrakar: 8026ea72
+      PJ Gillespie: 3e253a50
+      RM Ghosh: 721e0199
+      RS Gayakwad: 237ec05b
+      RW Stratford: '85489579'
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      S Molineux: 99e23670
+      S Pandey: 5463cb7a
+      Shafali Verma: d8f59089
+      TJ Vlaeminck: ef70a34b
+      TM McGrath: ca5acfa4
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - India
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - BNJ Oxenford
+  - PJ Gillespie
+  venue: Carrara Oval
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.7:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 0.8:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.9:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - NJ Carey
+          kind: caught
+    - 1.1:
+        non_striker: JI Rodrigues
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.2:
+        non_striker: JI Rodrigues
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 1.4:
+        non_striker: JI Rodrigues
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: JI Rodrigues
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: Shafali Verma
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 2.3:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 2.5:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - HJ Darlington
+          kind: caught
+    - 2.6:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 3.1:
+        non_striker: H Kaur
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 3.2:
+        non_striker: H Kaur
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 3.3:
+        non_striker: H Kaur
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 3.4:
+        non_striker: JI Rodrigues
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 3.5:
+        non_striker: JI Rodrigues
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 3.6:
+        non_striker: JI Rodrigues
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 4.1:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 4.2:
+        non_striker: H Kaur
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 4.3:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 4.4:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 4.5:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 4.6:
+        non_striker: JI Rodrigues
+        bowler: TJ Vlaeminck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 5.1:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.2:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.3:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - HJ Darlington
+          kind: caught
+    - 5.4:
+        non_striker: YH Bhatia
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 5.5:
+        non_striker: YH Bhatia
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 5.6:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.1:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 6.2:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 6.3:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 6.4:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.5:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.6:
+        non_striker: H Kaur
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.1:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.2:
+        non_striker: H Kaur
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 7.3:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 7.4:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 7.5:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.6:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 7.7:
+        non_striker: YH Bhatia
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 8.1:
+        non_striker: H Kaur
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 8.2:
+        non_striker: H Kaur
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 8.3:
+        non_striker: H Kaur
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 8.4:
+        non_striker: YH Bhatia
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 8.5:
+        non_striker: YH Bhatia
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - AJ Healy
+          kind: stumped
+    - 8.6:
+        non_striker: YH Bhatia
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 9.1:
+        non_striker: RM Ghosh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.2:
+        non_striker: RM Ghosh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 9.3:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 9.4:
+        non_striker: YH Bhatia
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - AJ Healy
+          - G Wareham
+          kind: run out
+    - 9.5:
+        non_striker: RM Ghosh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 9.6:
+        non_striker: RM Ghosh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 10.1:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 10.2:
+        non_striker: DB Sharma
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 10.3:
+        non_striker: DB Sharma
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 10.4:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 10.5:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 10.6:
+        non_striker: RM Ghosh
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.1:
+        non_striker: RM Ghosh
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 11.2:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 11.3:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 11.4:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 11.5:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 11.6:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          kind: bowled
+    - 12.1:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 12.2:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 12.3:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 12.4:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DB Sharma
+    - 12.5:
+        non_striker: DB Sharma
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 12.6:
+        non_striker: DB Sharma
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 12.7:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.1:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.2:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 13.3:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 13.4:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 13.5:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.6:
+        non_striker: DB Sharma
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 14.1:
+        non_striker: DB Sharma
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 14.2:
+        non_striker: DB Sharma
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 14.3:
+        non_striker: DB Sharma
+        bowler: HJ Darlington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Vastrakar
+    - 14.4:
+        non_striker: P Vastrakar
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.5:
+        non_striker: DB Sharma
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 14.6:
+        non_striker: P Vastrakar
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 15.1:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 15.2:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - AJ Healy
+          - TM McGrath
+          kind: run out
+    - 15.3:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 15.4:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 15.5:
+        non_striker: S Pandey
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 15.6:
+        non_striker: P Vastrakar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+        wicket:
+          player_out: S Pandey
+          kind: bowled
+    - 16.1:
+        non_striker: Renuka Singh
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 16.2:
+        non_striker: Renuka Singh
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 16.3:
+        non_striker: P Vastrakar
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 16.4:
+        non_striker: P Vastrakar
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Renuka Singh
+    - 16.5:
+        non_striker: Renuka Singh
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 16.6:
+        non_striker: P Vastrakar
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+        wicket:
+          player_out: Renuka Singh
+          kind: bowled
+    - 17.1:
+        non_striker: RS Gayakwad
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Vastrakar
+    - 17.2:
+        non_striker: RS Gayakwad
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Vastrakar
+    - 17.3:
+        non_striker: RS Gayakwad
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vastrakar
+    - 17.4:
+        non_striker: RS Gayakwad
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 17.5:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Gayakwad
+    - 17.6:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gayakwad
+    - 17.7:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RS Gayakwad
+    - 17.8:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gayakwad
+    - 17.9:
+        non_striker: P Vastrakar
+        bowler: NJ Carey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gayakwad
+    - 18.1:
+        non_striker: RS Gayakwad
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 18.2:
+        non_striker: RS Gayakwad
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 18.3:
+        non_striker: RS Gayakwad
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Vastrakar
+    - 18.4:
+        non_striker: RS Gayakwad
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 18.5:
+        non_striker: RS Gayakwad
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 18.6:
+        non_striker: P Vastrakar
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gayakwad
+    - 19.1:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vastrakar
+    - 19.2:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 19.3:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Vastrakar
+    - 19.4:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Vastrakar
+    - 19.5:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 19.6:
+        non_striker: RS Gayakwad
+        bowler: HJ Darlington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Vastrakar
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          kind: bowled
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.4:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.5:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 0.6:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 1.1:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.3:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.4:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.5:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 1.6:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.1:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 2.2:
+        non_striker: MM Lanning
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 2.3:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 2.4:
+        non_striker: MM Lanning
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.5:
+        non_striker: MM Lanning
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 2.6:
+        non_striker: MM Lanning
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 3.1:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 3.2:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 3.3:
+        non_striker: BL Mooney
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 3.4:
+        non_striker: BL Mooney
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 3.5:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 3.6:
+        non_striker: MM Lanning
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 4.1:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.2:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 4.3:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.4:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.5:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 4.6:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 4.7:
+        non_striker: BL Mooney
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 5.1:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 5.2:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.3:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.4:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Lanning
+    - 5.5:
+        non_striker: MM Lanning
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 5.6:
+        non_striker: MM Lanning
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 6.1:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 6.2:
+        non_striker: MM Lanning
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 6.3:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+        wicket:
+          player_out: MM Lanning
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 6.4:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.5:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 6.6:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 7.1:
+        non_striker: A Gardner
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 7.2:
+        non_striker: BL Mooney
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 7.3:
+        non_striker: A Gardner
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 7.4:
+        non_striker: A Gardner
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 7.5:
+        non_striker: BL Mooney
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - RS Gayakwad
+          kind: caught
+    - 7.6:
+        non_striker: BL Mooney
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.1:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 8.2:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.3:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 8.4:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 8.5:
+        non_striker: BL Mooney
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 8.6:
+        non_striker: EA Perry
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 9.1:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - H Kaur
+          kind: caught
+    - 9.2:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 9.3:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 9.4:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.5:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 9.6:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.1:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.2:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 10.3:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.4:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 10.5:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.1:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.2:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 11.3:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 11.4:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 11.5:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 11.6:
+        non_striker: BL Mooney
+        bowler: DB Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TM McGrath
+    - 12.1:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 12.2:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 12.3:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 12.4:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 12.5:
+        non_striker: BL Mooney
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.6:
+        non_striker: TM McGrath
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 13.1:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 13.2:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 13.3:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 13.4:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 13.5:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 13.6:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.1:
+        non_striker: TM McGrath
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 14.2:
+        non_striker: NJ Carey
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.3:
+        non_striker: NJ Carey
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 14.4:
+        non_striker: NJ Carey
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.5:
+        non_striker: NJ Carey
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.6:
+        non_striker: NJ Carey
+        bowler: H Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 15.1:
+        non_striker: NJ Carey
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 15.2:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Carey
+    - 15.3:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 15.4:
+        non_striker: NJ Carey
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 15.5:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+    - 15.6:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 16.1:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Carey
+    - 16.2:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 16.3:
+        non_striker: NJ Carey
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 16.4:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Carey
+        wicket:
+          player_out: NJ Carey
+          fielders:
+          - RM Ghosh
+          kind: stumped
+    - 16.5:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 16.6:
+        non_striker: TM McGrath
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 17.1:
+        non_striker: G Wareham
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 17.2:
+        non_striker: TM McGrath
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 17.3:
+        non_striker: TM McGrath
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 17.4:
+        non_striker: TM McGrath
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 17.5:
+        non_striker: G Wareham
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 17.6:
+        non_striker: TM McGrath
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Wareham
+    - 18.1:
+        non_striker: G Wareham
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 18.2:
+        non_striker: G Wareham
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 18.3:
+        non_striker: G Wareham
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 18.4:
+        non_striker: G Wareham
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 18.5:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 18.6:
+        non_striker: G Wareham
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 19.1:
+        non_striker: G Wareham
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath

@@ -1,0 +1,2255 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2022-05-13'
+  gender: male
+  match_type: T20
+  match_type_number: 1531
+  outcome:
+    winner: Gibraltar
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - L Bruce
+  players:
+    Gibraltar:
+    - BA Pai
+    - L Bruce
+    - M Gouws
+    - A Reyes
+    - J Marples
+    - RJ Hatchman
+    - N Advani
+    - M Whelan
+    - Z Simpson
+    - CM Rocca
+    - S Bodha
+    Bulgaria:
+    - H Lakov
+    - P Mishra
+    - Saim Hussain
+    - IA De Silva
+    - KC D'Souza
+    - Asad Ali Rehemtulla
+    - Omar Rassol
+    - J Albin
+    - Ahsan Khan
+    - DV Varghese
+    - Karthik Pillai
+  registry:
+    people:
+      A Reyes: fd2b8c06
+      Ahsan Khan: 4c72b407
+      Asad Ali Rehemtulla: c122fe73
+      BA Pai: 716bf559
+      CM Rocca: ac5a9d43
+      DV Varghese: 26f98ea3
+      H Lakov: 87a6f411
+      IA De Silva: 58973aaf
+      J Albin: a4a53adf
+      J Ghose Roy: ecef5677
+      J Marples: 9d75aec7
+      KC D'Souza: 2687fff2
+      Karthik Pillai: fa549641
+      L Bruce: 2a03bd2f
+      M Gouws: '018f6488'
+      M Whelan: d613f046
+      N Advani: e4f6147b
+      Omar Rassol: 6caae2dc
+      P Mishra: 3fa5672e
+      R Sivanadian: 6100086b
+      RJ Hatchman: 01c05b6c
+      S Bodha: 00467a76
+      SN Anand: ab3d6059
+      Saim Hussain: d300d274
+      Z Simpson: 83d567a4
+  teams:
+  - Gibraltar
+  - Bulgaria
+  toss:
+    winner: Gibraltar
+    decision: bat
+  umpires:
+  - R Sivanadian
+  - SN Anand
+  venue: Marsa Sports Club
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: BA Pai
+    - 0.2:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Bruce
+    - 0.3:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.4:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.5:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.6:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 1.1:
+        non_striker: BA Pai
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 1.2:
+        non_striker: L Bruce
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 1.3:
+        non_striker: BA Pai
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 1.4:
+        non_striker: BA Pai
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 1.5:
+        non_striker: BA Pai
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 1.6:
+        non_striker: BA Pai
+        bowler: Ahsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 2.1:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 2.2:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 2.3:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 2.4:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 2.5:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 2.6:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 3.1:
+        non_striker: L Bruce
+        bowler: DV Varghese
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BA Pai
+    - 3.2:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.3:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 3.4:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.5:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.6:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 3.7:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 3.8:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 3.9:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 3.10:
+        non_striker: BA Pai
+        bowler: DV Varghese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 4.1:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 4.2:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.3:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 4.4:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 4.5:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 4.6:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 5.1:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 5.2:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.3:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 5.4:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 5.5:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 5.6:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 6.1:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.2:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 6.3:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 6.4:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 6.5:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 6.6:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 6.7:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 7.1:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 7.2:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 7.3:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 7.4:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 7.5:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: BA Pai
+    - 7.6:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 7.7:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 8.1:
+        non_striker: L Bruce
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 8.2:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Bruce
+    - 8.3:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 8.4:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 8.5:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 8.6:
+        non_striker: BA Pai
+        bowler: Karthik Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 9.1:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 9.2:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.3:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: BA Pai
+    - 9.4:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 9.5:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 9.6:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 9.7:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.1:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 10.2:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BA Pai
+    - 10.3:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 10.4:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 10.5:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 10.6:
+        non_striker: BA Pai
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Bruce
+    - 10.7:
+        non_striker: BA Pai
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 10.8:
+        non_striker: BA Pai
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.1:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.2:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 11.3:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 11.4:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 11.5:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 11.6:
+        non_striker: BA Pai
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 11.7:
+        non_striker: L Bruce
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 12.1:
+        non_striker: BA Pai
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 12.2:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 12.3:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 12.4:
+        non_striker: BA Pai
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 12.5:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 12.6:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 12.7:
+        non_striker: L Bruce
+        bowler: Omar Rassol
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.1:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 13.2:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 13.3:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 13.4:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 13.5:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 13.6:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 14.1:
+        non_striker: BA Pai
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: L Bruce
+    - 14.2:
+        non_striker: BA Pai
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 14.3:
+        non_striker: L Bruce
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 14.4:
+        non_striker: L Bruce
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: BA Pai
+    - 14.5:
+        non_striker: L Bruce
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 14.6:
+        non_striker: BA Pai
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 14.7:
+        non_striker: L Bruce
+        bowler: Asad Ali Rehemtulla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 15.1:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 15.2:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Pai
+    - 15.3:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 15.4:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 15.5:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 15.6:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 15.7:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 16.1:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 16.2:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 16.3:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 16.4:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 16.5:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 16.6:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 17.1:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 17.2:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Bruce
+    - 17.3:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 17.4:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 17.5:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 17.6:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Pai
+    - 18.1:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 18.2:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: BA Pai
+    - 18.3:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 18.4:
+        non_striker: BA Pai
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 18.5:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+    - 18.6:
+        non_striker: L Bruce
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.1:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Pai
+    - 19.2:
+        non_striker: L Bruce
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Pai
+    - 19.3:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 19.4:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+    - 19.5:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Bruce
+    - 19.6:
+        non_striker: BA Pai
+        bowler: J Albin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Bruce
+- 2nd innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.2:
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Mishra
+        batsman: H Lakov
+    - 0.3:
+        non_striker: P Mishra
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+        wicket:
+          player_out: P Mishra
+          fielders:
+          - BA Pai
+          kind: run out
+    - 0.4:
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saim Hussain
+        batsman: H Lakov
+    - 0.5:
+        non_striker: H Lakov
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 0.6:
+        non_striker: Saim Hussain
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 1.1:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 1.2:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 1.3:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 1.4:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 1.5:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 1.6:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 1.7:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 2.1:
+        non_striker: Saim Hussain
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 2.2:
+        non_striker: Saim Hussain
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 2.3:
+        non_striker: H Lakov
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 2.4:
+        non_striker: H Lakov
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 2.5:
+        non_striker: Saim Hussain
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 2.6:
+        non_striker: H Lakov
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 3.1:
+        non_striker: H Lakov
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 3.2:
+        non_striker: H Lakov
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 3.3:
+        non_striker: Saim Hussain
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 3.4:
+        non_striker: Saim Hussain
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 3.5:
+        non_striker: H Lakov
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 3.6:
+        non_striker: H Lakov
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 4.1:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 4.2:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 4.3:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 4.4:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 4.5:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 4.6:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+    - 5.1:
+        non_striker: H Lakov
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 5.2:
+        non_striker: H Lakov
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+    - 5.3:
+        non_striker: H Lakov
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 5.4:
+        non_striker: Saim Hussain
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 5.5:
+        non_striker: H Lakov
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 5.6:
+        non_striker: H Lakov
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 6.1:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 6.2:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 6.3:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 6.4:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 6.5:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 6.6:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 7.1:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Hussain
+    - 7.2:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 7.3:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Hussain
+    - 7.4:
+        non_striker: Saim Hussain
+        bowler: M Whelan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 7.5:
+        non_striker: Saim Hussain
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 7.6:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Hussain
+    - 7.7:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Hussain
+    - 7.8:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 7.9:
+        non_striker: H Lakov
+        bowler: M Whelan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 8.1:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lakov
+    - 8.2:
+        non_striker: Saim Hussain
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 8.3:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Hussain
+    - 8.4:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Hussain
+    - 8.5:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Hussain
+        wicket:
+          player_out: Saim Hussain
+          fielders:
+          - N Advani
+          kind: caught
+    - 8.6:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA De Silva
+    - 8.7:
+        non_striker: H Lakov
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA De Silva
+    - 8.8:
+        non_striker: IA De Silva
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Lakov
+    - 9.1:
+        non_striker: H Lakov
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+    - 9.2:
+        non_striker: H Lakov
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA De Silva
+        wicket:
+          player_out: IA De Silva
+          kind: caught and bowled
+    - 9.3:
+        non_striker: H Lakov
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 9.4:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lakov
+    - 9.5:
+        non_striker: H Lakov
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 9.6:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - M Gouws
+          kind: caught
+    - 10.1:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Asad Ali Rehemtulla
+        batsman: KC D'Souza
+    - 10.2:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asad Ali Rehemtulla
+    - 10.3:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 10.4:
+        non_striker: Asad Ali Rehemtulla
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 10.5:
+        non_striker: Asad Ali Rehemtulla
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 10.6:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 11.1:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 11.2:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 11.3:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 11.4:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 11.5:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 11.6:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 12.1:
+        non_striker: Asad Ali Rehemtulla
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 12.2:
+        non_striker: Asad Ali Rehemtulla
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC D'Souza
+    - 12.3:
+        non_striker: Asad Ali Rehemtulla
+        bowler: M Gouws
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KC D'Souza
+    - 12.4:
+        non_striker: KC D'Souza
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asad Ali Rehemtulla
+    - 12.5:
+        non_striker: KC D'Souza
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 12.6:
+        non_striker: Asad Ali Rehemtulla
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 13.1:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Ali Rehemtulla
+    - 13.2:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 13.3:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 13.4:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 13.5:
+        non_striker: KC D'Souza
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Ali Rehemtulla
+    - 13.6:
+        non_striker: Asad Ali Rehemtulla
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC D'Souza
+    - 14.1:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asad Ali Rehemtulla
+    - 14.2:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Ali Rehemtulla
+        wicket:
+          player_out: Asad Ali Rehemtulla
+          fielders:
+          - J Marples
+          kind: caught
+    - 14.3:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 14.4:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 14.5:
+        non_striker: Omar Rassol
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 14.6:
+        non_striker: KC D'Souza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 15.1:
+        non_striker: KC D'Souza
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 15.2:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 15.3:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+    - 15.4:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 15.5:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC D'Souza
+    - 15.6:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC D'Souza
+    - 16.1:
+        non_striker: Omar Rassol
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KC D'Souza
+    - 16.2:
+        non_striker: Omar Rassol
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC D'Souza
+    - 16.3:
+        non_striker: Omar Rassol
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC D'Souza
+    - 16.4:
+        non_striker: Omar Rassol
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC D'Souza
+        wicket:
+          player_out: KC D'Souza
+          fielders:
+          - RJ Hatchman
+          kind: caught
+    - 16.5:
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Albin
+        batsman: Omar Rassol
+    - 16.6:
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Albin
+        batsman: Omar Rassol
+    - 16.7:
+        non_striker: J Albin
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 17.1:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Albin
+    - 17.2:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 17.3:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 17.4:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 17.5:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 17.6:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 17.7:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 18.1:
+        non_striker: J Albin
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Omar Rassol
+    - 18.2:
+        non_striker: J Albin
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 18.3:
+        non_striker: Omar Rassol
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 18.4:
+        non_striker: J Albin
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Omar Rassol
+    - 18.5:
+        non_striker: J Albin
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 18.6:
+        non_striker: Omar Rassol
+        bowler: M Gouws
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin
+    - 19.1:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Albin
+    - 19.2:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Albin
+    - 19.3:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Omar Rassol
+    - 19.4:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Omar Rassol
+    - 19.5:
+        non_striker: J Albin
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Omar Rassol
+    - 19.6:
+        non_striker: Omar Rassol
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Albin

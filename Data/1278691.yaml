@@ -1,0 +1,272 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bengaluru
+  dates:
+  - '2022-06-19'
+  gender: male
+  match_type: T20
+  match_type_number: 1575
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    India:
+    - Ishan Kishan
+    - RD Gaikwad
+    - SS Iyer
+    - RR Pant
+    - HH Pandya
+    - KD Karthik
+    - AR Patel
+    - HV Patel
+    - B Kumar
+    - Avesh Khan
+    - YS Chahal
+    South Africa:
+    - Q de Kock
+    - RR Hendricks
+    - D Pretorius
+    - HE van der Dussen
+    - H Klaasen
+    - DA Miller
+    - T Stubbs
+    - K Rabada
+    - KA Maharaj
+    - A Nortje
+    - L Ngidi
+  registry:
+    people:
+      A Nortje: acdc62f5
+      AK Chaudhary: fdcc6236
+      AR Patel: 2e171977
+      Avesh Khan: eef2536f
+      B Kumar: 2e81a32d
+      D Pretorius: 11614d87
+      DA Miller: d67d5f00
+      H Klaasen: 235c2bb6
+      HE van der Dussen: 9948e262
+      HH Pandya: dbe50b21
+      HV Patel: f986ca1a
+      Ishan Kishan: 752f7486
+      J Madanagopal: 8275b04a
+      J Srinath: bad31fac
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KD Karthik: c03f1114
+      KN Ananthapadmanabhan: 3144063a
+      L Ngidi: f834dcfc
+      Nitin Menon: e1d41d9e
+      Q de Kock: 372455c4
+      RD Gaikwad: 45a43fe2
+      RR Hendricks: b8cc58c9
+      RR Pant: 919a3be2
+      SS Iyer: 85ec8e33
+      T Stubbs: 85b3fab2
+      YS Chahal: 57ee1fde
+  teams:
+  - India
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - AK Chaudhary
+  - KN Ananthapadmanabhan
+  venue: M Chinnaswamy Stadium, Bangalore
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RD Gaikwad
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: RD Gaikwad
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: RD Gaikwad
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: RD Gaikwad
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: RD Gaikwad
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 0.6:
+        non_striker: Ishan Kishan
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 1.1:
+        non_striker: Ishan Kishan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 1.3:
+        non_striker: RD Gaikwad
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ishan Kishan
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 1.6:
+        non_striker: RD Gaikwad
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 1.7:
+        non_striker: RD Gaikwad
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          kind: bowled
+    - 2.1:
+        non_striker: SS Iyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.2:
+        non_striker: SS Iyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.3:
+        non_striker: SS Iyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.4:
+        non_striker: SS Iyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 2.5:
+        non_striker: SS Iyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 2.6:
+        non_striker: RD Gaikwad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 3.1:
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 3.2:
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+        wicket:
+          player_out: RD Gaikwad
+          fielders:
+          - D Pretorius
+          kind: caught
+    - 3.3:
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
