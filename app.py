@@ -4,7 +4,19 @@ import pickle
 
 model = pickle.load(open('model.pkl', 'rb'))
 
-st.title('T20 score predictor')
+page_bg_img = '''
+    <style>
+    .stApp {
+    background-image: url("https://wallpaperset.com/w/full/5/b/6/239891.jpg#.YxiVlSqGJcE.link");
+    background-size: cover;
+    }
+    </style>
+    '''
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
+st.markdown(
+        f'<h1 style="text-align: center; color:black;">T20 score predictor</h1>',
+        unsafe_allow_html=True)
 
 teams = ['Australia', 'India', 'Bangladesh', 'New Zealand', 'South Africa', 'England', 'West Indies', 'Afghanistan',
          'Pakistan', 'Sri Lanka']
@@ -88,29 +100,37 @@ venue = ['Melbourne Cricket Ground', 'Simonds Stadium, South Geelong',
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    batting_team = st.selectbox('Which Team Is Batting ?', sorted(teams))
+    batting_team = st.selectbox('Batting Team', sorted(teams))
 
 with col2:
-    bowling_team = st.selectbox('Which Team Is Bowling ?', sorted(teams))
+    bowling_team = st.selectbox('Bowling Team', sorted(teams))
 
 with col3:
-    venue = st.selectbox('Which Venue Is The Match In ?', sorted(venue))
+    venue = st.selectbox('Venue', sorted(venue))
 
-toss_winner = st.selectbox('Which team won the toss ?', [batting_team, bowling_team])
-toss_decision = st.selectbox('What Did The Toss Winner Choose?', ['field', 'bat'])
-
-col4, col5, col6 = st.columns(3)
-
+col4, col5 = st.columns(2)
 with col4:
-    over_no = st.number_input('What Is The Ongoing Over ?', min_value=5, max_value=20, step=1,help='Works for overs > 4')
+    toss_winner = st.selectbox('Toss winner', [batting_team, bowling_team])
 
 with col5:
-    current_score = st.number_input('What Is The Current Score ?', min_value=1, max_value=300, step=1)
+    toss_decision = st.selectbox('Toss Decision', ['field', 'bat'])
+
+
+col6, col7, col8,col9 = st.columns(4)
 
 with col6:
-    player_dismissed = st.number_input('How Many Wickets have Fallen ? ', min_value=0, max_value=9, step=1)
+    over_no = st.number_input('Ongoing Over', min_value=5, max_value=20, step=1,help='Works for overs > 4')
 
-scores_lastfive = st.number_input('What Is The Score In Last 5 Overs?', min_value=0, max_value=200, step=1)
+with col7:
+    current_score = st.number_input('Current Score', min_value=1, max_value=300, step=1)
+
+with col8:
+    player_dismissed = st.number_input('Wickets Fallen', min_value=0, max_value=9, step=1)
+
+with col9:
+    scores_lastfive = st.number_input('Score Last 5 Overs', min_value=0, max_value=200, step=1)
+
+
 
 if st.button('Predict Score'):
     balls_left = 120 - (over_no)
@@ -124,4 +144,7 @@ if st.button('Predict Score'):
          'scores_lastfive': [scores_lastfive]})
     result = model.predict(input_df)
 
-    st.header(f'{batting_team}' + " Is Predicted To Score " + str(int(result[0])) + ' Runs')
+
+    st.markdown(
+        f'<h1 style="text-align: center; color:#1793C0;">{batting_team} WIll Score {str(int(result[0]))}  Runs</h1>',
+        unsafe_allow_html=True)
