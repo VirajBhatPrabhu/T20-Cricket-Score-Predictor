@@ -2,20 +2,13 @@ import pandas as pd
 import streamlit as st
 import pickle
 
+st.set_page_config(layout="wide",page_title='T20 Score Predictor')
+
+
 model = pickle.load(open('model.pkl', 'rb'))
 
-page_bg_img = '''
-    <style>
-    .stApp {
-    background-image: url("https://wallpaperset.com/w/full/5/b/6/239891.jpg#.YxiVlSqGJcE.link");
-    background-size: cover;
-    }
-    </style>
-    '''
-st.markdown(page_bg_img, unsafe_allow_html=True)
-
 st.markdown(
-        f'<h1 style="text-align: center; color:black;">T20 score predictor</h1>',
+        f'<h1 style="text-align: center;">T20 Score Predictor</h1>',
         unsafe_allow_html=True)
 
 teams = ['Australia', 'India', 'Bangladesh', 'New Zealand', 'South Africa', 'England', 'West Indies', 'Afghanistan',
@@ -133,7 +126,7 @@ with col9:
 
 
 if st.button('Predict Score'):
-    balls_left = 120 - (over_no)
+    balls_left = 120 - (over_no)*6
     wickets_remaining = 10 - player_dismissed
     crr = current_score / over_no
 
@@ -146,5 +139,5 @@ if st.button('Predict Score'):
 
 
     st.markdown(
-        f'<h1 style="text-align: center; color:#1793C0;">{batting_team} WIll Score {str(int(result[0]))}  Runs</h1>',
+        f'<h3 style="text-align: center;">{batting_team} WIll Score {str(int(result[0]))}  Runs</h3>',
         unsafe_allow_html=True)
